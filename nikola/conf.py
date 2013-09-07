@@ -59,7 +59,7 @@ SIDEBAR_LINKS = {
         ('/pages/repositorio', 'Repositorio'),
         ('/archive.html', 'Historial'),
         ('/categories/index.html', 'Tags'),
-        ('/rss.html', 'RSS'),
+        ('/rss.xml', 'RSS'),
     ),
 }
 

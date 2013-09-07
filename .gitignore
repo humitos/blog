@@ -4,3 +4,4 @@ nikola/output
 local_conf.py
 *~
 *.swp
+.doit.db
