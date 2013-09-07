@@ -9,7 +9,7 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Manuel kaufmann"
+BLOG_AUTHOR = "Manuel Kaufmann"
 BLOG_TITLE = "Humitos"
 # This is the main URL for your site. It will be used
 # in a prominent link
@@ -91,7 +91,7 @@ SIDEBAR_LINKS = {
 
 post_pages = (
     ("posts/*.rst", "posts", "post.tmpl", True),
-    ("stories/*.rst", "stories", "story.tmpl", False),
+    ("pages/*.rst", "pages", "story.tmpl", False),
 )
 
 # One or more folders containing files to be copied as-is into the output.
