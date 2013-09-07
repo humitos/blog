@@ -55,7 +55,8 @@ TRANSLATIONS = {
 # You should provide a key-value pair for each used language.
 SIDEBAR_LINKS = {
     DEFAULT_LANG: (
-        ('http://humitos.wordpress.com', 'Wordpress Blog'),
+        ('http://humitos.wordpress.com', 'Viejo Blog en Wordpress'),
+        ('/pages/repositorio', 'Repositorio'),
         ('/archive.html', 'Historial'),
         ('/categories/index.html', 'Tags'),
         ('/rss.html', 'RSS'),
@@ -179,6 +180,7 @@ SLUG_TAG_PATH = True
 # And then do a backup, or ping pingomatic.
 # To do manual deployment, set it to []
 # DEPLOY_COMMANDS = []
+from local_conf import DEPLOY_COMMANDS
 
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative

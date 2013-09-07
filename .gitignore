@@ -1,3 +1,6 @@
 nikola/cache
 nikola/output
 *.pyc
+local_conf.py
+*~
+*.swp
