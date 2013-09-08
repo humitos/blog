@@ -58,6 +58,7 @@ SIDEBAR_LINKS = {
         ('http://humitos.wordpress.com', 'Viejo Blog en Wordpress'),
         ('/pages/info', 'Info'),
         ('/pages/repositorio', 'Repositorio'),
+        ('/pages/frases', 'Frases'),
         ('/archive.html', 'Historial'),
         ('/categories/index.html', 'Tags'),
         ('/rss.xml', 'RSS'),
@@ -266,10 +267,10 @@ DATE_FORMAT = '%d-%m-%Y %H:%M'
 # <link rel="name" href="file" sizes="size"/>
 # For creating favicons, take a look at:
 # http://www.netmagazine.com/features/create-perfect-favicon
-# FAVICONS = {
-#     ("icon", "/favicon.ico", "16x16"),
-#     ("icon", "/icon_128x128.png", "128x128"),
-# }
+FAVICONS = {
+    ("icon", "/favicon.ico", "16x16"),
+    ("icon", "/favicon_128x128.png", "128x128"),
+}
 
 # Show only teasers in the index pages? Defaults to False.
 # INDEX_TEASERS = False

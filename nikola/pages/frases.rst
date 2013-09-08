@@ -1,0 +1,272 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2013/09/08 18:48:17
+.. title: Frases
+.. slug: frases
+
+... dignas de ser leídas.
+
+.. epigraph::
+
+   Me declaro en 'estado de sitio'.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
+   La vida es una enfermedad terminal.
+
+   -- Fredy Kofman
+
+.. epigraph::
+
+   El dolor es necesario, el sufrimiento es opcional.
+
+   -- Buda
+
+.. epigraph::
+
+   El pensamiento requiere de la libertad para ejercerse.
+
+   -- José Pablo Feinman
+
+.. epigraph::
+
+   Cada hombre es lo que hace con lo que hicieron de él.
+
+   -- Jean Paul Sastre
+
+.. epigraph::
+
+   Somos lo que elegimos ser.
+
+   -- Jean Paul Sastre
+
+.. epigraph::
+
+   Te gustan cosas que no podés confesar.
+
+   -- José Pablo Feinman
+
+.. epigraph::
+
+   Solo deseo que me dejen disfrutar de mi óseo.
+
+   -- Descartes
+
+.. epigraph::
+
+   Nature does not hurry, yet everything is accomplished.
+
+   -- Lao Tzu
+
+.. epigraph::
+
+   Uno es libre cuando puede manejar su entorno.
+
+   -- José Pablo Feinman
+
+.. epigraph::
+
+   Estás solo, dejaste de pertenecer a la manada. Sos responsable de
+   tus acciones.
+
+   -- José Pablo Feinman
+
+.. epigraph::
+
+   Es más fuerte el temor a morir que tu propio deseo.
+
+   -- José Pablo Feinman
+
+.. epigraph::
+
+   Lo que se repite se piensa dos veces.
+
+   -- José Pablo Feinman
+
+.. epigraph::
+
+   Se vota la seguridad por encima de la cultura.
+
+   -- José Pablo Feinman
+
+.. epigraph::
+
+   No importa si la pileta tiene o no agua, lo importante es aprender
+   a volar en el camino.
+
+   -- Joselo
+
+.. epigraph::
+
+   Todos nosotros somos hombres maniatados porque queremos la
+   seguridad de la mediocridad cotidiana y no el riesgo de la locura
+   ante el goze descontrolado.
+
+   -- José Pablo Feinman
+
+.. epigraph::
+
+   El inicio es aún.
+
+   -- José Pablo Feinman
+
+.. epigraph::
+
+   Esto en lo que vivimos ya no es la tierra.
+
+   -- José Pablo Feinman
+
+.. epigraph::
+
+   La conciencia está en riesgo en el mundo.
+
+   -- Jean Paul Sastre
+
+.. epigraph::
+
+   La existencia precede a la escencia.
+
+   -- Jean Paul Sastre
+
+.. epigraph::
+
+   Ya saben cuál es la premisa: dar todo de nosotros y menos cáscara.
+
+   -- Luis A. Spinetta
+
+.. epigraph::
+
+   No todos los mexicanos son narcotraficantes.
+
+   -- Casa de mi padre
+
+.. epigraph::
+
+   Es una elite quien baila y/o escucha tango en Argentina.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
+   Facebook es la televisión. Pero en internet.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
+   Believe in what you believe... it will all come around.
+
+   -- Matt and me
+
+.. epigraph::
+
+   No confiamos en algo que nos dé un extraño, pero sí en algo que
+   agarramos en el supermercado, que no tenemos ni puta idea quién lo
+   hizo ni como, pero viene en una caja y forrado en plástico. “Ah,
+   claro! Esto sí que es seguro. Está cerrado al vacío”.
+
+   -- Basado en un texto de Javier Malonda
+
+.. epigraph::
+
+   Te ordeno que seas libre.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
+   Estudiar es para pasar el exámen, aprender es para toda la vida.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
+   Auto-dominación involuntaria.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
+   Es suficiente que cambie una persona para que cambie el mundo.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
+   No queremos más seguridad, queremos menos delincuentes.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
+   No podemos imaginar algo completamente diferente a lo que sentimos.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
+   NO creo en la Escuela Tradicional, pero SI en la Educación.
+
+   -- Educación Viva
+
+.. epigraph::
+
+   La felicidad hace trabajar mejor a tu cerebro.
+
+   -- Jessica Stillman
+
+.. epigraph::
+
+   Most of what we say and do is not essential. If you can eliminate
+   it, you’ll have more time, and more tranquillity. Ask yourself at
+   every moment, ‘Is this necessary?
+
+   -- Marcus Aurelius
+
+.. epigraph::
+
+   Fear makes the wolf bigger than he is.
+
+   -- German proverb
+
+.. epigraph::
+
+   Man must shape his tools lest they shape him.
+
+   -- Arthur Miller
+
+.. epigraph::
+
+   If your mind isn’t clouded by unnecessary things, then this is the
+   best season of your life.
+
+   -- Wu-Men
+
+.. epigraph::
+
+   A good traveler has no fixed plans, and is not intent on arriving.
+
+   -- Lao Tzu
+
+.. epigraph::
+
+   If you chase two rabbits, both will escape.
+
+   -- Unknown
+
+.. epigraph::
+
+   Perfection is achieved, not when there is nothing more to add, but
+   when there is nothing left to take away.
+
+   -- Antoine de Saint-Exupe
+
+.. note::
+
+   Es probable que algunos autores de algunas frases no sean
+   correctos, ya que los he sacado de diferentes lugares (como ser
+   videos, libros e internet) y quizás en algunos lugares no citaron
+   la fuente original de cada una de ellas.
