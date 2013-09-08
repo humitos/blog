@@ -27,10 +27,10 @@ sufrido eso. Ahora puedo escribir en texto plano, sin muchos recursos
 de PC y utilizando mi editor favorito.
 
 La migración de mi blog oficial al nuevo hecho en Nikola va a ser una
-transición que va llevar su tiempo. Por ejmplo, por el momento Nikola
+transición que va llevar su tiempo. Por ejemplo, por el momento Nikola
 no tiene implementada la posibilidad de insertar galerías dentro de
 los posts todavía, y eso es algo que he utilizado mucho en mis post
-sobre mi viajes, por ejemplo.
+sobre mi viajes.
 
 Sin embargo, mi blog de Wordpress.com va a seguir online para que se
 puedan consultar posts viejos y que los links no queden muertos. La
