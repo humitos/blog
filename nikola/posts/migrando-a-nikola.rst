@@ -1,6 +1,6 @@
 .. link: 
 .. description: 
-.. tags: 
+.. tags: blog, nikola
 .. date: 2013/09/08 16:00:32
 .. title: Migrando a Nikola
 .. slug: migrando-a-nikola
