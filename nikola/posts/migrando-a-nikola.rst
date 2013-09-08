@@ -1,7 +1,7 @@
 .. link: 
 .. description: 
 .. tags: 
-.. date: 2013/09/07 13:18:32
+.. date: 2013/09/08 16:00:32
 .. title: Migrando a Nikola
 .. slug: migrando-a-nikola
 
@@ -35,8 +35,9 @@ sobre mi viajes, por ejemplo.
 Sin embargo, mi blog de Wordpress.com va a seguir online para que se
 puedan consultar posts viejos y que los links no queden muertos. La
 idea, es empezar a mover la gente que habitualmente me sigue a esta
-nueva dirección para que nadie se quede afuera. Además, hay un link al
-blog de Wordpress en la barra de navegación de arriba.
+nueva dirección para que nadie se quede afuera. Además, hay un link
+(Viejo Blog en Wordpress) al blog de Wordpress en la barra de
+navegación de arriba.
 
 Vamos a ver cómo me va...
 
