@@ -284,16 +284,20 @@ src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # Default is ''
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="http://nikola.ralsina.com.ar">Nikola</a>'
+CONTENT_FOOTER = '&copy; <a href="mailto:{email}">{author}</a> 2007-{date} - Powered by <a href="http://nikola.ralsina.com.ar">Nikola</a>' + \
+    '<br/>El contenido de éste blog está bajo la licencia Creative Commons,' + \
+    '<br/>la misma está disponible completa <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/ar/legalcode">aquí.</a>' + \
+    '<br/>{license}'
 CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
                                        author=BLOG_AUTHOR,
+                                       license=LICENSE,
                                        date=time.gmtime().tm_year)
 
 # To enable comments via Disqus, you need to create a forum at
 # http://disqus.com, and set DISQUS_FORUM to the short name you selected.
 # If you want to disable comments, set it to False.
 # Default is "nikolademo", used by the demo sites
-DISQUS_FORUM = False
+DISQUS_FORUM = "humitos"
 
 # Create index.html for story folders?
 # STORY_INDEX = False
