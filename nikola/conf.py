@@ -61,7 +61,8 @@ NAVIGATION_LINKS = {
         ('/pages/frases', 'Frases'),
         ('/archive.html', 'Historial'),
         ('/categories/index.html', 'Tags'),
-        ('/rss.xml', 'RSS'),
+        # ('/rss.xml', 'RSS'),
+        ('http://feeds.feedburner.com/humitos', 'RSS'),
     ),
 }
 
@@ -531,7 +532,7 @@ BODY_END = """<script>
 # (ex. 2012-03-30T23:00:00+02:00),
 # set timzone if you want a localized posted date.
 #
-# TIMEZONE = 'Europe/Zurich'
+# TIMEZONE = 'America/Argentina/Buenos_Aires'
 
 # If webassets is installed, bundle JS and CSS to make site loading faster
 # USE_BUNDLES = True
