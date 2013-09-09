@@ -78,7 +78,27 @@ estilo), pero el trabajo que pude automatizar es demasiado.
 
    .. listing:: replace_bars.py python
 
-#. Migrar los comentarios
+#. Para migrar los comentarios tuve que:
+
+   - Subir mi archivo `.xml` que bajé de Wordpres.com a disqus.com en
+     la sección "Discussions" y luego en "Import", seleccionando
+     Wordpress y luego eligiendo el .xml (demora un rato)
+
+   - Edité el .csv generado por el comando "nikola import_wordpress"
+     para que apunte a mi nueva dirección.
+
+   - Luego en "Tools" utilizé la herramienta "Upload a URL map" y subí
+     ese archivo.
+
+   .. warning::
+
+      Sin embargo, esto no fue suficiente. Wordpress estaba usando el
+      ID de cada uno de los blog post como valor para la variable
+      "disqus_identifier" y Nikola está usando el path de la carpeta
+      "cache/" dónde se encuentra el post
+
+      ¿Se puede decirle a Nikola que use otro ID para los posts?
+      ¿Quizás con uno de los metadatos del principio del archivo .rst?
 
 Por el momento, estoy contento con los resultas. Vamos a ver cómo sigue todo.
 
