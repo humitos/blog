@@ -1,0 +1,108 @@
+<html><body><img src="http://img80.imageshack.us/img80/7391/grepresizema9.jpg" align="left" height="194" width="250">Después de tantas luchas para saber si lo que <a href="http://humitos.wordpress.com/2007/11/09/python-mas-rapido-que-java/">estoy haciendo en Java</a>  funcionaba como debería funcionar, me puse a estudiar el comando <em><a href="http://es.wikipedia.org/wiki/Grep">grep</a>.</em>
+
+<p><strong>"grep"</strong> es un comando que te permite buscar un patrón de coincidencias en archivos de texto, mostrándote la línea entera en dónde se encontró esta coincidencia. Es bastante configurable y también permite <a href="http://es.wikipedia.org/wiki/Expresiones_regulares">expresiones regulares</a> para indicar este patrón.</p>
+
+<p>Este comando puede recibir el nombre del archivo sobre el cuál se debe buscar el patrón o puede tomar la información desde la entrada estándar, por ejemplo:
+
+</p><pre>[manuel] [~]$ grep manzana diccionariocs.txt
+
+amanzanamiento
+
+amanzanar
+
+manzana
+
+manzanal
+
+manzanar
+
+[manuel] [~]$ cat diccionariocs.txt | grep manzana
+
+amanzanamiento
+
+amanzanar
+
+manzana
+
+manzanal
+
+manzanar
+
+[manuel] [~]$</pre>
+
+<em>El archivo diccionariocs.txt contiene muchas palabras (una por línea) y es el que nos dieron en la cátedra de la materia para realizar el trabajo de Java.</em>
+
+<p>La idea era poder saber si el resultado que me arrojaba mi árbol de búsqueda era lo que realmente me tenía que estar devolviendo o no, en otras palabras, si funcionaba o se mandaba cualquiera. Asique me hice un <a href="http://img137.imageshack.us/img137/7421/interpretejavaxs4.png">intérprete interactivo</a> en Java para poder realizar varias búsquedas sobre el árbol una vez que esté cargado en memoria (suena wow!, pero es una boludez lo que hice :P ).</p>
+
+<p>El intérprete te informa cuales son las palabras que encontró y cuál fue la cantidad de palabras que concordaron con la búsqueda. Pero con el comando anterior me está mostrando todas las líneas en las que aparece la cadena <strong>manzana</strong>, y sólo necesito las líneas (palabras) que empiecen con <strong>manzana</strong>, como muestra mi intérprete:
+
+</p><pre>[manuel] [~/proyectos/procesadorpalabras]$ java Main
+
+Cargando diccionario...
+
+Diccionario cargado correctamente.
+
+Ingresando al modo interactivo...
+
+&gt;&gt;&gt; manzana
+
+manzana
+
+manzanal
+
+manzanar
+
+Total de coincidencias: 3
+
+&gt;&gt;&gt;</pre>
+
+Asique pregunte, y me dijeron que <strong>grep</strong> soporta expresiones regulares (hasta ese momento yo no lo sabía) y me bastó con poner el siguiente comando:
+
+<pre>[manuel] [~]$ grep ^manzana diccionariocs.txt
+
+manzana
+
+manzanal
+
+manzanar
+
+[manuel] [~]$</pre>
+
+Notar el "^" que se antepone a la cadena <strong>manzana</strong>, de este modo logré mostrar sólo las palabras que me interesaban. Pero también tuve un problema,  si hago la consulta  "empieza con a", me tira tres millones de resultado (¿tanto?), más o menos, y quién va a contar línea por línea cuántos son en total: NADIE... Busqué y encontré que tiene una opción para que te devuelva la cantidad de líneas que coinciden con el patrón:
+
+<pre>[manuel] [~]$ grep ^a diccionariocs.txt -c
+
+9996
+
+[manuel] [~]$</pre>
+
+Lo que demoró milésimas de segundo. Hice la misma búsqueda con mi programa y todavía estoy esperando la respuesta, está bien, el mío además está imprimiendo los resultados en pantalla, y eso demora... :(
+
+<pre>&gt;&gt;&gt; a
+
+[...]
+
+Total de coincidencias: 9954
+
+&gt;&gt;&gt;</pre>
+
+Ups, parece que no está andando a la perfección mi programa, se comió 9996 - 9954 = <strong><a href="http://es.wikipedia.org/wiki/El_sentido_de_la_vida,_el_universo_y_todo_lo_dem%C3%A1s">42</a> </strong>palabras. Tendré que revisar el código o ver que está pasando (recién me entero de esto).
+
+<p><strong>Update 11/11:</strong> estuve revisando el código y ví que no ingresaba las palabras que sean subpalabras de otras, esto es, si primero lee desde el archivo<em> palabra</em> y después lee <em>pala</em>, esta última no la ingresaba. Pero si las leía en orden inverso no había ningún problema, por eso parecía que funcionaba bien, porque la mayoría de las palabras están ordenas alfabéticamente entonces esto era <strong>casi</strong> transparente. Igual sigo con un problema ya que al buscar <em>a</em> encuentra 9965, le están faltando 9996 - 9965 = 31 palabras todavía :( .</p>
+
+<p><strong>Update 12/11:</strong> como no podía ser de otra forma, como me pasa en <em>todos </em>los lenguajes que programo, tengo problemas de codificación. Esto es, si hay palabras como <em>buchón y </em><em>buchín</em>, devuelve una de estas dos, ya que <strong>ú</strong> e <strong>í</strong> las toma como el mismo caracter. Ya veremos...<span class="author"></span></p>
+
+<p>Otras opciones que me parecen útiles y que he utilizado anteriormente copiando el comando de páginas o blogs sin saber qué significaban son:
+
+</p><ul>
+	<li><strong>-i</strong> No hace caso de si las letras son mayúsculas o minúsculas, ni en el patrón ni en los ficheros de entrada.</li>
+	<li><strong>-n</strong> Además de la línea con la concordancia, antepone el número de la misma.</li>
+	<li><strong>-v </strong>Invierte el sentido de la concordancia, para mostrar las líneas en donde no las hay.</li>
+	<li><strong>-w </strong>Sólo muestra aquellas líneas en dónde la palabra se encuentre completa, esto es, donde la palabra se encuentre precedida y sucedida de un caracter de espacio.</li>
+</ul>
+
+Referencias: <a href="http://man.cx/grep(1)/es">manpage grep</a>
+
+<p>La publicación de este documento se demoró debido a que me encapriché con que quería ponerle un dibujo, buscando en <a href="http://www.google.com.ar">Google</a> caí a <a href="http://www-psych.stanford.edu/~gruffydd/290/grepsedawk.html">ésta página</a> en la que ví el <a href="http://www-psych.stanford.edu/~gruffydd/290/grep.jpg">bicho</a> y me gustó :P . Cómo tenía ganas de <em>no hacer nada</em>, me puse a copiarlo desde el monitor en un papel (soy pésimo dibujando ¿se nota?, en mi vida he hecho dibujos, pero este me pintó y lo hice).</p>
+
+<p>Después quise pintarlo y demás con el <a href="http://www.gimp.org/">Gimp</a> y el <a href="http://www.inkscape.org/">Inkscape</a>, pero no hubo caso, asique lo dejé así nomás, como lo había dibujado en un papelito... Y bueno, los ingenieros no estamos para estas cosas... ;)</p></body></html>

@@ -1,0 +1,234 @@
+.. link:
+.. description:
+.. tags: viajes
+.. date: 2011/07/30 19:24:26
+.. title: Bariloche, Día 3 y 4
+.. slug: bariloche-dia-3-y-4
+
+**DIA 3**
+
+Como ayer no escribí el post del día, ya se me empezaron a mezclar las
+cosas y la cabeza ya no funciona de la misma forma que el primer día que
+llegué. Así que probablemente en el siguiente relato le pifie con
+algunas cosas.
+
+Después de terminar de escribir el post anterior e ir a comer, nos
+fuimos a Rocket. Una discoteca que en pocas palabras me gustó mucho.
+Además que nos atendieron como unos reyes dándo champagne Norton toda la
+noche (nos tomamos varias botellas) nos sirvieron una mesa dulce donde
+había chocolates, tortas, pan dulce, bocaditos de fruta, masas y de más.
+
+|image0|
+
+|image1|\ Así que le dimos bastante al chupi y a la comida. Además, el
+VIP tenía una vista increíble hacia la pista y hacia una especie de
+tribuna de cancha que tiene el boliche. Me gustó eso porque tenías un
+panorama completo del boliche. Además, la música en general del boliche
+estaba buena y la del VIP también. Otra cosa que estuvo bueno es que
+iban intercalando la música del VIP con la del boliche, entonces por ahí
+en el VIP escuchabas una música propia del VIP y en otro momento
+escuchabas la música posta del boliche.
+
+Estuvimos bastante esta noche en el VIP porque la estábamos pasando bien
+y había buena onda, bailamos bastante y nos cagamos de la risa. Después
+nos fuimos a bailar un rato con los chicos, dónde me saqué un poco y
+agité bastante. Se estaba notando el champagne que tenía encima.
+
+|image2|\ Cuando ya empecé a sentirme cansado, agotado y medio en pedo,
+decidí volver para el hotel. Encima, al otro día nos teníamos que
+levantar bien temprano porque nos íbamos al Cerro Catedral a la mañana
+para poder esquiar. Entonces, no era buen negocio llegar hecho mierda y
+estar mal durante todo el día de Sky.
+
+Al despertarme, me dí cuenta que estaba reventado pero que si le ponía
+un poco de onda al levantarme todo iba a estar bien. Hice un esfuerzo y
+al rato estaba arriba. Bajé a desayunar, comí mucho y pasado un rato
+partimos para el cerro. Esta vez no tuvimos que esperar nada en comenzar
+la excuersión, por suerte llegamos y empezamos a caminar hacia nuestro
+destino para buscar los cascos y subir por la aerosilla para comenzar
+con la clase de sky.
+
+|image3|\ Llegamos arriba, esperamos un rato en la puerta de una cabaña.
+Dejamos la mochila en el guarda ropa (por $10 - **toooodo** te cobran y
+te cagan encima, los chicos están re podridos de que le ofrezcan todo el
+tiempo comprar cosas y que les digan: "chicos lleven abrigo" y después
+los empernen con el guarda ropas) y nos fuimos a buscar los sky y las
+botas para los mismos. Esperamos un rato más y nos fuimos a la clase de
+sky. Sinceramente, no parecía muy difícil y se me hizo bastante parecido
+a andar en skate aunque es un poco complicado frenar rápido. Digamos,
+aprendí a frenar de a poquito, ir disminuyendo la velocidad, pero no de
+golpe. Si veo que me voy a chocar contra algo me tendría que tirar al
+piso, ya que frenar de golpe no pude. Por suerte implementé eso y no me
+pasó nada.
+
+SI bien esquiar estaba re bueno, la *pista* que no era una pista, era
+una cagada y muy chiquita. Éramos la rededor de 100 pibes en una sola
+pista que tenía de largo unos 50 metros. Sinceramente, me hinché las
+bolas, me pegó el viejaso y sólo me tiré dos veces. Está bien, los pibes
+también se mandaban cualquiera, se caían y otro lo pasaba por encima, se
+colaban, se empujaban, te chocaban mientras ibas subiendo: una verga fue
+eso.
+
+Terminamos de esquiar y empezaros las fotos panorámicas (que a algunos
+ya se las habían ofrecido en el colectivo de ida y la habían comprado).
+Terminamos eso y emprendimos la vuelta hacia abajo para poder almorzar y
+luego volver al hotel.
+
+|image4|\ Ni bien llegamos, devolvimos los cascos y nos fuimos a comer a
+SkiRanch: una reverenda cagada. Fue pésima la atención, demoraron al
+rededor de 30 hora en servirnos la comida y además a algunos les dieron
+una milanesa cruda y otras que eran in-cortables de la cantidad de
+nervios que tenían. No había hielo y tampoco nos trajeron aderezos ni
+sal. Bah, el aderezo demoró en llegar lo mismo que yo demoré en comer la
+milanesa :P
+
+Nuevamente emprendimos la vuelta y llegamos volando al hotel. Ya nos
+habían dicho que ese día íbamos a ir a **Puerto Rock** dónde iba a tocar
+una banda sorpresa y además iba a haber un show de un tipo con un saxo.
+Yo me prendí en esa, los otros dos no: Román y Salvador. Cuando
+llegamos, los empernaron otra vez con el tema del guarda ropa y con la
+bebida. Extremadamente caro todo.
+
+El animados hizo lo suyo con el saxo y metió algunos temas rockeros como
+para hacer pogo, dónde me prendí y mucho. Salté con todos los pibes, los
+empuje hasta que me digan basta, le pegué un codazo a una acompañante de
+otro grupo y todo. Alto descontrol se armó. Estuvo bueno. Cuando este
+tipo terminó de hacer su gracia aparecieron *Los Calzones*\ y todos
+estábamos exaltados. Eeeaapepe... Lástima que tocaron dos temas y se
+terminó. Unos cara duras. Todos nos fuimos re calientes.
+
+Y bueno... Llegamos al hotel y... Pi pi piiiiii....
+
+**DIA 4**
+
+Anoche después de comer me quedé completamente dormido. Estaba (y lo
+sigo) reventado. El día de Sky y andar todo el tiempo de acá para allá
+se está empezando a notar y mi cuerpo me lo dice a gritos ahora.
+
+La idea que estoy siguiendo es hacer todo. Poder ir a todos los boliches
+y acompañarlos lo más que pueda pero sin exigirme mucho. Por ejemplo, en
+los boliches cuando me empiezo a sentir cansado aguanto un rato más y me
+voy. No me quedo hasta el final, sobre todo porque tampoco es tan
+divertido para mí siendo que no estoy con mis amigos y además no soy muy
+bolichero.
+
+Entonces, con esa idea en la cabeza, anoche me desperté todavía cansado,
+me pegué un baño y nos fuimos a Grisú. Ah, además también me gustaría
+conocer todos los boliches ya que no los conozco (yo no vine de viaje de
+egresados :) ). Como todos los días, nos subimos al colectivo que nos
+lleva y entramos por la puerta grande diciendo: *"Somos acompañantes"*.
+Una vez adentro dí un par de vueltas para conocer el boliche y me
+pareció demasiado raro. Digamos, está re bueno porque es como un
+laberinto y tiene 6 pisos o entre-pisos. Es muy grande, fácil de
+perderse y tiene el techo demasiado bajo para mí. En la mayoría de los
+lugares dónde levantaba las manos, haciendo algunos de mis pasos
+característicos, me chocaba el techo y además me sentía demasiado
+encerrado ahí. Eso no me gustó nada.
+
+Otra cosa que me parece que no está tan bueno es que tienen la misma
+música en todas las pistas del boliche, osea, todos los pisos la misma
+música. Además, el VIP está en el último piso hacia abajo y totalmente
+aislado de los chicos, por lo que no se puede ver nada de lo que están
+haciendo. Este es el único lugar del boliche que tiene otra música
+diferente al resto de todas las otras pistas.
+
+|image5|\ Nosotros estuvimos bailando un rato en el VIP con los chicos y
+tomandos unos daikiris deliciosos, con frutas de verdad y muy bien
+preparados. Entre trago y trago nos bailamos algunos temas viejos y yo
+me fui a dar una vuelta para bailar con los chicos. A la vuelta al VIP
+me encuentro con que todos estaban re enfiestados bailando a full los
+viejos. Me hicieron reír. Igualmente, me estoy divirtiendo mucho con
+Salvador y Román en los boliches. Ambos parecen unos pibes de no más de
+30. Toda la onda los vagos.
+
+Entre tema y tema, ya cuando la gente estaba descontrolada y se empezaba
+a notar que estaban cansados y transmirados... Cayó la pizza! Deliciosa.
+Me comí como 5 o 6 porciones y me tomé 2 fernets para acompañarla. Luego
+de eso con la panza llena, nos fuimos a bailar un rato con los chicos y
+a "caretearla" a la pista :P
+
+|image6|\ Estuvimos bailando un rato ahí, cada uno su propio tema e
+incluso descoordinando consigo mismo, nos reimos un rato, nos sacamos un
+par de fotos y me pintó irme. Saludé y a las 4 am ya estaba de vuelta en
+la habitación sentado en el inodoro. Cuando salí del baño, me senté en
+la cama y *repentinamente* siento una voz que me dice: *"¿vamos a hacer
+la 5ta comida?"* Wow! me había quedado reeee dormido. Así que, me
+levanté y nos fuimos con Salvador a la quinta comida. Volvimos y me
+quedé mosca enseguida.
+
+Hoy me levanté bastante tarde, tratando de recuperarme aunque creo que
+fue en vano. Sigo cansado, siento que el los días en el cerro Catedral
+se hacen notar y la cara un poco quemada. En este momento puntualmente
+siento como si hubiera hecho ejercicio físico porque siento los músculos
+cansados. Además, no sé porqué, me levanté con un dolor en el tobillo
+bastante molesto, que no me dejaba caminar correctamente. Pero no lo
+tenía hinchado ni nada. Por las dudas, y como está 12hs laburando acá,
+fui al médico y me dijo eso mismo. Que no está hinchado ni caliente. No
+lo notaba mal. Igualmente me dio para que me tome un "diclofenax" o algo
+así. Parece que me hizo bien, porque se me pasó al rato.
+
+11:15hs comimos. Sí, 11:15hs. Mucha comida, muy rápido y en lapsos de
+tiempos muy cortos. Si no engordo me voy a tener que hacer ver. Algo
+debe estar funcionando mal en mi cuerpo. Después de comer nos fuimos a
+hacer la excursión llamada **Circuito Chico** donde nos subimos todos a
+un colectivo y pasamos por la puerta del hotel Llao Llao dónde sacamos
+algunas fotos y estuvimos a orillas del río o lago, no me acuerdo que
+era eso. La siguiente parada fue en un arroyo que hay al costado del
+camino (diría Fito), dónde algunos tomaron el agua de deshielo que pasa
+por ahí y sacamos unas cuantas fotos. También nos dieron un vaso de
+chocolatada y un churro. Hubo muchos chicos que se aburrieron bastante
+acá porque estamos mucho tiempo *sin hacer nada*. Osea, las excursiones
+están re buenas, pero no hay guía turístico, no se les explica nada a
+los chicos y la verdad que son bastante aburridas. Cada uno hace la suya
+cuando llegamos a los diferentes lugares en vez de comportarnos como
+grupo y tener una charla sobre el lugar que estamos visitando. En el
+Llao Llao no nos explicaron nada, y parece ser un hotel que tiene mucha
+historia por lo que estuve hablando con Salvador. Ni siquiera entramos
+al hotel: **la foto** fue desde la ruta... ¡Una cagada!
+
+|image7|
+
+|image8|
+
+|image9|\ El siguiente lugar en el que paramos era el *punto
+panorámico*. Dónde se podía apreciar una naturaleza hermosa. Saqué
+muchas fotos y me comí un choripán con salsa picante :D . Nos volvimos a
+subir al micro y partimos para la fábrica de chocolates El Reino del
+Chocolate, dónde tuvimos que esperar bastante hasta poder entrar porque
+había otros grupos antes que nosotros. Nos hicieron esperar en la
+esquina sin hacer nada durante unos 30 minutos aproximadamente. Otra vez
+lo mismo, esperar y aburrirse. En ese tiempo yo entré al lugar porque
+quería ir al baño y vi que a los chicos les estaban dando una charla
+para venderle chocolates y que ni siquiera estaban fabricando chocolate
+en ese momento. Me pareció que era una cagada eso también. Salí, se lo
+comenté a Salvador y decidimos volver al hotel porque no daba para
+quedarse ahí. Así que nos volvimos caminando unas 4 cuadras y... Acá
+estoy escribiendo esto.
+
+|image10|\ Esta noche nos toca **By Pass**, vamos a ver que tal está. Me
+comentaron que nos reciben con una mesa salada repleta de fiambres :)
+
+ 
+
+.. |image0| image:: http://humitos.files.wordpress.com/2011/07/p7292474.jpg
+   :target: http://humitos.files.wordpress.com/2011/07/p7292474.jpg
+.. |image1| image:: http://humitos.files.wordpress.com/2011/07/p7292480.jpg
+   :target: http://humitos.files.wordpress.com/2011/07/p7292480.jpg
+.. |image2| image:: http://humitos.files.wordpress.com/2011/07/p7292490.jpg
+   :target: http://humitos.files.wordpress.com/2011/07/p7292490.jpg
+.. |image3| image:: http://humitos.files.wordpress.com/2011/07/p7292497.jpg
+   :target: http://humitos.files.wordpress.com/2011/07/p7292497.jpg
+.. |image4| image:: http://humitos.files.wordpress.com/2011/07/p7292524.jpg
+   :target: http://humitos.files.wordpress.com/2011/07/p7292524.jpg
+.. |image5| image:: http://humitos.files.wordpress.com/2011/07/p7302533.jpg
+   :target: http://humitos.files.wordpress.com/2011/07/p7302533.jpg
+.. |image6| image:: http://humitos.files.wordpress.com/2011/07/p7302535.jpg
+   :target: http://humitos.files.wordpress.com/2011/07/p7302535.jpg
+.. |image7| image:: http://humitos.files.wordpress.com/2011/07/p7302553.jpg
+   :target: http://humitos.files.wordpress.com/2011/07/p7302553.jpg
+.. |image8| image:: http://humitos.files.wordpress.com/2011/07/p7302548.jpg
+   :target: http://humitos.files.wordpress.com/2011/07/p7302548.jpg
+.. |image9| image:: http://humitos.files.wordpress.com/2011/07/p7302579.jpg
+   :target: http://humitos.files.wordpress.com/2011/07/p7302579.jpg
+.. |image10| image:: http://humitos.files.wordpress.com/2011/07/p7302595.jpg
+   :target: http://humitos.files.wordpress.com/2011/07/p7302595.jpg

@@ -13,7 +13,7 @@ BLOG_AUTHOR = "Manuel Kaufmann"
 BLOG_TITLE = "Humitos"
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://blog.mkaufmann.com.ar"
+SITE_URL = "http://blog.mkaufmann.com.ar/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://nikola.ralsina.com.ar"
@@ -53,7 +53,7 @@ TRANSLATIONS = {
 
 # Links for the sidebar / navigation bar.
 # You should provide a key-value pair for each used language.
-SIDEBAR_LINKS = {
+NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('http://humitos.wordpress.com', 'Viejo Blog en Wordpress'),
         ('/pages/info', 'Info'),
@@ -71,10 +71,11 @@ SIDEBAR_LINKS = {
 ##############################################
 
 
-# post_pages contains (wildcard, destination, template, use_in_feed) tuples.
+# POSTS and PAGES contains (wildcard, destination, template) tuples.
 #
 # The wildcard is used to generate a list of reSt source files
 # (whatever/thing.txt).
+#
 # That fragment must have an associated metadata file (whatever/thing.meta),
 # and opcionally translated files (example for spanish, with code "es"):
 #     whatever/thing.txt.es and whatever/thing.meta.es
@@ -88,13 +89,18 @@ SIDEBAR_LINKS = {
 #
 # where "pagename" is specified in the metadata file.
 #
-# if use_in_feed is True, then those posts will be added to the site's
-# rss feeds.
-#
+# The difference between POSTS and PAGES is that POSTS are added
+# to feeds and are considered part of a blog, while PAGES are
+# just independent HTML pages.
 
-post_pages = (
-    ("posts/*.rst", "posts", "post.tmpl", True),
-    ("pages/*.rst", "pages", "story.tmpl", False),
+POSTS = (
+    ("posts/*.rst", "posts", "post.tmpl"),
+    # ("posts/wordpress/*.wp", "posts/wordpress", "post.tmpl"),
+    ("posts/wordpress/migrated/*.rst", "posts/wordpress", "post.tmpl"),
+)
+
+PAGES = (
+    ("pages/*.rst", "pages", "story.tmpl"),
 )
 
 # One or more folders containing files to be copied as-is into the output.
@@ -110,7 +116,7 @@ post_pages = (
 # 'rest' is reStructuredText
 # 'markdown' is MarkDown
 # 'html' assumes the file is html and just copies it
-post_compilers = {
+COMPILERS = {
     "rest": ('.txt', '.rst'),
     "markdown": ('.md', '.mdown', '.markdown'),
     "textile": ('.textile',),
@@ -118,7 +124,7 @@ post_compilers = {
     "bbcode": ('.bb',),
     "wiki": ('.wiki',),
     "ipynb": ('.ipynb',),
-    "html": ('.html', '.htm')
+    "html": ('.html', '.htm', '.wp')
 }
 
 # Create by default posts in one file format?
@@ -295,11 +301,15 @@ CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
                                        license=LICENSE,
                                        date=time.gmtime().tm_year)
 
-# To enable comments via Disqus, you need to create a forum at
-# http://disqus.com, and set DISQUS_FORUM to the short name you selected.
-# If you want to disable comments, set it to False.
-# Default is "nikolademo", used by the demo sites
-DISQUS_FORUM = "humitos"
+# To use comments, you can choose between different third party comment
+# systems, one of "disqus", "livefyre", "intensedebate", "moot",
+# "googleplus" or "facebook"
+COMMENT_SYSTEM = "disqus"
+# And you also need to add your COMMENT_SYSTEM_ID which
+# depends on what comment system you use. The default is
+# "nikolademo" which is a test account for Disqus. More information
+# is in the manual.
+COMMENT_SYSTEM_ID = "humitos"
 
 # Create index.html for story folders?
 # STORY_INDEX = False
@@ -360,9 +370,22 @@ PRETTY_URLS = True
 # done in the code, hope you don't mind ;-)
 # MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite']
 
-# Enable Addthis social buttons?
-# Defaults to true
-ADD_THIS_BUTTONS = False
+# Social buttons. This is sample code for AddThis (which was the default for a
+# long time). Insert anything you want here, or even make it empty.
+SOCIAL_BUTTONS_CODE = ""
+# """
+# <!-- Social buttons -->
+# <div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
+# <a class="addthis_button_more">Share</a>
+# <ul><li><a class="addthis_button_facebook"></a>
+# <li><a class="addthis_button_google_plusone_share"></a>
+# <li><a class="addthis_button_linkedin"></a>
+# <li><a class="addthis_button_twitter"></a>
+# </ul>
+# </div>
+# <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
+# <!-- End of social buttons -->
+# """
 
 # Hide link to source for the posts?
 # HIDE_SOURCELINK = False
@@ -455,7 +478,7 @@ ADD_THIS_BUTTONS = False
 # EXTRA_HEAD_DATA = ""
 # Google analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
-ANALYTICS = """<script>
+BODY_END = """<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)

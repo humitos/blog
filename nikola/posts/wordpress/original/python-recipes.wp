@@ -1,0 +1,13 @@
+<html><body><p>La comunidad <a href="http://www.ubuntu.com/">Ubuntu</a> comenzó hace un tiempo a desarrollar un Wiki para que sea escrito por todos los que quieran participar. De éste modo se ayuda a todos los otros que recién comienzan en el mundo de Linux o que bien no saben hacer alguna que otra cosa con este.</p>
+
+<p>Yo me enteré de esto por el canal de IRC de <a href="http://www.python.com.ar">pyar</a> ya que me pasaron el link de los <a href="https://help.ubuntu.com/community/PythonRecipes">Python Recipes</a> (Recetas Python) y <a href="http://www.taniquetil.com.ar/plog/">Facundo Batista</a> me tiró la <em>indirecta</em> de que si no veía algo en esa página. Me dí cuenta que no estaba creada la página del Wiki de cómo crear un paquete Debian desde un programa en Python, que es uno de mis post anteriores.</p>
+
+<p>Lo dudé un rato, ya que no tengo casi nada de idea en inglés y menos para escribir, pero Facu me dijo que empiece a escribir que cualquier cosa el después me lo corregía :) . También pensé en lo que decía en el Home del Wiki:
+
+</p><blockquote><em><em>This section is currently under development. If you would like to contribute, please feel free to do so!</em></em></blockquote>
+
+Asique me sentí libre de hacerlo :P , ordené un poco el escritorio dónde tengo la máquina, me hice unos mates y me puse a tipear. Basándome en lo que escribí en mi <a href="http://humitos.wordpress.com/2007/09/18/crear-un-paquete-debian-deb-de-un-programa-en-python-py/">post</a> sobre esto, intentando traducirlo y guiándome para no olvidarme nada. El resultado de ésto y luego alguna que otra corrección de mi primo salió <a href="https://help.ubuntu.com/community/PythonRecipes/DebianPackage">así</a>.
+
+<p>Se puede estirar mucho más, le falta completar un poco. Puse lo básico en lo que es la creación de los paquetes ya que es una receta. Y aparte no me sale pensar mucho cuando tengo que tipear en inglés :D .</p>
+
+<p>Espero que la comunidad Python-Ubuntu se <em>cope</em> y lo extiendan un poco más ya que es de gran utilidad saber crear paquetes Debian. Me gustaría volver a entrar a la página y que me encuentre con algunas opciones que yo no sabía o se hallan explayado un poco más en la descripción del proceso y quede un poco más didáctico.</p></body></html>

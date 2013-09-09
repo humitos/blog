@@ -1,0 +1,7 @@
+<html><body><p>Hace un tiempo que venía con problemas en el touchpad de la notebook, y cada vez que un amigo venía a casa me decía: "Po! ¿todavía no arreglaste esto?", así que hoy le dediqué un par de minutos a buscar la solución para no volver a escuchar su queja :)</p>
+
+<p>En la consola, ejecutar:
+
+</p><blockquote>synclient TapButton1=1</blockquote>
+
+Listo, nada más. El artículo de dónde saqué esto es <a href="http://dondehabitaelolvido.blogspot.com/2010/04/las-narices-del-tocuhpad-en-debian.html">éste</a>.</body></html>

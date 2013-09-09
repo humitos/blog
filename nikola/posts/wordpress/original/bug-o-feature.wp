@@ -1,0 +1,14 @@
+<html><body><p>Eso! Entré en una discusión con mi PM del proyecto en el que estoy trabajando y salió esta duda. El problema es este:
+</p><blockquote>De alguna forma necesitamos refrescar la página que está viendo el usuario porque otra persona hizo una actualización sobre la misma.</blockquote>
+
+El caso que estamos barajando es bastante sencillo porque sólo hay dos personas en juego no más y las posibilidades de actualizar la página es por turno, osea que no la pueden actualizar al mismo tiempo los dos usuarios.
+
+<p>Tiré la posibilidad de chequear con Ajax si el otro usuario había hecho una modificación y si es así refrescar la página. Entonces mi PM me dice: "La idea de Ajax en estos casos es refrescar sólo el pedacito de página que cambió, pero si se complica mucho, lo dejamos así nomás sin refrescar". Bueno, seguimos charlando y decidimos que no valía la pena, era demasiado complicado para lo boludo que era (no era estrictamente necesario).</p>
+
+<p>Después de un rato le digo: "Che, y si verificamos con Ajax y de ser que tenemos que refrescar... refrescamos toda la página y listo. Así es mucho más fácil y sale en dos patadas :)". A lo que él contestó: "Eso es eun Bug hecho Feature" y me mandó esta imágen:</p>
+
+<p><a href="http://files.myopera.com/freejerk/files/bug-feature.jpg"><img class="aligncenter" title="Bug Feature" src="http://files.myopera.com/freejerk/files/bug-feature.jpg" alt="" width="800" height="600"></a></p>
+
+<p>Y sí, posta:
+
+</p><blockquote>"Un Feature no es más que un Bug disfrazado"</blockquote></body></html>

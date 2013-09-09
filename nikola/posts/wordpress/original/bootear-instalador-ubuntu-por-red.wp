@@ -1,0 +1,72 @@
+<html><body><em><strong>Update: </strong>siguiente este <a href="https://help.ubuntu.com/community/Installation/LocalNet">link</a>, pude concretar<strong> todo</strong> lo que no pude hacer cuando escribí este post. <strike>Cuando tenga más tiempo comento cómo lo hice ya que el link está en inglés.</strike></em>
+
+<p><em><strong>Update:</strong></em> <em>comenté cómo logré instalar Ubuntu por la red en este <a href="http://humitos.wordpress.com/2007/10/24/instalar-ubuntu-por-red/">post</a>.</em></p>
+
+<p>Hace un tiempo bastante considerable que estoy intentando esto. Principalmente lo que quería es instalar Ubuntu en una computadora que no tiene ningún Sistema Operativo, no tiene lectora de CD's pero si tiene disquetera. Asique pensé de qué formas podía bootear un instalador de Linux en esa PC. Y se me ocurrieron estas:
+
+</p><ul>
+	<li>USB, incluso en un post anterior expliqué cómo meter <a href="http://humitos.wordpress.com/2007/08/30/slax-linux-en-usb-pendrive/">Slax Linux en un Pen Drive</a>. Luego debería investigar cómo hacer desde una distribución Linux Live instalarlo.</li>
+	<li>Floppy, botear con un disquete en el que entre una distro de linux y nuevamente investigar cómo instalar algún linux (incluso Debian tiene un instalador para esto).</li>
+	<li>NetBoot, bootear el sistema por medio de una red, conectándose a otra computadora que permita este booteo.</li>
+</ul>
+
+Decidí por NetBoot ya que me parecía muy interesante y aparte de las otras formas tenía que descargar todo el sistema desde internet, lo cual <em>supuestamente</em> por esta opción no. Por el momento yo logré bootear por la red únicamente el instalador para luego descargar el sistema por internet, todavía no he podido configurar el servidor <a href="http://es.wikipedia.org/wiki/TFTP">TFTP</a> para pasar el disco de Ubuntu.
+
+<p>Para poder llevar adelante la configuración de esto es necesario tener conocimientos de algunas cuestiones de redes, que yo no los tengo, por lo que me costó <strong>mucho</strong> llevarlo adelante e incluso no pude cubrir todas mis espectativas.</p>
+
+<p>Lo primero que debemos ver es si la máquina en la cuál queremos bootear por la red tiene esta capacidad, incluso aunque en el BIOS figure la opción puede que no la tenga, ya que se necesita que la placa de red tenga un software llamado <a href="http://en.wikipedia.org/wiki/Preboot_Execution_Environment">PXE</a> que nos permite conectarnos a la otra PC para bootear.</p>
+
+<p>Para saber esto busqué en Google el modelo de mi placa madre y me fijé si tenía esta funcionabilidad y cómo se activaba ya que cuando la busqué en el BIOS no la encontré :D . Luego de saber esto necesitamos montar un servidor <a href="http://es.wikipedia.org/wiki/Dhcp">DHCP</a> y uno TFTP, incluso pueden ser máquinas distintas. En mi caso utilicé la misma para los dos.</p>
+
+<p><strong>Configurando el servidor DHCP:</strong></p>
+
+<p>Encontré dos mil millones de manera de hacer esto, siguiendo los pasos al pié de la letra con ninguna dí en la tecla. Pero bueno, hice varios experimentos hasta que llegué a ver la pantallita del instalador de Ubuntu!</p>
+
+<p>Lo que tuve que hacer para esto primeramente instalar el paquete <em>dhcp3-server</em> y luego editar el archivo de configuración <em>/etc/dhcp3/dhcpd.conf </em>para que quede <a href="http://www.paste-it.net/3865/raw">así</a>, lo único que hice fué agregar estas líneas:
+
+</p><pre>subnet 10.0.0.0 netmask 255.255.255.0 {
+  range 10.0.0.0 10.0.0.253;
+  filename "pxelinux.0";
+}
+
+host pxeinstall {
+  hardware ethernet 00:11:2f:1e:3c:d3;
+  fixed-address 10.0.0.4;
+  next-server 10.0.0.5;
+  filename "pxelinux.0";
+}</pre>
+
+<strong>Configurando el servidor TFTP:</strong>
+
+<p>Lo primero que hice fue instalar el paquete <em>tftpd-hpa</em>, luego configurar el archivo <em>/etc/inetd.conf</em> agregando la siguiente línea, de modo que quede <a href="http://www.paste-it.net/3866/raw/">así</a>:
+
+</p><pre>tftp    dgram   udp    wait    root    /usr/sbin/in.tftpd /usr/sbin/in.tftpd -s /var/lib/tftpboot</pre>
+
+Copié desde el CD de Ubuntu para la instalación alternativa (Alternate CD) la el contenido de la carpeta <em>install/netboot/</em>:
+
+<blockquote><em>$ sudo cp -r /media/cdrom/install/netboot/* /var/lib/tftpboot/</em></blockquote>
+
+Y por último edité el archivo <em>/var/lib/tftpboot/ubuntu-installer/i386/pxelinux.cfg/default</em> para que me quede <a href="http://www.paste-it.net/3867/raw/">así</a> modificando las líneas de <strong>LABEL install</strong> dejándolo como sigue:
+
+<pre>LABEL install
+        kernel ubuntu-installer/i386/linux
+        append vga=normal initrd=ubuntu-installer/i386/initrd.gz boot=casper netboot=nfs nfsroot=10.0.0.5:/media/iso/  --</pre>
+<strong>Finalizando las configuraciones:</strong>
+
+<p>A este momento creo que lo último que queda es reiniciar el servicio de <em>dhcp</em> que se puede hacer ejecutando el comando:
+
+</p><blockquote><em>$ sudo /etc/init.d/dhcp3-server restart</em></blockquote>
+
+Luego encender la otra máquina con los cables de red conectados de forma correcta :D . Lo único que tuve que hacer fué prender varias veces la PC ya que tengo un Router que también tiene servidor DHCP por lo que a veces a la máquina en la que quería instalar Linux la agarraba este y no cargaba el instalador. Secuencia en fotos de lo que fue pasando en la máquina cliente.
+
+<p><a href="http://img230.imageshack.us/img230/7461/hpim2154eg7.jpg"><img src="http://img230.imageshack.us/img230/7461/hpim2154eg7.th.jpg" align="bottom" height="113" hspace="5" vspace="5" width="150"></a><a href="http://img260.imageshack.us/img260/4263/hpim2155in6.jpg"><img src="http://img260.imageshack.us/img260/4263/hpim2155in6.th.jpg" align="bottom" height="113" hspace="5" vspace="5" width="150"></a><a href="http://img46.imageshack.us/img46/5214/hpim2152jk7.jpg"><img src="http://img46.imageshack.us/img46/5214/hpim2152jk7.th.jpg" align="bottom" height="113" hspace="5" vspace="5" width="150"></a><a href="http://img260.imageshack.us/img260/6419/hpim2156vi2.jpg"><img src="http://img260.imageshack.us/img260/6419/hpim2156vi2.th.jpg" align="bottom" height="113" hspace="5" vspace="5" width="150"></a><a href="http://img219.imageshack.us/img219/706/hpim2160qe1.jpg"><img src="http://img219.imageshack.us/img219/706/hpim2160qe1.th.jpg" align="bottom" height="113" hspace="5" vspace="5" width="150"></a></p>
+
+<p><strong>Otras cuestiones:</strong></p>
+
+<p><em>Espero que con los comentarios me corrijan todo tipo de errores que puedo llegar a tener, ya que fue un experimento a prueba y error, y quizás me estoy olvidando algo. Incluso si saben de un link que al seguirlo al pie de la letra funcione, lo publiquen.</em></p>
+
+<p><em>Por otro lado, las fotos las saqué con una cámara digital, ya que no sé como capturar las p</em><em>antallas del BIOS por ejemplo, y del instalador de Ubuntu, osea, no puedo capturar pantallas sin haber cargado un X.</em></p>
+
+<p><strike><em>Hasta el día de hoy tampoco pude hacer que no descargue todos los archivos para la instalación de Ubuntu desde internet, e incluso quise instalarlo descargando <strong>todo</strong> y se tildó a la mitad de la instalación porque no pudo descargar algunos archivos.</em></strike></p>
+
+<p><em>A través de sus comentarios y lo que pueda seguir investigando con el tiempo este post será actualizado y corregido, espero la colaboración de ustedes.</em></p></body></html>

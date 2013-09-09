@@ -1,0 +1,25 @@
+<html><body><p>Have you ever had to type all day long on your XO to test different things? How many times did you get frustrated because of its keyboard, trying to press the correct letter with your <em>big<strong> </strong></em>finger? How many USB keyboards and mouses did you buy to solve this?</p>
+
+<p>O.K. Today I found the most cheap and easy solution for this: using your habitual keyboard and mouse to control both. Yes, that's it. Use the same PC that you use to fix bugs, to run sugar-jhbuild and more. There are two or three steps that you have to follow.</p>
+
+<p>First of all, we have to install the necessary package to share the keyboard and mouse on our normal PC and the following ones will be done in the XO. The name of the package is: <strong>x2x</strong>. So, as I'm in Debian I have to run:
+
+</p><blockquote>sudo apt-get install x2x</blockquote>
+
+Now, we should connect to our habitual pc:
+
+<blockquote>ssh -X «youruser»@«ip-habitual-pc»</blockquote>
+
+And the final step is... the secret command:
+
+<blockquote>DISPLAY=:0 x2x -to `echo $DISPLAY` -west</blockquote>
+
+Peace of cake! Isn't it? I used <strong>-west</strong> here because I have the XO at the left of my habitual PC, but in the other case you should use <strong>-east</strong>. So, after doing these steps you could control both computers with the same keyboard and mouse and testing will be more than easy.
+
+<p><a href="http://humitos.files.wordpress.com/2012/05/dsc_3196.jpg"><img class="aligncenter size-full wp-image-1408" title="DSC_3196" src="http://humitos.files.wordpress.com/2012/05/dsc_3196.jpg" alt="" width="604" height="404"></a></p>
+
+<p>Reference:
+
+</p><ul>
+	<li><a href="http://wiki.laptop.org/go/Ssh_into_the_XO">http://wiki.laptop.org/go/Ssh_into_the_XO</a></li>
+</ul></body></html>

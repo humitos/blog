@@ -1,0 +1,9 @@
+<html><body><p>... siguiendo con las extensiones de Firefox...</p>
+
+<p>Me tocó implementar el css de unos Mockups que me dieron en el trabajo, y como ya conté, estoy usando Firebug, Firediff y el mejor "prueba y error" :)</p>
+
+<p>Hace un tiempo que tengo problema que Firefox no me refresca el CSS y utiliza el que tiene cacheado, pero a veces hago cambios y Firefox sigue usando el cacheado. Es por esto que hoy me crucé con <strong>CSS Reloader</strong> que te permite refrescar el css sin refrescar la página. Coooool!
+
+</p><ul>
+	<li><a href="https://addons.mozilla.org/en-US/firefox/addon/46211/">https://addons.mozilla.org/en-US/firefox/addon/46211/</a></li>
+</ul></body></html>

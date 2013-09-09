@@ -1,0 +1,477 @@
+.. link:
+.. description:
+.. tags: circo
+.. date: 2012/02/25 16:43:25
+.. title: La Gira 2012 continuó
+.. slug: la-gira-2012-continuo
+
+Acabo de recibir un mensaje en el celular que decía:
+
+    Qué buen post el del resumen de la gira! Y me llamaste "empleador"
+    jajajaja. Capo! Me encantan tus crónicas :)
+
+Así que, sin dudarlo me puse a escribir la continuación de la `Gira 2012
+de Circulando Circo
+Callejero <http://humitos.wordpress.com/2012/02/02/resumen-de-la-gira-2010/>`__;
+ya que normalmente los comentarios son: "Hijo de puta, cómo escribís. A
+veces no está tan divertido como para llegar al final del relato, así
+que lo dejo por la mitad" :)
+
+¿Y? ¿Cómo siguió la Gira, humitos?
+
+Después del pequeñísimo problema que tuvimos con la máquina roja, ya
+arreglado el auto emprendimos el viaje de regreso nuevamente hacia
+Paraná. Esta vez, no con mucha suerte tampoco ya que me pasó algo que
+nunca me había pasado antes. Ah! claro, porque que me pongan Nafta ya me
+había pasado, eh?... Se me pinchó una goma! Pero por suerte no habíamos
+salido de la ciudad todavía, sino que noté que estaba baja y que ya la
+había inflado el día anterior. Así que parecía ser que tenía algo
+incrustado y no se había salido: por eso perdía el aire de a poco.
+
+El *gomero* me dijo que tenía un tornillo, un pedazo de tornillo, pero
+que por suerte no se había tajeado la cubierta y que son un simple
+parche iba a quedar comonueva. Y fue así, quedó como nueva, pagué y
+arrancamos para Paraná.
+
+El viaje fue tranquilo, aunque yo volaba de nervios porque estaba
+esperando que algo más pase, que se reviente el espejo retrovisor viste.
+Algo así, bien *cualquiera*. Todo el tiempo miraba la temperatura, todo
+el tiempo. El tablero, escuchaba minuciosamente los ruidos que provenian
+del motor tratando de aislarlos del inconfundible "**PNrnrnrnrnrnr**\ "
+de un Diesel 1.3 bastante cascoteado y borracho de Nafta.
+Lamentablemente, era en vano. De pedo que escuchaba a mi compañera de
+viaje.
+
+Llegamos! Dejé a mi compañera en su casa y me vine para la mía. Lo
+primer que hice fue ver los mails del trabajo, ver cómo estaban las
+cosas, ponerme en contacto con la gente que me paga las facturas que
+estoy comiendo mientras escribo esto y tratar de que no me maten. Igual,
+tenía **una historia** para contar: ¿Cómo no iban a saber entender mi
+situación? ;)
+
+Así fue, contesté varios mails y casi automáticamente recibí un "Mañana
+hablamos, quedate tranquilo". Da gusto trabajar con esta gente la
+verdad, esa gente a la que le decís: "Che, mirá, estem... La semana que
+viene me voy de Gira con el Circo, así que no trabajo" y que no te dice
+"WTF!?"
+
+Pasaron algunos días, ya no recuerdo bien cuánto trabajé pero no fueron
+muchos días; además yo quería volver porque estábamos arrancando para
+Gualeguaychú y no me quería perder ese lugar. Encima, no conozco mucho,
+la vez que fui sólo fue de paso y estuve en la terminal y en el centro
+nada más. Había muchas cosas para conocer y además, iba a estar bueno
+estar en un lugar turístico, donde había mucha gente a la que se lo
+podía mostrar nuestro espectáculo callejero.
+
+Yo estuve bastante desconectado con el resto de los chicos el tiempo que
+estuve en Paraná, no quería enterarme mucho de las cosas ya que sabía
+que no podía hacer nada y por otro lado, más ganas me iban a dar de irme
+a la bosta y menos de laburar. Así que traté de centrar mi mente en
+hacer mi trabajo y ya.
+
+No hay mucho que contar de esos días de trabajo, simplemente trabajé y
+trabajé como cualquier persona que vuelve de una Gira de Circo y se
+sienta en la computadora a programar. ¿Qué? ¿Nunca te pasó?
+
+Ya siendo el último día de trabajo, me senté en el garage de casa y tuve
+un casi interminable charla con *El Rojito* para hablar ciertas cosas y
+además pedirle perdón por haberle dado de tomar algo que no le gusta.
+Hablamos largo y tendido, quedamos en que sólo lo iba a pisar en
+situaciones límites o cuando... él sabe. Llegamos a un acuerdo, lo hice
+controlar por sus mejores amigos y me dieron el O.K. con la misma
+recomendación de siempre: "Si a 80 km/h llegás a cualquier lado. Metele
+80 tranqui, y dale algo rico de beber de premio"
+
+Le cargué Shell V-Power Diesel edición especial para motores Fiat año
+95, y salí *sólo* a la ruta. Con el GPS en el papel, el MP3 bien cargado
+(ajá, ¿no tenías esa? Tiene MP3 el auto, eh, chupate esa mandarina) y
+muchas cosas para pensar en el viaje. Fui bien tranqui, disfrutando
+mucho del paisaje y escuchando música durante las primeras 2 horas ya
+que la ruta estaba en perfectas condiciones y era agradable manejar por
+ella
+
+Entrando en 3ra hora veo un tipo haciendo dedo al costado de la ruta, a
+la salida de una entrada a un pueblo. Lo miro, me mira, nos vemos
+despedirnos con la mirada y seguí de largo nomás. Y así, como vos debés
+estar pensando al momento de leer esto, me pregunte: "¿Porqué no lo
+llevé? ¿Qué onda?  Siempre quise llevar a alguien en la ruta y ésta es
+mi oportunidad". Como que me quedé helado, no sé, pensando, en si es
+peligroso o no, si esto o lo otro o aquello. "Bastá! Ya fue, vuelvo a
+buscarlo y listo."
+
+Y volví nomás. Pegué la vuelta ahí nomás, tratando de no ser envestido
+por un Scania ni un Mercedes y me volví como 5 Km, ponele. No lo
+encontraba, entonces seguía un poco más y no lo encontraba, y seguía y
+no lo encontraba y bueh... Ya fue, se fue a la mierda el loco. Pego la
+vuelta y sigo rumbo a la fama, que me está esperando a la vuelta de la
+esquina. La cagada era quelaesquina quedaba re lejos.
+
+El viaje siguió, el embole aumentó y ya una hora antes de llegar estaba
+re podrido de viajar sólo y venía pensando en todo lo que podría haber
+hablado con el culeado ese si se hubiese quedado en el lugar que lo
+encontré; hijo de una gran!
+
+Llegué! Con el auto entero, con el tanque con Diesel, con todos los
+espejos reglamentarios y a una velocidad promedio de 70 Km/h. Y sí,
+mucha subida y bajada; no era fácil mantener los 80 Km/h :P . Paso un
+kiosko, paso otro, paso otro y al cuarto freno con la excusa de
+preguntar a dónde quedaba la costanera, porque suponía que iban a estar
+ahí los muchachos. Así que, me bajo del auto "por las dudas" con un
+envase de cerveza ¿vió?
+
+Muy amable la señorita me da quichicientas explicaciones para
+decirmebásicamente que tenía que seguir derecho hasta la avenida y
+doblar a la izquierda hasta que me choque con la costanera. Era una
+boludez, pero la loca se la complicó mucho. Sinceramente, no pude
+deducir si la piba no tenía idea dónde estaba la costanera o se estaba
+haciendo la pelotuda para tenerme más tiempo ahí en el local y poder
+mirarme los biceps.
+
+Llego a dónde están los pibes, llego a los bocinazos limpios y llanos.
+Estaciono el auto casi en la puerta del escenario y los veo ahí.
+Vestuariados, terminando una función y ya me emociono. Estaban re
+organizados, sonando muy bien y haciendo reír a mucha gente. Y yo;
+caminando despacito perdido entre la gente tomando una cerveza:
+claramente, el artista vago que siempre quise ser :)
+
+|image0|\ Al terminar esa función, nos ponemos hablar con los muchachos,
+me termino la cerveza con algunos del público (ya que por ley de
+Circulando, no se puede tomar ni fumar cuando uno está vestuariado: ¿qué
+van a decir los niños?) y entre palabra que va y otra que viene me
+encuentro sentado en el escenario con el bongó en la mano haciendo la
+segunda función de la noche. A la cuál yo ya había dicho que no porque
+estaba re cansado del viaje y no tenía muchas ganas de malabarear. Hoy
+día, mis abogados se están encargando de la situación.
+
+No me enteré dónde iba a pasar la noche hasta terminar la función,
+desarmar todo y llevar las cosas a *el lugar* dónde nos estábamos
+alojando todos juntos. Pero, ahora que lo recuerdo, antes de conocer
+*ese lugar* nos cruzamos a ver el espectáculo de otros cirqueros que
+había en la plaza de en frente a dónde estábamos haciendo nuestra
+función.
+
+Entonces, nos quedamos mirando esa función. Me gustó. Para mí, los
+chicos tenían buenos trucos, algunos muy habilidosos y era divertido el
+espectáculo. Además, tenían un loco que tocaba la flauta traversa: muy
+bueno! Llamaba mucho la atención eso y el loco tocaba bien. A mi modo de
+ver las cosas le faltabaun toquesito de producción nada más, para que se
+vea más profesional; porque algunas cositas parecían así nomás pero eran
+realmente buenas.
+
+"Bueh, ¿y entonces? ¿dónde estamos parando?" -pregunto. "En una casa,
+vos quedate tranquilo que si no tuviéramos dónde dormir estaríamos
+buscando" -me contestan. Y así fue, miré la función tranquilo y me
+relajé. Sabía que había habido gente laburando para que todo salga bien
+y que cuando yo llegue no tenga que preocuparme por esas cosas. Ya lo
+mismo había pasado en Gualeguay, los chicos que llegaron primero
+organizaron todo para que cuando llegaran los otros no tengan de qué
+preocuparse más que de actuar :)
+
+Como para generar un poco más de misterio e intriga, los chicos estos
+nos invitaron a comer a su casa: 16 personas en total, más o menos. Unos
+12 o 13 de Circulando y unos 3 o 4 de ellos. La cena: **verduras al
+disco con arroz**. ¡Espectacular! ¡Las cocineras de Circulando la
+rompen!
+
+Y ahora sí, ya terminada la cena, y sobre todo la cerveza, partimos
+algunos caminando y otros en el rojito hacia la casa misteriosa. Traté
+de sacarle algo de información a mi copiloto, pero todo se hacía
+esperar. Ya que no me iba a decir nada, hablamos de otra cosa hasta
+llegar a la casa. No insistí mucho y finalmente llegamos. Era una casa
+re copada, como de *familia*, normal, interesante, no sé. No había mucho
+para destacar ni nada que me llame la atención hasta que me dijeron
+quela familia estaba ahí y que nosotros compartíamos la casa con ellos.
+Wow! Automáticamente pensé: "Somos 13 + la familia que vive acá. Nos van
+a echar a la mierda en minutos nada más".
+
+Se me debe haber notado la cara de preocupado en ese momento, o de
+desorientado o algo similar porque enseguida escuché: "Igual, vive un
+loco sólo acá y es... **sordomudo**, así que no problema con el
+quilombo" Naahhh, muy bueno. Era el lugar perfecto para que se alojen 13
+personas que andan de gira con un circo. Esa noche me reí mucho de la
+situación, me daba algo así comocosa, no sé. Me imaginé un montón de
+situaciones en mi cabeza y estaba intrigado por conocerlo y "hablar" con
+él sobre porqué decidió alojar a un Circo en su casa.
+
+Al otro día, lo conocí. Un genio el tipo. Muy buena onda y a la vez
+cabrón. Le puteaba a la vida, pero con nosotros tenía la mejor onda que
+alguien puede tener. Mario, un grande. No tenía problema de nada, todo
+el tiempo nos comentaba algo de alguna forma y la comunicación siempre
+se hacía entretenida. De alguna u otra forma nos comunicábamos. Muchas
+situaciones eran muy chistosas, nosotros a veces terminábamos hablando
+en gangoso o algo similar, porque se te pegaba y encima parecía que
+funcionaba porque te entendías mejor.
+
+Así se fueron esos días, haciendo funciones en la costanera de
+Gualeguaychú. Aproximadamente dos funciones por día, saliendo a la calle
+a armar las cosas desde las 15 o 16 y volviendo a las 3 de la mañana.
+Todos los días iguales. Lamentablemente, la gorra no estaba funcionando
+muy bien y con el grupo empezamos a hablar de cambiar de lugar, analizar
+qué y cómo debíamos hacerlo. Si era mejor organizar las cosas en el
+lugar de destino antes de salir, o si llegar y empezar a manejarse allá
+cara a cara con la gente. Hubo diferentes posturas en diferentes
+oportunidades y terminamos decidiendo irnos a Concepción del Uruguay en
+los próximos días ya que primero deberíamos terminar de arreglar las
+cuestiones que teníamos con *El Mudo* y la casa que estábamos
+alquilando.
+
+|image1|"El día llegó, como llegan las cosas que no tienen mucho
+sentido" o algo así dice un tema. Pero calza justo. A no ser que **ese
+día** levantemos **2 lucas** en la gorra, no llegábamos a pagar lo que
+suponíamos que iba a salir la casa.
+
+Con eso en mente, nos fuimos a hacer **la función número 10** de la
+Gira, dónde lamentablemente no estaba el grupo completo porque algunos
+se tuvieron que volver a Paraná a arreglar cuestiones burocráticas y
+demás. Pero así y todo, salimos a la cancha. Decidimos que íbamos a
+usurpar la plaza dónde habían hecho la función los otros chicos
+(aprovechando que ellos habían zarpado hacia otro lugar) que estaban ahí
+pero... *más relajados*.
+
+Veníamos pensando que hacía mucho que *no entrenábamos*, más allá de lo
+que hacíamos en las funciones, y que todos estábamos con ganas de
+hacerlo, de probar cosas nuevas y de divertirnos. Así que eso fue lo que
+hicimos, ambientamos mínimamente el lugar y sacamos todos los juguetes
+que teníamos con nosotros. Conectamos los equipos de guitarra y música y
+empezamos a jugar entre nosotros.
+
+¿Qué deberíamos haber hecho? ¿Desesperarnos porque no llegábamos a pagar
+la casa y salir corriendo por las paredes? Todo lo contrario: relax, la
+plata la vamos a sacar de algún lado. Si no nos divertimos nosotros no
+podemos divertir a los demás y si no divertimos a los demás, no tenemos
+cómo pagar el alquiler.
+
+Sin pensarlo, sin notarlo, jugando y pasándola bien entre nosotros
+durante aproximadamente media hora o un poquitín más, levantamos la
+mirada y vemos que había mucha gente al rededor nuestro como *esperando
+que empecemos*. Pero... "¿tenemos algo preparado para hacer? ¿la idea no
+era jugar y nada más?" -pensé
+
+En menos de lo que canta un pájaro (dicen), nos sentamos cada uno en sus
+respectivos lugares, el Negro agarró el micrófono y empezó a agitar a la
+gente como si todo estuviera preparado. Sacó de la galera una
+competencia cirquera que consistía en hacer equilibro con una clava en
+la pera, resistencia de parada de manos, carrera de parada de manos y
+demás. Se armó una especia dechantaje entre el presentador (El Negro) y
+Muzzángano porque perdía todo y el presentador lo daba como ganador. Fue
+muy entretenido para mí. Todo el tiempo me sorprendía de mis propios
+compañeros y me divertía mucho. Era un espectador más, pero vestuariado
+de payaso y con un bongó en las manos. Tenía ganas de poner en la gorra.
+Era muy bueno lo que estaban haciendo los chicos.
+
+Así se fue esa función, improvisando una cosa atrás de la otra, con
+mínimas cosas armadas y pactadas. Muchas pactadas "en escena", como por
+ejemplo: "Che, ahora salen los malabares" y salen los malabares,
+¡AHORA!. Y... "Muzza, ¿va a haber un número de Slack?" y sale el número
+de Slack, ¡AHORA! Y la música, y los presentadores, y toda la energía
+que teníamos como grupo hicieron que **la función número 10** de
+Circulando sea una de las mejores a mi gusto. Dónde nos dejamos fluir
+por la misma energía que nos transmitíamos como grupo y dónde por más
+improvisado que estaba todo, había mucha conexión y en ningún momento se
+notó el "Uy, ¿y ahora qué hacemos?". Como dije antes, me sorprendí de
+nosotros mismos. Del grupo del que formo parte y me reía y lloraba al
+mismo tiempo por lo que estaba viendo. Fue como encontrarme un Grupo de
+Circo en la calle, detenerme a mirarlo y que me inviten a participar:
+*desconocía todo lo que podía suceder*.
+
+De alguna forma, tuvimos que terminar la función porque hacía como una
+hora que estábamos ahí sudando la camiseta y además tampoco teníamos
+mucho más con qué estirar. Hay que guardarse algo por si la gente se
+pone a aplaudir mucho **pidiendo otra** :P
+
+Lo más lindo de todo esto, era que *el día recién empezaba*, después de
+la función teníamos que ir a hablar con el hermano del Mudo para
+arreglar el precio de la casa y pagarle la estadía. Nosotros ya nos
+imaginábamos cómo podía llegar a ser. Ellos, no tenían ni idea que no
+llegábamos a pagarles pero ni cerca. Sin más, levantamos todas las cosas
+y nos fuimos para la casa. Me llevo los equipos y al Larva (el zarpado
+violero de la banda). Bajamos las cosas, y me vuelvo a buscar a 3 más al
+lugar, aunque por alguna desorientación de quien manejaba y de quién me
+indicaba dónde estaban nunca los encontré. Así que me volví nomás.
+
+Al llegar, me encuentro con El Mudo, El Larva y el Hermano del mudo.
+Estaban mirando tele y yo caía con una cerveza en la mano y unos cuantos
+gramos de papitas para picar. Situación rara si las hay. El Larva
+parecía que no tenía muchas ganas de conversar con esta gente, ya que
+estaba concentrado en mirar la tele y como que esquivaba las preguntas
+diciendo: "Seee, de una" y mirando para otro lado nuevamente. Fue muy
+chistoso eso.
+
+Yo aproveché que el Hermano del mudo era buena onda y charlé un montón
+con el flaco. Taladrándole la cabeza con que nos había ido mal con la
+gorra, y que no sabíamos qué íbamos a hacer ahora porque estábamos casi
+sin un peso y que blah blah blah. Claramente le estaba diciendo que no
+le íbamos a poder pagar de una forma sana y no violente.
+
+La charla se estiró, por un buen rato. Los otros no llegaban y nosotros
+seguíamos hablando. El Hermano del Mudo me tiraba comentarios como: "Yo
+con él me entiendo re bien. Somos re buenos amigos" y le decía algo al
+Mudo y el Mudo le contestaba cualquier cosa. Cualquiera. Otra que tiró
+fue: "Yo siempre me cruzo acá y tomamos unos mates con él. Yo vivo acá
+en frente" y como que ahí me empezó a sonar raro todo. Y cada vez ese
+tipo de comentario se hacía más y más frecuente.
+
+Al rato de ponerme a pensar que algo raro había en todo esto, y ya
+habiendo ido a comprar dos cervezas más con El Hermano del Mudo, con
+quien ya casi éramos amigos de toda la vida y seguramente no nos iba a
+cobrar mucho, se abre la puerta y aparece un señor de unos 50 años
+aproximadamente. Saluda a todos y se sienta "como en su casa". Hablamos
+menos de 2 minutos y me doy cuenta que **ese** era el Hermano del Mudo y
+no el loco al que le estuve taladrando la cabeza por lo menos 2 horas.
+Pero, ¿quien carajo era ese tipo?. La charla siguió y al final me vengo
+a enterar que ese era un vecino amigo del Mudo. Naahhh! Me quería morir.
+Todo el trabajo fino que había hecho se había desmoronado para que sea
+otra persona.
+
+Desilusionado, agotado de hablar, y hasta un poco preocupado, me fui
+para el patio de la casa dónde estaban algunos chicos más que ya habían
+llegado mientras yo hablaba con "El Hermano del Mudo"; me puse a hablar
+con ellos, le cuento lo que me pasó y desbordamos de la risa durante un
+rato largo, largo, largo. Hasta que más o menos pudimos controlarnos y
+salió la música en vivo, de la mano de la melódica y del bongó. También
+salieron muchas charlas interesantes y algunas que nos hacían
+preocuparnos con respecto al tema del pago.
+
+Y como preocuparnos no es lo nuestro, se nos ocurrió invitar a todos los
+que estaban adentro a que salgan al patio, que escuchen nuestra música y
+así transmitirles buenas energías (a ver si podíamos hacer que nos cobre
+un poco menos). Pero claro, ¿quién iba a ser el valiente que vaya
+adentro y proponga eso? Nadie tenía el suficiente coraje, ni estado,
+como para eso.
+
+Así como anillo al dedo, viene el "Hermano del Mudo", ahora mejor
+conocido como "El Vecino" a saludarnos y desearnos lo mejor y que bla
+bla bla; ahí nomás le dijimos que llame a los otros y que se queda a ver
+lo que teníamos para hacer, escuchar nuestra música y demás. Un genio.
+El tipo buscó a los otros que estaban adentro, los hizo sentar ahí y se
+largó una **función exclusiva de Circulando Circo Callejero** en tu
+casa. ¿Qué más querés?
+
+Después de un show de rueda con un vaso con agua, música, show de
+malabares, luces y muchas cosas más en el patio de tu casa se escucha:
+"Y bueno, ¿vamos a arreglar lo nuestro?" Uff... SILENCIO ABSOLUTO, ni
+los grillos cantaban. Se cortó la música, se cortó el show, se cortaron
+las risas y todos pusimos caras de serios.
+
+Sin muchos detalles contables, terminamos arreglando las cosas muy bien.
+Por supuesto, debiendo un montón de plata, si no teníamos ni chance de
+pagar. Pero bien. Arreglamos que se la íbamos a mandar ni bien la
+tengamos y que obviamente, estábamos muy conforme en cómo nos habían
+tratado :)
+
+Para ese momento, eran como las 3 o 4 de la mañana. Mucha euforia, mucha
+locura de la situación, mucha diversión y ya MUY poca preocupación. Lo
+peor había pasado. O al menos eso creíamos. Nos quedamos con $200 en la
+caja para compartir entre todos, para pagar el Diesel del auto, para los
+pasajes de algunos a Concepción del Uruguay y para comer.
+
+Como yo soy un tipo que si me acuesto a esa hora, sé que me voy a
+levantar a las 16hs o que si me levanto a las 9 - 10hs sé que no sirvo
+para nada. Propuse acomodar todas las cosas, subirlas al auto y partir a
+Concepción del Uruguay. Me imaginaba que iba a ser cerca de las 7hs ya
+que teníamos que ordenar muchas cosas. Ese horario iba a estar bueno,
+porque no hacía calor y luego pensé que podíamos dormir al llegar.
+
+Por suerte el Chemma me siguió en mi idea, ordenamos un poco entre todos
+las cosas y partimos de viaje con el Chemma hacia Concepción del
+Uruguay. Le conté todo lo que me pasó con "El Hermano del Mudo" y
+hablamos de un montón de cosas: graciosas y profesionales; puesta en
+escena, coordinación de grupo y demás. Se nos pasó volando el viaje.
+
+Ni bien llegamos, dejamos el auto en la plaza principal y preguntamos
+dónde era la Secretaría de Cultura. Nos compramos unas facturas y un
+agua mineral. Nos sentamos en la plaza, empezamos a planear lo que
+íbamos a hacer y cuando estamos empezando a encarar para Cultura yo
+digo: "Pará, yo tengo un olor a chivo que se nota a la cuadra. Me parece
+que no da para ir a buscar trabajo así a Cultura. Deberíamos pegar un
+camping primero, bañarnos y después encarar".
+
+Eso fue lo que hicimos, era terrible el olor que teníamos. Buscamos
+campings, preguntamos, caminamos un poco la ciudad y le digo al Chemma:
+"Yo tengo unos tíos acá en Concepción del Uruguay. Hace mucho que nos
+los veo pero podemos ir preguntarle dónde podemos ir y demás. Son buena
+onda". Encaramos para la casa y por suerte encontramos a mi prima y a mi
+tía. Nos atendieron de mil maravillas, les contamos lo que estábamos
+haciendo y nos tiraron algunos nombres para preguntar y charlar con esas
+personas. Las malas lenguas dicen que se nos notaba mucho el olor,
+porque ni bien nos sentamos prendieron el ventilador al taco. Pero no
+hay una fuente confiable al respecto. ¡Menos mal que no fuimos a Cultura
+así!
+
+Ese día dimos muchas vueltas, buscando camping, buscando a los chicos a
+la tarde que llegaron de Gualeguaychú, buscando trabajo y viendo dónde
+mierda íbamos a dejar los equipos de sonido que teníamos ya que no
+podían dormir en la carpa. Son muy delicados y son oro en polvo para
+nosotros. Por suerte conseguimos la tía de la madre de una amiga de la
+hermana de alguno del grupo que ya no estaba con nosotros. Un contacto
+más o menos así.
+
+Muy amable la señora, la verdad. Dejamos el sonido ahí y nos fuimos a
+trabajar al semáforo ya que no habíamos conseguido la habilitación de
+Cultura para hacer un espectáculo. En el semáforo, tampoco nos fue muy
+bien. Estábamos con lo justo para comer y todavía teníamos que pagar el
+camping. Empezaban los momentos *no tan divertidos* de la gira de
+Circulando. Además, estábamos cansados, nosotros no habíamos dormido ni
+un segundo ese día. Viajamos, estuvimos a las corridas y encima peleando
+para conseguir la moneda y tener algo para comer.
+
+Para colmo, a mí me habían empezado a llegar algunos mensajes de mi
+empleador preguntando cómo estaba la cosa y cuándo pensaba volver así se
+podían organizar las cosas. Así que comenté eso a los muchachos y
+tratamos de organizarnos nuevamente. Al día siguiente, fuimos a la
+Secretaría de Cultura y hablamos con el más capito de ahí.
+Lamentablemente nos dijo que ya había 4 espectáculos de circo callejero
+en la ciudad y no nos podía dar otro permiso a nosotros, eran muchos :(
+
+Comentamos esto con el resto del grupo y decidimos seguir metiéndole
+pata al semáforo porque necesitábamos conseguir plata para poder comprar
+la comida. Así que ese día, nos fuimos al semáforo ya cuando cayó el
+sol, con el monociclo, las clavas, la rueda, la guitarra y la rola.
+Éramos 4 y hacíamos mucho ruido. Tenías un mini-circo en 2 minutos
+frente a vos mientras esperabas que la luz cambie de Roja-Aburrido  a
+Verde-Divertido. Creo que durante aproximadamente dos horas hicimos que
+sea al revés: Rojo-Divertido y Verde-Aburrido :)
+
+Los 4 hombres volvimos al camping, dónde nos estaban esperando las 2
+señoritas de la Gira; a quién le llevábamos el dinero recaudado en arduo
+día de trabajo para que ellas nos deleiten con sus espectaculares
+comidas. Era sacado de una película de las viejas épocas.
+
+Así, sin ninguna función, se nos terminó Concepción del Uruguay. Al
+menos a mí. Alcancé a hacer algo de semáforo nomás esos días y ya tuve
+que empezar a pegar la vuelta porque estaba hablando con el señor que me
+paga todos los meses para volver a sentarme a programar desde mi casa.
+Así que sin más, nos juntamos a charlar esto y decidimos volvernos casi
+todos. El Larva y el Chemma decidieron quedarse y como si fuera poco, le
+dejamos todo el capital que había en la caja luego de haber sacado para
+los pasajes y el Diesel del auto: $20 para los dos.
+
+Como buenos *cirqueros* que son se la rebuscaron para salir adelante,
+con el semáforo, con presentaciones en bares, con guitarreada en la
+calle, en la plaza y demás. Los muchachos hicieron de las suyas y días
+más tarde volvieron a Paraná, contentos de haberse quedado esos poquitos
+días más y contándonos la experiencia.
+
+Personalmente, creo que la Gira 2012 de Circulando Circo Callejero fue
+un éxito. La inmensa cantidad de cosas que aprendí, como grupo de 13
+personas que éramos, como artista, como payaso, como persona, como
+humitos, es impagable con nada. Esa experiencia no me la quita nadie.
+Estoy muy agradecido de formar parte de este grupo de circo y que me
+hayan hecho curtirme en el escenario con buena onda. Siempre tirando
+para arriba y confiando en mí.
+
+A todos los que nos fueron a ver, a los niños que querían saludarnos, a
+los que se querían sacar fotos con nosotros, a los que fueron más de una
+vez a vernos, a los que nos criticaron, a los que nos tiraron mala onda,
+a los que nos dijeron que éramos buenos, a los que nos quisieron
+contratar para el futuro, a los que estaban interesados en lo que
+hacíamos, al Mudo, al hermano del mudo, al vecino, a la mamá y a la
+hermana de Chemma, a mi tía, a mi prima, a los del camping, al público,
+a mis compañeros de escenario y de gira, al rojito, al mecánico del
+rojito, al gomero, y a todos los que tuvieron algo que ver con que esta
+gira se lleve adelante: MUCHAS GRACIAS
+
+.. |image0| image:: http://humitos.files.wordpress.com/2012/02/p1154047.jpg
+   :target: http://humitos.files.wordpress.com/2012/02/p1154047.jpg
+.. |image1| image:: http://humitos.files.wordpress.com/2012/02/p1154050.jpg
+   :target: http://humitos.files.wordpress.com/2012/02/p1154050.jpg

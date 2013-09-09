@@ -1,0 +1,74 @@
+<html><body><a href="http://es.wikipedia.org/wiki/Secure_Shell">SSH</a> es un protocolo que nos permite conectarnos a un equipo de forma remota mediante una red <a href="http://es.wikipedia.org/wiki/Lan">LAN</a> / <a href="http://es.wikipedia.org/wiki/Wan">WAN</a>. Permite manejar por completo la computadora, de manera que todo lo que ejecutemos se hará sobre ésta computadora (a la que estamos accediendo de forma remota) y se visualizará en la que estamos localmente. Por ejemplo si ejecuto el comando:
+<blockquote><em>$  ogg123 "The Crazy - This is a breakfast.ogg"</em></blockquote>
+
+El sonido de la reproducción de este archivo de audio saldrá por los parlantes que posea la máquina remota, quizás nosotros ni escuchemos este sonido debido a la distancia en la que nos encontramos.
+
+<p>Mediante este protocolo se pueden copiar archivos, visualizar contenido de éstos, actualizar el sistema, reiniciar el pc, y muchas cosas más. Para la conexión mediante SSH se necesita tener la máquina encendida :P y además que se encuentre <em>corriendo</em> el demonio servidor de SSH.</p>
+
+<p>Necesitamos instalar el paquete <em>ssh</em> en Ubuntu, el cuál nos instala el cliente de ssh y el servidor ssh. Una vez instalado esto podemos verificar que se esté ejecutando con el comando:
+
+</p><blockquote><em>$ ps -ef | grep sshd
+
+root     29080     1  0 12:09 ?        00:00:00 /usr/sbin/sshd
+
+manuel   29154 29087  0 12:11 pts/4    00:00:00 grep sshd
+
+</em></blockquote>
+
+La primer línea nos indica que el demonio esta activo. Se pueden configurar varias opciones del servidor de SSH editando el archivo <em>/etc/ssh/sshd_config</em>, por ejemplo para cambiar el puerto por el cuál trabaja. Yo tuve que utilizar esta opción ya que en la facultad tienen bloqueado el puerto por defecto (puerto 22).
+
+<p>Podemos <em>loguearnos</em>  de forma remota en nuestro equipo utilizando cualquiera de las cuentas de usuario que tengamos creadas en el sistema. Yo por ejemplo tengo una únicamente <em>"manuel"</em>. Tenemos varias formas de hacerlo:</p>
+
+<p><strong>SSH desde un sistema Linux:</strong></p>
+
+<p>La manera más sencilla de hacerlo es, si estamos en un entorno gráfico abrimos una consola y tipeamos:
+
+</p><blockquote><em>$ ssh usuario_remoto@ip_remota</em></blockquote>
+
+Por ejemplo, desde la otra PC que tengo en red:
+
+<blockquote><em>$ ssh manuel@10.0.0.5
+
+manuel@10.0.0.5's password:</em></blockquote>
+
+<strong>SSH desde un sistema Linux con <a href="http://es.wikipedia.org/wiki/Midnight_Commander">MC</a>:</strong>
+
+<p>De esta forma podemos tener en la vista izquierda nuestra PC local y en la derecha la máquina remota, por lo que podemos ejecutar todas las opciones que nos permite el MC. Entre ellas, copiar, cortar, editar, etc...</p>
+
+<p><a href="http://img214.imageshack.us/img214/4560/mc1ly5.png"><img src="http://img214.imageshack.us/img214/4560/mc1ly5.th.png" align="bottom" height="95" hspace="5" vspace="5" width="150"></a><a href="http://img258.imageshack.us/img258/2373/mc2ec5.png"><img src="http://img258.imageshack.us/img258/2373/mc2ec5.th.png" align="bottom" height="95" hspace="5" vspace="5" width="150"></a><a href="http://img258.imageshack.us/img258/8874/mc3gl6.png"><img src="http://img258.imageshack.us/img258/8874/mc3gl6.th.png" align="bottom" height="95" hspace="5" vspace="5" width="150"></a></p>
+
+<p>Desde una consola tipeamos <em>mc, </em>lo que nos abre el Midnight Commander, vamos a la configuración de la vista derecha, por ejemplo, con la tecla rápida F9 y elegimos <em>"conexión por sHell"</em>Luego en la ventanita que se abre escribimos algo similar a lo q</p>
+
+<p>ue tipeamos anteriormente en la consola, con la direfencia que tenemos que anteponer <em>/#sh:</em> seguido de lo mencionado arriba.</p>
+
+<p>Finalmente nos pide el <em>password</em> y una vez ingresado de forma correcta nos permite explorar los directorios de la máquina de remota.</p>
+
+<p><strong>SSH desde un sistema Windows:</strong></p>
+
+<p>Para esto necesitamos un programita pequeño pero <strong>muy </strong>eficaz llamado <a href="http://es.wikipedia.org/wiki/Putty">PuTTY</a>, el cuál es libre y se puede descargar su ejecutable desde <a href="http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe">aquí</a>. No necesita ser instalado ni mucho menos, sólo doble click y listo.</p>
+
+<p><em>Los screenshots de el programa PuTTY son de Linux emulado con Wine, ya que no tengo Windows en esta computadora.</em></p>
+
+<p>Una vez que abrimos el PuTTY nos muestra la pantalla de configuración, en la que ingresamos el IP de la máquina remota y le damos "Open".</p>
+
+<p><a href="http://img161.imageshack.us/img161/1523/putty1rt7.png"><img src="http://img161.imageshack.us/img161/1523/putty1rt7.th.png" align="bottom" height="126" hspace="5" vspace="5" width="150"></a> <a href="http://img161.imageshack.us/img161/4999/putty2uf2.png"><img src="http://img161.imageshack.us/img161/4999/putty2uf2.th.png" align="bottom" height="88" hspace="5" vspace="5" width="150"></a></p>
+
+<p><strong>Algunos Tips:</strong>
+
+</p><ul>
+	<li>Programas gráficos, si le pasamos el parámetro <em>-X </em>al comando <em>ssh </em>este nos visualizará la parte gráfica en la computadora local. Lo he probado con pocas aplicaciones y funcionó, por ejemplo el juego Twisted Zombie, se ve un poco lento mediante SSH. Pero quizás para visualizar fotos y demás sea <strong>muy </strong>útil ya que podemos usar todos los programas que tenemos instalados en la máquina remota. Ejemplo:</li>
+</ul>
+
+<blockquote><em>$ ssh -X manuel@10.0.0.5</em></blockquote>
+
+Ahora cuando ejecutemos cualquier comando que requiera interfaz gráfica, lo visualizaremos correctamente en la PC en que nos encontramos físicamente.
+
+<ul>
+	<li>Copia de archivos, podemos copiar archivos desde el equipo remoto hacia el local y viceversa utilizando los siguientes comando respectivamente:</li>
+</ul>
+
+<blockquote><span style="font-style:italic;">$ scp usuario@ip_remota:archivo_remoto archivo_local
+
+$ scp </span><span style="font-style:italic;">archivo_local</span><span style="font-style:italic;"> </span><span style="font-style:italic;">usuario@ip_remota:archivo_remoto</span>
+
+<span style="font-style:italic;"></span></blockquote></body></html>

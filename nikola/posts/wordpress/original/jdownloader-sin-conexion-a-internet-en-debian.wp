@@ -1,0 +1,17 @@
+<html><body><p>Después de actualizar Debian a una versión nueva, digamos, no estoy seguro bien qué se cambió y por ahora tampoco tenga muchas ganas de buscar cuál fue el paquete que hizo este cambio, se me rompieron las aplicaciones Java que usaban internet y por lo tanto el JDownloader.</p>
+
+<p>Comencé la búsqueda ayer por la tarde y hoy me dí con este link:
+
+</p><ul>
+	<li> <a href="http://www.linux.ebre.cat/2010/03/jdownloader-y-programas-java-sin.html">http://www.linux.ebre.cat/2010/03/jdownloader-y-programas-java-sin.html</a></li>
+</ul>
+
+Esto solucionó el problema que tenía :)
+
+<p><strong>Actualizado:</strong></p>
+
+<p>Buscando un poco más en Google encontré el bug:
+
+</p><ul>
+	<li><a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=560044">http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=560044</a></li>
+</ul></body></html>

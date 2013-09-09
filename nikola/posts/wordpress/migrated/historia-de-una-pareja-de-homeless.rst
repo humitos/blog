@@ -1,0 +1,161 @@
+.. link:
+.. description:
+.. tags: los angeles, viajes
+.. date: 2013/05/26 15:41:56
+.. title: Historia de una pareja de homeless
+.. slug: historia-de-una-pareja-de-homeless
+
+Por la tarde de ayer decidí venir al corazón de Hollywood para conocer
+un poco cómo es toda esa movida que conocemos por la TV. "Las estrellas
+de Hollywood", "la crema de la crema", "lo top de lo top", "la calle de
+las estrellas", "las luces" y el blah blah. Por la noche, me quedé un
+rato en el hostel que está en la calle principal y luego salí a recorrer
+un poco y caminar por Hollywood Blvd.
+
+El lugar me hace acordar mucho a Capital Federal. Mucha gente en la
+calle, sobre poblado, lleno de turistas sacando fotos por todos lados
+(todos quieren la foto con la estrella de su actor favorito) y para eso
+toda la gente camina mirando el piso buscando dónde está su nombre,
+muchos puestos callejeros precarios de comidas sobre las veredas
+entorpeciendo la circulación de la gente, miles de autos super tuneados
+con música al caño que cuando pasan las minitas entangadas (o sin tangas
+en algunos casos) le mueven el orto, mucho glamour, mucho lujo, mucho
+fifi, montones de boliches con la música tan pero tan fuerte que cuando
+pasás por la puerta te empujan los graves y en esas mismas puertas, los
+respectivos negros grandotes de seguridad... Bueh, limusinas, a mansalva
+(¡qué detalle me olvidaba!) y un montón más de cosas sin sentido
+alguno...
+
+En el camino de vuelta al hostel, veo un cartel de un club con un show
+nocturno (onda erótico) que dice: "1000 de las mujeres más lindas y 3
+muy feas". Me parecio chistoso el cartel y entré a preguntar cuánto
+salía la entrada y me dicen algo así como 10 ahora, 20 después de las
+10pm y luego de las 2am 40 y que también... blah blah blah (esa parte no
+la entendí) y además, podía pagar los 10 ahora y salir y entrar la
+cantidad de veces que quería porque el show era hasta las 6am y también
+me dijo algo de "two and three thousands" que finalmente me hizo dudar
+de si realmente podía gastar solo 10 dólares para entrar a chusmear y
+podía no consumir nada o qué sé yo. ¿Viste como son esos lugares?
+Siempre te terminan cagando.
+
+Así que, seguí viaje de camino al hostel pensando en que 1) tenía que
+comer algo y 2) qué carajo me había dicho el tipo sobre los docientos y
+trecientos dólares y el blah blah ese que se me había escapado. Para ese
+momento escucho: "Hey! We are not invisible. It's just about food. I
+don't want your money", giro la cabeza y veo una pareja con unos
+cartelitos que decían: "We are hungry man, we want to eat this night and
+then go bed". Me quedé un ratito ahí, mirándolos un poco y mirando como
+era la reacción de la gente. Muchos los miraban e inmediatamente giraban
+la cabeza, muchos otros los veían a lo lejos y seguía caminando con la
+mirada recta. Otros, les decían a sus hijos que no los miren...
+
+Seguí caminado unas cuadras y pensando que yo también tenía hambre,
+estaba solo y había estado pensando en gastar 10 dólares en algo que ni
+siquiera sabía lo que era. "Pará, ¿qué estoy haciendo? Ya fue, yo vuelvo
+y les ofrezco esa plata para que comamos los tres juntos". Volví. Me
+quedé un rato más observándolos y finalmente me acerco y me presento.
+Charlamos un toque y finalmente les digo que tenía 10 dólares para que
+cenemos los tres juntos, en el lugar que ellos elijan y la comida que
+ellos consideren. Si bien entendieron mi inglés, no entendían bien lo
+que les estaba ofreciendo. "Tenemos 10 dólares para que comamos los
+tres. Yo tampoco cené. ¿Dónde podemos ir?"
+
+"Really?", "Sí, dale! Vamos. ¿A dónde vamos?" Fuimos a una pizería que
+había a una cuadra (o dos) de ahí y la porción (que son grandes acá -yo
+con una y media me lleno posta-) salía $2.75 (que para acá es caro).
+Entonces, decidieron que era mejor (porque es MUY barato acá -hay una
+hamburguesa de $1) ir a McDonalds (ouch!). OK, fuimos a McDonals y
+compramos 5 hamburguesas un poco mejor que las de $1 y unas papas fritas
+que finalmente terminaron siendo una (grande) para mí y 4 para ellos.
+Nunca entendieron que la idea era que compartamos, que todos comamos lo
+mismo. "Tenemos 10 dólares. Somos 3. Compartamos" (pero bueno, acá la
+gente no toma del mismo vaso, así que, ¿qué me voy a sorprender de eso?
+- es como que el concepto de compartir no existe acá)
+
+Nos sentamos a comer y Matthew y su esposa no podían dejar de hablar, de
+contarme su vida, de cuál era su situación, de preguntarme porqué los
+elegí a ellos entre tantos que hay en todas las cuadras, que porqué un
+argentino turista está comiendo con dos homeless. No entendían nada los
+pibes. Situación rara si las hay, pero muy enriquesedora. La historia de
+éstos pibes es bastante más que triste.
+
+Matthew estudiaba en Texas (no entendí bien qué) y su mujer trabaja en
+aeropuerto como manager del área que se encarga del transporte de
+animales. Cuando viajan animales en los aviones, cuando llegan al
+aeropuerto y hay que ponerlos en otro avión, hay que darles agua,
+hacerlos ir al baño, alimentarlos y limpiarlos si están sucios. Vinieron
+a Hollywood porque un amigo de él le ofreció un muy buen trabajo del
+cuál no quería perder su oportunidad de un mejor futuro. A sus 26 años,
+casado y con una hija de 4 años (a la que no está autorizado a tener
+porque a los 16 años estuvo 1 año preso -por ser un pendejo boludo -me
+dijo, cuando tuvo su hija se la sacaron. "10 years ago, man. I changed
+my life since that time. I'm a good person now. I made a mistake!"),
+decidieron aprovechar esa oportunidad y su mujer buscó un reemplazo en
+su trabajo y él dejó su estudio en Texas para venir acá.
+
+Cuando llegan a Hollywood, con unos cientos de dólares en los bolsillos,
+su "amigo" nunca más les contestó el teléfono ni la dirección que le dio
+era algo de lo que este tipo le había prometido. Insistió durante un
+tiempo pero nunca apareció. Desde ese día, con un acontecimiento
+policial (que está registrado en su historial, el cual es muy fácil
+consultar acá), una hija en otro estado y su mujer acompañándolo, está
+buscando un trabajo en Hollywood, con una vida arruinada. "I had a real
+life before comming here. I lost everything in a couple of week. Nobody
+cares about us.". Le pregunté por su familia y sus amigos, si nadie le
+podía dar una mano y me dijo que una vez que tenés 18 es como que te
+echan de tu casa, que ya está, tenés que valerte por sí mismo y no
+importa nada más. Que en éste último tiempo había tenido que vender
+todas las cosas que había traido desde Texas para poder comer y que
+todas las otras cosas que tenía y que había dejado en Texas en la casa
+de un amigo, su amigo le dijo que se las habían robado a todas...
+
+"I don't want to be a homeless, man. You see me? Do I look like a
+homeless? I'm clean. I have clean clothes. I'm a good person that lost
+everything. Just that. I made a mistake 10 years ago and I payed for
+that. But now? It's impossible for me to get a job. I can't get the
+places to have an interview because I don't have money to take the metro
+and the shops over here they already saw me living in the street and
+asking for food. So, I'm already marked for them."
+
+JO-DI-DO. Mientras tanto, por la ventana se podían ver las más lujosas
+limusinas, las mejores carteras del mundo, los mejores autos, las
+celebridades, los colectivos de city tour, los mejores descapotables, la
+gente comprando y comprando, visitando "Believe it or not" y sacándose
+una foto atrás de la otra y la mar en coche. El derroche de plata, de
+cosas innecesarias, de miles de horas derrochadas para `perder la vida
+delante del
+espejo <http://humitos.wordpress.com/2013/05/25/que-no-se-te-pase-la-vida-mirandote-al-espejo/>`__.
+Triste, loco.
+
+Esta gente me agradeció como nadie en el mundo me había agradecido nada
+antes. Se comieron una hamburguesa cada uno y cuando Matthew estaba
+abriendo la otra, su mujer le dice: "Hey, save it for later. We will be
+hangry again in a couple of hours". Casi con un mordisco en la
+hamburguesa, me pregunta: "Is that possible?". "Yeah, of course. It's
+your food, do whatever you want.". Los chicos estaban muy sorprendidos.
+"Nobody does this, man. Sometimes we are given food or money, but nobody
+wants to be in touch with us"
+
+Pensé un montón de cosas. Si es verdad, si no, si son unos criminales,
+¿qué hicieron? ¿qué onda? y todo lo que se te ocurra. Pero mientras
+estaba ahí con ellos, "pla!", no es fácil. También pensaba que era un
+hijo de puta, que podía haber gastado 50 dólares con los flacos éstos y
+comer algo un poco mejor, a mi no me iba a cambiar la vida, pero también
+tenía un poco de miedo al principio. No sabía cómo iban a reaccionar y
+demás. No sé, no fue nada fácil para mi.
+
+Más o menos así terminó mi noche. Si bien después volví al hostel y me
+jugué unos pooles con la gente de acá (conocí unos franceses) y después
+intenté ir a dar una vuelta con ellos... No pude. Mi cabeza estaba en
+otra, flasheando por ahí con esa gente que no tiene nada de nada y solo
+necesita comida.
+
+Como en todas partes del mundo, detrás de la fachada turística está la
+realidad. Incluso me dijeron que la policía los saca del Blvd principal
+(la calle de las estrellas) y les dice que se vayan a una de las de al
+lado, que ahí está todo bien.
+
+El mundo... Nuestro mundo... Tu mundo...
+
+    "We can sleep anywhere, that is not a problem. God put us here with
+    nothing, we just need food."

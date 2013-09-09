@@ -1,0 +1,29 @@
+<html><body><a href="http://www.google.com/chromeos/">Chrome OS</a> es el sistema operativo de Google, que probablemente muchos conozcan de nombre, pero quizás no lo hayan visto funcionando o ni siquiera un screenshot de cómo luce.
+
+<p>Si bien hace un tiempo que tenía ganas de instalarlo y probar qué tal funcionaba, nunca tuve el suficiente tiempo como para compilarlo y ponerme a investigar cómo <strong>hay que hacer las cosas</strong>. Antes de ayer, caí sobre esta misma inquietud y encontré un pibe (tiene 17 años el loquito) <a href="http://chromeos.hexxeh.net/">que lo compiló</a> y creó una <em>.img</em> para que lo descargues y lo uses onda LiveUSB :D</p>
+
+<p>Me puse manos a la obra (dijo el mosquito, ya no hice nada), bajé la imagen y la metí en un Pen Drive (tiene que se de 2GB al menos) con este comando:</p>
+
+<p><code>
+
+$ dd if=ChromeOS-Flow.img of=/dev/sdd
+
+</code></p>
+
+<p><strong>¡Tené en cuenta que tendrás que cambiar el valor del argumento "of" a lo que corresponda!</strong></p>
+
+<p>Luego, puse el PenDrive en la Netbook y en 30 segundos (sí, posta, 30 segundos) ya tenía la pantalla de Login y en 1 minuto (incluído el tiempo para tipear el <a href="http://chromeos.hexxeh.net/wiki/doku.php?id=faq#what_are_the_default_username_passwords_for_this_build">ususario y password</a> -que de hecho es <em>facepunch/facepunch-</em>) tenía una página de Google ya cargada en el navegador Chrome. Groso!</p>
+
+<p>Por suerte, todo me funciona a la perfección: suspende bien, anda internet, el sonido, la aceleración 3D (o al menos los efectitos los tira bien), etc. Una cosa que me gustó, es que tiene un Ubuntu Karmic, entonces podés instalar las cosas que se te canten: yo me instalé el VIM ;)</p>
+
+<p>[gallery link="file" columns="4"]</p>
+
+<p>Lo único que tuve que configurar es el teclado, ya que no pude cambiarlo desde la interfaz gráfica a Español, así que usé este comando:</p>
+
+<p><code>
+
+$ setxkbmap latam</code></p>
+
+<p><a href="http://chromeos-blog.com/chrome-os-keyboard-shortcuts/">Aquí</a> pueden encontrar una serie de comandos muy útiles para, por ejemplo, abrir la terminal dónde tienen que tipear eso :D</p>
+
+<p>... el próximo paso va a ser compilarlo desde 0...</p></body></html>

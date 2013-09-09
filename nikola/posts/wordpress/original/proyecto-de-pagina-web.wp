@@ -1,0 +1,17 @@
+<html><body><p>Hace una semana con unos amigos (Juan y Guillermo), empezamos a diseñar, o intentar a hacerlo, una página web para desarrollarla en Python con <a href="http://www.turbogears.org/">TurboGears</a>. Con el fin de aprender TurboGears y si queda buena/usable subirla.</p>
+
+<p>Para esto empecé a leer el libro <em>"<span class="sans">Rapid Web Applications with TurboGears: Using Python to Create Ajax-Powered Sites"</span></em> para poder comenzar con lo que es TG, ya que nunca antes ninguno de los tres habíamos hecho nada con este <a href="http://es.wikipedia.org/wiki/Framework">framework</a>. Cada uno estuvo leyendo por su parte algunos capítulos de este libro y otros tutoriales sobre <a href="http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html">estilo de programación en Python,</a> así ponernos de acuerdo y matener entre todos un estilo para no tener problemas en el futuro.<a href="http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html">
+
+</a></p>
+
+<p>El tema de la página es <em>"La movida nocturna en la ciudad de Paraná"</em>, pretendiendo mostrar fotos de boliches, pubs, etc de esta ciudad, además de noticias sobre recitales, fiestas y algunas cosas más.</p>
+
+<p>Para hacer las primeras pruebas sobre la página nos juntamos un fin de semana a hablar sobre el proyecto y empezar a tirar algo de código. Diseñamos la estructura de la base de datos, y empezamos a hacer los primero métodos para actualizar esta. Pensamos el sistema de noticas para que sea lo más <a href="http://es.wikipedia.org/wiki/Autom%C3%A1gicamente">automágico</a> posible y fácil de usar.</p>
+
+<p>El proyecto lo alojamos en Google Code ya que es de código libre y además nos resulta fácil llevarlo adelante gracias al sistema de <a href="http://es.wikipedia.org/wiki/SVN">SVN</a> que Google posee. El proyecto se encuentra en esta dirección <a href="http://code.google.com/p/www-payaso/">http://code.google.com/p/www-payaso/</a> y al código lo pueden descargar desde una consola con el comando:
+
+</p><blockquote><em>$ <tt>svn checkout http://www-payaso.googlecode.com/svn/trunk/ www-payaso</tt></em></blockquote>
+
+Actualmente se encuentra en desarrollo y tiene un avance bastante lento, debido a que cada uno de nosotros no tenemos los conocimientos sufientes como para avanzar rápido y ademas estamos programando en otros proyectos también.
+
+<p>Tengo pensado, a medida que vaya haciendo algo en el proyecto, ir explicando cómo funciona TurboGears, o en realidad, cómo lo hago funcionar yo :) en <em>post posteriores. </em>En la carpeta <em>/doc</em> del proyecto se puede ver todo lo que vamos escribiendo sobre convenciones y forma de funcionamiento de este sistema, por lo cual quizás los post sean de este manual.</p></body></html>

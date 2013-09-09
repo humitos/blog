@@ -1,0 +1,12 @@
+.. link:
+.. description:
+.. tags: fotos, paraná
+.. date: 2011/04/28 12:55:16
+.. title: Seguridad ante todo...
+.. slug: seguridad-ante-todo
+
+Ayer me crucé con esto en **Alem entre Montecaseros y 9 de Julio**.
+|image0|
+
+.. |image0| image:: http://humitos.files.wordpress.com/2011/04/p4271406.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/p4271406.jpg

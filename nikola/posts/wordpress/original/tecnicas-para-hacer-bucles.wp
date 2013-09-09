@@ -1,0 +1,63 @@
+<html><body><p>Siempre hice cualquier cosa al iterar sobre algo en Python. Y leyendo el libro de Guido Van Rossum <em>"Guía de aprendizaje de Python"</em> encontré una sección llamada como el título del post. Lo que pongo acá es un mail que mandé a la lista de PyAr (Python Argentina); a la cual pertenezco ya hace desde un año más o menos.</p>
+
+<p>Todo esto es muy práctico para iterar sobre listas, diccionarios, tuplas, etc. Para recorrer diccionarios y recuperar la clave y el valor simultaneamente podemos hacer:</p>
+
+<p>&gt;&gt;&gt; en_es = {'shoot': 'disparar', 'hello': 'hola', 'back': 'volver'}
+
+&gt;&gt;&gt; for k, v in en_es.iteritems():
+
+...         print "'%s' en castellano significa '%s'" % (k,v)
+
+...
+
+'shoot' en castellano significa 'disparar'
+
+'hello' en castellano significa 'hola'
+
+'back' en castellano significa 'volver'
+
+&gt;&gt;&gt;</p>
+
+<p>Otra cosa que siempre he hecho bastante <em>feo</em>, es iterar sobre una secuencia
+
+haciendo uso de la función range() para saber en qué posición de la secuencia
+
+me encuentro y además saber que hay en la misma...</p>
+
+<p>&gt;&gt;&gt; for i, v in enumerate(["in", "cre", "i", "ble"]):
+
+...         print "posicion numero %d = %s" % (i, v)
+
+...
+
+posicion numero 0 = in
+
+posicion numero 1 = cre
+
+posicion numero 2 = i
+
+posicion numero 3 = ble
+
+&gt;&gt;&gt;</p>
+
+<p>Podemos recorrer dos secuencias fácilmente haciendo:</p>
+
+<p>&gt;&gt;&gt; colores = ["amarillo", "naranja", "verde"]
+
+&gt;&gt;&gt; frutas = ["banana", "naranja", "manzana"]
+
+&gt;&gt;&gt; for c, f in zip(colores,frutas):
+
+...         print "La %s es de color %s" % (f,c)
+
+...
+
+La banana es de color amarillo
+
+La naranja es de color naranja
+
+La manzana es de color verde
+
+&gt;&gt;&gt;</p>
+
+<p>Saludos!</p></body></html>

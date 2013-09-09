@@ -1,0 +1,37 @@
+<html><body><p>Este es el resultado del primer tiempo. Entre la mitad del día de ayer y todo el día de hoy estuvimos intentando hacer una <em>mini</em> aplicación gráfica con un amigo, <a title="Guillermo Heizenreder" href="http://gheize.wordpress.com">Guille</a>. En la tarde de ayer investigamos un poco el lenguaje, hicimos ejercicios de la guía de actividades de la materia que estamos cursando en la facu (DIED: <em>Diseño e implementación de estructura de datos</em>) y anduvimos bien, ya que es muy parecido a C++ la sintaxis. Aparte yo había leído la primer parte del libro <em>"Aprenda Java como si estuviera en primero" </em>asique <strong>algo</strong> sabíamos.</p>
+
+<p>Como siempre, hacer ejercicios que no sirven de nada, no tienen ninguna utilidad, y son aburridos de programar, pensamos en hacer algo un poco más <strong>lindo</strong> y <strong>agradable</strong> para los dos. Pero tampoco queríamos algo que sea muy complicado. Entonces nos decidimos por una calculadora <em>de bolsillo</em> con una pequeña <a href="http://es.wikipedia.org/wiki/Interfaz_gr%C3%A1fica_de_usuario">GUI</a>. Seguido de esto pensámos que bibliotecas gráficas utilizar, SWT, AWT, etc... Creamos un <a href="http://code.google.com/p/jcalculation/">proyecto</a> en Google Code y todo! <strong>Ya </strong>queríamos empezar, nos habían venido las pilas nuevamente.</p>
+
+<p>Al principio <em>nos daba igual</em> una librería o la otra, entonces empezamos por la que nos pareció que era mejor: <strong>SWT</strong> ya que por varios screenshots que vimos en internet se veía <em>lindo</em> en Linux y Windows.  Buscamos e instalamos todo lo necesario en mi máquina y nos pusimos manos a la obra. Para esto abrimos el Kate ;) y comenzamos a tipear hasta que teníamos algo, a modo de ejemplo, que muestre sólo una ventana y nada más. Vamos a la consola y tipeamos:
+
+</p><blockquote><em>$ javac Run.java</em></blockquote>
+
+Ups! Un error que decía que no conocía la clase para crear la ventana de SWT que queríamos hacer. Fácilmente lo localizamos, descargamos las librerías para Linux e intentamos nuevamente. Previo a esto encontramos en Google, gracias a <a href="http://www.juanjoconti.com.ar/">Juanjo</a>, que se le debía pasar el PATH en dónde se encontraban las librerías que íbamos a utilizar.
+
+<blockquote><em>$ javac Run.java -classpath swf.jar</em>
+
+<em>$</em></blockquote>
+
+Esto significa que compiló sin errores algunos por lo que <em>sonreímos</em> y ejecutamos el siguiente paso inmediatamente.
+
+<blockquote><em>$ java Run</em>
+
+<em> Exception in thread "main" java.lang.NoClassDefFoundError: [...]</em></blockquote>
+
+Lo que nos desilucionó bastante, ya que pensábamos que íbamos a poder empezar a programar anoche :( Hicimos mil búsquedas en Google y preguntamos a un montón de personas vía <em>chat</em> qué prodría llegar a ser esto hasta las <strong>3 am</strong>. La verdad terminamos muertos!
+
+<p>Al otro día se nos dió por probar el <a href="http://www.eclipse.org/">Eclipse</a> en mi máquina para ver si este simplificaba algo las cosas. Ya que estábamos desesperados porque probamos mil cosas (seguro que era una boludez lo que pasaba, pero hay que saber hacerlo).
+
+</p><blockquote><em>$ sudo apt-get install eclipse</em></blockquote>
+
+Y ¿problema resuelto? <strong>NO!!</strong> nos trajo más problemas que beneficios, enseguida al momento de abrirlo mi máquina pedía oxígeno (RAM), lo que no le pude suministrar ni creo que pueda, al menos por el momento. Cerré absolutamente todo lo que no era necesario para programar, e intentamos seguir un tutorial de cómo crear el Hello World con SWF que tenía el Eclipse en la ventana de Welcome. Sinceramente fué imposible e insaluble, ese programa es un mounstruo. Asique automáticamente buscamos alternativas. Guille mencionó <a href="http://www.netbeans.org/">NetBeans</a>. Listo, descargá e instalá contesté.
+
+<p>Grrr... Igual o más pesado que el Eclipse! Dejamos las librerías SWT de lado y buscamos el libro que yo tengo para ver con cuales trabaja: AWT. No se habla más,  volvimos al maravilloso mundo del Kate y seguimos los pasos del libro. Nos pusimos a tipear todo el código que necesitábamos para hacer una simple ventana y <em>voilá</em>. La ventana se veía, <strong>muy</strong> fea, pero se veía. Ya era un avance, <strong>gran</strong> avance.</p>
+
+<p>No discutimos más y nos pusimos manos a la obra para hacer dos o tres botones y tratar de sumar dos números. Pasaron 45 minutos o más y estábamos intentando meter el primer botón en la ventana que se mostraba. A todo esto no teníamos muy buena onda ya, estábamos cansado y además estamos <strong>extremadamente </strong>acostumbrados a <a href="http://www.python.org">Python</a> que con dos líneas ves resultados!</p>
+
+<p>Se nos ocurrió la idea de usar Eclipse o NetBeans únicamente para hacer la parte gráfica, entonces, volvimos de nuevo al NetBeans e intentamos crear un proyecto (luego de los 12,47 minutos que demoró en cargar), para luego insertar una ventana y agregarle unos botones y nada más, sinceramente es inusable este programa también. Pasamos a la solapa en la que te muestra el código y vimos que eran algo así como quichisientasmil líneas de código por lo que cerramos el programa automáticamente y nos pusimos a pensar seriamente (mientras este se comía la pc) que no podíamos desarrollar una aplicación gráfica sin un diseñador de ventanas (estilo <a href="http://glade.gnome.org/">Glade</a> o <a href="http://trolltech.com/products/qt/features/designer">Qt Designer</a>).</p>
+
+<p>Asique investigamos lo que quedaba de la tarde en ver si se podían diseñar  ventanas con Glade, Qt Designer o cualquier otro programa, y luego pasarlas a código Java. Encontramos un comando que pasaba lo hecho en Qt Designer a código Java pero utilizando las librerías Qt. Probamos y el compilador no encontraba el PATH de las librerías. Asique nos dimos por vencidos y dejamos todo de lado.</p>
+
+<p>Java, estámos esperando la revancha!</p></body></html>

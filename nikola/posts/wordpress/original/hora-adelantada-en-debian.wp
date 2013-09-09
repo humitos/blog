@@ -1,0 +1,25 @@
+<html><body><p>Ayer prendí la notebook y encontré que tenía 1 hora adelantada mi máquina. Esto se debe a que este año no se aplicó la<a href="http://infoleg.mecon.gov.ar/infolegInternet/anexos/135000-139999/136191/norma.htm"> ley 26.350</a>.</p>
+
+<p>Lo que debemos hacer para corregir este error es actualizar a la última versión el paquete <strong>tzdata</strong> quién es el que contiene la información sobre las zonas horarias en todo el mundo.</p>
+
+<p>Para actualizarlo debemos agregar a nuestras fuentes de paquetes el repositorio:
+
+</p><pre>deb http://ftp.de.debian.org/debian sid main</pre>
+
+Y luego ejecutar la actualización de fuentes con
+
+<pre>apt-get update</pre>
+
+, después de esto instalar la nueva versión del paquete desde sid:
+
+<pre>apt-get install -t sid tzdata</pre>
+
+Listo.
+
+<p>Fuentes:
+
+</p><ul>
+	<li>http://www.summarg.com/foro/sistemas-operativos-f81/horario-argentina-1-hora-adelantado-en-distribuciones-debian-t3333/</li>
+	<li>http://ubuntuforums.org/archive/index.php/t-938859.html</li>
+	<li>http://packages.debian.org/sid/all/tzdata/download</li>
+</ul></body></html>

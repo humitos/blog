@@ -1,0 +1,27 @@
+<html><body><p>Hoy estuve haciendo un poco de todo. Configurando el canal de IRC que mencioné en el post anterior, buscado plugins para el Kate, viendo algunos programas, incorporándome en la comunidad Ubuntu, traduciendo algunos paquetes, etc...</p>
+
+<p>En un momento de la tarde me puse a revivir el Kpaper y a ver porqué no andaba bien la parte de la interfaz gráfica hecha con PyGtk. Por lo que me puse a investigar cuál era el problema, miré algunos logs que tenía archivado en los bookmarks y pregunté en el canal de Ubuntu (#ubuntu-ar) si alguien se sometía a ser mi beta tester.</p>
+
+<p>Uno se copó (FreeDownload), se bajó el código y le hice hacer algunas pruebas en su máquina, ya que yo tengo Kubuntu y quería estar seguro que en Ubuntu andaba. Bue, cómo era de esperar no le funcionó y le pedí que me pase por favor lo impreso en consola. Me puse a estudiar cuál era el problema. No lo pude descifrar y no dude en mandarlo a la lista de <a href="http://www.python.com.ar">PyAr</a>.</p>
+
+<p>No estando seguro de cuál era el problema, mandé el mail. Esto es jodido porque si no sé qué es lo que pasa es complicado transmitir por email la pregunta. Lo que yo quería explicar no era nada concreto y no sabía como, ni por dónde empezar.  Pero esto no viene al caso...</p>
+
+<p>Redacté el mail, y envié. Al rato me contestaron con una explicación (no muy distinta a lo que yo pensaba) pero me sugirieron hecharle un vistazo  al módulo <strong>pdb</strong> que es <em>Python Debugger</em>. Asique fuí directo a la documentación <a href="http://docs.python.org/lib/module-pdb.html">oficial</a>. Y me encontré con que es para ir parando el programa dónde uno desea. Ni más ni menos que... "Un debugger!" :) . Buenísimo.</p>
+
+<p>Hice un par de <a href="http://www.paste-it.net/3957">pruebas</a>, <em>simples</em>, sobre el archivo <a href="http://www.paste-it.net/3958">hello.py</a>, para ver como funciona y si realmente es útil. Después de jugar un rato, encontré cosas interesantes, cómo por ejemplo, ver en qué parte del código de mi programa estoy y poder ejecutar código Python ahí mismo.</p>
+
+<p>Con la función "<em>pdb.set_trace()</em>" le indico al intérprete que debe frenar en esa línea, y dejarme hacer lo que yo quiera en la consola del debugger. Yo en el ejemplo que hice puse cuatro puntos en los que quería que parara, e hice algunas consultas. Utilicé los comandos:
+
+</p><ul>
+	<li><strong>list:</strong> me muestra la porción del código indicando dónde estoy posicionado actualmente en el código.</li>
+	<li><strong>!:</strong> me deja introducir código Python, por lo que yo usé la función <em>print</em> para mostrar el contenido de las variables que me interesaban.</li>
+	<li><strong>continue: </strong>ejecuta el código hasta el próximo <em>pdb.set_trace()</em> (break point).</li>
+	<li><strong>next:</strong> continúa la ejecución hasta la próxima línea de la función actual.</li>
+	<li><strong>help:</strong> nos muestra la ayuda de los comandos que podemos utilizar.</li>
+	<li><strong>where:</strong> indica en qué parte del código estamos parados y muestra a línea correspondiente.</li>
+	<li><strong>whatis:</strong> muestra el tipo de dato de la variable pasado como argumento.</li>
+	<li><strong>args:</strong> indica cuales son los parámetros de la función en la que actualmente estamos ejecutando el código.</li>
+	<li><strong>return:</strong> ejecuta el código hasta que la función actual retorne.</li>
+</ul>
+
+Se puede ir haciendo un seguimiento del código que escribí y de las pruebas que realicé. Por ahora son muy sencillas, es la primer vez que veo este módulo y seguro que más adelante le sacaré más provecho.</body></html>

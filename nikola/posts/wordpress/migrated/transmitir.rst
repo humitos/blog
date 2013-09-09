@@ -1,0 +1,51 @@
+.. link:
+.. description:
+.. tags: general
+.. date: 2012/07/14 23:19:56
+.. title: Transmitir
+.. slug: transmitir
+
+Sorpresivamente me encontré meditando. Mirando al horizonte. Cercano,
+pero horizonte al fin. Buscando penetrar con mi mirada, esquivando los
+árboles y soportando el frío que golpeaba mi cara y resecaba mi piel.
+Penetrar en la nada misma. Escarbando lo más profundo de mi cerebro para
+poder entender el significado de transmitir.
+
+Durante unos cuantos minutos me quedé tildado, como si miraba pero no
+veía o veía pero no miraba. Como sea, tenía los ojos abiertos pero lo
+único que veía eran mis pensamientos. Adelante mío, árboles,  calles,
+edificios y un sin fin de molestos ruidos. Y así y todo, no interferían
+con mis pensamientos.
+
+Ahí, en ese momento, entendí completamente el significado de transmitir
+y lo importante que es para nosotros poder transmitir y también poder
+recibir lo que las otras personas desean transmitir. Así, vinieron
+pequeñas situaciones a mi cabeza que se transformaban en excelentes
+ejemplos que me ayudaban a pulir el concepto y a reflexionar sobre lo
+que podemos generar.
+
+"Todos los días somos capaces de dejar semillas en las otras personas"
+-pensé. Trabajé ese concepto un rato y me terminé dando cuenta de cuánta
+dedicación pongo cuando intento transmitir un conocimiento y
+automáticamente se me vino a la mente la frase: "Sos un profesor
+estimulador", que me habían dicho hace un rato atrás. Ahí entendí lo que
+había escuchado hace unas semanas atrás de un docente de mi universidad,
+dijo algo así como: "Es realmente gratificante cuando me doy cuenta que
+dejé una semillita en alguno de ustedes". Y sí, ¿no?. Pensar que a uno
+le explican detenidamente cómo hacer algo y mientras se lo están
+explicando uno va aprendiendo. Luego, se va con todos esos conceptos y
+empieza a explorarlos personalmente, los trabaja y obtiene excelentes
+resultados y así sigue caminando toda su vida con esos conceptos y
+saberes que les fueron transmitidos por otra persona que dedicó un rato
+de sí misma para transmitirlos.
+
+¿Y qué son todos esos saberes que se han transmitido? Tiempo, dedicación
+y sobre todo energía. Energía que seguirá dando vueltas en la otra
+persona hasta... ¿quién sabe cuándo o incluso dónde?. Algo que quizás lo
+aprendí acá, a la vuelta de casa, lo puedo estar transmitiendo en el
+otro lado del mundo. Es más, después esa misma persona, digamos "la que
+tiene esos nuevos conceptos", incluso puede comentárselos a otra persona
+más dedicando parte de su tiempo y dedicación y nuevamente transmitiendo
+ese saber en forma de energía; que también seguirá viva y latente hasta
+quien sabe cuándo en otra nueva persona y así, así... Multiplicándose
+por todas partes, saberes y conocimientos: libres.

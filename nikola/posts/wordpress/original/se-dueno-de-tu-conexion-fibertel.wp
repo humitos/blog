@@ -1,0 +1,52 @@
+<html><body><p>Antes de ayer pedí (bah, <strong>me hincharon tanto las pelotas</strong> que terminé aceptando) el servicio de Fibertel 3Mb + Cablevisión Digital. Hacía mucho que veníamos a las vueltas con mi vieja, que sí, que no y qué se yo. Pero Arnet siempre tenía algo.</p>
+
+<p>Una cosa que me preocupaba era el tema de abrir puertos con Fibertel, ya que yo necesito poder ingresar a mi PC desde afuera (SSH, Apache, Django, Pylons, JDownloader y demás). Digamos, quiero hacer lo que se me canta el culo con mi conexión, es mía y pago por eso. Bueno, acá el tema es que Arnet <strong>siempre me dijo que esto no se podía hacer</strong>. Sin embargo, investigando en internet encontré varias cosas para hacer, desde el password del router hasta como flashearlo. Y bueno, esto finalmente lo pude hacer con Arnet sin problemas.</p>
+
+<p>Siendo que esto me preocupaba, decidí que la próxima vez que me llamen para ofrecerme este servicio lo iba a matar a preguntas al pibe y que de última me diga que no sabía o que sí o lo que sea. Pero yo quería dejar en claro las cosas que quería hacer con el servicio que estaba contratando, siendo que con Arnet lo podía hacer y si ellos no me ofrecían lo mismo o mejor no me iba a cambiar.</p>
+
+<p>Finalmente, decidimos decir que sí, por lo menos se iban a dejar de romper las bolas. El tipo que me llamó preguntó las 1000 y 1 preguntas que le hice a su supervisor y muchas me dijo que "sí sí" como a los locos y otras me las supo explicar un poco más, pero que igualmente, hable con los pibes que me iban a hacer la instalación para estar 100% seguro :) (lavate las manos)</p>
+
+<p>Hoy por la mañana vinieron los pibes y <strong>lavate las manos </strong>de nuevo. Me dijeron que yo podía hacer todo lo que Fibertel me había ofrecido, que ellos no sabían nada de eso: "<em>Nosotros sólo hacemos la instalación, tiramos los cables digamos. Si yo te digo que la instalación va sin cargo y ellos después te la cobran, me vas a putear a mí. Yo no sé eso, si te dijeron A es A.</em>"</p>
+
+<p>"<em>Ok, vos instalalo y yo después me arreglo con ellos. De última, lo doy de baja</em>"</p>
+
+<p>Se pasaron por lo menos 2 horas los pibes acá haciendo la instalación y hablando al pedo conmigo. Uno era medio pistero y fan del 147, y como yo la tengo re clara de autos :P , hablamos un montón.</p>
+
+<p>Listo! Ya tenía Fibertel 3Mb... Uhhh, como anda! :P Seee, se nota un poco que anda más rápido, pero no es la gran cosa. Los pibes me dijeron: "<em>Esta es la clave del Wifi y el nombre de la red es Fibertel WiFi. Cualquier cambio que quieras hacer entrá a la Sucursal Virtual</em>".</p>
+
+<p>Se fueron los pibes y lo primero que probé fue entrar a http://192.168.0.1 y nada. Busqué en Google y encontré en Taringa! que la dirección era http://24.232.0.118/ y había que usar el <strong>número de serie del modem / router Motorola</strong> como <strong>usuario</strong> y el <strong>número de cliente</strong> como <strong>contraseña. </strong>Al final no era el número de serie, no sé qué es el número, pero me había quedado grabado en el Firefox por suerte. La contraseña sí es el número de cliente.</p>
+
+<p>Estaba re contento pero lamentablemente desde ahí no se puede hacer nada. Así que, de vuelta a Google y a Taringa! como loco. Busqué, busqué y ¿viste que el busca siempre encuentra?: <a href="http://www.taringa.net/posts/info/5251453/Solucion-Fibertel-Wifi_-Conecta-mas-pc_s_-notebooks_-etc.html">encontré</a>!</p>
+
+<p>Siguiendo ese post de Taringa terminé haciendo estos pasos:
+
+</p><ol>
+	<li>Desenchufar todos los cables del Modem / Router</li>
+	<li>Mantener presionado  el botón de <strong>reset</strong> (que es muy chiquitito y no dice nada al respecto) que se encuentra en la parte de atrás cerca de la alimentación. Esto lo hice con la herramienta mágica: un clip</li>
+	<li>Conectar el cable de alimentación</li>
+	<li>Esperar que las luces hagan su gracia (parpadean todas juntas después de unos 10-15 segundos)</li>
+	<li>Conectar una PC por el cable de Red que trae</li>
+	<li>Ingresar a http://192.168.0.1</li>
+	<li>Poner los datos de usuario: <strong>admin</strong> y contraseña: <strong>motorola</strong></li>
+	<li><a href="http://humitos.files.wordpress.com/2011/07/pantallazo.png"><img class="aligncenter size-full wp-image-892" title="Pantallazo" src="http://humitos.files.wordpress.com/2011/07/pantallazo.png" alt="" width="600" height="351"></a>Ir a <strong>Advanced -&gt; Options</strong> y luego <strong>des-tildar </strong>la opción <strong>WAN Blocking</strong></li>
+	<li><a href="http://humitos.files.wordpress.com/2011/07/pantallazo-2.png"><img class="aligncenter size-full wp-image-893" title="Pantallazo-2" src="http://humitos.files.wordpress.com/2011/07/pantallazo-2.png" alt="" width="600" height="351"></a>Luego ir a <strong>Advanced -&gt; Forwarding</strong> y habilitar <em>tooooodos </em>los puertos que se te canten. Yo acá puse la dirección de IP (que después de la asigno de forma estática mediante el Modem / Router de Fiberter - Motorola) del router Linkys al cual conecto el RJ45 (cable de red del Motorola) en la interface de WAN</li>
+	<li><a href="http://humitos.files.wordpress.com/2011/07/pantallazo-3.png"><img class="aligncenter size-full wp-image-894" title="Pantallazo-3" src="http://humitos.files.wordpress.com/2011/07/pantallazo-3.png" alt="" width="600" height="351"></a>En <strong>Basic -&gt; DHCP</strong> le asigno la dirección de IP de forma estática al router Linksys poniendo su MAC y la dirección de IP que le quiero asignar. En este caso 192.168.0.2</li>
+	<li><a href="http://humitos.files.wordpress.com/2011/07/pantallazo-5.png"><img class="aligncenter size-full wp-image-895" title="Pantallazo-5" src="http://humitos.files.wordpress.com/2011/07/pantallazo-5.png" alt="" width="600" height="351"></a>Por último le cambié el SSID (nombre de la red WiFi) en <strong>Wireless -&gt; Primary Network</strong></li>
+	<li><strong></strong><a href="http://humitos.files.wordpress.com/2011/07/pantallazo-7.png"><img class="aligncenter size-full wp-image-896" title="Pantallazo-7" src="http://humitos.files.wordpress.com/2011/07/pantallazo-7.png" alt="" width="600" height="351"></a>Me desloguié con <strong>Logout</strong> y luego le quité el cable de energía nuevamente al Modem / Router de Fibertel</li>
+	<li>Ubiqué todo como quería quede finalmente (<em>ojo, una vez que le colocás el cable de Internet -el coaxil- no podés entrar más a este panel de administración. Por lo tanto te recomiendo que hagas todo bien de la primera, sino hay que hacer todo de nuevo. También te podés guardar un Backup de la configuración de tu Modem / Router en la sección <strong>Basic -&gt; Backup</strong></em>) y coloqué el cable coaxil</li>
+	<li>Demoró <em>bastante </em>en iniciar y finalmente tengo todo configurado como corresponde</li>
+</ol>
+
+Por las dudas, mi <strong>Modem / Router es el Motorola SBG901</strong>:
+
+<p><img class="aligncenter" src="http://www.generalmanual.com/img/0907/motorola-sbg901-wireless-cable-modem-gateway.jpg" alt="" width="230" height="259"></p>
+
+<p><em>Bueno, nada más. Espero que se entienda y que sea de utilidad para todos los que <strong>ahora</strong> tenemos Fibertel! Culeados, viva Piñón Fijo carajo!</em></p>
+
+<p><strong>EDITADO 14 de Julio de 2011:</strong> por si te interesa investigar un poco más, acá tenés el <a href="https://docs.google.com/viewer?a=v&amp;pid=explorer&amp;chrome=true&amp;srcid=0B2rKoqZVq0cPNzI5MzI0ZGUtNjM2Mi00NTBlLThiMzEtZjYwNDk0ZDE3NDRk&amp;hl=en_US">manual del router</a>. Si encontrás algo copado, por favor dejá un comentario acá, así nos enteramos todos. Gracias!</p>
+
+<p><strong>EDITADO 21 de Julio de 2011:</strong> hablando con un amigo (Nicolás "Casi Ingeniero" Mascardi) me dijo que me fije si el Router lo podía configurar con DMZ y así evitar muchos de los pasos anteriormente mencionados. Hoy le dediqué un tiempo para ver qué es esto y, además de descubrir que se puede, llegué a la conclusión que es exactamente lo que necesito: <em>básicamente forwardea todos los puertos de la WAN a una IP fija de la LAN que vos le digas</em>. Joya, acá está la información tomada del manual de cómo hacer esto (recordar que hay que quitar el coaxil, resetear el router y luego entrar en el admin del Motorola). Bueno, basícamente configuré el IP de mi router Linksys para que mande todo hacia ahí y ahora la administración de los puertos la hago desde el Linksys ;)</p>
+
+<p><a href="http://humitos.files.wordpress.com/2011/07/dmz-router-motorola.png"><img class="aligncenter size-full wp-image-957" title="DMZ-router-motorola" src="http://humitos.files.wordpress.com/2011/07/dmz-router-motorola.png" alt="" width="569" height="362"></a>
+
+</p><p style="text-align:right;"><em>"si hubiese terminado la carrera, sabría hacer esto"</em></p></body></html>

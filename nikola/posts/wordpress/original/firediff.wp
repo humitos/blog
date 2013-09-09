@@ -1,0 +1,11 @@
+<html><body><p>Encontré otra <strong>extensión infaltable</strong> para el Firefox: <a href="http://www.incaseofstairs.com/firediff">Firediff</a>.</p>
+
+<p>La cosa viene así: realmente casi que no tengo idea de CSS, no sé programar con CSS pero básicamente me la rebusco con Google y con Firebug modificando los atributos "en vivo". Resulta que después de modificar todo desde el Firebug me pasaba que no sabía que corno había cambiado y tenía que empezar a comparar el .css que tenía en el disco con lo que me mostraba el Firebug y esto se tornaba bastante pesado.</p>
+
+<p><img class="aligncenter" src="http://www.incaseofstairs.com/wp-content/uploads/2009/04/firediff_small.png" alt="" width="452" height="245"></p>
+
+<p>Bueno, esta extensión sirve exactamente para eso, para mostrar las diferencias entre el HTML/CSS original y el modificado con Firebug o con JS (también podés abrir la consola de Javascript y tirar código ahí que el Firediff lo detecta y te lo muestra). La verdad, está buenísima.
+
+</p><ul>
+	<li><a href="https://addons.mozilla.org/en-US/firefox/addon/13179/">https://addons.mozilla.org/en-US/firefox/addon/13179/</a></li>
+</ul></body></html>

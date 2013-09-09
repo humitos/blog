@@ -1,0 +1,11 @@
+<html><body><p>Hace exactamente 10 días me puse a estudiar <strong>Django</strong>, y me topé con que toda la documentación, ejemplos y tutoriales están en inglés. Después de hacer el primer tutorial básico quería un poco más y me fui a leer el <a href="http://www.djangobook.com">libro</a>.</p>
+
+<p>Después de leer un rato, me cansé ya que al estar en inglés me cuesta demasiado, no tanto por el hecho de traducir o interpretar lo que dice, sino que me cuesta llevar un buen ritmo. Entre lo que tipeo en la máquina, lo que pruebo, el diccionario y demás me distraía mucho.</p>
+
+<p>Propuse en la lista de <strong>Django Español</strong> y Python Argentina traducir este libro (que por lo poco que había leído --hasta el capítulo 4--) está muy bueno.</p>
+
+<p>Se engancharon bastantes con la idea, asi que para que podamos colaborar todos y de paso para aprender, puse un <strong>Trac</strong> en mi servidor. Para esto me ayudó Guille, la verdad que salió andando en un par de horas, lo hicimos todo por ssh desde la casa de él. Muy divertido :)</p>
+
+<p>La página del Trac es <a href="http://trac.usla.org.ar/proyectos/django-book">ésta</a>, cualquiera que tenga intenciones de colaborar se puede sumar al proyecto, no hacen falta casi nada, un poco de ganas nomás.</p>
+
+<p>Después de comenzar algunos párrafos, nos dimos cuenta que era muy tedioso sacar el texto original de la página de oficial, asi que nos pusimos en campaña para buscar los .rst (<strong>reStructuredText</strong>) ya que este es libre --alguien los debía tener--. Entonces mandé un mail a la lista de Django-es y pregunté por esto. A las pocas horas Jacob Kaplan-Moss, uno de los autores del libro, nos escribe a la lista ofreciendo los fuentes originales. Enseguida nos pusimos a chatear con él y con el otro autor del libro, Adrian Holovaty, por IRC y ellos nos dieron todo su apoyo. Incluso nos dijeron que cuando esté listo lo van a alojar en <a href="http://www.djangobook.com/es">http://www.djangobook.com/es</a> ¿Qué más querés papá?</p></body></html>

@@ -1,0 +1,45 @@
+<html><body><p>Desde que monté un servidor en mi casa de svn para probar algunas cosas, y debido a que Google Code no me dejaba crear más proyectos. Me convencí que el servicio que brinda Google es <strong>demasiado</strong> <strong>lento</strong> en comparación con un servidor propio (¡Ojo! yo no tengo una conexión muy buena y anda a las mil maravillas el servicio).</p>
+
+<p>Entonces empecé a pensar en mudarme de google e irme a un servidor propio (o de <em>alguien</em> ;) ). Cuando lo decidí empecé a buscar una forma de sacar mis proyectos de esta página. Pregunté en varios lados y a varias personas sobre esto, me dijeron que no sabían y que incluso seguramente que no se podía. Me recorrí <em>toda</em> la página de Google buscando una respuesta, las páginas de mis proyectos, pero nada...</p>
+
+<p>Pensé en hacerme un script que baje desde la primer versión hasta la última y valla haciendo commits de manera alternada. Pero el problema es que las fechas de los commits y los usuarios que lo hacían iban a quedar en cualquiera.</p>
+
+<p>Seguí buscando un poco más, preguntando en los canales de irc amigos,  y al final encontré un programa llamado <a href="http://svk.elixus.org/view/HomePage">svk</a>, que la verdad <strong>se la re banca</strong>. Lo que hace el pibe es bajarte el repositorio de google (o cualquier otro hosting que tenga el servicio de svn) <strong>tal cual</strong> como lo tenías en ese servidor. Osea, sin perder absolutamente nada. Ni los logs, ni las fechas ni ná. Y te crea un repositorio local para usarlo como si fuese el de google pero ahora siendo administrador y no sólo cliente como te permite Google. Por ejemplo para bajar el repositorio de mi proyecto Kpaper hago:
+
+</p><blockquote></blockquote>
+
+<pre><strike>$ svk mirror //local http://kpaper.googlecode.com/svn/
+
+$ svk sync //local</strike></pre>
+
+<blockquote></blockquote>
+
+<strong>Update 19/11/07:</strong> bastante feo de mi parte, no había probado esto en el servidor en el cual me estaba mudando. Cuando lo hice descubrí que el comando correcto a ejecutar es:
+
+<pre>$ svk mirror // http://kpaper.googlecode.com/svn/
+
+$ svk sync //</pre>
+
+Porque sino, de la otra manera estaba creando un subdirectorio en nuestros repositorios porque lo quedaba en cualquiera a la hora de importarlo con <strong>svnadmin load</strong>.
+
+<p>De esta forma en el directorio <em>~/.svk/local</em> me crea el repositorio local. Incluyendo los directorios <em>branches, trunk </em>e<em> etiquetas.</em> Para acceder a este código en forma de repositorio (como si estaría en Google):
+
+</p><blockquote></blockquote>
+
+<pre>$ svn co file:///home/manuel/.svk/local/mirror/trunk kpaper</pre>
+
+<blockquote></blockquote>
+
+Ahora bien, si queremos mudarlo a otro hosting podemos hacer un <strong>dump</strong> con el comando svn, guardarlo todo en un solo archivo y transportarlo al servidor que más nos guste :) :
+
+<blockquote></blockquote>
+
+<pre>$ svnadmin dump -r2:HEAD ~/.svk/local/mirror/ &gt; kpaper.svn.repository</pre>
+
+<blockquote></blockquote>
+
+Le saco la primer revisión porque es una que crea este comando (svk). Bueno ahora podemos hacer lo que queremos con <strong>nuestro</strong> código y ahora si <strong>somos dueños</strong> del servicio svn.
+
+<p>Y para terminar, me hice un <a href="http://www.paste-it.net/4621">script en Python</a> (por supuesto) para bajar más de un proyecto y no tener que memorizarme estos comandos. Se le pasa la lista de los nombres de proyectos que queremos bajar separados por espacios en blanco y listo.</p>
+
+<p>Quiero mejorarlo un poco, ya que cada vez que baja uno te pregunta si querés crear una carpeta. Ahora no tengo muchas ganas de <em>pensar</em>, después lo veo :P .</p></body></html>

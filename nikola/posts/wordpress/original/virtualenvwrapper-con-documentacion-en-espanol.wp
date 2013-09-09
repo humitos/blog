@@ -1,0 +1,23 @@
+<html><body><p>Sí sí, estoy haciendo un post en mi blog: cualquier eso, pero bue. La cuestión es que quiero anunciar, casi obligado por haber hecho algo en dónde han publicado la dirección de mi blog, que terminé la traducción de virtualenvwrapper en estas semanas y estoy muy contento.</p>
+
+<p>virtualenvwrapper es una suite de funciones que facilitan el trabajo con virtualevn, pero... ¿Para qué les voy a contar más si lo pueden leer de la documentación oficial?
+
+</p><ul>
+	<li><a href="http://www.doughellmann.com/docs/virtualenvwrapper/es/">http://www.doughellmann.com/docs/virtualenvwrapper/es/</a></li>
+</ul>
+
+Quiero agraderle a Doug Hellmann la buena onda que tuvo durante este tiempo conmigo y la paciencia, es un grande el flaco la verdad!
+
+<ul>
+	<li>blog: <a href="http://blog.doughellmann.com">http://blog.doughellmann.com</a></li>
+	<li><a href="http://blog.doughellmann.com/2010/04/virtualenvwrapper-docs-translated-to.html">http://blog.doughellmann.com/2010/04/virtualenvwrapper-docs-translated-to.html</a></li>
+	<li>código virtualenv: <a href="http://bitbucket.org/dhellmann/virtualenvwrapper">http://bitbucket.org/dhellmann/virtualenvwrapper</a></li>
+</ul>
+
+Aquí dejo el repositorio del código en el cuál hice la traducción, es un fork de su repo en Bitbucket.org
+
+<ul>
+	<li><a href="http://bitbucket.org/humitos/virtualenvwrapper-es-translation">http://bitbucket.org/humitos/virtualenvwrapper-es-translation</a></li>
+</ul>
+
+Gracias totales.</body></html>

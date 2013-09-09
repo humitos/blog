@@ -1,0 +1,31 @@
+<html><body><p>Si te ha pasado que te has sentido <strong>fruteado</strong> por Skype y que claramente no te quedó el log para mostrar a tus amigos y decirles: "Che, mirá lo que me dijo el muy culeado", acá viene la solución. Se llama <strong><a href="http://atdot.ch/scr/">Skype Call Recorder</a></strong> y lo podés instalar fácilmente en Debian:</p>
+
+<p><code>
+
+# Dependencias
+
+sudo apt-get install libid3-3.8.3c2a libqt4-gui ﻿libmp3lame0</code></p>
+
+<p><code># Descarga de Skype Call Recorder
+
+wget http://atdot.ch/scr/files/0.8/skype-call-recorder-debian_0.8_i386.deb</code></p>
+
+<p><code># Instalación
+
+sudo dpkg -i skype-call-recorder-debian_0.8_i386.deb</code></p>
+
+<p></p>
+
+<p><code># Ejecución
+
+skype-call-recorder
+
+</code></p>
+
+<p>Si utilizás otra distribución que no es Debian, podés consultar la <a href="http://atdot.ch/scr/download/">sección Downloads</a> del sitio de Skype Call Recorder para ver cómo instalarlo en tu distribución. Si usás OSX, dejá un comentario explicando cómo lo instalaste :)</p>
+
+<p>Acá está el <a href="http://forum.skype.com/index.php?showtopic=138491">anuncio oficial</a>.</p>
+
+<p>Está buenísimo, podés configurarlo para que siempre te grabe todas las llamadas o para que te pregunte qué hacer en cada una. Inicialmente empieza grabando (para que no te pierdas el principio) y luego la podés cancelar o aceptar. Además, se puede configurar dónde querés que te guarde las llamadas y el tipo de archivo a usar.</p>
+
+<p> </p></body></html>

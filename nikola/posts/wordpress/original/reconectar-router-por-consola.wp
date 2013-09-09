@@ -1,0 +1,32 @@
+<html><body><p>En realidad esto me surgió cuando estaba configurando el JDownloader para que se reconecte automáticamente cuando <a href="http://rapidshare.com">rapidshare.com </a>o algunos similares, dicen que tenemos que esperar unos cuantos minutos para poder bajar otro archivo. Como normalmente las cosas que queremos bajar son más pesadas de la capacidad máxima que estos servidores te dejan bajar, el archivo que queremos está subdividido en varias partes y entonces es aquí cuando tenemos este problema.</p>
+
+<p>Como yo tengo Arnet y éste proveedor te da una IP nueva cada vez que te reconectás, me hice un script para <strong>solucionar</strong> esto. El script se desconecta y se conecta nuevamente :)</p>
+
+<p>Lo que necesitamos para hacer el script es usar el comando <strong>curl</strong> y tener el add on del Firefox que se llama <a href="https://addons.mozilla.org/es-ES/firefox/addon/3829/">Live HTTP Headers</a>, y con este plugin podemos ver cuál es la información que se le manda al router para que realice la desconexión/conexión.</p>
+
+<p>Una vez que tenemos instalado el plugin debemos activarlo yendo a <em>Herramientas -&gt; Live HTTP Headers</em> y asegurarnos que el checkbox "Capturar" esté activado. Una vez que tenemos esto, vamos a la página de nuestro router (en mi caso 192.168.1.1) y luego a la página dónde nos muestra el botón para desconectar de internet.</p>
+
+<p>Una vez que estamos ahí, vamos al Live HTTP Headers y nos fijamos si realmente está capturando los POST, GET, etc; de ser así presionamos el botón "Limpiar" ya que eso que se muestra ahí no nos interesa y nos dificultará la lectura posterior.</p>
+
+<p>Ahora ya tenemos todo listo, nos falta presionar el botón y buscar el POST que se envía al presionar ese botón al router, y copiamos la URL a la que se envía y también los datos que se envían. En mi caso fue así:
+
+</p><p style="text-align:center;"><a href="http://humitos.files.wordpress.com/2010/08/http-live-headers.jpeg"><img class="aligncenter size-full wp-image-259" title="http-live-headers" src="http://humitos.files.wordpress.com/2010/08/http-live-headers.jpeg" alt="" width="600" height="290"></a></p>
+
+Una vez que tenemos esos datos, sólo basta ejecutar el comando <strong>curl</strong> con los datos obtenidos:
+
+<pre>curl "http://&lt;user&gt;:&lt;password&gt;@192.168.1.1/rstatus.tri" \
+     -d "action=Disconnect&amp;wan_pro=2&amp;conn_stats=300&amp;layout=en"
+
+<p>curl "http://&lt;user&gt;:&lt;password&gt;@192.168.1.1/rstatus.tri" \
+     -d "action=Connect&amp;wan_pro=2&amp;conn_stats=-1&amp;layout=en"
+</p></pre>
+
+El primer ejemplo es para desconectar el router y el segundo para conectar, así funciona la reconexión :) . Ahora sólo falta poner esto en un script e indicarle al JDownloader que use éste cuando lo necesite. Para esto, copiamos esos dos comandos en un archivo de texto, lo marcamos como ejecutable y le agregamos la siguiente línea al principio para decile que lo ejecute con <strong>bash</strong>:
+
+<pre>#!/bin/bash
+
+</pre>
+
+Luego en el JDownloader, en la pestaña de<em> Ajustes</em> vamos a <em>Módulos -&gt; Reconexión y Router -&gt; Externo</em> y ahí seleccionamos el script que acabamos de crear. Luego podemos probar esto con el botón <em>Cambiar IP</em>.
+
+<p>Nada más :) , es útil, funciona para cualquier router ya que podemos ver exactamente la información que se le manda al mismo. Este ejemplo está basado en el router <strong>Linksys WRT54G v8.0</strong> con el firmware original y el concepto de estas instrucciones me lo chorié de <a href="http://www.taringa.net/posts/info/4464454/Tutorial-para-configurar-la-reconexi%C3%B3n-en-jDownloader.html">acá</a>.</p></body></html>

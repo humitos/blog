@@ -1,0 +1,79 @@
+<html><body><p>I've been trying to compile Sugar on Debian Testing since a week ago. I chat with some guys on #sugar (irc.freenode.net) looking for help and solving some bugs related with dependencies: <a href="http://bugs.sugarlabs.org/ticket/3364">#3364</a>, <a href="http://bugs.sugarlabs.org/ticket/3365">#3365</a>, <a href="http://bugs.sugarlabs.org/ticket/3370">#3370</a> and <a href="http://bugs.sugarlabs.org/ticket/3372">#3372</a>.</p>
+
+<p>After these two weeks, we found the solution to those issues and we discover another ones. I was helped by <strong>silbe</strong> to compile Sugar on Debian Testing. He helped me a lot fixing some missing dependencies that I found and guiding me to the solution; telling me about what .log file to take a look for example.</p>
+
+<p>I think that Sugar has a blocking bar to start coding. I'm a developer, I don't know too much about <em>jhbuild</em> and I think that I shouldn't fight against it. Sometimes this blocking bar is sufficient to lost a good developer that tries to collaborate but he can't cross that bar, so maybe he goes for another project.</p>
+
+<p>O.K., let's go to the really steps to compile Sugar on a Debian Testing installation:</p>
+
+<p>1. Download the <em>sugar-jhbuild</em> source code
+
+</p><pre>git clone git://git.sugarlabs.org/sugar-jhbuild/mainline.git sugar-jhbuild</pre>
+
+2.  Update the sugar code
+
+<pre>cd sugar-jhbuild
+
+./sugar-jhbuild update</pre>
+
+3. Now, you need to check what dependencies are missing in your system
+
+<pre>./sugar-jhbuild depscheck</pre>
+
+4. Install all Debian packages listed bydepscheck command
+
+<pre>sudo apt-get install &lt;all-packages-listed-by-depscheck&gt;</pre>
+
+NOTE:You need to <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=648724">apply a patch</a> on the <em>libgconf2-4</em> package. So, we have to download the libgconf source package and apply that patch.
+
+<p>5. Download the source
+
+</p><pre>mkdir /tmp/src-libgconf2-4
+
+cd /tmp/src-libgconf2-4
+
+apt-get source libgconf2-4</pre>
+
+6. Install building dependencies
+
+<pre>sudo apt-get build-dep libgconf2-4</pre>
+
+6. Download and apply the patch
+
+<pre>cd gconf-3.2.3
+
+wget -c http://bugzilla-attachments.gnome.org/attachment.cgi?id=201398 -O gconf.patch
+
+git apply gconf.patch --verbose</pre>
+
+7. Create the .deb packages
+
+<pre>dpkg-buildpackage -rfakeroot -b
+
+cd ..</pre>
+
+8. Install .deb packages
+
+<pre>sudo dpkg -i *.deb</pre>
+
+9. <em></em>Build Sugar
+
+<pre>cd &lt;your-sugar-jhbuild-directory&gt;
+
+./sugar-jhbuild build</pre>
+
+10. Runsugar-emulator
+
+<pre>./sugar-jhbuild run sugar-emulator</pre>
+
+That's all! Two weeks of work summarized in one single post with 10 simple steps!!!
+
+<p>Yes! Now I can collaborate with this project. It's really interesting; I was working some years ago on the OLPC project, and it was cool. This time I found that the GUI and the activities grew a lot! I'm happy with that.</p>
+
+<p>Here are the references that I used to compile sugar:
+
+</p><ul>
+	<li><a href="http://wiki.sugarlabs.org/go/Development_Team/Jhbuild">http://wiki.sugarlabs.org/go/Development_Team/Jhbuild</a></li>
+	<li><a href="https://wiki.sugarlabs.org/go/Development_Team/Jhbuild/Debian">https://wiki.sugarlabs.org/go/Development_Team/Jhbuild/Debian</a></li>
+	<li><a href="http://ariejan.net/2008/05/04/how-to-compile-packages-on-debianubuntu-by-hand">http://ariejan.net/2008/05/04/how-to-compile-packages-on-debianubuntu-by-hand</a></li>
+</ul></body></html>

@@ -1,0 +1,249 @@
+.. link:
+.. description:
+.. tags: viajes
+.. date: 2011/04/26 21:45:42
+.. title: Potrero de los Funes, San Luis 2011
+.. slug: potrero-de-los-funes-san-luis-2011
+
+El miércoles pasado a la noche, después de la facultad arranqué para
+Rosario ya que me iba de viaje a Mendoza con mi primo Gustavo y Pancho
+(Juan) el Jueves a la mañana bien temprano. La idea era salir a eso de
+las 6:30 a.m. de Rosario. La excusa para hacer este viaje era que mi
+primo se había comprado un Fiat Tempra y quería ver cómo se comportaba
+en la ruta :)
+
+La primera idea del viaje era ir hasta Mendoza, pero a medida que se
+acercaba la fecha también barajábamos la posibilidad de pasar por San
+Luis, ver qué onda y quizás quedarnos ahí. Así que, unos días antes y
+hasta en el mismo viaje fuimos debatiendo qué íbamos a hacer. Yo San
+Luis capital ya conocía y sinceramente por lo poco que conozco no me
+pareció una ciudad turística, sí muy linda, pero no turística. Otra
+referencia que teníamos era que Protrero de los Funes estaba muy bueno,
+el cual empezamos a considerar como una opción.
+
+Llegué el Jueves a las 0:45hs a Rosario y ya me estaba esperando mi
+primo en su autazo, que hasta esa altura no conocía. Pero básicamente,
+terminó siendo un fierro :) . De ahí, nos fuimos a comer una hamburguesa
+y luego a dormir, yo estaba muerto y él también. Todavía faltaba dormir
+apenas 4 horas (se hicieron como las 2 y pico), luego salir a buscarlo a
+Pancho que llegaba a las 6 y pico para después partir hacia "Mendoza"
+supuestamente.
+
+Y así fue, nos levantamos bien temprano, desayunamos una gilada y
+salimos en busca de Pancho que ya estaba a los mensajes puteando porque
+nosotros nos re colgamos en la casa de Gusty. Llegamos a la terminal,
+hablamos un ratito de "la nave", cargamos GAS y nos fuimos en busca de
+nuestro destino: Mendoza.
+
+Mi tía nos había dado un GPS así que me puse a jugar un poco con eso,
+mirar el mapa rutero y las rutas que había impreso de ruta0.com antes de
+salir de Paraná. A pocos minutos de salir a la autopista se empezó a
+congestionar el tráfico y arrancamos a las puteadas enseguida.
+Finalmente nos comimos un rato largo a paso de hombre arriba del auto
+tomando mates y hablando al pedo de la nave y porqué posiblemente "se
+paraba" en algunas situaciones extrañas que finalmente con el tiempo en
+ruta y de paseo luego se fueron haciendo más concretas.
+
+La razón de el avance a paso de hombre: un accidente. Y qué accidente.
+Había mucha neblina, pero zarpado y se veía muy poco.
+
+|image0|
+
+A pocos kilómetros de salir de Rosario, nos encontramos con este
+accidente
+
+A medida que íbamos avanzando, mirando el mapa, las hojas impresas y el
+GPS fuimos haciendo maniobras de todo tipo. Sinceramente el GPS estaba
+bastante desactualizado (de hecho decía que la autopista Rosario -
+Córdoba estaba en construcción), así que discutimos bastante sobre eso,
+si había que agarrar Ruta 9 o Autopista 9 o qué sé yo. Fue divertido, yo
+decía que siempre había que hacerle caso a Silvita, Juanita, etc que era
+la gallega del GPS. Igualmente, a veces me daba cosa decir que había que
+hacerle caso a "eso" porque un par de veces nos hizo girar en U en el
+medio de la ruta. Cualquiera mal!
+
+Lo que sí me gustó mucho del GPS, más allá de que te ayuda mucho a
+llegar al lugar (quizás no de la mejor forma, pero llegás seguro) es que
+tiene información sobre las estaciones de servicio y le podés decir que
+te busque una cerca de dónde estás, de dónde vas a llegar o de camino
+por la ruta que tenés marcada. Muy bueno eso. Además, tiene lugares de
+interés turísticos y demás que son útiles para conocer cosas si estás en
+un lugar que no tenés referencias.
+
+Por otro lado, notamos que la gente se manda a la ruta / autopista sin
+conciencia alguna. Esto es otra de las cosas que nos encontramos. La
+camioneta se estaba destartalando, teníamos miedo que se le salga un
+pedazo.
+
+|image1|
+
+Este parecía que se iba a destartalar. No tenía patente y el guardabarro
+delantero estaba al borde de salir volando.
+
+Como dije antes, el auto es a GAS por lo que tuvimos que ir parando cada
+aproximadamente 120km y como no habíamos descubierto la función de las
+estaciones de servicio "de paso" todavía en el GPS, parábamos a medida
+que "nos parecía" oportuno. Así que a la ida hicimos unas paradas más
+que a la vuelta. Igualmente el viaje fue entretenido, hablamos mucho,
+tomamos mates hasta cansarnos y comimos de todo en el auto. A mi
+personalmente me gusta viajar en auto con amigos, lo disfruto mucho.
+Pero sí, al final estaba bastante cansado y me imagino que Gusty mucho
+más que nosotros ya que manejó todo el viaje.
+
+A medida que íbamos entrando a San Luis notamos que las autopistas y las
+rutas de esta provincia están muy lindas, iluminadas, en buenas
+condiciones y que tienen unos paisajes hermosos. Era muy atractivo mirar
+por la ventanilla mientras íbamos viajando. Nada que ver con otras
+autopistas que son durante muchos kilómetros iguales y sin nada para
+mirar por la ventanilla. Además de estar iluminadas, nos llamó la
+atención que los postes de luz están pintados de muchos colores, algo
+bastante raro pero que quedaba lindo.
+
+|image2| Esto es cerca de llegar a Potrero de los Funes si no me
+equivoco.
+
+|image3|
+
+Acá ya estamos entrando a Potrero.
+
+Finalmente, decidimos por ir derecho a Protero de los Funes. Averiguamos
+por los campings y terminamos en uno muy lindo que tenía muchas sombra,
+agua caliente todo el día y muy buena onda de parte de los dueños: nos
+prestaron unos bancos largos, unos caballetes y una tabla para hacer una
+mesa ya que no habíamos llevado nada de eso. Armamos la carpa, inflamos
+el colchón, tiramos un par de cosas por ahí y salimos a recorrer un
+rato, compramos un matambre, unos choris, unas morcillas, lechuga,
+tomate y morrones, huevos y nos fuimos a comer un rico asadito. Esa
+noche, si mal no recuerdo caímos muertos.
+
+Al otro día, nos levantamos y salimos a recorrer nuevamente y nos
+encontramos con que `Protero de los Funes tiene un Circuito
+Internacional <http://www.taringa.net/posts/imagenes/3036860/imagenes-del-circuito-internacional-potrero-de-los-funes.html>`__
+así que le dimos más que un par de vueltas. Algunas a GAS y otras a
+Nafta para sentir el "poder". Sí, casi perdemos la vida ahí, pero valió
+la pena arriesgarla también :) . Visitamos el Hotel, la sala
+internacional de Ajedrez (o algo así), fuimos a uno de los miradores que
+está cerca de ahí y también visitamos el bar flotante que está en el
+lago.
+
+|image4|
+
+|image5|
+
+|image6|
+
+|image7|
+
+El hotel.
+
+Ese día nos fuimos también a Juana Koslay, a Trapiche y otros lugares
+más que no recuerdo. Pasamos por un dique, nos compramos una picadita en
+un puestito (en el cuál me probé un gorro :P ) y seguimos rumbo a otro
+pueblo en el que nos compramos una birra y la acompañamos con la picada
+y un par de metegoles :P . Visitamos la feria que había ahí, y
+finalmente pegamos la vuelta. Cuando llegamos, compramos todo lo
+necesario para hacer unas excelentes pizzas caseras que amasamos entre
+Gusty y yo mientras el pirómano de Pancho hacía el fuego. Después de un
+par de cervezas, vinos y cosas raras empezamos a jugar con la masa hasta
+que Gusty la golpeó y a mí (que la sostenía) se me fue al piso y se
+llenó MAL de tierra. Tuvimos que hacer un quilombo para separar la parte
+que servía de la que estaba bañada en tierra. No la íbamos a tirar,
+además teníamos más hambre que el chavo. Imaginate el hambre que le
+metimos tanta brasa que se re contra quemó... Era incomible!
+
+|image8|\ Hacía MUCHO frío. De hecho, hace mucho frío por la noche (con
+mucho viento) y durante el día un calor muy agradable.\ |image9|
+
+Me mata la cara de Pancho en esta foto!
+
+Esa noche de la pizza terminé reventado, bah, en realidad empecé
+reventado... Porque cuando ya no podía estar en pié, "se decidió" que
+íbamos a salir cueste lo que cueste. Así que, agarramos el auto y Gusty
+lo pisó un poco por el circuito obligado por mí mientras yo le tomaba el
+tiempo de las vueltas con el celular (imaginate lo que fue eso). Después
+de boludear por Proteros y ya cuando estábamos encarando la vuelta
+"pancho vió y dijo algo" que nos hizo cambiar de opinión y terminamos
+viajando hasta San Luis capital en busca de un lugar dónde tomar una
+cerveza. Terminamos en un bowling de la zona de todos los bares. Pegando
+la vuelta "la nave" se paró y no quería arrancar, así que, en ese estado
+tuvimos que empujar con Pancho un poco hasta que arrancó, me senté y no
+me acuerdo nada hasta que me encontré bajando del auto para ir a dormir
+a la carpa (estuvo re buena la vuelta :D )
+
+El sábado cuando me levanté, cerca de las 12, Pancho no estaba en el
+camping. Se había ido a hacer su "doble vida", mientras tanto yo hice
+unos mates y hablé al pedo con Gusty. Al regreso de Pancho nos fuimos en
+el auto a recorrer algunos otros lugares, pasamos por un mirador desde
+el cual se veía el pueblo *La Punta* en el que compramos unas Uvas a la
+caña (que doy fe que eran riquísimas). Después seguimos camino a La
+Punta y visitamos la réplica del Cabildo que se encuentra ahí, un
+estudio de grabación, una cancha de fútbol y el planetario dónde
+aprendimos algunas cosas locas sobre los elementos que se han
+descubierto y utilizado para entender / aprender diferentes cosas.
+Además visitamos la sala de experimentos.
+
+|image10|\ Esto es desde el mirador hacia La Punta. Esa es la ruta que
+recorrimos entre las montañas
+
+|image11|\ |image12|\ La cancha de fútbol, que por cierto tenía un
+césped envidiable.
+
+|image13|\ La réplica del Cabildo.
+
+|image14|\ La sala de experimentos del planetario.
+
+|image15|
+
+Finalmente, visitamos las Salinas.
+
+Esa noche, además, después de haber estado jodiendo todo el viaje con el
+cumpleaños de Pancho (que fue el Domingo). El sábado a la noche,
+mientras estábamos comiendo, seguíamos boludeando con eso que qué le
+íbamos a regalar y demás giladas. Y a eso de las 00:05hs Pancho recibe
+un llamado y escuchamos que dice "Jeje, gracias"... A dúo, mi primo y yo
+hicimos "Uhhhh! Es el cumpleaños de Pancho ya", nos re olvidamos. Así
+que, como para que nos perdone le cantamos el felíz cumpleaños y le
+improvisamos una torta con una vela:
+
+|image16| El Domingo ya pegamos la vuelta y nuevamente en la ruta y
+autopista nos encontramos muchos inconcientes y otra vez un accidente
+que fue bastante groso. En la autopista Córdoba - Rosario.
+
+Así terminó nuestra odisea hacia Mendoza, a la cuál nunca llegamos, pero
+no nos arrepentimos de haber parado en San Luis esos 4 días ya que la
+pasamos muy bien y disfruté mucho el viaje.
+
+.. |image0| image:: http://humitos.files.wordpress.com/2011/04/p4211251.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/p4211251.jpg
+.. |image1| image:: http://humitos.files.wordpress.com/2011/04/p4211266.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/p4211266.jpg
+.. |image2| image:: http://humitos.files.wordpress.com/2011/04/p4211270.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/p4211270.jpg
+.. |image3| image:: http://humitos.files.wordpress.com/2011/04/p4211274.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/p4211274.jpg
+.. |image4| image:: http://humitos.files.wordpress.com/2011/04/p4221306.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/p4221306.jpg
+.. |image5| image:: http://humitos.files.wordpress.com/2011/04/p4221319.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/p4221319.jpg
+.. |image6| image:: http://humitos.files.wordpress.com/2011/04/p4221300.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/p4221300.jpg
+.. |image7| image:: http://humitos.files.wordpress.com/2011/04/p4221302.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/p4221302.jpg
+.. |image8| image:: http://humitos.files.wordpress.com/2011/04/p4221357.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/p4221357.jpg
+.. |image9| image:: http://humitos.files.wordpress.com/2011/04/p4221329.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/p4221329.jpg
+.. |image10| image:: http://humitos.files.wordpress.com/2011/04/dsc07664.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/dsc07664.jpg
+.. |image11| image:: http://humitos.files.wordpress.com/2011/04/dsc07685.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/dsc07685.jpg
+.. |image12| image:: http://humitos.files.wordpress.com/2011/04/dsc07683.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/dsc07683.jpg
+.. |image13| image:: http://humitos.files.wordpress.com/2011/04/dsc07697.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/dsc07697.jpg
+.. |image14| image:: http://humitos.files.wordpress.com/2011/04/dsc07758.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/dsc07758.jpg
+.. |image15| image:: http://humitos.files.wordpress.com/2011/04/dsc07794.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/dsc07794.jpg
+.. |image16| image:: http://humitos.files.wordpress.com/2011/04/dsc07816.jpg
+   :target: http://humitos.files.wordpress.com/2011/04/dsc07816.jpg

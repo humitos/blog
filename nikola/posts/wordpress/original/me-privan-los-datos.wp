@@ -1,0 +1,16 @@
+<html><body><p>Es lamentable. Hoy después de hablar lo que publiqué en el post anterior con la profesora, un amigo le preguntó que forma tenía de exportar la base de datos para poder trabajar en su casa (estamos haciendo 2 guías de 20 ejercicios cada una de sentencias SQL). Antes me había preguntado a mí y no tenía ni idea ya que estaban usando Oracle.
+</p><blockquote>A: Le preguntaba si no hay una forma de exportar la base de datos o algo para poder llevármela a mi casa y poder trabajar ahí.
+
+<p>P: No porque el profesor no la puso disponible a la base de datos.</p>
+
+<p>A: Ah, ¿No está disponible?, yo le decía porque no llegamos a hacer todos los ejercicios.</p>
+
+<p>P: Mmm... No, la única opción que tienen es venir a trabajar acá al laboratorio</p></blockquote>
+
+También está en OGG, y es patético. Asique bueno, mi amigo se puso a hacer <strong>SELECT * FROM tabla; </strong>de las 8 tablas que había y copiaba eso a un ".txt" para que yo me lleve a mi casa y luego haga un script que levante eso y lo vuelque en una base de datos.
+
+<p><a href="http://grulicueva.homelinux.net/~humitos/blog/me-privan-los-datos/cargar_bd.py">Recién lo termino</a>, aunque no está muy bien hecho, ya que algunos atributos estaban separados por 2 espacios y otros por N, quedó más o menos... A veces tuve que agregarle campos vacíos (le puse ** para identificar cuales eran).</p>
+
+<p>Igualmente, no entiendo muy bien todavía, y no tengo ganas de ponerme a ver cómo son tampoco, son las claves foráneas y las claves primarias. Aunque tengo el diagrama, este se entiende bastante poco.</p>
+
+<p><em>... dentro de poco no voy a poder compartir con nadie lo que aprendo en la facultad, espero realmente que esto cambie ...</em></p></body></html>

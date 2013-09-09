@@ -1,0 +1,13 @@
+<html><body><p>Estoy orgulloso de poder informarles que hemos terminado con la traducción de "<a href="http://www.djangobook.com">El Libro de Django</a>". Lo que nos estaría faltando es hacer una revisión completa del mismo y pulir detalles para la versión final.</p>
+
+<p>Necesitamos la colaboración de todos ustedes en este punto para poder corregir distintos tipos de errores que se puedan llegar a encontrar. Actualmente estamos trabajando en los detalles de la generación del PDF y la versión en HTML.</p>
+
+<p>Les agradecería la ayuda que nos puedan brindar reportando cualquier tipo de error que puedan llegar a encontrar. Para esto <a href="http://trac.usla.org.ar/django-book">disponemos de un Trac </a>en el cual se pueden <del>crear Tickets</del> explicando el error encontrado, de lo contrario se puede enviar un mail a cualquiera de los traductores quienes se ocuparan de registrar este ticket.</p>
+
+<p>Se puede descargar la versión sobre la cual vamos a hacer las correcciones desde acá:
+
+<a href="http://trac.usla.org.ar/proyectos/humitos/export/41/trunk/django-book/django-book-es-1.0-0.1-r757.pdf">http://trac.usla.org.ar/proyectos/humitos/export/41/trunk/django-book/django-book-es-1.0-0.1-r757.pdf</a></p>
+
+<p><strong>UPDATE:</strong> ahora tenemos una versión disponible en <a href="http://django-book.mkaufmann.com.ar/">HTML</a> y en <a href="http://trac.usla.org.ar/proyectos/humitos/export/41/trunk/django-book/django-book-es-1.0-0.1-r757.pdf">PDF</a> que se auto-genera todos los días también.</p>
+
+<p>Muchas gracias, esperamos su colaboración.</p></body></html>

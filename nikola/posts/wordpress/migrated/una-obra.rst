@@ -1,0 +1,110 @@
+.. link:
+.. description:
+.. tags: dibujos, fotos
+.. date: 2012/04/05 05:22:24
+.. title: Una obra
+.. slug: una-obra
+
+|image0|
+
+Una obra se hace mi lado. Una obra completamente nueva: "una nueva
+obra". Una obra que aún no ha sido escrita, que no ha sido pensada, ni
+siquiera diseña; sino que es "jugada", "descubierta","experimentada".
+Quién la hace no es un pintor, es un niño. Un explorador de la vida, de
+la realidad, del mundo en el que vive. Un niño que quizás jamás crecerá;
+al que la sociedad nombrará artista cuando sea grande.
+
+Sin embargo, mientras escribo me pregunto: "¿qué es una obra?". Tampoco
+sé la respuesta. Pienso en la diferencia entre una obra, un dibujo, un
+cuadro, una pintura, o... "¿son todas obras?". "Entonces, ¿porqué la
+gente que hace dibujos no los llama obra?". Por otro lado, "¿por qué los
+dibujantes no son llamados artistas?". Me desoriento, me pierdo y me
+distraigo.
+
+A mi lado, sigo viendo jugar a ese niño. Jugando con pinceles, con sus
+dedos y sus temperas. Casi acariciando el papel. Lo veo concentrado y
+pensante. Lo noto concentrado y, al bajar la mirada, veo esos
+trazos \ *casi perfectos, *\ aunque errados constantemente. Pareciera
+que el trazo siguiente termina el anterior y así mismo veo recrearse la
+obra en sentido inverso.
+
+Se rompe el ambiente, ya casi tenso por mi pensar, con una conversación:
+"Ta' lindo el tiempo para sacar fotos, eh?" -me dice. "Sí, lástima que
+me quedé sin batería" -contesto mientras los trazos siguen siendo
+marcados en la cartulina negra, vieja y un poco doblada, la que
+posteriormente será llamada obra: unas cuántas líneas, rayas, manchas y
+algún que otro choque entre un pincel empapado en pintura contra una
+cartulina cualquiera.
+
+Sin embargo, no puedo dejar de mirarlo constantemente; casi como si
+fuera un estímulo, como si hiciera mover mis dedos, presionar las teclas
+y pensar en todas esas rayas blancas que veo constantemente.
+Rápidamente, aparecen ojos, nubes y hasta me jugaría a decir que la cola
+del gato de Alicia en el País de las Maravillas; pero quizás me digan
+que he estado consumiendo sustancias raras.
+
+Desconcentración. Aparece un bebé repentinamente mientras suena de fondo
+alguna base cuasi electrónica ambiental. Más desconcentración. Un video
+de una persona hablando. Lentes, botella en mano y rascándose.
+Gesticulando como si estuviese en una entrevista.
+
+¡Basta! La obra sigue su rumbo, siguen apareciendo manchas blancas en la
+cartulina negra. Misma cantidad de nubes, misma cantidad de ojos y la
+cola del gato sigue siendo una cola de gato. Esto me hace pensar que
+"pisé un gato" y hoy con más sentidos del que uno podría llegar a
+pensar. "¿será que esto me está persiguiendo?"
+
+¿Y qué pasó? Se escuchan muchos sonidos, pero claramente hay una
+guitarra en ellas. Muchos efectos, muchos sonidos, voces y golpes. La
+obra sigue, y ahora sigue multiplicada. Mucha gente haciendo una obra
+diferente. También hay una obra musical sonando. Todos esos sonidos se
+mezclaron perfectamente para producir algo agradable a mis oídos. Hay
+mucha conexión entre ellos, entre los sonidos y las obras, las miles de
+obras que circulan al rededor del mundo. Un mundo donde hay más obras
+que personas; me pregunto: "¿cómo no se le da la importancia que esto
+merece?". Pensar que una obra es ella misma de acuerdo a la cantidad de
+personas diferentes que la han visto. Incluso más, una obra es ella
+misma la cantidad de veces que personas diferentes la han visto.
+
+Esas miles y millones de obras siguen vibrando a mi alrededor. Siento
+una especie de asfixia artística que explota en mí y termina. Termina la
+música, termina el sonido, termina la obra. Se escucha una voz de fondo
+y una en primera plana: "Bueno, ese loco estaba jugando con una
+loopera". Eso, estaba jugando. Eso mismo es lo que creo: hay que jugar.
+Jugando se aprende. Se aprende jugando, experimentando, investigando,
+errando y cayendo.
+
+Estímulos. Mucho de lo que hacemos, sino todo, es gracia a, y depende
+de, los estímulos que recibimos. Somos estimulados en primera instancia
+por la naturaleza y en segunda instancia por el mismo hombre. Incluso,
+hasta somos estimulados por primera vez por el hombre. Aún más, cada vez
+más vamos creciendo más estimulados por nosotros mismos somos. Viendo lo
+que nosotros mismos hemos creado.
+
+"¿De dónde sale esto?" -pregunto.
+
+Metafísica y filosóficamente hablando llegamos al mismo lugar, dónde
+todo empezó. Pero en ese viaje recorrimos otros mundos, mundos que
+habían sido desconocidos hasta ese momento. Mundos que nosotros mismo
+creamos en ese momento. Quizás sin darnos cuenta, quizás después de una
+conversación lo suficientemente banal como para que no llegue a ningún
+sitio, o bien llegue y se vaya tan por las ramas que hizo que nuevamente
+lleguemos al mismo lugar.
+
+¡Eso! me siento en la rama. Una rama aún más alta, una rama más cerca de
+la sima que la rama anterior.
+
+Esa rama que me acerca a la sima, también me recuerda la obra. Ésta cada
+vez tomando más forma, cada trazo terminando el trazo siguiente y cada
+siguiente: desconocido. Recuerdo lo que pregunto. Pregunto lo que
+recuerdo y... nada. No hay respuesta. Pregunto: "¿pregunté?"
+
+También recuerdo cómo las obras cambiaban, de acuerdo a su iluminación,
+a su encuadración y también a su perspectiva. Entonces, hay más obras de
+las que aún pensábamos. Hay tantas obras como veces personas diferentes
+la hayan visto de diferente ángulo y encuadre. Esto es, existen
+infinitas obras o ninguna. Y eso me lleva nuevamente a preguntarme: ¿qué
+es una obra?
+
+.. |image0| image:: http://humitos.files.wordpress.com/2012/04/dsc_1845.jpg
+   :target: http://humitos.files.wordpress.com/2012/04/dsc_1845.jpg

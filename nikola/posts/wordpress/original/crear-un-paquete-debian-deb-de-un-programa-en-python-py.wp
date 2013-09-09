@@ -1,0 +1,61 @@
+<html><body><img src="http://img212.imageshack.us/img212/2928/debianpythonze3.png" align="left" height="128" hspace="5" vspace="5" width="119">Siempre quise aprender a hacer paquetes Debian porque muchas veces les quería pasar mis programas a mis amigos y se quejaban que tenían que instalar muchas dependencias o quizás eso me decían a mí para no correr mis programas en sus máquinas.
+
+<p>También porque evitás todo tipo de explicación de cómo se instala, cuál es el <em>.py</em> que se debe ejecutar, que versión de Python, y muchas otras cosas. Además que queda lindo ya que podemos hacer que lo ponga en el Menú K en KDE o Gnome en su correspondiente panel de aplicaciones indicándole cuál va a ser su ícono y demás.</p>
+
+<p>Hace mucho tiempo me puse a investigar e incluso me leí toda la <a href="http://linux-cd.com.ar/manuales/debian-desarrollo/index.es.html">guía de desarrolladores de Debian</a> la cuál en ese momento no me sirvió, quizás porque no la entendí o porque no estaba directamente relacionada con Python (y yo recién empezaba con ambos).</p>
+
+<p>El 9 de Junio de éste año se llevó a cabo la <a href="http://www.python-santafe.com.ar/">2da Jornada de Python en Santa Fé</a> en la que vino gente de otros lados del país y tuve la posibilidad de alojar a dos chicos en mi casa; <a href="http://www.karuchin.com.ar/">Héctor Sánchez</a> y <a href="http://www.losersjuegos.com.ar/principal/principal.php">Hugo Ruscitti</a> de Buenos Aires, a los cuales <em>aproveché </em>para preguntarle de todo tipo de cosas :D sobre en lo que yo estaba fresquito y ellos ya tenían un poco más de experiencia.</p>
+
+<p>Cómo Hugo se dedicaba a hacer juegos para una distribución de Debian y había cosas que hacía en Python le pregunté cómo hacer un paquete de uno de mis juegos (<a href="http://code.google.com/p/tweety-finger/">Tweety Finger</a>) y me ayudó a crearlo en ese momento, explicándome que era lo <strong>básico</strong> para hacerlo y siguiendo de ejemplo un paquete existente. Existen <em>muchas</em> opciones para crear un paquete Debian, como por ejemplo los <em>nombres genéricos</em> en los distintos idiomas, los cuales son tediosas de indicar e incluso ni los sabemos; y a mí me interesaba que sean de fácil instalación mis programas.</p>
+
+<p>Lo más recomendable es <em>leer </em>la guía expuesta arriba o buscar información en Google de la estructura de los paquetes de Debian, para saber y comprender cuáles son las opciones mínimas para que cumpla los estándares de Debian y poder ser redistribuido e incluso incluído en alguna de las distribuciones de Debian y sus derivadas.</p>
+
+<p>Lo primero que hice fué abrir una terminal y entrar al programa <strong>mc</strong> y buscar en la carpeta <em>/var/cache/apt/archives</em> algún paquete que halla descargado anteriormente para basarme en su estructura y ver cómo estaban configurado los distintos archivos. Hoy tenía que hacer otro paquete y siempre me olvido cómo se hacen, asique agarré de ejemplo el Kate.</p>
+
+<p>Lo más importante a tener en cuenta es la estructura de directorios del paquete y el archivo <em>DEBIAN/control</em>. Éste es un archivo de texto que se utilizar para indicar las dependecias del paquete, una descripción corta, una larga, el nombre, la versión, etc.</p>
+
+<p>Explico la estructura del paquete que vamos a crear con un ejemplo, el del paquete que acabo de crear recién para el juego <a href="http://zombie.firebirds.com.ar">Twisted Zombie</a>.
+
+</p><pre>DEBIAN/
+    control
+usr/
+    share/
+        applications/
+            twisted-zombie.desktop
+        pixmaps/
+            twisted-zombie-icon.png
+        twisted-zombie/
+            data/
+            lib/
+            COPYING
+            README.txt
+            create-upload.py
+            pyweek-upload.py
+            run_game.py</pre>
+El archivo <a href="http://paste-it.net/3597/raw/">DEBIAN/control</a> es que el expliqué anteriormente. La estructura <em>/usr/share/[...] </em>indica dónde se va a copiar el contenido de ésta; por ejemplo el archivo <em>run_game.py</em> quedará instalado en nuestro sistema con en la ruta <em>/usr/share/twisted-zombie/run_game.py</em>.
+
+<p>El otro archivo importante es  <a href="http://paste-it.net/3598/raw">/usr/share/applications/twisted-zombie.desktop</a> ya que en este indicamos en dónde se va a ubicar en el Menú K, que órden debe ejecutarse cuando se llame, qué ícono tendrá, etc. Se pueden ver los archivos de este ejemplo en los links de cada uno de estos (arriba).</p>
+
+<p>En los archivos fuente (.py) que carguemos archivos externos, como ser imágenes, sonidos etc; debemos hacer un <em>change dir</em> a la <strong>nueva</strong> ubicación de nuestro programa (en este caso<em> /usr/share/twisted-zombie</em>) agregando la línea:
+
+</p><blockquote><em>os.chdir("</em><em>/usr/share/twisted-zombie")</em></blockquote>
+
+Para que al ser llamado desde cualquier otra ruta el programa siempre se posicione dónde él sabe que tiene los archivos a cargar.
+
+<p>Una vez creada la estructura anteriormente mostrar y configurado los archivos mencionados a <em>gusto</em>, se puede ejecutar este comando para crear el paquete:
+
+</p><blockquote><em>$ dpkg --build twisted-zombie/ twisted-zombie-1.0_all.deb</em></blockquote>
+
+Si la estructura de la carpeta twisted-zombie/ está mal formada, el comando nos informa de esto, incluso también si al archivo <em>control </em>no le dejamos un espacio en blanco en la última línea, y demás.
+
+<p>El nombre que se le da es de la forma <em>&lt;nombre-paquete&gt;-&lt;version&gt;_&lt;arquitectura&gt;.deb</em>.Luego para probar que esto funciona correctamente lo instalamos:
+
+</p><blockquote><em>$  dpkg -i </em><em>twisted-zombie-1.0_all.deb</em></blockquote>
+
+Si algo salió mal, por ejemplo, al hacer click en el Menu K no aparece nuestro programa basta con buscar el error en el archivo twisted-zombie.desktop, desintalar el programar, crear el paquete e instalarlo nuevamente. Para desintalarlo lo hacemos cómo si fuera cualquier otro paquete:
+
+<blockquote><em>$ sudo apt-get remove </em><em>twisted-zombie</em></blockquote>
+
+Espero que sirva esto y no haberme olvidado ningún paso del proceso, parece complicado, pero es algo simple; como todo, al principio es complicado o por lo menos parece. Pero al poder ver cómo están construidos los demás es fácil guiarse. Incluso se puede usar un paquete más chico de ejemplo que el Kate.
+
+<p>Cualquier cosa que no se entienda o no quede bien en claro comenten y depaso me hacen seguir estudiando ;)</p></body></html>

@@ -1,0 +1,15 @@
+<html><body><p>Hace tiempo que me venía quejándo que el navegador que actualmente estoy usando, <a href="http://www.mozilla.com/en-US/">Firefox</a>, me andaba bastante lento. Aunque en realidad el navegador que más me gusta a mí es <a href="http://www.konqueror.org/">Konqueror</a>, decidí cambiarme porque hasta ahora no he encontrado el plugin para los Bookmarks de <a href="http://del.icio.us/">del.icio.us</a>, simplemente por esto es que he dejado de utilizar el Konqueror y muchas veces lo extraño.</p>
+
+<p>Luego de varias búsquedas en Google caí con <a href="http://getswiftfox.com/">Swiftfox,</a> navegador basado en Firefox, pero <em>optimizado</em> para los microprocesadores AMD e Intel. La versión 2.0.0.6 de Swiftfox está basada en la versión 2.0.0.6 de Mozilla Firefox.</p>
+
+<p>Hace como una semana que estoy usando éste, aunque ya lo había probado en otra oportunida pero no me había gustado mucho como quedaba la interfaz gráfica sobre KDE. Ésta vez le dí otra oportunidad y dejé de lado la apariencia del navegador para probar si realmente es un poco más rápido y si se notaba la optimización de la que se habla. La experiencia es positiva ya que este <strong><em>vuela</em></strong> a comparación con Firefox, por lo menos en mi máquina. Además levanta todas las configuraciones, plugins, add-ons y demás que teníamos en el Firefox sin hacer absolutamente nada...</p>
+
+<p>Para la instalación de Swiftfox debemos agregar a nuestros repositorios <em>(/etc/apt/sources.list)</em> la línea:
+
+</p><blockquote><em>deb http://getswiftfox.com/builds/debian unstable non-free</em></blockquote>
+
+Luego hacemos un <em>apt-get update </em>seguido de <em>apt-get install swiftfox-athlon64</em> en el caso de mi procesador. Para saber que paquete instalar podés hacer <em>apt-cache search swiftfox</em> para ver la lista de los paquetes posibles.
+
+<p>Algunos screenshots:</p>
+
+<p><a href="http://img260.imageshack.us/img260/8586/swiftfox1ho4.jpg"><img src="http://img260.imageshack.us/img260/8586/swiftfox1ho4.th.jpg" alt="" hspace="5" vspace="5" width="150" height="113" align="bottom"></a><a href="http://img518.imageshack.us/img518/9793/swiftfoxwe5.jpg"><img src="http://img518.imageshack.us/img518/9793/swiftfoxwe5.th.jpg" alt="" hspace="5" vspace="5" width="150" height="113" align="bottom"></a></p></body></html>

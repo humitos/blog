@@ -1,0 +1,25 @@
+<html><body><p>Para capturar la salida de un comando generalmente utilizaba el módulo <a href="http://docs.python.org/lib/module-subprocess.html">subprocess </a>de Python de esta forma:</p>
+
+<p><code>&gt;&gt;&gt; from subprocess import Popen, PIPE
+
+&gt;&gt;&gt; Popen(['date'], stdout=PIPE).stdout.read()
+
+'mar abr 29 17:08:17 ART 2008\n'
+
+&gt;&gt;&gt;
+
+</code></p>
+
+<p>Hoy viendo el código fuente de un programa (<a href="http://sourceforge.net/projects/pydf/">pydf</a>) encontré que utilizaba el módulo <a href="http://docs.python.org/lib/module-commands.html">commands</a> y como no lo conocía me fijé de qué se trataba. Sirve para hacer lo mismo de una manera más sencilla y legible:</p>
+
+<p><code>&gt;&gt;&gt; import commands
+
+&gt;&gt;&gt; commands.getoutput('date')
+
+'mar abr 29 17:04:22 ART 2008' 
+
+&gt;&gt;&gt;
+
+</code></p>
+
+<p>PD: funciona sólamente en Unix</p></body></html>

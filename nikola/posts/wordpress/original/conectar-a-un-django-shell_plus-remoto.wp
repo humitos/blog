@@ -1,0 +1,13 @@
+<html><body><p>¡Acabo de utilizar la cabeza para algo! Todavía estoy emocionado. Creo que esto va a facilitarle las cosas a varios y a reducir ese tiempo tedioso de conectarse al servidor "para probar algo" o "ver qué tiene la db" o etc.</p>
+
+<p>La cosa es así, ¿cuántas veces nos logueamos por ssh al servidor para luego hacer Ctrl + R, empezar a tipear <strong>shell_plus</strong> y darle Enter (si es que todavía quedó en el history y lo tipeamos con el path absoluto) sino hacer <em>cd</em> hasta la carpeta dónde tenemos el proyecto de Django y finalmente ejecutar <em>./manage.py shell_plus</em> con una previa activación del virtualenv.</p>
+
+<p>Wow! Suena tedioso hasta tener que explicarlo. Hoy traigo <strong>la solución</strong>. "Waaaa, tengo miedo nene"</p>
+
+<p>Es simple, seguimos utilizando SSH pero evitamos todos los pasos antes dichos con sólo un comando:
+
+</p><blockquote>ssh user@remote-host.com -t -C "source ~/path/to/virtualenv/bin/activate &amp;&amp; python ~/path/to/django/project/manage.py shell_plus"</blockquote>
+
+La opción <strong>-C</strong> es para que comprima la entrada y la salida y la <strong>-t</strong> es para que se vean bien los colores de la salida de <em>ipython</em> en mi caso (ya que lo tengo instalado).
+
+<p>Me zarpé! :D</p></body></html>

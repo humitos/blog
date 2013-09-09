@@ -1,0 +1,76 @@
+<html><body><p>Hoy fui a la facultad a la materia Gestión de Datos e hicimos un ejercicio de la guía de actividades prácticas. Estamos dando el tema "Dependencia funcional y normalización". El enunciado es este:</p>
+
+<p><em>Se desea construir una BD para gestionar la información de los electores en un censo electoral con los siguientes supuestos semánticos:
+
+<ul>
+	<li>Un elector es identificado por su DNI (D). Todos los electores tienen DNI. Un elector tiene un nombre (N), fecha de nacimiento (F) y sexo (S)</li>
+	<li>Un municipio se identifica por la provincia a la que pertenece (P) y su código de municipio (C). No pueden existir dos municipios con igual código en la misma provincia.</li>
+	<li>Dos municipios pueden tener el mismo nombre (B) pero sólo si pertenecen a provincias diferentes</li>
+	<li>Una mesa está identificada por su municipio, número de distrito (T), número de sección (NS) y número de mesa (M). Los números de distrito se pueden repetir para municipios diferentes pero no dentro del mismo municipio. Igual ocurre con los números de sección respecto de los distritos y con los números de mesa respecto de las secciones.</li>
+	<li>Un elector está inscrito en una mesa, incluida en una sección, a su vez incluida en un distrito, que a su vez pertenece a un municipio.</li>
+	<li>Un elector tiene una dirección, es decir, una calle (L) y un número de calle (E).</li>
+	<li>Todos los electores que residen en la misma calle del mismo municipio están inscritos en la misma sección, aunque pueden estar en mesas diferentes según el número de la calle.</li>
+</ul></em></p>
+
+<p>Se pide:
+
+</p><ol>
+	<li>Realizar un modelo de tablas que represente la BD a ser utilizada por el sistema tratando de minimizar la cantidad de tablas.</li>
+	<li>Llevar el modelo anterior a la tercera forma normal (3FN).</li>
+</ol>
+
+<p></p>
+
+<p>Sinceramente yo no tenía ni idea como arrancar, esto lo dimos en la clase de teoría hace dos semanas creo y no me acordaba nada, asique agarré el libro y me puse a leer. Termino de leer la primer forma normal, comienzo a hacerlo, y la profesora explica como resolverlo. Escuho, atiendo, y me pongo a resolverlo de la forma que explicó. Me quedó así:</p>
+
+<p></p><ul>
+	<li>DNI(D) <strong>-&gt;</strong>Nombre(N), Fecha de nacimiento(F), Sexo(S)</li>
+	<li>Calle(L), Provincia(P), Código(C) <strong>-&gt;</strong> Número de sección(NS)</li>
+	<li>Provincia(P), Código(C), Calle(L), Número de calle(E), Número de sección(NS), Número de distrito(T) <strong>-&gt;</strong> Número de mesa(M)</li>
+	<li>Provincia(P), Código(C) <strong>-&gt; </strong>Nombre(B)</li>
+	<li>DNI(D) <strong>-&gt;</strong>Número de sección(NS)</li>
+	<li>DNI(D) <strong>-&gt;</strong>Calle(L), Número de calle(E)</li>
+</ul>
+
+<p>Justo cuando terminamos de hacer esto, la profesora empieza a desarrollarlo en el pizarrón y agrega una dependencia funcional que nosotros no teníamos:</p>
+
+<p></p><ul>
+	<li>DNI(D) <strong>-&gt;</strong> Nombre(N), Fecha de nacimiento(F), Sexo(S), Calle(L), Provincia(P), Código(C), Número de sección(NS), Número de calle(E), Número de distrito(T), Número de mesa(M), Nombre(B)</li>
+</ul>
+
+<p>Resumiendo, el DNI determina todos los otros campos. Con los chicos que lo estaba haciendo empezamos buscar a ver si se nos había pasado un axioma en dónde podía llegar a estar dicha relación, aunque sin éxito, no la encontramos. Uno de nosotros pregunta: 
+
+<em>
+
+<ul>
+	<li><strong>Alumno:</strong> "¿Porqué DNI determina Provincia(P) y Código(C)? Por ejemplo"</li>
+	<li><strong>Profesora:</strong> "Mmm... No sé como explicártelo, creo que se deduce del enunciado, es como en la vida, vos sabés dónde votas con tu DNI. Osea, podés saber todos los datos de tu mesa"</li>
+</ul>
+
+</em></p>
+
+<p>En ese momento, sinceramente, no podía creer lo que nos estaba diciendo: "No sé como explicártelo" y además, "Creo que se deduce del enunciado". Supongo que si hay un enunciado de un problema es para que lo respetemos y que no queden cosas que <strong>se sobre entienden</strong>, porque justamente esto es lo que trae consigo muchos problemas a la hora de interpretar algo.</p>
+
+<p>Igualmente, me quedó picando y capaz que tenga razón, que se deduzca del enunciado porque existen las reglas de Armstrong con las cuales se pueden inferir en otras dependencias funcionales. Asique cuando llegué a mi casa me puse a leer éstas reglas y a ver si llegaba a la respuesta de la profesora. Estas son las reglas:</p>
+
+<p></p><ul>
+	<li><strong>Reflexividad:</strong> si B es subconjunto de A, entonces A<strong>-&gt;</strong>B</li>
+	<li><strong>Aumento:</strong> si A<strong>-&gt;</strong>B, entonces AC<strong>-&gt;</strong>BC</li>
+	<li><strong>Transitividad:</strong> si A<strong>-&gt;</strong>B y B<strong>-&gt;</strong>C, entonces A<strong>-&gt;</strong>C</li>
+</ul>
+
+<p>De estas tres reglas se pueden deducir otras tres más:</p>
+
+<p></p><ul>
+	<li><strong>Descomposición o proyección:</strong> si A<strong>-&gt;</strong>BC, entonces A<strong>-&gt;</strong>B y A<strong>-&gt;</strong>C</li>
+	<li><strong>Unión o adición:</strong> si A<strong>-&gt;</strong>B y B<strong>-&gt;</strong>C, entonces A<strong>-&gt;</strong>BC</li>
+	<li><strong>Pseudo-Transitividad:</strong> A<strong>-&gt;</strong>B y DB<strong>-&gt;</strong>E, entonces AD<strong>-&gt;</strong>E</li>
+</ul>
+
+<p>La que acabo de encontrar (es la primera vez que lo hago realmente) es esta:
+
+</p><ul>
+	<li>Por <strong>Unión</strong>: DNI(D) <strong>-&gt;</strong> Nombre(N), Fecha de nacimiento(F), Sexo(S), Calle(L), Número de calle(E), Número de sección(NS).</li>
+</ul>
+
+<p>En ningún lado veo que exista la dependecia de Provincia(P) y Código(C) con DNI(D). Por lo tanto no entiendo de dónde está sacando que sabiendo el DNI de un persona se puede saber la Mesa(M) en cuál vota o la Provincia(P) en la cual vive. Por lo tanto el resto del ejercicio por supuesto que lo tenía todo mal hecho ya que yo trabajé <strong>sobre la base de datos del enunciado</strong> y ella trabajó sobre <strong>la de la vida misma</strong></p></body></html>

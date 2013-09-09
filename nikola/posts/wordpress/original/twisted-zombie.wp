@@ -1,0 +1,21 @@
+<html><body><img src="http://img370.imageshack.us/img370/6797/zombiebh0.png" alt="Zombie Nation!" align="left" height="100" width="123">Bueno, se terminó todo. Hace algunas horas Juanjo subió al sitio de PyWeek el juego que hicimos en esta semana. Estoy <strong>muy </strong>conforme con lo que logramos hacer, no nos tenían fé!
+
+<p>En el juego controlás un Zombie que tiene que ir retorciéndoce (este era el tema oficial del juego: <em>Twisted</em>) para encajar en los hechizos que vuelan de unos magos que están peleando y tomando posiones que te ayudan a convertirte en humano y otras te hacen realmente mal.</p>
+
+<p>En mi opinión y comparando con los otros que se pueden ver en la página de <a href="http://www.pyweek.org/5/">pyweek</a> está muy bueno y bastante logrado. No tengo nada para decir en cuanto a mis compañeros de equipo, todos le pusieron muchas ganas para poder llegar a hacer esto.</p>
+
+<p>Estoy agotado, cansado, feliz, contento, etc... Cansado y agotado porque anoche nos quedamos hasta las 7am con los chicos trabajando en el juego, corrigiendo errores, probando la dificultad, y demás. Algunos nos dejaron en el camino y se plancharon en la cama, no voy a dar nombres :)  . Otros siguieron trabajando hasta no sé que hora (los felicito!).</p>
+
+<p>Feliz y contento porque logramos hacer el juego, que era uno de los objetivos principales. Osea, ni siquiera pedíamos que esté bueno, sino simplemente tener algo para entregar, y a decir verdad le he estado jugando bastante al juego, ya sea para probar algunas cosas o por diversión. No es para nada aburrido, por lo menos para mí.</p>
+
+<p>Se puede descargar la última versión del juego por svn:
+
+</p><p align="center"><em><tt>svn checkout http://twistedmold.googlecode.com/svn/trunk/ twistedmold</tt></em></p>
+
+<p align="left">o la versión 1.0 en un arhivo comprimido .zip <a href="http://media.pyweek.org/dl/5/santa_fe/twisted-zombie-1.0.zip"><em>aquí</em></a><em>. Las dependencias que tiene el juego son <a href="http://pygame.org/news.html">PyGame</a> y <a href="http://python.org/">Python</a>.</em></p>
+
+<p align="left"><strong>Actualización 11/09/07: </strong>se puede ver un video del juego en <a href="http://www.youtube.com/watch?v=GB33cjNZnWQ">YouTube</a> o <a href="http://video.google.es/videoplay?docid=-2827484478707365693">GoogleVideo</a>. La página oficial del juego es <a href="http://zombie.firebirds.com.ar">esta</a>.</p>
+
+<p align="left"><strong>Actualización 17/09/07:</strong> Juanjo subió una versión del juego para Windows la cuál no requiere tener Python ni PyGame instalado. Se puede descargar desde <a href="http://twistedmold.googlecode.com/files/Twisted-Zombie-1-Win.zip">aquí</a>.</p>
+
+<p align="left"> </p></body></html>

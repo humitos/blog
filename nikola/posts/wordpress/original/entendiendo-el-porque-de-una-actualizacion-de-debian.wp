@@ -1,0 +1,15 @@
+<html><body><p>Me ha pasado muchas veces de querer hacer un <strong>dist-upgrade</strong> desde la consola y que APT me diga que quiere desinstalar unos cuantos paquetes porque entra en conflicto con "vaya uno a saber qué". Como muchas veces esos paquetes que me quería desinstalar yo quería que sigan estando en mi PC dejaba de hacer la actualización hasta que en algún momento del futuro esto no vuelva a pasar.</p>
+
+<p>Bueno, hoy hice una pequeña búsqueda en Google y encontré <a href="http://www.debian.org/doc/manuals/apt-howto/ch-apt-get.en.html">un artículo</a> que habla exactamente de esto y dice que el "<em>vaya uno a saber qué</em>" el mismísimo APT lo sabe y es más, le podemos decir si es tan amable y nos puede explicar mediante una opción:
+
+</p><blockquote>apt-get -o Debug::pkgProblemResolver=yes dist-upgrade</blockquote>
+
+Esto nos ayuda a saber porqué está intentando eliminar algunos paquetes de nuestro sistema. Grosini!
+
+<p>La solución era mantener algunos paquetes que yo tenía en el sistema en las versiones actuales, digamos, no actualizar a las nuevas versiones de algunas librerías porque estas nuevas versiones entraban en conflicto con las viejas del programa en sí. Entonces, lo que hice fue mantener dichas versiones en mi PC tal cual las tenía. Acá, hubiese podido <strong>Pinnear </strong>los paquetes buscando las versiones de los que tengo instalado con <em>dpkg -l</em> o bien usar <em>dpkg --set-selections </em>que fue lo que finalmente usé como encontré en <a href="http://www.linux-archive.org/ubuntu-user/532882-hold-back-some-packages-apt-get-upgrade-how-gre.html">este post</a>
+
+</p><blockquote>echo backuppc hold | dpkg --set-selections</blockquote>
+
+Después, para volver a decirle a APT que actualice ese paquete en el próximo <em>upgrade</em> hay que hacer:
+
+<blockquote>echo backuppc install | dpkg --set-selections</blockquote></body></html>

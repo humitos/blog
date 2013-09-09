@@ -1,0 +1,17 @@
+<html><body><p>¿Qué es esto? Lo mismo digo. Hace como mucho una semana empezamos un <a href="http://humitos.wordpress.com/proyectos/">proyecto</a> con el <a href="http://nercof.wordpress.com">Guille</a>, para hacer un programa que convierta los archivos <a href="http://es.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help">CHM</a> (formato de ayuda <a href="http://es.wikipedia.org/wiki/HTML">HTML</a> comprimido de Microsoft) a cualquier otro formato que sea imprimible. Ya que algunas editoriales ofrecen en internet libros en este formato, o incluso directamente en HTML, de forma gratuita.</p>
+
+<p>La idea salió cuando estaba en mi casa con ganas de leer algo nuevo de Python y seguir estudiando inglés. Busqué algunos libros en internet y encontré. Pero otra vez lo mismo que cuando quise leer uno de <a href="http://www.turbogears.org/index.html">TurboGears</a>, <strong>es muy pesado leer desde el monitor</strong>, al menos para mí. Entonces dije: ¿Y porque no hacer un programa que descomprima el CHM y lo pase a formato <a href="http://es.wikipedia.org/wiki/Portable_Document_Format">PDF</a> con lo que aprendí de <a href="http://es.wikipedia.org/wiki/LaTeX">LaTeX</a>? Si esto se cumpliera me quedaría un libro de primera calidad, igual a cualquiera de una editorial o <strong>muy</strong> similar al menos.</p>
+
+<p>En ese momento, levanté el teléfono y llamé al Guille. Le comenté la idea y me dijo que en cuanto pueda se venía para casa a empezar a pensar el <em>sistema</em>. Así fue como comenzó el desarrollo de esta aplicación, revolviendo viejos conceptos que alguna vez había manejado con el módulo <a href="http://www.crummy.com/software/BeautifulSoup/">BeautifulSoup</a> para parsear los HTML (de hecho, excelente módulo) empezamos a ver qué podíamos hacer y cómo encarábamos el problema. También hubo que hacer memoria de HTML, <a href="http://es.wikipedia.org/wiki/Hojas_de_estilo_en_cascada">CSS</a>, y demás conceptos que estaban bastante olvidados.</p>
+
+<p>Así y todo, programando dos días seguidos, con varias ilusiones y desilusiones en el medio, llegamos a <strong>algo</strong> muy crudo esos dos días que estuvimos. Pero ya se acercaba a lo que estábamos buscando. El problema era que sólo funcionaba para un archivo chm y no se podía configurar desde ningún punto de vista.</p>
+
+<p>Los principales problemas fueron la inserción de los caracteres correctos en LaTeX, las tablas HTML, las viñetas, y otas cosas raras de HTML y CSS que muchas no son tan estándares como parece al principio. O mejor dicho quizás son estándares pero bastante bien mezclados y <em>rompe coco</em> :P .</p>
+
+<p>Nos juntamos una vez más (sólo medio día) y terminamos sacando la primer versión <strong>configurable</strong> del programa. Bastante <strong>cruda</strong> y difícil de llevar a cabo la configuración, pero configurable al fin. Incluso hasta ahora no sabemos bien cómo hacer para que cualquier usuario con desconocimiento de todos los conceptos mencionados pueda convertir su chm a pdf.</p>
+
+<p>Actualmente el proyecto está disponible en internet, se puede descargar el código fuente y realizar cualquier tipo de pruebas con él. Proponer ideas, correción de bugs, y demás. Estamos abierto a cualquier sugerencia que sea.</p>
+
+<p>En la <a href="http://code.google.com/p/chmtopdf/">Página Oficial del proyecto</a> está una explicación de cómo se usa, hay un ejemplo de los resultados que se obtienen y demás.<a href="http://code.google.com/p/chmtopdf/">
+
+</a></p></body></html>

@@ -1,0 +1,19 @@
+<html><body><p>Se me murió el disco de la netbook hace un par de meses ya (sí, putié bastante, de pedo que tiene un año la máquina y ya tubo problemas con el flex del monitor y ahora esto), bue...</p>
+
+<p>La cosa es que la formatié y le instalé Debian Wheezy desde un USB y le dí formato con:
+
+</p><blockquote>mkfs.ext3 -c /dev/sdX</blockquote>
+
+La cosa es que me encontró varios <em>bad blocks</em>, pero formatió y pude instalar Debian sin problemas. Después de unos días empezó a fallar de nuevo y ahora me encontré con que puedo marcar los <em>bad blocks</em> de un file system "ya funcionando" digamos. (desmontándolo, ¿no?. Claro esta)
+
+<p>¿Qué opinan de este comando?
+
+</p><blockquote>e2fsck -c -c -k /dev/sdX</blockquote>
+
+<ul>
+	<li><strong>-c:</strong> lo que hace es buscar los <em>bad blocks </em>en ese dispositivo</li>
+	<li><strong>-c:</strong> (de nuevo) hace que el test sea de lectura y escritura no-destructivo</li>
+	<li><strong>-k:</strong> hace que mire la tabla de <em>bad blocks</em> que ya tiene y que conserve los que ya están marcados como defectuosos</li>
+</ul>
+
+¿Estas cosas funcionan o tengo que llevar a que me cambien el disco rígido y entregar mi parte trasera?</body></html>

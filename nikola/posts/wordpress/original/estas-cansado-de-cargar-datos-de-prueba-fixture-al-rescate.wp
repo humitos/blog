@@ -1,0 +1,13 @@
+<html><body><p>Entre ayer y hoy me puse a ver cómo crear Unittests para el proyecto BusStopped que estoy haciendo bajo la plataforma GAE (Google App Engine) utilizando Python como lenguaje.</p>
+
+<p>Estuve probando y viendo varias formas de hacerlo. Primero, empecé a hacerlo a lo <em>macho</em> sin ninguna librería de apoyo, importando el módulo unittest de python y corriendo el script a mano como dice su documentación.</p>
+
+<p>Después instalé <em>nosetest</em> y tuve que toquetear un poco el <strong>sys.path</strong> para que me encuentre los módulos necesarios y me empecé a ensuciar un poco las manos hasta que lo saqué.</p>
+
+<p>Igualmente había algo que no me gustaba, y era que la db que se usaba era la misma que la del servidor de desarrollo entonces ya no me gustaba mucho. De ahí me fui a probar <a href="http://code.google.com/p/gaeunit/">gaeunit</a>, que es una aplicación de GAE que te escanea el directorio <em>test</em> y te ejecuta todos los tests que hay ahí mostrándote los resultados en una página web. Además, también funciona en el servidor de producción.</p>
+
+<p>El problema con el que me encontré con este es que no es muy configurable (tenés que modificar el código para cambiar el directorio a escanear) y que además <em>no es compatible con TipFy </em>por decirlo de alguna forma. Esto es porque las librerías externas que uso las meto en una carpeta llamada <strong>/lib</strong> dentro de la app de GAE y TipFy las levanta automáticamente.</p>
+
+<p>Entonces, tuve que configurar el sys.path en el script de gaeunit.py para que lea esas librerías también. Pero, después de esto me dí cuenta que como <em>gaeunit </em>usa una DB independiente de la del servidor de desarrollo, de alguna forma tenía que cargar los datos y... Ahí otra vez empezó la complicación: GAE no tiene algo similar a los Fixture de Django :(</p>
+
+<p>Buscando un poco en Google me encontré con <a href="http://farmdev.com/projects/fixture/index.html">Fixture</a> que es un módulo de Python para cargar fixtures de diferentes formas en diferentes proyectos y lo mejor de todo es que <a href="http://farmdev.com/projects/fixture/using-fixture-with-appengine.html#using-fixture-with-appengine">tiene algo específico para Google App Engine</a>.</p></body></html>

@@ -1,0 +1,37 @@
+<html><body><p>En pocas palabras tengo un modelo que obtengo desde su <em>id</em> que me viene por la url. Para esto utilizo la función <strong>get_object_or_404</strong> que trae Django. En el medio de la vista de Django aplico algunas funciones a esta instancia del modelo y me estoy encontrando con que luego de aplicar funciones que modifican la base de datos (la fila a la que apunta esta instancia); la instancia no se actualiza y me devuelve valores viejos. ¿Esto está más relacionado con Python que con Django?</p>
+
+<p>El caso que tengo es este (en <a href="http://pastebin.com/r7f6YJA4">Pastebin.com</a>):
+
+<code>
+
+&gt;&gt;&gt; def modify_model_state(model):
+
+...   model.state = 'Closed'
+
+...   model.save()
+
+...
+
+&gt;&gt;&gt; model = get_object_or_404(Model, pk=pk_object)
+
+&gt;&gt;&gt; model.state
+
+u'Open'
+
+&gt;&gt;&gt; modify_model_state(model)
+
+&gt;&gt;&gt; model.state
+
+u'Open'
+
+&gt;&gt;&gt; the_same_model = Model.objects.get(id=pk_object)
+
+&gt;&gt;&gt; the_same_model.state
+
+u'Closed'
+
+&gt;&gt;&gt;
+
+</code></p>
+
+<p>En realidad esto está muy simplificado, pero refleja exactamente lo que tengo en mi código y lo que estoy "viviendo" :P</p></body></html>

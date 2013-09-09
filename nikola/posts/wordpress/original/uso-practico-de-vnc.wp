@@ -1,0 +1,39 @@
+<html><body><p>Actualmente tengo una computadora de escritorio, que dejo siempre prendida y uso como server: para descargar cosas de internet, para guardar la música, como backup, servidor web y demás.</p>
+
+<p>Como todas las cosas que bajo de internet están en ese equipo, necesito organizar las cosas que bajo y no siempre uso un programa en modo texto (consola) para hacer esto. Por ejemplo, si es un disco con mp3 me gusta ponerle los ID3 correctos con <strong>easytag</strong>, o si bajo un DVD9 lo tengo que convertir a DVD5 para poder grabarlo y lo hago con <strong>k9copy</strong>.</p>
+
+<p>Para estos programas necesito tener una interfaz gráfica, entonces uso VNC para ello. De hecho, normalmente tengo corriendo el <strong>JDownloader</strong> en un VNC porque lo quiero tener siempre abierto, pero no quiero que me moleste en la barra de tareas y además también me interesa controlarlo remotamente, si bien para esto uso el servidor web que trae, éste no cubre toda la funcionalidades que se pueden hacer mediante la interfaz gráfica. Por ejemplo, ingresar los códigos que piden algunos File Hosting.</p>
+
+<p>Entonces, la idea de esto es, levantar un servidor VNC y ejecutar programas dentro de éste (sin que alteren el escritorio actual) y luego poder comandar estos programas que lanzamos en el VNC desde cualquier otro equipo. Mi idea fue así:</p>
+
+<p></p><blockquote>
+
+vncserver :4
+
+export DISPLAY=michifus:4
+
+java -Xmx512m -jar ~/.jd/JDownloader/JDownloader.jar &amp;
+
+</blockquote>
+
+<p>Con esto estoy levantando un servidor en el display 4 de <strong>localhost</strong> (que se llama <strong>michifus</strong> en la red). Entonces, después exporto ese display para ser usado por los programas y ejecuto el JDownloader.</p>
+
+<p>Luego, desde otra PC me conecto usando el <strong>xtightvncviewer:</strong></p>
+
+<p></p><blockquote>
+
+xtightvncviewer michifus:4
+
+</blockquote>
+
+<p>Y ahora puedo administrar el JDownloader mediante VNC como si estuviera sentado en la PC que lo está ejecutando realmente. Esto es normalmente lo que tengo ejecutando en el VNC siempre. Además, cuando bajo algo como antes comentaba, quiero levantar otro programa; para eso me conecto por <strong>ssh </strong>al servidor y hago:</p>
+
+<p></p><blockquote>
+
+export DISPLAY=michifus:4
+
+k9copy &amp;
+
+</blockquote>
+
+<p>Luego me conecto nuevamente por VNC a <strong>michifus</strong> y veo que se cargó el <strong>k9copy</strong> en el escritorio que estoy sirviendo por VNC.</p></body></html>

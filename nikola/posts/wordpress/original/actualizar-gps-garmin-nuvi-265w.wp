@@ -1,0 +1,22 @@
+<html><body><p>Hace un par de días me compré un <a href="http://www.amazon.com/Garmin-4-3-Inch-Widescreen-Bluetooth-Navigator/dp/B001ELJ9QK">GPS Garmin Nuvi 265W</a> en Portland a través de <a href="http://craigslist.com">craigslist.com</a>. Un sitio dónde la gente vende cosas usadas que en general se las quiere sacar de encima. Onda, no es que están buscando sacar una ganancia, sino que en vez de tirarlo o donarlo tratan de sacarle unos mangos antes. Hay cosas muy pero muy baratas. Yo al GPS lo pagué 45 dólares y una amiga mia se compró un freezer por 60. ¡Cosa de locos!</p>
+
+<p>Cuestión es que tiene los mapas de USA y alrededores, que mientras estoy viajando, me vienen bien. Pero, ¿qué onda cuando llegue a Argentina? ¿tendrá los mapas de allá también? Lo que hice para ver eso fue ponerle que quiero ir a Paraná, Entre Ríos y ver que en ese lugar solo tiene marcada la RN18 y nada más. O sea, no tiene los mapas de Argentina.</p>
+
+<p>Buscando un poco en internet caí en el <a href="http://www.proyectomapear.com.ar/">Proyecto MapeAR</a>. Me creé una cuenta y me descargué la última versión de los mapas. Seguí los pasos que dice ahí pero no funcionó. Así que tuve que seguir investigando un poco más y lo conseguí. Además, como estoy en USA no quería perder los mapas que el GPS trajo porque los voy a necesitar, así que usé una SD para no sobreescribir los que ya trae. Estos son los pasos que seguí:
+
+</p><ol>
+	<li><span style="line-height:13px;">Descargar el archivo de mapas desde el Proyecto MapeAR</span></li>
+	<li>Descomprimirlo (es un .exe autoextraíble, así que tuve que usar Wine)</li>
+	<li>Crear una carpeta llamada "Garmin" en la tarjeta SD</li>
+	<li>Copiar el archivo "GMAPSUPP-2.img" dentro de la carpeta "Garmin" de la SD</li>
+	<li>Cambiar el nombre del archivo a "GMAPSUPP.img" (notar que le quité el "-2" que por alguna razón no lo reconoce)</li>
+	<li>Quitar la SD y ponerla en el GPS</li>
+</ol>
+
+Listo, ahora cuando puse "Paraná, Entre Ríos" en el GPS pude ver todas las calles perfectamente y además, me mantuvo los mapas de USA que ya traía.
+
+<p> </p>
+
+<p><strong>ACTUALIZACIÓN:</strong> ayer Gastón me preguntó cómo actualicé los mapas de USA en mi Garmin y no me acordaba bien. Hoy encontré el <a href="http://www.taringa.net/posts/info/16187657/Mapas-USA-2013-para-Garmin.html">post en Taringa!</a> que es de dónde los bajé.</p>
+
+<p>Además, también me contó que los mapas de MapeAr no son libres y que hay un proyecto libre que se llama <a href="http://garmin.openstreetmap.nl/">OpenStreetMap que es para Garmin</a>. Así que, busqué Argentina y descargué los mapas de Argentina (que resultó ser un archivo de 129Mb -re liviano). Por lo que puedo ver en Paraná, hay algunos detalles en mi barrio que no tiene (calles que no existen) y algunos nombres de calle no están. Pero bueno, lo voy a probar un poco más a ver qué pasa.</p></body></html>

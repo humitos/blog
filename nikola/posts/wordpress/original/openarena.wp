@@ -1,0 +1,19 @@
+<html><body><p>Ayer me dieron ganas de jugar un rato a los videos juegos para matar el tiempo y para <em>aprovechar</em> la placa 3D que tengo. La verdad que hacía una cantidad que no jugaba absolutamente a ninguno y me sorprendí cuando ví que mantengo el nivel ... :)</p>
+
+<p>Me puse a buscar juegos para Linux y como desde hace tiempo estoy suscrito por RSS a <a href="http://www.linuxjuegos.com">LinuxJuegos.com</a>, empecé por fue buscar ahí. Ahí están todas las novedades de las cosas relacionadas con los Juegos para Linux, desde drivers hasta Pyweek's. Y mucho más.</p>
+
+<p>Encontré el OpenArena que parecía que tenía unos gráficos piola y es el clon del Quake 3 Arena que ya lo conocía. Lo busqué con <strong>apt-cache search openarena</strong> y estaba, asique lo instalé desde ahí. Pesa unos 280Mb.</p>
+
+<p>Jugué un ratito para probarlo y me mandé a jugar en internet. Pero no me fue muy bien, tenía mucho PING (algo así como ~250) y se notaba bastante: cuando yo disparaba el otro tipo ya se había corrido de donde estaba, entonces se hacía bastante difícil. Igualmente el nivel que manejan los flacos que están ahí es otro totalmente distinto al mío.</p>
+
+<p>Como me cansé de perder y perder, no sé si debido al PING o porque soy malo a comparación con ellos, me puse un servidor en mi casa para este juego, para que juguemos entre amigos o los que estemos cerca de Santa Fé (la mayoría de los servidores están afuera del país y tienen mucho PING).</p>
+
+<p>Lo probé con algunos amigos y tiene entre 20-50 de PING que es bastante razonable para jugar. Además lo bueno de este juego es que no necesita mucha PC, los requerimientos son extremadamente mínimos: ni siquiera placa 3D (que era lo que yo quería usar :( ).</p>
+
+<p>Aunque yo lo instalé desde los repositorios, es <strong>recomendable</strong> descargarlo desde el <a href="http://www.openarena.ws/">sitio oficial,</a> porque después hay que aplicarle un parche y se complica bastante sino. De esta forma para aplicar el parche hay que descomprimirlo sobreescribiendo todos los archivos, y listo.</p>
+
+<p>Para jugar en mi servidor hay que entrar en modo <strong>multiplayer</strong> y elegir <strong>specific</strong>. Luego como host: <strong>humitos.homelinux.net </strong>y como puerto <strong>27960</strong>.</p>
+
+<p>Como no podía ser de otra manera, <a href="http://grulicueva.homelinux.net/~humitos/blog/openarena/nuevo-server.py">me hice un script en Python</a> para saber quienes están conectados al servidor cada X cantidad de minutos :) . Este se conecta con un sitio el cual informa los servidores activos y quienes están jugando. Parsea este resultado y utiliza <strong>aosd_cat</strong> para mostrarlo en pantalla. ¿Que tul?. (la idea de usar aosd_cat se la robé a Gastón :P )
+
+</p><blockquote><em>... escucho sugerencias...</em></blockquote></body></html>

@@ -1,0 +1,19 @@
+<html><body><p>Hoy prometí que más tarde explicaría como hacer para bajar música desde Internet usando <a href="http://es.wikipedia.org/wiki/.torrent">archivos Torrents</a>, así que acá estamos.</p>
+
+<p><strong>A:</strong> buscar el torrent en google. Por ejemplo: "joe satriani the extremist torrent". El primer resultado de google me llevó a <em>thepiratebay.se </em>(<a href="http://thepiratebay.se/torrent/3359581/Joe_Satriani_-_The_extremist">link</a>). En general, en éstos links es bueno fijarse que tenga un par de <em>seeds </em>(eso indica cuánta gente está compartiendo ese disco de música; cuánto más tenga más rápido vamos a poder bajar). También, el s<em>ize</em> del archivo, que esté entre entre 40 y 120 <em>Mb, </em>que es un número razonable.</p>
+
+<p><a href="http://humitos.files.wordpress.com/2012/10/screenshot-from-2012-10-30-201342.png"><img class="aligncenter size-full wp-image-1717" title="Screenshot from 2012-10-30 20:13:42" alt="" src="http://humitos.files.wordpress.com/2012/10/screenshot-from-2012-10-30-201342.png" height="326" width="580"></a></p>
+
+<p><strong>B:</strong> una vez que encontramos un link con el disco que queramos y que tenga unos cuántos <em>seeds, el tamaño adecuado</em> y demás... deberíamos buscar un link que diga algo así como "<em>Get this torrent</em>", "<em>Download torrent</em>", "<em>Get the torrent file</em>" o algo similar y que cuando le pasemos el mouse por arriba (sin hacer click) muestre abajo a la izquierda algo que empiece con "<em>magnet:</em>" o que termine con "<em>.torrent</em>". La mayoría de los links que dicen "Download" o similar son propagandas, por eso hay que fijarse bien que el link empiece o termine con lo mencionado.</p>
+
+<p><a href="http://humitos.files.wordpress.com/2012/10/screenshot-from-2012-10-30-201356.png"><img class="aligncenter size-full wp-image-1716" title="Screenshot from 2012-10-30 20:13:56" alt="" src="http://humitos.files.wordpress.com/2012/10/screenshot-from-2012-10-30-201356.png" height="278" width="580"></a></p>
+
+<p><strong>C:</strong> al hacer click en el link correcto (es preferible usar el "<a href="http://es.wikipedia.org/wiki/Magnet">magnet</a>" en caso de que esté -tiene un imán como ícono-) nos debería preguntar con qué programa queremos abrirlo. En esa ventana debemos seleccionar nuestro cliente de torrents (en mi caso <a href="http://www.transmissionbt.com/">Transmission</a>) y seleccionar la carpeta dónde lo queremos bajar.</p>
+
+<p><a href="http://humitos.files.wordpress.com/2012/10/screenshot-from-2012-10-30-201359.png"><img class="aligncenter size-full wp-image-1715" title="Screenshot from 2012-10-30 20:13:59" alt="" src="http://humitos.files.wordpress.com/2012/10/screenshot-from-2012-10-30-201359.png" height="456" width="580"></a></p>
+
+<p><a href="http://humitos.files.wordpress.com/2012/10/screenshot-from-2012-10-30-201414.png"><img class="aligncenter size-full wp-image-1714" title="Screenshot from 2012-10-30 20:14:14" alt="" src="http://humitos.files.wordpress.com/2012/10/screenshot-from-2012-10-30-201414.png" height="372" width="580"></a></p>
+
+<p><a href="http://humitos.files.wordpress.com/2012/10/screenshot-from-2012-10-30-202014.png"><img class="aligncenter size-full wp-image-1719" title="Screenshot from 2012-10-30 20:20:14" alt="" src="http://humitos.files.wordpress.com/2012/10/screenshot-from-2012-10-30-202014.png" height="335" width="580"></a></p>
+
+<p>Listo. Preguntas o casos más complicados... esos que incluirían <strong>D:</strong> o <strong>K:</strong> en los comentarios...</p></body></html>

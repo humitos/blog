@@ -1,0 +1,202 @@
+<html><body><p>Es la primera vez que voy a hacer esto, no estoy seguro porqué se me ocurrió en este momento, pero ya lo había visto en el blog de <a href="http://www.juanjoconti.com.ar">Juanjo</a> hace un tiempo aunque no le dí mucha bola y ahora que me surgió <strong>la idea</strong> nuevamente, me acordé que ya lo había visto y que <strong>la idea no era mía</strong> :P</p>
+
+<p>Voy a intentar <em>dar la charla</em> por mi blog, para todos los que alguna vez la quisieron ver y no tuvieron la oportunidad o ya han ido y se quedaron con dudas, o simplemente para los que les interese :)</p>
+
+<p>Voy a ir mostrando cada una de las diapositivas y tratando de escribir lo que <em>debería</em> decir en cada una de ellas, aunque no estoy seguro si va a quedar lindo, vamos a probar a ver que pasa.</p>
+
+<p><a href="http://humitos.files.wordpress.com/2010/09/img0.jpg"><img class="aligncenter size-medium wp-image-306" title="img0" src="http://humitos.files.wordpress.com/2010/09/img0.jpg?w=300" alt="" width="300" height="225"></a></p>
+
+<p>Para ir rompiendo el hielo de "cómo hacer esto"... Mi nombre es Manuel Kaufmann, quizás más conocido como "humitos". Pertenezco a <a href="http://python.org.ar/pyar/">PyAr</a> hace unos años ya y estoy muy contento de eso. Hoy voy a dar una charla introductoria sobre <a href="http://djangoproject.com/">Django</a> ya que me parece una herramienta muy poderosa, sencilla y <em>amigable,</em> entre otras cosas, para los desarrolladores webs.</p>
+
+<p>La idea de esta charla es hacer un recorrido sobre las funciones básicas de Django, <strong>creando un proyecto desde cero</strong> y obteniendo como resultado final un <strong>blog muy simple,</strong> si es que se lo puede llamar así. Vamos a ver características básicas que se utilizan en todo momento del desarrollo y quizás que se olvidan con frecuencia.</p>
+
+<p>Charlaremos algunos conceptos teóricos básicos de cómo está construido Django y porqué es así y luego haremos una parte práctica en dónde programaremos "juntos" si se quiere un blog muy sencillo con muy poco código escrito.</p>
+
+<p><a href="http://humitos.files.wordpress.com/2010/09/img1.jpg"><img class="aligncenter size-medium wp-image-307" title="img1" src="http://humitos.files.wordpress.com/2010/09/img1.jpg?w=300" alt="" width="300" height="225"></a></p>
+
+<p>Django es un <a href="http://es.wikipedia.org/wiki/Framework">framework</a> pensado para hacer aplicaciones webs. Un framework no es más que un conjunto de programas, funciones, utilidades y un gran etcétera pensado para solucionar problemas típicos en el desarrollo de aplicaciones webs. Digo que está pensado para hacer aplicaciones webs porque también se pueden usar muchas de sus características para realizar otro tipo de aplicaciones, como ser de escritorio.</p>
+
+<p>Existen muchos frameworks para desarrollar aplicaciones webs, pero de los que he probado o visto, este es el que más me ha gustado por su rapidéz y su simpleza a la hora de programar. Además me ha inspirado a hacer aplicaciones webs ya que nunca antes había indagado en el tema.</p>
+
+<p>Este framework se utiliza para cualquier tipo de aplicaciones webs, desde algo muy sencillo hasta algo más complejo. He trabajado en proyectos extremadamente simples en dónde el usuario simplemente necesita administrar contenido y que sea visualmente fácil de localizar hasta una tienda online o un sistema de e-learning dónde se dictan cursos por internet.</p>
+
+<p>La historia de Django se remonta al año 2003 en dónde la gente que desarrollaba el sitio para el diario Lawrence Journal World se estaba dando cuenta que había mucho código que estaban repitiendo, muchas funciones útiles que necesitaban en otros proyectos y que compartían con otros sitios. Además, en el desarrollo de nuevos sitios se daban cuenta que en el otro proyecto más antiguo la clase de problemas que se habían presentado eran muy similar a los que estaban teniendo actualmente y en el otro proyecto ya lo tenían resuelto. En pocas palabras, así es como nació Django: juntaron todo eso que habían desarrollado durante años, lo pulieron, generalizaron varios aspectos para que sea fácilmente modificable, charlaron,  se pusieron de acuerdo, eligieron un nombre y en 2005 lo liberaron como Software Libre.</p>
+
+<p>¿Qué más se puede decir? Desde ese momento no ha parado de crecer y la comunidad que lo rodea sigue proponiendo ideas, solucionando nuevos problemas, creando nuevas funciones y utilidades, etc. Es muy activo el desarrollo de este framework y eso lo hace muy potente y extendible.</p>
+
+<p><a href="http://humitos.files.wordpress.com/2010/09/img2.jpg"><img class="aligncenter size-medium wp-image-308" title="img2" src="http://humitos.files.wordpress.com/2010/09/img2.jpg?w=300" alt="" width="300" height="225"></a></p>
+
+<p>Django está construido siguiendo el <a href="http://es.wikipedia.org/wiki/Modelo_Vista_Controlador">patrón de diseño MVC</a> (Modelo - Vista - Controlador) que consiste básicamente, en separar y aislar los componentes de la aplicación. Django cambia un poco el nombre de este patrón y se llama a sí mismo como MTV (Modelo - Template - Vista), entonces el mapeo con el clásico patrón sería Modelo-Modelo, Vista-Template, Controlador-Vista. Por lo tanto, si ya conocen este patrón de diseño, al principio puede ser un poco confuso.</p>
+
+<p>Los diferentes componentes son:
+
+</p><ul>
+	<li><em>Modelo</em>: los datos de la aplicación en cuestión. Es todo lo relacionado con la base de datos; la descripción de las tablas se realiza en los archivos <strong>models.py</strong> escribiendo código Python.</li>
+	<li><em>Template</em>: está asociado a la interfaz de usuario, es quien dice <em>cómo</em> se van a mostrar los datos al usuario, cuál va a ser su disposición en la pantalla y cuales widgets se van a utilizar para cada uno. Esto se hace mediante archivos HTML's con un poco de código de template de Django.</li>
+	<li><em>Vista:</em> es la parte encargada de procesar y ordenar los datos obtenidos del modelo o bien ingresados por el usuario.</li>
+</ul>
+
+Considerando este ejemplo: "Un usuario ingresa al home del sitio, se le muestra un formulario en dónde puede dejar sus datos para suscribirse a las noticias". La interacción entre las diferentes partes queda dada de esta manera:
+
+<ul>
+	<li>Al ingresar al home se le presenta al usuario una página que contiene el formulario en algún lugar de la misma, esta estructura está definida en el <em>Template</em><em>.</em></li>
+	<li>El usuario ingresa sus datos (nombre y apellido y luego su dirección de mail).</li>
+	<li>Estos datos son enviados a la (función) <em>Vista</em> que maneja esa petición. Es esta vista la encargada de "manipular" estos datos, por ejemplo poniendo el nombre y el apellido en mayúsculas y comprobando que la dirección de mail sea válida (que contenga una arroba y un punto mínimamente).</li>
+	<li>Luego de esta verificación, la <em>Vista</em> le informa al <em>Modelo</em> que puede guardar estos datos en la base de datos ya que son correctos.</li>
+</ul>
+
+<a href="http://humitos.files.wordpress.com/2010/09/img3.jpg"><img class="aligncenter size-medium wp-image-309" title="img3" src="http://humitos.files.wordpress.com/2010/09/img3.jpg?w=300" alt="" width="300" height="225"></a>
+
+<p>Una vez que tenemos instalado Django en nuestro sistema (la instalación <a href="http://docs.djangoproject.com/en/dev/intro/install/">está cubierta en éste documento</a>) podemos comenzar un proyecto desde cero. Para eso debemos ejecutar el programa <strong>django-admin.py</strong> e indicarle que queremos crear un proyecto nuevo mediante el comando  <strong>startproject</strong> seguido del nombre del proyecto.</p>
+
+<p><em>NOTA: no está permitido ponerle cualquier nombre al proyecto; por ejemplo, no se pueden usar espacios o guiones medios. El nombre del proyecto tiene que ser un nombre de módulo de Python válido.</em></p>
+
+<p>Una vez que tenemos creado el proyecto, podemos ejecutar el <em>servidor web de desarrollo</em> que trae Django consigo. Para esto ingresamos al directorio que va a tener el mismo nombre del proyecto y ejecutamos el programa <strong>manage.py</strong> con el comando <strong>runserver</strong>. De esta forma le indicamos a Django que levante el servidor para este proyecto específicamente.</p>
+
+<p>Debe quedar bien claro que <strong>este servidor es sólo para desarrollo</strong> y de ninguna manera debe ser utilizado para un sitio que está en producción ya que no pretende ser utilizado para eso. Lo bueno de este es que es <em>muy útil</em> a la hora de programar el sitio, ya que posee <em>auto-reload.</em> Esto es, cada vez que modificamos un archivo de nuestro proyecto el servidor se reinicia cargando la nueva configuración. Por lo tanto, al comenzar el desarrollo lo ejecutamos, luego modificamos los archivos y lo único que hacemos es presionar F5 en nuestro navegador para ver los cambios a medida que vamos avanzando o probando nuevas configuraciones.</p>
+
+<p>Si ahora abrimos un navegador y apuntamos este a la dirección <strong>http://localhost:8000</strong> vamos a ver un mensaje de bienvenida de Django indicando que el proyecto funciona correctamente.</p>
+
+<p>Los archivos que nos crea el comando <strong>django-admin.py</strong> son realmente poquitos a diferencia con otros frameworks y cada uno tiene una función muy bien definida:
+
+</p><ul>
+	<li><em>__init__.py</em>: este archivo no está relacionado con Django particularmente, sino que es más específico de Python y le indica que el directorio actual es un módulo.</li>
+	<li><em>manage.py: </em>es un programa que se utiliza para interactuar con este proyecto en particular. Es similar a <strong>django-admin.py</strong> pero específico de este proyecto. Mediante este programa se puede actualizar la base de datos, ejecutar el servidor de desarrollo, correr tests, etc.</li>
+	<li><em>settings.py:</em> en este archivo se encuentra toda la configuración del proyecto en general; la conexión a la base de datos, qué tipo de base usar, en qué lenguaje está el sitio, etc.</li>
+	<li><em>urls.py:</em> en este archivo se encuentran todas las url's disponibles para nuestro sitio.</li>
+</ul>
+
+<a href="http://humitos.files.wordpress.com/2010/09/img4.jpg"><img class="aligncenter size-medium wp-image-310" title="img4" src="http://humitos.files.wordpress.com/2010/09/img4.jpg?w=300" alt="" width="300" height="225"></a>
+
+<p>Como dijimos en la diapositiva anterior, Django tiene un archivo llamado <em>urls.py</em> en dónde se encuentra la definición de todas las url's del proyecto en cuestión. Estas url's están asocian un <strong>nombre</strong> con una <strong>función vista </strong>encargada de procesar la petición web (request). El nombre está dado mediante una <strong>expresión regular</strong> y prácticamente puede ser de la forma que más nos guste. La función vista puede ser asociada mediante una cadena de caracteres indicando el <em>path</em> hacia esa función o bien el objeto función de Python. También se pueden asociar varias url's hacia la misma vista, esto es muy útil cuando el proyecto estuvo en producción durante un tiempo y luego se decidió cambiar el nombre de una url para que sea más legible o algún otro motivo, entonces podemos hacer que siga funcionando la url vieja (para los usuarios viejos) y además agregar la nueva url (para los usuarios nuevos).</p>
+
+<p>Puede que nosotros queramos pasar argumentos por la url, por ejemplo si tenemos un blog quizás la url sea algo similar a <em>/año/mes/dia/slug-post </em>por lo tanto vemos que tenemos 4 argumentos conocidos en el nombre de la url. Para estos casos podemos usar los grupos de las expresiones regulares para que cada grupo sea pasado como un argumento posicionales a la vista que va a manejar la petición o sino podemos utilizar grupos nombrados que van a ser pasados como argumentos <em>keyword.</em></p>
+
+<p>De esta manera tenemos un control absoluto sobre los nombres de las url's ya que Django nos permite un procesamiento granular de los nombres gracias a que soporta las expresiones regulares en su definición. Existen otros frameworks que no nos permiten esta definición de url's sino que utilizan el nombre de la función o la estructura de los directorios para dar el nombre a la url, lo cuál no me parece que sea cómodo a la hora de modificar un nombre o hacer un poco de refactoring :S</p>
+
+<p>Hemos estado hablando de <em>Vistas</em> casi sin hacer ninguna diferencia con una función de Python y es porque simplemente (casi) no la hay. Una función vista no es más que una función común de Python que recibe como primer argumento el <strong>request</strong> (un objeto HttpRequest de Django) y retorna un <strong>response</strong> (un objeto HttpResponse de Django). Eso es todo, en el medio la función puede realizar cualquier tipo de operación que Python lo permita :)</p>
+
+<p><a href="http://humitos.files.wordpress.com/2010/09/img5.jpg"><img class="aligncenter size-medium wp-image-311" title="img5" src="http://humitos.files.wordpress.com/2010/09/img5.jpg?w=300" alt="" width="300" height="225"></a></p>
+
+<p>Un proyecto no es más que un puñado de aplicaciones de Django, pero ¿qué es exactamente una aplicación Django?. Bueno, simplemente es un conjunto de archivo de código fuente de Python agrupados en una carpeta con el nombre de la aplicación :) .</p>
+
+<p>Lo bueno de esta distinción es que permite compartir una misma aplicación entre varios proyectos, ya que cada aplicación cuenta con sus modelos, sus vistas y sus propios templates. Además puede ser que también utilice modelos de otra aplicación, por lo que para su correcto funcionamiento deben compartirse ambas aplicaciones.</p>
+
+<p>Por ejemplo, si en algún proyecto <em>solucionamos un problema </em>o <em>agregamos una funcionalidad buena</em> y queremos que también esté en otro proyecto, simplemente copiamos la carpeta que contiene la aplicación, la configuramos en el proyecto y listo.</p>
+
+<p>Todas las aplicaciones que están dentro del mismo proyecto comparten las configuraciones de éste, por ejemplo el idioma, la conexión a la base de datos, el <strong>template base</strong> utilizado y muchas otras configuraciones más.</p>
+
+<p>La forma de crear una nueva aplicación es indicarle esto al programa <strong>manage.py</strong> del proyecto. Para esto lo ejecutamos con el comando <strong>startapp </strong>y le pasamos el nombre de la aplicación como argumento. Como resultado, este programa nos crea el directorio con el nombre de la aplicación que elegimos y dentro de esta tres archivos:
+
+</p><ul>
+	<li><em>__init__.py: </em>este archivo le indica a Python que este directorio es un módulo.</li>
+	<li><em>models.py:</em> en este archivo va la definición de todos los modelos de esta aplicación.</li>
+	<li><em>views.py:</em> acá va la definición de todas las vistas de esta aplicación.</li>
+</ul>
+
+<a href="http://humitos.files.wordpress.com/2010/09/img6.jpg"><img class="aligncenter size-medium wp-image-312" title="img6" src="http://humitos.files.wordpress.com/2010/09/img6.jpg?w=300" alt="" width="300" height="225"></a>
+
+<p>Como charlamos antes, los modelos hacen referencia a la base de datos y son propios de cada aplicación aunque pueden ser compartido por varias aplicaciones del mismo proyecto. Por ejemplo, en Django existe un modelo llamado <em>User</em> que es usado por la mayoría de las aplicaciones que escribimos.</p>
+
+<p>Este framework soporta diferentes "backends" de bases de datos, entre ellos MySQL, PosgreSQL, SQLite3 y Oracle. También está permitido extender el framework para soportar otras bases de datos, aunque nunca lo he necesitado. En este caso vamos a utilizar SQLite3 ya que es muy sencillo de configurar y es muy útil para desarrollar por su simpleza.</p>
+
+<p>En esta versión de Django está soportado utilizar múltiples bases de datos y aunque nunca lo he utilizado aprendí a configurar la base de datos por<em> default </em>del proyecto. Para esto hay que modificar el diccionario <strong>DATABASES</strong> que se encuentra en el archivo de configuraciones<strong><em> </em>settings.py</strong>.</p>
+
+<p>El procedimiento para definir modelos en nuestra aplicación es bastante sencillo. Una vez que tenemos pensadas las tablas que necesitamos en nuestra base de datos abrimos el archivo <strong>models.py </strong>de la aplicación a la cual le queremos agregar un modelo y definimos la tabla con sintaxis Python definiendo una nueva clase que hereda de <em>django.db.models.Model; </em>asignando un atributo a la clase por cada columna que queremos en la tabla.</p>
+
+<p>Con esto se puede notar que no es <em>necesario</em> saber SQL para poder definir los modelos, aunque sí recomendable. Pero lo que quiero decir es que se pueden definir los modelos de la base de datos con un mínimo conocimiento de SQL.</p>
+
+<p><a href="http://humitos.files.wordpress.com/2010/09/img7.jpg"><img class="aligncenter size-medium wp-image-313" title="img7" src="http://humitos.files.wordpress.com/2010/09/img7.jpg?w=300" alt="" width="300" height="225"></a></p>
+
+<p>En esta diapositiva estamos definiendo el modelo <strong>Post</strong> que representa un post en nuestro blog. Las columnas que queremos que tenga esta tabla son <em>título, contenido y etiquetas. </em>De la misma forma que en SQL cada una de las columnas son de un tipo de dato en particular, los atributos de nuestra clase también. Entonces, necesitamos indicarle a Django qué tipo de dato es cada uno de sus atributos. Por ejemplo, vemos que el <strong>título</strong> es un campo de caracteres de longitud máxima de 60, el <strong>contenido</strong> es campo de texto y las <strong>etiquetas</strong> es una relación muchos-a-muchos con <em>Etiqueta</em> (un modelo que todavía no definimos).</p>
+
+<p>Django automáticamente crea una columna llamada <strong>id</strong> en la tabla de SQL y es incrementada automáticamente cada vez que se crea una nueva fila.</p>
+
+<p>Más adelante veremos que Django <em>sabe</em> cómo representar cada uno de estos campos cuando son utilizados en los Templates para mostrárselos al usuario en la pantalla.</p>
+
+<p>Una vez que tenemos creados nuestros modelos, y si tenemos algún conocimiento de SQL, podemos preguntarle a Django cuál es el código SQL que va a ejecutar para crear los modelos que nosotros definimos mediante clases de Python. Para eso podemos utilizar el comando <strong>manage.py</strong> con el argumento <strong>sql</strong> seguido del nombre de la aplicación que queremos ver.</p>
+
+<p><a href="http://humitos.files.wordpress.com/2010/09/img8.jpg"><img class="aligncenter size-medium wp-image-314" title="img8" src="http://humitos.files.wordpress.com/2010/09/img8.jpg?w=300" alt="" width="300" height="225"></a></p>
+
+<p>Agregamos estos dos nuevos modelos al archivos <strong>models.py</strong> de la aplicación <strong>posts</strong> que estamos editando recién.</p>
+
+<p>Una vez que tenemos definidos los modelos en la aplicación, podemos <em>instalar</em> esta aplicación en el proyecto actual. Esto sirve para indicarle a Django qué aplicaciones pertenecen a este proyecto y qué modelos, vistas y templates están disponibles para este proyecto.</p>
+
+<p>Para esto, editamos el archivo <strong>settings.py</strong> y agregamos nuestra aplicación a la variable <strong>INSTALLED_APPS</strong>, de esta forma <em>'newblog.posts'. </em>Una vez que tenemos nuestra aplicación instalada podemos correr el comando que mencionamos antes: <strong>manage.py sql posts</strong> y veremos en la salida estándar el código SQL que Django va a ejecutar cuando le indiquemos que cree las tablas. En este momento podemos verificar que sea correcto y de no serlo modificar nuestros modelos para que lo sea.</p>
+
+<p>Lo que sigue, una vez que vemos que nuestro SQL es el correcto, es decirle a Django que cree las tablas por nosotros. De la misma forma que podríamos copiar el código SQL que Django nos mostró y ejecutarlo nosotros mismos lo puede hacer Django. Entonces le decimos esto con el comando <strong>manage.py syncdb</strong>.</p>
+
+<p>Este comando busca todas las aplicaciones instaladas (listadas en <strong>INSTALLED_APPS</strong>) y crea todas las tablas de esas aplicaciones. La primera vez que ejecutamos <strong>syncdb</strong> Django nos va a preguntar por un usuario Administrador y su clave, que será un usuario que usaremos más adelante para administrar algunas cuestiones del proyecto.</p>
+
+<p><a href="http://humitos.files.wordpress.com/2010/09/img9.jpg"><img class="aligncenter size-medium wp-image-315" title="img9" src="http://humitos.files.wordpress.com/2010/09/img9.jpg?w=300" alt="" width="300" height="225"></a></p>
+
+<p>Como venimos hablando, un proyecto de Django está compuesto por varias aplicaciones y éstas son reutilizables. Es por esto que Django viene de fábrica con algunas aplicaciones y mini-frameworks útiles para los desarrolladores e incluso para el usuario final.</p>
+
+<p>Por ejemplo viene con un framework para manejar comentarios en los modelos, otro para exportar feeds rss en diferentes formatos, otro para manejar mensajes temporales a los usuarios, y muchos otros. En este caso vamos a ver la aplicación <strong>admin</strong> que es utilizada como ABM (alta-baja-modificación) de los modelos de nuestro proyecto. Incluso existen algunos sitios que se basan en esta aplicación (modificada) como la principal del sistema.</p>
+
+<p>Al comienzo dijimos que Django nos simplificaba y resolvía varios problemas, bueno, este es uno de esos casos. Normalmente mientras uno está desarrollando es necesario modificar datos o simplemente agregar datos a la base para hacer algunas pruebas de las funciones. Es acá donde entra en juego en primera instancia esta aplicación, ya que nos <strong>facilita mucho</strong> esto por su sencillo uso.</p>
+
+<p>Si estamos haciendo un sistema en dónde es necesario que el usuario final cargue sus productos en este, se pueden definir todos los modelos necesarios y luego configurar esta aplicación que trae Django para que el usuario pueda empezar a cargar sus productos a la base de datos sin siquiera haber terminado el desarrollo del sistema. Lo cual ahorraría mucho tiempo.</p>
+
+<p>La aplicación <strong>admin</strong> que viene con Django se instala de la misma forma que se instala cualquier otra aplicación:
+
+</p><ul>
+	<li>se agrega el nombre de la aplicación a la variable <strong>INSTALLED_APPS</strong></li>
+	<li>se agrega la url en la cuál queremos que se encuentre esa aplicación</li>
+	<li>se sincronizan los modelos de esta aplicación ejecutando el comando <strong>syncdb</strong></li>
+</ul>
+
+Una vez que tenemos esto hecho, podemos ir a la URL que definimos y veremos la aplicación <strong>admin</strong> funcionando. Esta aplicación es bastante grande y permite ser <em>tunneada</em> bastante para que cumpla los requerimientos del usuario o simplemente luzca mejor, es por esto que probablemente queramos configurar algunas cosas más luego de haberla instalado para que sea vea como queremos. Entonces, para que se vean los modelos que hemos definido en nuestras aplicaciones hay que registrarlos.
+
+<p><a href="http://humitos.files.wordpress.com/2010/09/img10.jpg"><img class="aligncenter size-medium wp-image-316" title="img10" src="http://humitos.files.wordpress.com/2010/09/img10.jpg?w=300" alt="" width="300" height="225"></a></p>
+
+<p>Las vistas en Django son simples funciones de Python que reciben un <a href="http://docs.djangoproject.com/en/dev/ref/request-response/#httprequest-objects">HttpRequest</a> y devuelven un <a href="http://docs.djangoproject.com/en/dev/ref/request-response/#httpresponse-objects">HttpResponse</a>. En realidad esto es todo lo necesario a saber para definir una vista de Django correctamente. Después hay cosas que "habitualmente hacemos" para manejar el requerimiento del usuario, por ejemplo, si este ha ingresado datos hacemos una diferencia entre el método <strong>GET</strong> y <strong>POST</strong>, una vez que tenemos los datos que el usuario ingresó, los validamos y luego los guardamos en la base de datos. Por el contrario la primera vez que se le muestra el formulario al usuario será mediante un GET, entonces en este caso lo que hacemos es renderizar el formulario en el template correspondiente.</p>
+
+<p>Entonces, lo más común es que cada vista tenga al menos dos caminos: uno para el GET y otro para el POST separados por un <strong>if </strong>y en cada caso se retornará lo que corresponda o se lo redirigirá al usuario a otra URL. También se puede renderizar el mismo template en ambos casos pero con diferentes valores en sus variables.</p>
+
+<p>El workflow habitual para definir una <em>vista</em> consiste en importar los módulos que se utilizarán en esta vista, por ejemplo ﻿<em>render_to_response, PIL, </em>etc<em>.</em> Luego se define una función Python con el primer argumento con el nombre <strong><em>request</em><span style="font-weight:normal;"> y luego los demás argumentos que vienen por la URL (ya sean como grupos nombrados o no). Seguido de esto se escribe el cuerpo de la función como antes comentamos y finalmente se edita el archivo <em>urls.py </em>mapeando una url a la nueva vista que acabamos de definir.</span></strong></p>
+
+<p><strong><span style="font-weight:normal;"><a href="http://humitos.files.wordpress.com/2010/09/img11.jpg"><img class="aligncenter size-medium wp-image-317" title="img11" src="http://humitos.files.wordpress.com/2010/09/img11.jpg?w=300" alt="" width="300" height="225"></a></span></strong></p>
+
+<p><strong><span style="font-weight:normal;">En este ejemplo se ve claramente lo que acabamos de explicar. Las primeras tres líneas importan las funciones, modelos y formularios necesarios para definir la vista. Luego se define la vista llamando al primer y único argumento <em>request </em>y en el cuerpo de la vista se maneja el método GET y el POST.</span></strong></p>
+
+<p><strong><span style="font-weight:normal;">Para el método GET lo que se hace es crear un </span>formulario<span style="font-weight:normal;"> para el modelo </span>Post</strong> y luego se lo renderiza en el template <em>agregar_post.html</em> de la aplicación <strong>Post</strong>.</p>
+
+<p>Cuando la petición web es un POST se crea un un <strong>nuevo formulario</strong> a partir de los datos enviados por el usuario (mediante el POST), luego se pregunta si es válido. Si lo es, se guarda en la base de datos este formulario, creando un nuevo objeto del modelo Post y con esto una nueva fila en la tabla Post del SQL. Una vez que se hace esto se redirige al usuario al home (root) de nuestro sitio web (/) mediante el código de respuesta <strong>302.</strong></p>
+
+<p><strong><a href="http://humitos.files.wordpress.com/2010/09/img12.jpg"><img class="aligncenter size-medium wp-image-318" title="img12" src="http://humitos.files.wordpress.com/2010/09/img12.jpg?w=300" alt="" width="300" height="225"></a></strong></p>
+
+<p>En el ejemplo anterior hablamos de <em>renderizar un template,</em> pero hasta ahora no vimos como lucen estos y tampoco cómo escribirlos. Los templates no son mucho más que código HTML y un poco de código <strong>Django Template</strong>. Si tenemos un poco de conocimiento sobre HTML y un poco de conocimiento estructuras de flujos nos va a resultar muy sencillo escribir los templates que Django luego va a renderizar.</p>
+
+<p>Existen tres grandes conceptos en el código Django Template, los filtros, las variables y las etiquetas. Las variables son justamente eso: variables, las cuales contienen un valor que puede ser insertado en cualquier lugar del template encerrando su nombre entre dos llaves ({{ variable }}). De esta forma, en el lugar que ingresemos esa sustitución se pondrá el contenido de la variable en ese lugar.</p>
+
+<p>Las etiquetas se utilizan para organizar el flujo del programa y así mostrar los datos correspondientes en cada caso. Algunas etiquetas comúnmente usadas son if, for, trans, blocktrans, comment, etc. Estas se encierran entre llaves simples y un signo de porcentaje ({% comment %}).</p>
+
+<p>Otra gran característica de los templates es la <strong>herencia.</strong> Normalmente se utiliza para no repetir código y que sea más fácil de mantener. Los sitios habitualmente tienen un header y footer estático, que no cambian al navegar el sitio: este puede ser un menú en el header y algún texto que diga "Copyright Humitos ©" o similar en el footer. Entonces, para estos casos en los cuales yo quiero tener dos porciones de mi página que sé que no van a cambiar en todo el sitio puedo escribir esto en un template <strong>base</strong> e indicar cuáles son las partes de este template que se pueden cambiar. Luego en otro template, <strong>el que hereda de base</strong>, defino cuales son los bloques del template que estoy heredando que deseo cambiar y así sólo modifico el contenido relevante y la porción del sitio que se repite en todos los templates me queda centralizado en un sólo archivo.</p>
+
+<p><a href="http://humitos.files.wordpress.com/2010/09/img13.jpg"><img class="aligncenter size-medium wp-image-319" title="img13" src="http://humitos.files.wordpress.com/2010/09/img13.jpg?w=300" alt="" width="300" height="225"></a></p>
+
+<p>En la variable <strong>TEMPLATE_DIRS</strong> del archivo <strong>settings.py</strong> están listados los directorios en los cuales Django debe buscar los templates que las vistas van a usar para renderizar su contenido. Por lo tanto, debemos agregar los directorios dónde vamos a tener nuestros templates a esta variable.</p>
+
+<p>Además, existe una notación específica para ubicar los templates dentro de cada aplicación y que sean encontrados <em>automáticamente </em>por Django sin tener que agregar cada uno de los directorios de nuestras aplicaciones. Esta notación es ﻿<em>&lt;app_name&gt;/templates/&lt;app_name&gt;/template.html. </em>Por ejemplo para el template <em>agregar_post.html</em> que usamos anteriormente en la vista la ruta parados desde el <strong>root del proyecto</strong> sería: <em>posts/templates/posts/agregar_post.html</em></p>
+
+<p>Los filtros se aplican a las variables y se utilizan para <strong>modificar</strong> el valor que esta contiene o bien darle formato. Por ejemplo si en la variable tenemos una fecha y la queremos mostrar como<em> dd/mm/aaaa</em> se puede usar el filtro <strong>date. </strong>La forma de utilización es similar a la de la sustitución de la variable pero seguido del nombre va un pipe y luego el nombre del filtro. Por ejemplo, para pasar el contenido a minúsculas se puede usar el filtro <em>lower:</em> {{ variable|lower }}.</p>
+
+<p>Otra de las cosas que me gusta de Django es lo simple y fácil que es extenderlo. Me ha pasado varias veces que necesito hacer un filtro o un templatetag y me he sorprendido lo fácil que es escribir uno propio. También con esto hay que <em>tener cuidado</em> ya que lo que se puede hacer en un filtro o un templatetag es bastante poderoso, pero en realidad, éstos no están pensados para tener mucha lógica, sino más bien están pensado para hacer alguna mínima modificación en la estructura o en el valor de la variable. La lógica compleja sobre qué datos o cómo se deben mostrar debería estar en la vista y no en el template.</p>
+
+<p><a href="http://humitos.files.wordpress.com/2010/09/img14.jpg"><img class="aligncenter size-medium wp-image-320" title="img14" src="http://humitos.files.wordpress.com/2010/09/img14.jpg?w=300" alt="" width="300" height="225"></a></p>
+
+<p>¿Preguntas? Usen los comentarios para hacerlas, las contestaré a medida que pueda :)</p>
+
+<p><a href="http://humitos.files.wordpress.com/2010/09/img15.jpg"><img class="aligncenter size-medium wp-image-321" title="img15" src="http://humitos.files.wordpress.com/2010/09/img15.jpg?w=300" alt="" width="300" height="225"></a></p>
+
+<p>Algunos links de referencia:
+
+</p><ul>
+	<li><a href="http://www.djangoproject.com/">http://www.djangoproject.com/</a></li>
+	<li><a href="http://docs.djangoproject.com/en/1.2/">http://docs.djangoproject.com/en/1.2/</a></li>
+	<li><a href="http://django.es/">http://django.es/</a></li>
+	<li><a href="http://django.es/docs/intro/general/">http://django.es/docs/intro/general/</a></li>
+	<li><a href="http://django.es/docs/intro/tutorial01/">http://django.es/docs/intro/tutorial01/</a></li>
+	<li><a href="http://trac.usla.org.ar/django-book">http://trac.usla.org.ar/django-book</a></li>
+</ul></body></html>

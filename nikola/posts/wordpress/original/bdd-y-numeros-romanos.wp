@@ -1,0 +1,81 @@
+<html><body><p>En la primera y última, hasta el momento, charla del LugLi en la UTN de Santa Fé Gastón mostró lo que es <a href="http://behaviour-driven.org/">BDD</a> (Behaviour Driven Development) aplicándolo en su lenguaje favorito (vaya uno a saber porqué) con <a href="http://rspec.info/">RSpec</a>. Lo que mostró y como dió la charla fue <strong>fantabuloso</strong>, nos engañó a todos de una forma increible, yo compraba.</p>
+
+<p>Y finalmente... compré. Ayer me puse a buscar info sobre BDD en Google pero aplicado a Python, no encontré mucho, al parecer toda esta <em>metodología</em> es demasiado nueva y está muy verde. Finalmente caí en dos links que salen de la sección implementación de la página oficial de BDD. Uno se llama <a href="http://colus.cafe24.com/hgwebdir.cgi/specipy/">specipy</a>, que no entendí para nada como se usa, ¡no hay doc!. Y el otro es un plugins para nose, y... justamente <strong>no sé</strong> lo que es que se llama <a href="http://darcs.idyll.org/~t/projects/pinocchio/doc/">pinocchio</a>.</p>
+
+<p>Seguí leyendo bastante, y preguntando qué me recomendaban hacer en la lista de PyAr y en el canal. No conseguí ninguna respuesta, no sé si nadie sabía, no lo utilizan o qué pasó. Después caí en el módulo doctest de Python, que sirve para <strong>probar comentarios</strong> como si fueran sentencias dentro del interprete. Está muy piola. Por ejemplo:
+
+</p><pre>def suma(x, y):
+  """Esta función devuelve la suma de los
+  argumentos x e y
+  &gt;&gt;&gt; suma(2,4)
+  6
+  &gt;&gt;&gt; suma(24,1)
+  25
+  &gt;&gt;&gt; suma([2],[4])
+  [2, 4]
+  &gt;&gt;&gt; suma([3], 5)
+  Traceback (most recent call last):
+  ...
+  TypeError: can only concatenate list (not "int") to list
+  """
+
+  return x + y
+
+<p>if __name__ == '__main__':
+  import doctest
+  doctest.testmod()
+</p></pre>
+
+Esto lo que hace es, cuando se ejecuta este módulo diréctamente se <strong>meten</strong> en el intérprete todos los comentarios que empiecen con &gt;&gt;&gt; y se compara el resultado con lo que está inmediátamente abajo de esa línea. Si esta coincide, el test es válido.
+
+<p>Ahora para jugar un poco con esto, ya que quería ver cómo se siente tener que escribir cómo debe funcionar la aplicación y luego escribir el código, me puse a jugar con un ejercicio interesante: "Convertir números romandos a enteros, y viceversa". Abrí un archivo nuevo, lo guardé como .py y empecé a delirar.</p>
+
+<p>Es medio raro escribir algo de texto y ver que no avanzás mucho, pero después cuando escribís la función ya estás seguro de que funciona :D , y no tenés que testearla manualmente, además en una me pasó que metí la pata y pasé de tener 1 Test Fail a tener 14, lo cual hizo que me de cuenta enseguida que había hecho cualquier cosa.</p>
+
+<p>Todavía no me acostrumbro bien a hacer esto, a veces me desespero un poco y empiezo a tirar código a medida que voy haciendo las pruebas, o bien termino la prueba de una función y enseguida la escribo.</p>
+
+<p>El módulo se puede <a href="http://grulicueva.homelinux.net/~humitos/blog/bdd-y-numeros-romanos/roman.py">descargar de acá</a> y un ejemplo de su uso sería algo así.
+
+</p><pre>&gt;&gt;&gt; from roman import Roman
+
+&gt;&gt;&gt; Roman(2)
+
+Roman('II')
+
+&gt;&gt;&gt; Roman('XI')
+
+Roman('XI')
+
+&gt;&gt;&gt; Roman(2.5)
+
+Traceback (most recent call last):
+    ...
+ValueError: float number is not support
+
+&gt;&gt;&gt; Roman('II') + 5
+
+Roman('VII')
+
+&gt;&gt;&gt; Roman('XXI') * 2
+
+Roman('XLII')
+
+&gt;&gt;&gt; Roman('X') + Roman('XV')
+
+Roman('XXV')
+
+&gt;&gt;&gt; Roman('X') - 25
+
+Traceback (most recent call last):
+    ...
+ValueError: result zero or negative
+
+&gt;&gt;&gt; Roman(25) + Roman(3995)
+
+Traceback (most recent call last):
+    ...
+ValueError: result too long
+
+</pre>
+
+Ahora bien, para qué carajo sirve sumar y restar números romanos no sé, si alguien le encuentra alguna utilidad... Bienvenido sea :)</body></html>

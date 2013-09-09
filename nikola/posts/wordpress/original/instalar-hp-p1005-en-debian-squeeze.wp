@@ -1,0 +1,16 @@
+<html><body><p>... sin morir en el intento.</p>
+
+<p>Estoy bastante podrido de que "cada vez" que pasa "algo" (no sé exactamente qué -si es una actualización del sistema operativo, cambian los drivers de HP, cambia cups, o lo que sea-) se me pudre la impresora. Deja de funcionar sin que siquiera se dé cuenta de que le estoy mandando a imprimir algo. Ni noticias.</p>
+
+<p>Ayer le dediqué un buen tiempo a investigar (y encontrar) la forma para que pueda volver a instalarla sin renegar unas horas como venía haciendo cada vez que se me <em>rompía </em>la impresora. Por suerte, como dije antes, la encontré y paso a explicarla acá por si a algún otro le sirve.
+
+</p><ol>
+	<li>Seguir los pasos listados acá <a href="http://hplipopensource.com/hplip-web/index.html">http://hplipopensource.com/hplip-web/index.html</a> para descargar el <strong>.run</strong> que vamos a utilizar. A mí me terminó tirando este <a href="http://prdownloads.sourceforge.net/hplip/hplip-3.12.2.run">link</a> para Debian Squeeze</li>
+	<li>Una vez terminados los pasos anteriores, descargar el <strong>.run</strong> con el botón "Download HPLIP" y luego descargar también el certificado digital con el link "(Download Digital Certificate)" ya que sino la instalación falla a la mitad <em>(demoré bastante en descubrir que fallaba por esto)</em></li>
+	<li>Instalar <strong>foomatic-filters</strong> y <strong>foomatic-filters-ppds</strong> con <em>apt-get</em></li>
+	<li>Seguir los pasos listados acá: <a href="http://hplipopensource.com/hplip-web/install/install/index.html">http://hplipopensource.com/hplip-web/install/install/index.html</a></li>
+</ol>
+
+Creo que eso es todo.
+
+<p><strong>UPDATE</strong>: a veces pasa que la impresora se instala correctamente pero luego no imprime (me pasó en una nueva instalación de Fedora 17 64 bits). Lo solucioné con el comando <strong>hp-firmware</strong>.</p></body></html>

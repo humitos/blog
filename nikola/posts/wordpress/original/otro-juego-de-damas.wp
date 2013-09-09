@@ -1,0 +1,27 @@
+<html><body><img src="http://img232.imageshack.us/img232/4416/p1normalbh1.png" align="left" height="52" hspace="5" vspace="5" width="50">"Another Checkers Game" (Otro juego de damas) es el juego en el cuál me sumé hace un par de semanas. Si bien la idea de hacer este juego salió allá por las <a href="http://www.pythonsantafe.com.ar/">2das Jornadas de Python en Santa Fé</a>,  de Hugo, Héctor y mía, yo estuve bastante ausente en este proyecto por mucho tiempo.
+
+<p>Lo mejorcito de esto y lo que más ganas me daban de hacerlo era la posibilidad de llevar un proyecto de forma remota, que el único medio de comunicación sea internet. Aparte de trabajar en grupo, lo que conlleva a discusiones sobre diversos temas y demás.</p>
+
+<p>Por otro lado, un juego de damas implica, nada a bastante de Inteligencia Artificial, depende qué es lo que se planee hacer. Por ahora implica <strong>nada</strong>, ya que lo que primero queremos hacer es una versión que sea jugable por dos humanos, y luego incorporarle todo lo que es IA.</p>
+
+<p>Cuando <a href="http://humitos.wordpress.com/2007/11/05/soda-stereo-buenos-aires-argentina/">fui a ver Soda Stereo</a> a Buenos Aires, me alojé en lo Héctor. Me mostró lo que habían hecho <strong>la única</strong> vez que se juntaron (bastante vagos de su parte también, no viven tan lejos ¡che!). Pero igual me sorprendió mucho porque tenía unos dibujos muy buenos e incluso ya andaba <em>algo.</em> Era prometedor al menos.</p>
+
+<p>Al otro día vino Hugo y mostró unos dibujos que había hecho el primo de unas piezas más infantiles y un tablero distinto, con aspecto a una playa. Me comentaron que la idea es tener varios estilos de juegos, varios temas, distintas piezas y tableros. Algunos para chicos. Muy buena idea.</p>
+
+<p>Aunque Hugo, a mi parecer se quedó con todas las ganas de empezar a programar entre los tres ;) , yo desistí y les dije que no estaba como para pensar ni siquiera 2+2. La noche anterior había sido el recital y Hugo cayó a las <strong>10am</strong> (yo estaba <em>muerto </em>en vida).</p>
+
+<p>Hablamos de todo un poco, tiramos cuales era las ideas que teníamos cada uno, Hugo mostró la forma de poder arrastrar y soltar las fichas para llevarlas de un casillero a otro, y demás.</p>
+
+<p>Cuando volví, les dije que me agreguen <a href="http://code.google.com/p/acheckersgame/">al proyecto de google code</a> para que pueda hacer commits yo también. Me bajé el código y me lo puse a leer, ya que estaba <strong>en bolas</strong> de cómo funcionaba. "Mejoré" algunas funciones en los días subsiguientes a lo que me duró la <em>admiración</em> de <strong>semejante</strong> juego :) . Después empecé a ver algo sobre las reglas del juego, movimientos permitidos, si estoy obligado a comer, etc... Lo cuál no tuvo mucho éxito en ese momento :(</p>
+
+<p>Hoy al medio día, Hugo envía un mail anunciando que había hecho algunos cambios en el código. Cuando vi lo que había hecho me dio bastantes pilas para seguir con lo que estaba haciendo (reglas) y me puse enseguida (después de terminar unas cositas en Java) con el Juego y sus reglas.</p>
+
+<p>Actualmente se puede intercambiar entre dos <em>estilos</em>. Uno es el clásico y otro con onda a una playa. Lo bueno de esto es que podés jugar con el clásico y a mitad de juego cambiarlo al otro, sin perder las posiciones de las piezas.</p>
+
+<p>Están validados los turnos de los jugadores (no puede mover dos veces el mismo, y empiezan las blancas), se puede mover solamente a las dos casillas adyacentes hacia adelante comprobando que esta no esté ocupada por otra pieza.</p>
+
+<p>No se puede comer una ficha, obligar a comer si es que se tiene la posibilidad, y un largo etcétera que iremos mejorando con el tiempo.</p>
+
+<p>Algunos screenshots... Y <em>arribaderchi</em></p>
+
+<p><a href="http://img138.imageshack.us/img138/1233/acgbeachrm0.png"><img src="http://img138.imageshack.us/img138/1233/acgbeachrm0.th.png" align="bottom" height="118" hspace="5" vspace="5" width="150"></a><a href="http://img232.imageshack.us/img232/6420/acgclassicyw1.png"><img src="http://img232.imageshack.us/img232/6420/acgclassicyw1.th.png" align="bottom" height="118" hspace="5" vspace="5" width="150"></a></p></body></html>

@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. tags: circo
+.. date: 2011/12/13 22:13:34
+.. title: Presentación: Once por Todos
+.. slug: presentacion-once-por-todos
+
+En Paraná hay un canal de televisión llamado: Once (o El Once) :D . Este
+canal hace unos cuantos años viene haciendo una campaña solidaria
+llamada "Once por Todos" dónde recolectan muchas donaciones de
+diferentes cosas y organizan un espectáculo en el puerto de Paraná.
+
+Una mañana como cualquier otra, me llama un amigo y me dice si le podía
+ir a dar una mano con el auto porque no arrancaba y pensaba que era la
+batería. Le dije que sí pero que no tenía los cables necesarios para
+pasar corriente de un auto a otro. "Bueno, yo los consigo y te llamo"
+-contestó.
+
+Me vuelve a llamar y me dice que lo pase a buscar por este canal de
+televisión y que emprendíamos el viaje. En la charla de ida a buscar los
+cables me comentaron que estaban ahí porque los habían invitado a grabar
+una presentación para el programa que se iba a transmitir en vivo desde
+el puerto el día del evento (8 de Diciembre) y de paso me invitaron a
+participar; lo que me pareció una buena idea y acepté.
+
+Después de hacer arrancar el auto y demás, volví a casa, comí y un rato
+más tarde salí para el canal a encontrarme con el resto del equipo para
+filmar lo necesario. Hasta el momento: "ni idea de que se trataba...
+todo sorpresa".
+
+Esperé un buen rato ahí y luego empezó a llegar la gente. Cuando
+estábamos más o menos todos, nos avisan que íbamos a ir al centro a
+filmar. Así que nos aprontamos y salimos para allá. Este es el
+resultado:
+
+[youtube=http://www.youtube.com/watch?v=jn5Qp_Lqcco]
+
+Sinceramente, las sensaciones que tuve en el momento de la filmación fue
+que era bastante malo lo que estábamos haciendo y como muy tirado de los
+pelos. Además se escuchan cosas como: "después le ponemos un efecto de
+$2 ahí y listo". Pero finalmente, cuando lo ví por la tele me pareció
+mucho más bueno de lo que pensaba que iba a salir. También hay que tener
+en cuenta que es un canal de Paraná, una ciudad bastante chica y que no
+tiene mucho movimiento en este campo.
+
+Resumiendo, me sentí raro al hacerlo y satisfecho cuando ví el
+resultado. Un buen trabajo de edición.

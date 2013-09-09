@@ -1,0 +1,39 @@
+.. link:
+.. description:
+.. tags: portland, viajes
+.. date: 2013/05/04 02:34:56
+.. title: Walk There!: Alameda Ridge and Stairs
+.. slug: walk-there-alameda-ridge-and-stairs
+
+Durante la mañana salí a caminar, a hacer otro de los "path" que están
+en el libro que me compré cuando llegué. Como el comienzo del path no
+estaba tan cerca de casa, agarré la bici y me fui hasta el comienzo, la
+dejé atada ahí (quién va a tocar lo que no es suyo?) y arranqué a
+caminar. Según el libro son como 5 millas y tiene la difictultad máxima
+:D
+
+La verdad que no le erró con lo de la dificultad, porque si bien en es
+tan largo, tiene varias escaleras, algunas de 70, 90 y 100 escalones que
+no son tan fáciles de subir. Si bien me encanta caminar, no estoy
+acostumbrado a caminar tantos kilómetros por día y andar tanto en bici y
+a comer lechuguita de almuerzo...
+
+Igualmente, lo más difícil no eran las escaleras sino entender el mapa,
+que si bien está re bien hecho lo que no están tan bien hechas son
+algunas esquinas que se cruzan con diagonales y hay calles que se llaman
+igual, pero que no son las mismas o que cambia una cuadra de nombre y
+después sigue con el mismo nombre (algo así como Paraná). Encima, la
+idea del path éste era meterse por unas escalinatas que están medias
+escondidas entre casas en el medio de la manzana. Está re bueno como
+queda y son prácticas la verdad, pero son difícil de encontrar y de
+entender a dónde corno vas a salir. Ya que todo está tan señalizado acá,
+a esas escaleritas le podrían poner un cartelcito que diga algo como
+"salís arriba" (por lo menos)
+
+En las fotos se pueden apreciar las escaleras, la ubicación de éstas, un
+antiguo método de transporte (un caballo atado en la puerta de una casa)
+y algunas casas del barrio como así también una esquina que tiene 3
+nombres :D
+
+[gallery type="square" link="file"
+ids="1910,1911,1912,1913,1914,1915,1916,1917,1918,1919,1920,1921,1922,1923,1924,1925,1926"]

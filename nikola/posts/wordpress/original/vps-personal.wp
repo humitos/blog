@@ -1,0 +1,107 @@
+<html><body><p>Hace unos cuántos meses me contraté un <a href="http://es.wikipedia.org/wiki/Servidor_virtual">VPS</a> en <a href="http://tektonic.net">Tektonic</a> y la verdad que he estado muy contento con su rendimiento y la atención que he recibido por parte de la empresa. La calidad y el costo están bastante bien. Sale U$S 15 mensuales y tenés 512Mb. Entonces, para lo que yo lo uso me viene genial. Además, instalé <a href="http://nginx.org/">nginx</a> y <a href="http://projects.unbit.it/uwsgi/">uwsgi</a> para administrar sitios web Python. Tengo un Trac, un blog de fotos hecho con <a href="http://flask.pocoo.org/">Flask</a> y par de cosas más dando vueltas por ahí. Igualmente, nada de todo esto tiene mucho tráfico.</p>
+
+<p>Como dije, el servicio está bastante bueno, nunca tuve problemas y la asistencia OnLine que tienen me parece buena. He solucionado varios problemitas y saciado dudas desde el chat que esté en el home del sitio.</p>
+
+<p>Aunque el post hablando bien de Tektonic debería haberlo escrito unos meses atrás, cuando todo empezó, ahora estoy hablando bien de este servicio como introducción pero en realidad la idea de escribir este post nació porque me calenté. Me quise conectar a mi servidor para subir la documentación de Sugar Toolkit Gtk3 que estoy actualizando y me encontré con que ni siquiera tengo ping. Enseguida, como buen administrador que soy, me di cuenta que los backups estaban obsoletos y la "caca" apareció. Oh no! Automáticamente me fui a revisar el mail ya que ellos te mandan un email diciendo que el server va a estar caído tal día entre tal y tal hora pero... No tenía nada. Ningún aviso. Entonces me fui directamente al chat OnLine del cual hablé para preguntar qué onda:
+
+</p><blockquote>
+
+<div>
+
+<div>Manuel</div>
+
+</div>
+
+<div>hello</div>
+
+<big>You are currently being served by
+
+Kevin</big>
+
+<div>
+
+<div>Kevin</div>
+
+</div>
+
+<div>Hi, how may I help you?</div>
+
+<div>
+
+<div>Manuel</div>
+
+</div>
+
+<div>I'm having problems to connect to my server through ssh or http</div>
+
+<div>
+
+<div>Kevin</div>
+
+</div>
+
+<div>there is a network issue currently, we're working to fix it now</div>
+
+<div>
+
+<div>Manuel</div>
+
+</div>
+
+<div>ok, but I think you should spread the word when things like this happen.. I don't want to have my server down without my knowledge</div>
+
+<div>
+
+<div>Kevin</div>
+
+</div>
+
+<div>we're working to fix it as quickly as possible</div></blockquote>
+
+<div>Ahí quedó, me vine directamente a escribir este post y cuando volví sin querer a la pestaña de Tektonic, decía:</div>
+
+<blockquote>
+
+<div>Kevin</div>
+
+<div>please check it now</div>
+
+<div>
+
+<div>Manuel</div>
+
+</div>
+
+<div>it's working! thanks!</div>
+
+<div>
+
+<div>Kevin</div>
+
+</div>
+
+<div>you're welcome :)</div>
+
+<div>is there anything else I can do for you?</div>
+
+<div>
+
+<div>Manuel</div>
+
+</div>
+
+<div>no, thanks</div>
+
+<div>
+
+<div>
+
+<div>Kevin</div>
+
+</div>
+
+<div>okay have a nice day</div>
+
+</div></blockquote>
+
+<div>Genial! Empezó con mala onda, pero terminó mejor de lo que pensaba. En unos 5-10 minutos solucionaron el problema. ¿Esto es así? Ni idea, esa fue la sensación que me transmitieron. Quizás el server estuvo caído un día entero :P</div></body></html>

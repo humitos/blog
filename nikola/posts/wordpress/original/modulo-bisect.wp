@@ -1,0 +1,51 @@
+<html><body><p>El módulo <a href="http://docs.python.org/lib/module-bisect.html">bisect</a> sirve para <strong>mapear</strong> números dentro de un rango con algo. Por ejemplo si quiero indicar <strong>qué tan grande </strong>es un número con palabras, podría hacer algo así:</p>
+
+<p><code>&gt;&gt;&gt; from bisect import bisect
+
+&gt;&gt;&gt; grado = ['muy chico', 'chico', 'mediano', 'grande', 'muy grande', 'gigante']
+
+&gt;&gt;&gt; rango = [5, 20, 100, 1000, 10000]
+
+&gt;&gt;&gt; def tamano(numero):
+
+...   return grado[bisect(rango, numero)]
+
+...
+
+&gt;&gt;&gt; tamano(25)
+
+'mediano'
+
+&gt;&gt;&gt; tamano(-5)
+
+'muy chico'
+
+&gt;&gt;&gt; tamano(156)
+
+'grande'
+
+&gt;&gt;&gt; tamano(1056)
+
+'muy grande'
+
+&gt;&gt;&gt; tamano(26542)
+
+'gigante'
+
+&gt;&gt;&gt;
+
+</code></p>
+
+<p>Lo que está haciendo es ver dónde cae el número que le paso, y devolviéndome la posición de la lista (<em>grado</em>) en la que cae ese número. Ésto puede ser muy útil para hacer comprobaciones de rango, en vez de repetir muchas líneas con:</p>
+
+<p><code>if 5 &lt;= numero &lt; 20:
+
+...    return 'chico'
+
+elif 20 &lt;= numero &lt; 100:
+
+...    return 'mediano'
+
+</code></p>
+
+<p>Fuente: la <a href="http://docs.python.org/lib/module-bisect.html">documentación del módulo</a>.</p></body></html>

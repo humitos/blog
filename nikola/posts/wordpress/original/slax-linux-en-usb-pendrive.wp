@@ -1,0 +1,17 @@
+<html><body><img src="http://img442.imageshack.us/img442/8051/slaxrt4.png" alt="Slax linux" align="left" height="128" width="128">Hace tiempo que quería <em>meter </em>linux en mi pendrive. Justamente <strong>hoy</strong> lo conseguí. Antes había probado la distro <a href="http://www.slax.org/?lang=es">Slax</a> que está basada en <a href="http://www.slackware.com/">Slackware</a> y me había gustado mucho, ya que es bastante rápida para cargar, ocupa 211 Mb y trae el KDE que es el Desktop que más me gusta.
+
+<p>Lo había grabado  en un CD para probarlo y estuve investigando cómo agregarle funcionalidades y programas, y esto la verdad que es muy fáci. Simplemente se agregan los módulos correspondientes de los programas que queremos y listo (descargamos un archivo y lo agregamos al iso o lo hacemos on-the-fly).</p>
+
+<p>Con la versión 6 rc6 no me costó nada de nada hacer que la pc me bootee desde el pendrive. Me bajé la versión que menciono desde la página oficial, concretamente <a href="ftp://ftp.linux.cz/pub/linux/slax/SLAX-6.x/rc6/slax6rc6.iso">ésta</a>. Luego monté esta imágen .iso con el comando:
+
+</p><blockquote><em>$ sudo mount slax6rc6.iso -o loop -t iso9660 /home/manuel/virtualcd/</em></blockquote>
+
+Después copié todos las carpetas que se muestran ese directorio <em>(boot y slax)</em> al pendrive. Y por último lo que hice fué desde la carpeta <em>/boot</em> del pendrive ejecutar el script:
+
+<blockquote><em>$ ./bootinst.sh</em></blockquote>
+
+Listo! Ahora lo único que resta es configurar el <a href="http://es.wikipedia.org/wiki/BIOS">BIOS</a> para que bootee desde el USB antes que del HDD (disco duro).
+
+<p>Después seguí investigando para poder guardar todas las configuraciones (que <em>eso</em> era realmente lo que me importaba más que nada; ya que desde el CD ya lo había conseguido pero era bastante complicado, o a veces no tenía una grabadora en el lugar que lo estaba corriendo). Para esto hay que descomprimir el archivo <em>slaxsave.zip </em>que está la carpeta <em>/slax</em> del pendrive, eligiendo el tamaño que queremos que ocupe el archivo de configuración. Por el momento hay 4 archivos, uno de 1 Gb, otro de 512, 256, y 128 Mb. Yo elegí el de 128 Mb pero luego automáticamente creció cuando agregé algunas cosas.  A este archivo lo descomprimimos nuevamente y crea en el directorio <em>/slax</em> el archivo <em>slaxsave.dat</em> que es dónde se guardarán los datos de las configuraciones.</p>
+
+<p>Después de esto, booteamos desde el pendrive y las configuraciones se guardarán de forma automática en este archivo.</p></body></html>

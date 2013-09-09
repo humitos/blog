@@ -1,0 +1,62 @@
+<html><body><p>Sí, cómo dice el título: no es nada bueno tener la variable de entorno GREP_OPTIONS configurada en el entorno en el que se está trabajando.</p>
+
+<p>La semana pasada tuve varios problemas por esta misteriosa variable, pero vamos de a poco contando porqué la configuré y porqué me causó tantos problemas.</p>
+
+<p>El motivo por el cuál configuré esta variable es porque me gustan un par de opciones de <strong>grep</strong> y no las quiero escribir cada vez que lo uso a este comando, es similar a un alias, pero funciona de otra forma.</p>
+
+<p>Por ejemplo, si configuro un alias de esta forma:</p>
+
+<p><code>alias grep='grep --color'</code></p>
+
+<p>cuando ejecuto <strong>grep</strong> en la terminal, bash hace la sustición de "grep" por "grep --color" antes de ejecutar el comando "grep".</p>
+
+<p>Por el contrario, si seteamos la variable GREP_OPTIONS de esta forma:</p>
+
+<p><code>export GREP_OPTIONS='--color'</code></p>
+
+<p>cuando ejecutemos en una terminal "grep" bash ni se entera de que está esta variable configurada y es el comando <strong>grep</strong> quién lee esta variable para tomar las configuraciones del entorno.</p>
+
+<p>Normalmente, esto no causa ningún problema, siempre y cuando configuremos opciones de <strong>grep</strong> que no modifiquen la salida. En cambio, si usamos opciones como <strong>--line-number</strong> que agrega el número de la línea en dónde matcheo la expresión que pusimos esto puede causa problemas.</p>
+
+<p>Hay programas, scripts, y demás, que esperan una salida en particular de un comando y a esta se la entuba (mediante un pipe |) y posiblemente luego se la pase mediante un <strong>sed</strong> para tomar la parte relevante. Entonces, ¿qué pasa si agregamos un número de línea al principio de cada línea en la que la expresión regular matchea? es simple: el programa <strong>crashea</strong>.</p>
+
+<p>Esto me paso utilizando virtualenvwrapper, ya que utiliza este comando para ubicar el PATH de virtualenv:</p>
+
+<p><code>humitos@eulogia:~$ (\which virtualenv | grep -v "not found")
+
+/usr/bin/virtualenv
+
+humitos@eulogia:~$</code></p>
+
+<p>Ahora, si activamos esta variable para que muestre el número de línea... Veamos que pasa y porqué falla:</p>
+
+<p><code>humitos@eulogia:~$ export GREP_OPTIONS='--line-number'
+
+humitos@eulogia:~$ (\which virtualenv | grep -v "not found")
+
+1:/usr/bin/virtualenv
+
+humitos@eulogia:~$</code></p>
+
+<p>Lo mismo sucede si creamos un alias:</p>
+
+<p><code>humitos@eulogia:~$ unset GREP_OPTIONS
+
+humitos@eulogia:~$ alias grep='grep --line-number'
+
+humitos@eulogia:~$ (\which virtualenv | grep -v "not found")
+
+1:/usr/bin/virtualenv
+
+humitos@eulogia:~$</code></p>
+
+<p>Sinceramente, este problema es muy básico, pero en diferentes scripts de configuración del sistema operativo o en scripts que se utilizan para compilar programas y librerías, te aseguro que puede ser un gran dolor de cabeza debuggear porqué no está funcionando como uno espera.</p>
+
+<p>Referencias y links:
+
+</p><ul>
+	<li><a href="https://bugs.launchpad.net/ubuntu/+source/mysql-dfsg-5.0/+bug/75031">https://bugs.launchpad.net/ubuntu/+source/mysql-dfsg-5.0/+bug/75031</a></li>
+	<li><a href="https://bugs.launchpad.net/ubuntu/+source/devscripts/+bug/581319">https://bugs.launchpad.net/ubuntu/+source/devscripts/+bug/581319</a></li>
+	<li><a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=432873">http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=432873</a></li>
+	<li>﻿<a href="http://bitbucket.org/dhellmann/virtualenvwrapper/issue/51/unset-grep_options-before-using-grep">http://bitbucket.org/dhellmann/virtualenvwrapper/issue/51/unset-grep_options-before-using-grep</a></li>
+</ul></body></html>

@@ -1,0 +1,31 @@
+<html><body><p>Como comenté en un post anterior. Estuve un tiempo considerable intentando instalar Ubuntu por la red <strong>sin</strong> que este se descargue completo desde internet. Sino que utilice una imágen del cd de Ubuntu.</p>
+
+<p>Para esto se necesitan varias cosas. Primeramente tener dos computadoras conectadas vía red ;) . Además haber descargado el disco (imagen .iso) de Ubuntu en su versión <strong>desktop</strong> para una fácil instalación ya que lo que hacemos es, primeramente, bootear la pc cliente mediante <em>netboot</em> por <em>pxe/bootp</em>, adquirir una dirección de ip y pasar el kernel para bootear por tftp. Este kernel muestra una pantalla de selección de opciones en la que debemos elegir la que vamos a crear (<em>Live CD/install</em>) que le pasará el control al segundo kernel que se tomará del <em>Live CD</em>.</p>
+
+<p>Por otra parte también debemos tener instalados el servidor <strong>dhcp</strong>, uno de <strong>tftp</strong> y otro de <strong>nfs</strong>. Los paquetes que instalé en la máquina servidor (Kubuntu 7.04 tenía en ese momento) fueron: <em>dhcp3-server</em>, <em>nfs-kernel-server</em>, <em>tftpd</em>.</p>
+
+<p>Lo primero que hice fue configurar el servidor DHCP,  agregando al archivo <em>/etc/dhcp3/dhcpd.conf </em>éstas líneas (mi archivo de configuración me quedó <a href="http://www.paste-it.net/4148/raw/">así</a>):
+
+</p><pre>host pxeinstall {
+  hardware ethernet 00:11:2f:1e:3c:d3;
+  fixed-address 10.0.0.4; # dirección de la máquina cliente
+  next-server 10.0.0.5;     # dirección de la máquina servidor de TFTP
+  filename "pxelinux.0";
+}</pre>
+
+Después de configurar esto, descargué la imagen .iso de Ubuntu desktop y la monté en la carpeta ~/tftp configuré el servidor <strong>nfs</strong> para que la dirección de ip asignada a la máquina cliente tenga acceso a esta carpeta (archivo <em>/etc/exports</em>) y reinicié el servicio.
+
+<p>Luego configuré el servidor tftp. Para esto bajé el archivo <a href="http://archive.ubuntu.com/ubuntu/dists/gutsy/main/installer-i386/current//images/netboot/386/netboot.tar.gz">netboot.tar.gz</a> y lo descomprimí en la carpeta dónde está configurado el servidor tftp. Copié los archivos <em>vmlinuz </em>y <em>initrd.gz</em> desde la carpeta <em>/casper</em> de la imagen del CD al directorio del servidor tftp. Los copié con el siguiente comando para así también renombrarlos y no confundir luego:
+
+</p><blockquote><em>cp -a ~/ftp/casper/vmlinuz /var/lib/tftpboot/vmlinuz.fromUbuntu704DesktopCd
+
+cp -a ~/ftp/casper/initrd.gz /var/lib/tftpboot/initrd.gz.fromUbuntu704DesktopCd</em></blockquote>
+
+Para finalizar edité el archivo <em>/var/lib/tftpboot/</em><em>pxelinux.cfg/default</em> agregando las líneas (mi archivo quedó <a href="http://www.paste-it.net/4149/raw/">así</a>):
+
+<pre>DEFAULT manuel
+
+<p>LABEL manuel
+        kernel vmlinuz.fromUbuntu704DesktopCd
+        append initrd=initrd.gz.fromUbuntu704DesktopCd boot=casper netboot=nfs nfsroot=10.0.0.5:/home/manuel/ftp --</p></pre>
+Por útlimo en la máquina cliente tipeamos el nombre del LABEL que le hallamos puesto cuando aparece el menú (yo le puse <em>manuel</em>) y listo! Arranca el LiveCD de forma transparent. Click en <strong>Instalar</strong> y a esperar los 5 minútos que demora (se instala <strong>rapidísimo</strong>)</body></html>

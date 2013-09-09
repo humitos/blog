@@ -1,0 +1,49 @@
+<html><body><p>Desde la primer charla del LugLi en la UTN, hace un par de semanas, que conozco Ruby. Esto quiere decir que ví algo de código, me mostraron algunas de sus características y me dejó algo impactado.</p>
+
+<p>Este lenguaje es <strong>muy parecido </strong>a Python en muchos aspectos. Sin embargo <a href="http://gastonramos.wordpress.com/">Gastón Ramos</a> me mostró algunas aspéctos que lo hacen que sea tan bueno como es, y me dejó regulando en como hacerlo en Python.</p>
+
+<p>Hay mucha gente que o está del lado de Ruby o de Python, y ni siquiera quieren mirar al costado para compararlos, son cerrados y hasta incluso rivales. Después de un tiempo le propuse hacer algunas comparaciones un poco <em>más profundas</em> y no que quede solo de palabras, asique decidimos escribir un par de post al respecto. <a href="http://gastonramos.wordpress.com/2008/04/19/snakes-and-rubies/">Este es el primero de él</a>, la <a href="http://www.juanjoconti.com.ar/2008/04/19/serpientes-y-rubies/">respuesta de Juanjo</a> y ahora tiro algunas diferencias entre ellos.
+
+</p><h2>Python</h2>
+
+<ol>
+	<li>Tiene strings inmutable</li>
+	<li>Lo métodos privados comienzan con __ (doble guión bajo)</li>
+	<li>Los bloques se delimitan con la identación y : (dos puntos)</li>
+	<li>Tiene __getattr__()</li>
+	<li>La sobrecarga de operadores se define como un método especial (comienza y termina con __). def __add__(self) para redefinir la suma.</li>
+	<li>No tiene constantes</li>
+	<li>InputRaw con r"C:\Mis Documentos"</li>
+	<li>Insertar una variable en un texto al estilo C: "Mi variable es: %s" % (cadena.upper())</li>
+	<li>Necesita paréntesis para llamar a un método</li>
+	<li>True, False, None, elif, import</li>
+	<li>Acceso dirécto a las variables de una instancia mediante el operador . (punto)</li>
+	<li>if __name__ == '__main__': verifica si es el archivo principal</li>
+	<li>Tiene un guía excepcional para todo programador: import this</li>
+	<li>Docstring utilizados para brindar ayuda con help()</li>
+	<li>Las funciones son objetos y puedo crear una referencia a ellas</li>
+</ol>
+
+<h2>Ruby</h2>
+
+<ol>
+	<li>Tiene strings mutables</li>
+	<li>Los métodos privados van después de private</li>
+	<li>Los bloques se delimitan con end's statements</li>
+	<li>Tiene method_missing</li>
+	<li>La sobrecarga de operadores es def +(), para redefinir la suma por ejemplo</li>
+	<li>Tiene constantes</li>
+	<li>InputRaw con 'C:\Mis Documentos', (comillas simples)</li>
+	<li>Insertar una variable dentro de una cadena al estilo Template (de Django, por ejemplo): "Mi variable es #{variable.capitalize}</li>
+	<li>No necesita paréntesis para los métodos, los atributos comienzan luego del espacio</li>
+	<li> true, false, nil, elsif, require</li>
+	<li>Tengo que definir cuales variables son públicas una por una</li>
+	<li>if __FILE__ == $0 verifica si es el archivo principal</li>
+	<li>No tiene un guía built-in</li>
+	<li>Los docstring se utilizan cuando se llama al comando: rdoc</li>
+	<li>Hasta ahora, no pude guardar la referencia a una función en una variable</li>
+</ol>
+
+Éstas son algunas de las diferencias que encontré a simple vista en Python y Ruby, pero lo que más me interesa mostrar es <strong>cómo hacer</strong> algo en un lenguaje utilizando alguna particularidad del mismo, que permita que sea super sencillo o que diréctamente en el otro no se pueda realizar de "<em>ninguna forma</em>".
+
+<p>Vamos a ver que sale de todo esto. ¿Seguiré con Python o me pasaré a Ruby? <strong>¡CHAN!</strong></p></body></html>

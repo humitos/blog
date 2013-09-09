@@ -1,0 +1,38 @@
+.. link:
+.. description:
+.. tags: arte, los angeles, viajes
+.. date: 2013/05/28 14:51:00
+.. title: MOCA
+.. slug: moca
+
+No es un café. Es "The Museum Of Contemporary Art", más conocido como
+"somos una manga de loquitos que queremos mostrar lo que hacemos". Esta
+es la primera parte correspondiente a la \ `segunda parte que ya
+escribí <http://humitos.wordpress.com/2013/05/27/geffen-comtemporary-at-moca/>`__.
+
+Entonces, cuenta la historia que fui el segundo día fui a éste museo con
+0 espectativas. No tenía ninguna referencia sino que solamente lo había
+visto en el mapa que me dieron en Información Turística y no sabía muy
+bien que hacer en Downtown ese día.
+
+Así que, después de unas cuántas perdidas, lo alcancé y saqué la
+"`famosa
+foto <http://humitos.wordpress.com/2013/05/25/que-no-se-te-pase-la-vida-mirandote-al-espejo/>`__\ "
+que me hizo conocer a Lucas (el filmmaker) el otro día. La verdad que el
+museo está muy bueno, hay muchas obras que decís: "Wa! Qué zarpada idea
+que tuvo éste pibe y que simple es la forma en la que lo expresó". Me
+encanta cuando la locura del artísta sigue siendo loca y habla el mismo
+lenguaje que el espectador normal, te mando un mensaje derecho y te pega
+en lo más profundo tuyo. Como un choque eléctrico.
+
+También encontré cosas en las que pensaba: "¿Qué corno es esto? Además,
+es malísimo. Está re mal terminado e incluso creo que lo podría haber
+hecho yo". Igualmente, la experiencia fue muy buena. Así como también,
+la mezcla entre obras planas y obras en tres dimensiones, que ocupan una
+sala entera por ejemplo. Había una casa hecha de pan... Si, de pan de
+ese que sale del horno rodeada de gotas de lluvia a todo su alrededor...
+Ńo sé, quizás 3 millones de panes y unos cientos de gotas todas colgadas
+del techo.
+
+[gallery type="rectangular" link="file"
+ids="2164,2165,2166,2167,2168,2169,2170,2171,2172,2173,2174,2175,2176,2177"]

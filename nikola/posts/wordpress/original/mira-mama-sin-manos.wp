@@ -1,0 +1,47 @@
+<html><body><p>Frase que escucho al menos una vez a la semana de la boca del <em>Flamante Ingeniero</em> ( :) ) César, con quién tengo el gusto de trabajar todos los días en la misma oficina cara a cara. Bueno, esta vez me tocó usarla a mí, y ni más ni menos que para "no levantarme y usar las manos para prender una computadora que se encuentra en la otra pieza"</p>
+
+<p>Hoy nos juntamos con Nico, después de algunas discusiones, a "estudiar". La discusión venía porque siempre que nos juntamos a <em>estudiar cosas diferentes</em> ninguno de los dos termina estudiando <strong>eso</strong> y nos colgamos hablando y debatiendo sobre distintos conceptos y softwares que andan dando vueltas por ahí.</p>
+
+<p>Como no podía ser de otra forma, ese <em>momento</em> existió, y nos pusimos a ver como era el tema de <strong><em>WakeOnLan</em></strong>: "Encender mediante la red" o me perdí esa clase de inglés, pero la idea está. La posta es que querés prender una computadora que no está al alcance de las manos, ni del pié ni tampoco llegás con el escobillón; lo cual resulta ser un garrón si estás acostado en la cama un día de invierno tapado hasta la nariz dejando un espacio para que salgan los ojos y poder ver la pantalla del monitor (sí, sí... <strong>bien nerd</strong>)</p>
+
+<p>Esta es una propiedad de la BIOS y de la placa de red, por ende hay que habilitarla en... y si, la BIOS :) . El lugar dónde se encuentra esto depende de la placa madre, por lo que no voy a indicar en qué menú se encuentra, pero sí dónde está la respuesta: <strong>RTFM</strong> o más conocido como <em>Read The Fucking Manual</em>.</p>
+
+<p>Una vez que tenemos esto habilitado, resta instalar un programa que genera un paquete <em>mágico</em> para que la máquina que queremos encender se prenda como por arte de mágia. El paquete en cuestión es <strong>ethwake</strong> y está en los repositorios de Debian, por lo que se instala mediante apt-get.</p>
+
+<p>Echo este, habilitada la opción WakeOnLan en la pc que queremos encender, resta ejecutar este programa indicando cuál es la interfaz por la que llegamos a esa pc y cuál es la MAC de la misma. Vamos a un ejemplo:
+
+</p><blockquote># etherwake -i wlan0 00:61:13:dd:ff:c2</blockquote>
+
+Le estoy indicando que vaya por la interfaz <strong>wifi</strong> y que la mac de la pc que quiero prender es <strong>00:61:13:dd:ff:c2</strong> (esta es una MAC inventada por mí). Si estamos dentro de una LAN esto funciona perfectirijillo, pero... ¿Qué pasa si lo queremos hacer <strong>OnWan</strong>?
+
+<p>Existe otro paquete llamado <strong>wakeonlan</strong> que permite indicarle el IP de la máquina de destino además de la MAC, entonces, si estoy conectado a internet, me conozco la MAC de mi pc y además sé cuál es el ip que tengo le puedo mandar un SMS :P diciendo que quiero que se prenda:
+
+</p><blockquote># wakeonlan -i humitos.homelinux.net 00:61:13:dd:ff:c2</blockquote>
+
+Y... tarán... puedo ver por el espejo de mi casa como se está prendiendo la pc y entrar a mis datos compartidos que tengo con Apache, usar ssh y hacer lo que se me canta ahora que la pc está prendida. El único problema que tengo es que con Arnet tengo IP dinámica, osea, si se me corta la luz, la máquina queda apagada y el router se reinicia, pierdo el <em>humitos.homelinux.net</em> para acceder con un nombre, ya que el router no soporta dyndns ni nungún otro, esto lo hago mediante <strong>ddclient </strong>y para que esto funcione la pc tiene que estar prendida, pero ¡Oh casualidad! es justo lo que quiero hacer :P
+
+<p>Como nota, puedo decir que tuve que habilitar una cosa más. No sé porqué, si es mi máquina o en todas pasa lo mismo, pero como que al habilitar esta opción de la BIOS se habilita "por la mitad", si algo que suena raro para quien ignora totalmente como funciona esto, osea: yo. El punto es que tuve que instalar otro paquete para hacerlo funcionar, este es: <strong>ethtool</strong>. El cual entre otras cosas sirve para <em>terminar </em>de habilitar esta opción.
+
+</p><blockquote># ethtool eth0
+
+Settings for eth0:
+
+[...]
+
+Transceiver: external
+
+Auto-negotiation: on
+
+<strong> Supports Wake-on: g
+
+Wake-on: d</strong>
+
+Link detected: yes
+
+[...]</blockquote>
+
+Las líneas que están en negrita son las más importantes. La primera indica que la placa que tengo lo soporta y la segunda, que está desactivado. Entonces lo que tuve que hacer fue ejecutar:
+
+<blockquote># ethtool -s eth0 wol g</blockquote>
+
+De esta forma activo esta opción. Luego cuando apague la máquina la voy a poder prender desde la red, pero por esas casualidades de la vida, esta configuración se pierde: ni idea porqué... Ignorancia pura! Pero la solución chancha y que me caracteriza, fue poner una directiva "up" cada vez que se levanta la eth0... ¡Chupate esa mandarina! :P</body></html>
