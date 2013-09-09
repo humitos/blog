@@ -94,7 +94,7 @@ NAVIGATION_LINKS = {
 # just independent HTML pages.
 
 POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
+    ("posts/nikola/*.rst", "posts", "post.tmpl"),
     # ("posts/wordpress/*.wp", "posts/wordpress", "post.tmpl"),
     ("posts/wordpress/migrated/*.rst", "posts/wordpress", "post.tmpl"),
 )
@@ -124,7 +124,7 @@ COMPILERS = {
     "bbcode": ('.bb',),
     "wiki": ('.wiki',),
     "ipynb": ('.ipynb',),
-    "html": ('.html', '.htm', '.wp')
+    "html": ('.html', '.htm')
 }
 
 # Create by default posts in one file format?
@@ -154,7 +154,7 @@ COMPILERS = {
 # INDEX_PATH = ""
 
 # Create per-month archives instead of per-year
-# CREATE_MONTHLY_ARCHIVE = False
+# CREATE_MONTHLY_ARCHIVE = True
 # Final locations for the archives are:
 # output / TRANSLATION[lang] / ARCHIVE_PATH / ARCHIVE_FILENAME
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / index.html
@@ -292,7 +292,7 @@ src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # Default is ''
-CONTENT_FOOTER = '&copy; <a href="mailto:{email}">{author}</a> 2007-{date} - Powered by <a href="http://nikola.ralsina.com.ar">Nikola</a>' + \
+CONTENT_FOOTER = '&copy; 2007-{date} <a href="mailto:{email}">{author}</a> - Powered by <a href="http://nikola.ralsina.com.ar">Nikola</a>' + \
     '<br/>El contenido de éste blog está bajo la licencia Creative Commons,' + \
     '<br/>la misma está disponible completa <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/ar/legalcode">aquí.</a>' + \
     '<br/>{license}'
