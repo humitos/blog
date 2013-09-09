@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: general, google blog
+.. tags: general, google, blog
 .. date: 2011/04/06 20:53:22
 .. title: Se suspendió...
 .. slug: se-suspendio

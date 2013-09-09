@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, fotos, los angeles, Imagen, viajes
+.. tags: arte, fotos, los angeles, viajes
 .. date: 2013/05/27 20:40:52
 .. title: Untitled
 .. slug: untitled

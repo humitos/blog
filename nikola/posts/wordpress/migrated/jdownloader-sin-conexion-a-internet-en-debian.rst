@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: debian, internet, java jdownloader debian sysadmin, software libre
+.. tags: debian, internet, java, jdownloader, debian, sysadmin, software libre
 .. date: 2010/05/03 12:45:22
 .. title: JDownloader sin conexión a internet en Debian
 .. slug: jdownloader-sin-conexion-a-internet-en-debian

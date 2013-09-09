@@ -1,6 +1,6 @@
 .. link: 
 .. description: 
-.. tags: 
+.. tags: internet, blog
 .. date: 2013/09/09 15:01:30
 .. title: Nuevo sistema en nic.ar
 .. slug: nuevo-sistema-en-nicar
