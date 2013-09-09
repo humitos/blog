@@ -100,7 +100,7 @@ estilo), pero el trabajo que pude automatizar es demasiado.
       ¿Se puede decirle a Nikola que use otro ID para los posts?
       ¿Quizás con uno de los metadatos del principio del archivo .rst?
 
-Por el momento, estoy contento con los resultas. Vamos a ver cómo sigue todo.
+Por el momento, estoy contento con los resultados. Vamos a ver cómo sigue todo.
 
 .. _parche: import_wordpress.py.diff
 .. _Nikola: http://getnikola.com
