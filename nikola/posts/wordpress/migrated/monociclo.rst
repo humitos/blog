@@ -15,12 +15,12 @@ la vuelta en un rato)
 
 |image1|
 
-[youtube=http://www.youtube.com/watch?v=kwrIVitZ-JA]
+.. media:: http://www.youtube.com/watch?v=kwrIVitZ-JA
 
 Hoy me fui a la plaza con Nico después de votar y... yo le encontré un
 poco la vuelta también:
 
-[youtube=http://www.youtube.com/watch?v=KxL7-UTex7A]
+.. media:: http://www.youtube.com/watch?v=KxL7-UTex7A
 
 ... bastante bien para ser el segundo día...
 

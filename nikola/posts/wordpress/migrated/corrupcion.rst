@@ -31,4 +31,4 @@ El que dice ser algo que no es...
 
 (una de las personas más "honestas" que he escuchado)
 
-[youtube=http://youtu.be/rZJ_aPADCQE]
+.. media:: http://youtu.be/rZJ_aPADCQE

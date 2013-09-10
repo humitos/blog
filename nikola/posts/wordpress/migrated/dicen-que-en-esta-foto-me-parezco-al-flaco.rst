@@ -15,7 +15,7 @@ Bueno, ni hablar de los rulos...
 
 Y ya que estamos, escuchamos el temazo de dónde salió la foto:
 
-[youtube=http://www.youtube.com/watch?v=3CSrwlMIykQ]
+.. media:: http://www.youtube.com/watch?v=3CSrwlMIykQ
 
 .. |image0| image:: http://humitos.files.wordpress.com/2011/04/me_and_the_flaco.jpg
    :target: http://humitos.files.wordpress.com/2011/04/me_and_the_flaco.jpg

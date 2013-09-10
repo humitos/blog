@@ -14,4 +14,4 @@ sobre cómo quiero aprender...
 
 Visto en: http://www.educacionviva.org
 
-[youtube=http://www.youtube.com/watch?v=fJ_hmmOe_v0]
+.. media:: http://www.youtube.com/watch?v=fJ_hmmOe_v0

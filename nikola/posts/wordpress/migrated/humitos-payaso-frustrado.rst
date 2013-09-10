@@ -7,4 +7,4 @@
 
 Muchas gracias Nico por hacer el video este. Groso, quedó muy bueno.
 
-[youtube=http://www.youtube.com/watch?hl=es&v=882qxARXa6c]
+.. media:: http://www.youtube.com/watch?hl=es&v=882qxARXa6c

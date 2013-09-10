@@ -14,7 +14,7 @@ en HD <http://www.youtube.com/watch?v=-1Y9OqSJKCc>`__ y `descargas
 directas <http://www.educacionprohibida.com/pelicula/descargas/>`__ (HD,
 versión completa y versión de sala)
 
-[youtube=http://www.youtube.com/watch?v=-1Y9OqSJKCc]
+.. media:: http://www.youtube.com/watch?v=-1Y9OqSJKCc
 
 Además, como para seguir colaborando de alguna forma, subí algunas
 versiones de la película a mi servidor:

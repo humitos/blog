@@ -10,7 +10,7 @@
 
 |DSC_2604_edited|
 
-[youtube=http://youtu.be/n2HToRYVtRo]
+.. media:: http://youtu.be/n2HToRYVtRo
 
 .. |DSC_2604_edited| image:: http://humitos.files.wordpress.com/2013/06/dsc_2604_edited.jpg?w=580
    :target: http://humitos.files.wordpress.com/2013/06/dsc_2604_edited.jpg

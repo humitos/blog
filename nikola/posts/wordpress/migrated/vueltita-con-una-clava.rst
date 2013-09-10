@@ -7,4 +7,4 @@
 
 Y al final... Lo terminé sacando al truquito este:
 
-[youtube=http://www.youtube.com/watch?v=Ro7VCaey8eo]
+.. media:: http://www.youtube.com/watch?v=Ro7VCaey8eo

@@ -33,7 +33,7 @@ estábamos más o menos todos, nos avisan que íbamos a ir al centro a
 filmar. Así que nos aprontamos y salimos para allá. Este es el
 resultado:
 
-[youtube=http://www.youtube.com/watch?v=jn5Qp_Lqcco]
+.. media:: http://www.youtube.com/watch?v=jn5Qp_Lqcco
 
 Sinceramente, las sensaciones que tuve en el momento de la filmación fue
 que era bastante malo lo que estábamos haciendo y como muy tirado de los

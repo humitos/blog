@@ -74,7 +74,7 @@ lo que era peor, no tenía ningún tema. Sin embargo, eso no nos impidió
 agarrar el micrófono y "cantar" más o menos lo que decía la letra que
 aparecía en los monitores... Algo así como:
 
-[youtube=http://www.youtube.com/watch?v=yxvCv9Z6FbQ]
+.. media:: http://www.youtube.com/watch?v=yxvCv9Z6FbQ
 
 Salimos de ahí, nos metimos en un boliche de música electrónica que
 estaba en frente del que acabábamos de salir. Salté como un hijo de puta

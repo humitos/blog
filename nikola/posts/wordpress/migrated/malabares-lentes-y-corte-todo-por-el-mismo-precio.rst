@@ -11,4 +11,4 @@ vuelto a mi casa dije: "Me voy a grabar un videito así nomás" y salió
 esto... Está mal enfocado y se ve poco, pero ya lo tenía hecho, así que
 lo subí.
 
-[youtube=http://www.youtube.com/watch?v=ZqJSrdfArL8]
+.. media:: http://www.youtube.com/watch?v=ZqJSrdfArL8

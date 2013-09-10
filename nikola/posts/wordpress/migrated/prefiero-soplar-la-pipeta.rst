@@ -5,4 +5,4 @@
 .. title: Prefiero soplar la pipeta
 .. slug: prefiero-soplar-la-pipeta
 
-[youtube=http://youtu.be/xXomHHwha-w]
+.. media:: http://youtu.be/xXomHHwha-w

@@ -12,4 +12,4 @@ flashié. Hoy vi, finalmente, su película "`Básicamente un
 pozo <http://www.cinehumus.com.ar/videos/S01.html>`__\ " y me gustó
 mucho.
 
-[youtube=http://youtu.be/NmGFkBk0uh4]
+.. media:: http://youtu.be/NmGFkBk0uh4

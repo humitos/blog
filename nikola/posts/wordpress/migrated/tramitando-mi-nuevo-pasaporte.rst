@@ -46,4 +46,4 @@ cuando mi pasaporte llegue. Osea, si esto es en el tiempo que me
 prometiste de los 15 días lo voy a dejar bien en claro en ese post y te
 voy a felicitar públicamente.
 
-[youtube=http://www.youtube.com/watch?v=JwePHFSrAbM]
+.. media:: http://www.youtube.com/watch?v=JwePHFSrAbM

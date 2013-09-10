@@ -91,11 +91,11 @@ hacen bien... Fue una época muy dura y a mi me llegó esa sensación
 estando sentado en EEUU y Lucas cada tanto (unos 2 o 3 minutos :) )
 decía: "Uff", "Oh, my God", "That's crazy, man" entre otros...
 
-[youtube=http://youtu.be/oSspc_P5bb0]
+.. media:: http://youtu.be/oSspc_P5bb0
 
  
 
-[youtube=http://youtu.be/e4HCtShGQgw]
+.. media:: http://youtu.be/e4HCtShGQgw
 
  
 

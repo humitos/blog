@@ -5,6 +5,6 @@
 .. title: Practicando en casa
 .. slug: practicando-en-casa
 
-[youtube=http://www.youtube.com/watch?v=j4zQo7uFpxA]
+.. media:: http://www.youtube.com/watch?v=j4zQo7uFpxA
 
-[youtube=http://www.youtube.com/watch?v=ZC9VTbNWmxU]
+.. media:: http://www.youtube.com/watch?v=ZC9VTbNWmxU

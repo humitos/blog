@@ -22,4 +22,4 @@ idioma de mierda!" y "Mirá a dónde me llevó..."
 
 UPDATE: el video en la página de Malonda está roto, así que lo pongo acá
 
-[youtube=http://youtu.be/6z5TIFr5XMo]
+.. media:: http://youtu.be/6z5TIFr5XMo

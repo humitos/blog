@@ -12,4 +12,4 @@ en GNU/Linux no anda, ¿viste como es no?.
 
 ﻿\ http://mail.google.com/mail/help/motion.html
 
-[youtube=http://www.youtube.com/watch?v=Bu927_ul_X0]
+.. media:: http://www.youtube.com/watch?v=Bu927_ul_X0

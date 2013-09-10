@@ -24,7 +24,7 @@ aproximadamente.
 Encontré en Youtube el libro leído completamente. Son 2hs y realmente
 vale la pena para aprender.
 
-[youtube=http://youtu.be/4nYHLHtOYDE]
+.. media:: http://youtu.be/4nYHLHtOYDE
 
 Me quedó un sabor amargo del libro, porque me hubiese gustado que
 termine un poco más definido, pero bueno. Eso es una opinón personal.

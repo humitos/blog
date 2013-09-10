@@ -10,7 +10,7 @@ la clase de Fredy Kofman.
 
     "Yo soy responsable de mi vida"
 
-http://www.youtube.com/watch?v=S1D5pliEIaY
+.. media:: http://www.youtube.com/watch?v=S1D5pliEIaY
 
-Fredy Kofman tiene un libro que se llama "**La empresa consciente**\ "
+Fredy Kofman tiene un libro que se llama "**La empresa consciente**"
 que todavía no he encontrado ni podido leer.

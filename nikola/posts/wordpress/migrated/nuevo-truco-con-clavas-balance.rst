@@ -7,4 +7,4 @@
 
 Al menos una vez me salió para la cámara. Ya saldrá mejor :)
 
-[youtube=http://www.youtube.com/watch?v=X83kJU36Fis]
+.. media:: http://www.youtube.com/watch?v=X83kJU36Fis

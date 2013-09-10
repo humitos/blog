@@ -12,4 +12,4 @@ ojos cerrados por un rato... En este caso, 5 segundos ;)
 
 ¿Qué tul?
 
-[youtube=http://www.youtube.com/watch?v=EpAwqk4feLY]
+.. media:: http://www.youtube.com/watch?v=EpAwqk4feLY

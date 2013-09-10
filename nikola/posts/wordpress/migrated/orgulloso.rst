@@ -15,4 +15,4 @@ malabareando en La Falda, Córdoba!
 Muchas, pero muchas gracias PyAr. Mi crecimiento técnico y todos los
 trabajos que he tenido, se los debo a ustedes.
 
-[youtube=http://www.youtube.com/watch?v=n899NT8JTSY]
+.. media:: http://www.youtube.com/watch?v=n899NT8JTSY

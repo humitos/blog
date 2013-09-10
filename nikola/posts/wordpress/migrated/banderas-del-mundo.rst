@@ -15,4 +15,4 @@ Y luego de un tiempo, me contestaron con una respuesta sorprendente: `La
 bandera de Nepal <https://en.wikipedia.org/wiki/Flag_of_Nepal>`__. Y
 luego me sugirieron este video:
 
-[youtube=http://youtu.be/f2Gne3UHKHs]
+.. media:: http://youtu.be/f2Gne3UHKHs

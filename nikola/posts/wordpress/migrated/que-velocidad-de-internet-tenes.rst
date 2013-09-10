@@ -16,6 +16,6 @@ acá: wow!
 `Acá hay más información sobre el
 proyecto, <http://www.google.com/appserve/fiberrfi/>`__
 
-[youtube=http://www.youtube.com/watch?v=MQsXVAbcv-M]
+.. media:: http://www.youtube.com/watch?v=MQsXVAbcv-M
 
 ` <http://www.google.com/appserve/fiberrfi/>`__

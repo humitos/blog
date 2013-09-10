@@ -27,7 +27,7 @@ gente revuelve y si encuentra algo que le gusta, lo pesan y lo paga.
 Lisa nos quiso mostrar un video sobre "los bins" para que veamos como es
 un poco la cosa (vale la pena verlo y mejor si se entiende la letra):
 
-[youtube=http://www.youtube.com/watch?v=QK8mJJJvaes]
+.. media:: http://www.youtube.com/watch?v=QK8mJJJvaes
 
 Así y todo, no nos imaginabamos como era el lugar. O quizás sí lo
 imaginabamos pero no estábamos seguros de entender. Entonces, David

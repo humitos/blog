@@ -5,9 +5,9 @@
 .. title: Comenzó la guerra!
 .. slug: comenzo-la-guerra
 
-[youtube=http://www.youtube.com/watch?v=OvuW_logtFc]
+.. media:: http://www.youtube.com/watch?v=OvuW_logtFc
 
- 
+:
 
     The war has started!
 

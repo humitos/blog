@@ -5,7 +5,7 @@
 .. title: Perdón, no pude contenerme... Siempre quise ser un gran poeta!
 .. slug: perdon-no-pude-contenerme-siempre-quise-ser-un-gran-poeta
 
-[youtube=http://www.youtube.com/watch?v=lY6doOcRVGQ]
+.. media:: http://www.youtube.com/watch?v=lY6doOcRVGQ
 
 *Lo vi en `El Orto Del Mundo <http://elortodelmundo.blogspot.com>`__:
 `Método Arjona de

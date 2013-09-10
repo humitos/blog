@@ -22,7 +22,7 @@ escucharlo y esa es la idea del post, así que les dejo el primer disco
 completo acá: "Argentino Bordolino". Igualmente, si pueden irlos a ver,
 mucho mejor! No tiene ningún desperdicio.
 
-[youtube=http://youtu.be/L9X6U36Y32U]
+.. media:: http://youtu.be/L9X6U36Y32U
 
 Vayan al sitio web, miren un par de videos y escuchen los temas en vivo.
 ¡Suenan muy bien y tienen mucha energía! El 5 de Septiembre tocan en el

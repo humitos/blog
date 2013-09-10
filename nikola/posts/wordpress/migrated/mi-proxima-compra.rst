@@ -5,4 +5,4 @@
 .. title: Mi próxima compra...
 .. slug: mi-proxima-compra
 
-[youtube=http://www.youtube.com/watch?v=gSmMJwB-x2U]
+.. media:: http://www.youtube.com/watch?v=gSmMJwB-x2U

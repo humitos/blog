@@ -8,4 +8,4 @@
     No te puede ir mal haciendo lo que querés hacer...
     (`[1] <http://humitos.wordpress.com/2012/06/02/cumpliendo-suenos/>`__)
 
-[youtube=http://youtu.be/rApGnn_tLwo]
+.. media:: http://youtu.be/rApGnn_tLwo

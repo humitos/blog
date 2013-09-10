@@ -54,4 +54,4 @@ No me es tan difícil pensar que vivimos en una mentira grande como una
 casa. No como la mía, ni como la tuya. Sino grande de verdad, como la de
 cualquier funcionario.
 
-[youtube=http://www.youtube.com/watch?v=UvyeysQoYFk]
+.. media:: http://www.youtube.com/watch?v=UvyeysQoYFk

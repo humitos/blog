@@ -69,8 +69,7 @@ mañana, `me hicieron una nota en la Radio Cualquiera
 94.3 <https://soundcloud.com/manuel-kaufmann-5/entrevista-manuel-kaufmann>`__
 (de La Hendija) acerca de mi experiencia y de la muestra de fotos:
 
-[soundcloud url="http://api.soundcloud.com/tracks/107202345" params=""
-width=" 100%" height="166" iframe="true" /]
+.. media:: https://soundcloud.com/manuel-kaufmann-5/entrevista-manuel-kaufmann
 
 Gracias a "El Grillo" quién me hizo la nota y me brindó un espacio en la
 radio, a Giuliano Muzzachiodi quién me ayudó en el montaje de la muestra

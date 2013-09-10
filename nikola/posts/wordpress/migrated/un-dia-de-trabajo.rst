@@ -25,7 +25,7 @@ realidad, en pocas palabras.
 Como no tuve tiempo durante toda la semana, recién hoy cerca del medio
 día me pude poner a ver algo y salió ésto:
 
-[youtube=http://www.youtube.com/watch?v=2H0KY-Xd0T4]
+.. media:: http://www.youtube.com/watch?v=2H0KY-Xd0T4
 
 Como no tengo cámara para filmar, improvisé algo con la cámara
 fotográfica y **gphoto2**, algo que aprendí a usar en el

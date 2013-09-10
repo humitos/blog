@@ -24,7 +24,7 @@ grupo y pidiendo ayuda solidaria para poder llevar a cabo esta
 experiencia maravillosa y excitante, y así poder repartir alegría en
 todos los lugares que alcancemos! Muchas gracias por su colaboración!
 
-[youtube=http://www.youtube.com/watch?v=UXBVn_xwEM8]
+.. media:: http://www.youtube.com/watch?v=UXBVn_xwEM8
 
 .. |image0| image:: http://humitos.files.wordpress.com/2011/12/289893_2611378236226_1008101555_32299528_69225924_o.jpg
    :target: http://humitos.files.wordpress.com/2011/12/289893_2611378236226_1008101555_32299528_69225924_o.jpg
