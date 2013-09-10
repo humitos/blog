@@ -264,6 +264,19 @@
 
    -- Antoine de Saint-Exupe
 
+.. epigraph::
+
+   Las palabras, por sí mismas carecen de poder. Somos nosotros lo que
+   damos poder a las palabras.
+
+   -- Javier Malonda
+
+.. epigraph::
+
+   No lo intentes; hazlo
+
+   -- Yoda
+
 .. note::
 
    Es probable que algunos autores de algunas frases no sean
