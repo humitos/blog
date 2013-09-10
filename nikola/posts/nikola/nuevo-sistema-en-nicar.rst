@@ -45,6 +45,17 @@ bueno leer las `preguntas frecuentes`_.
 gente de nic.ar y es preferible hacer lo que ellos dicen antes de
 tener *un pequeñísimo* problema con ellos.
 
+.. warning::
+
+   ¿Surge algún inconveniente si no obtengo mis dominios del sistema
+   anterior?
+
+   No vas a tener ningún inconveniente mientras los dominios sigan
+   vigentes. Si querés mantenerlos, procurá obtenerlos antes de que
+   venzan, ya que serán dados de baja en caso de no haberlo hecho
+   antes de la fecha de vencimiento y debida renovación.
+
+
 .. _renovación: https://nic.ar/noticias.xhtml?conoce-nuestro-nuevo-logo
 .. _Acá: https://nic.ar/tutoriales.xhtml#obener_dominios
 .. _preguntas frecuentes: https://nic.ar/preguntas-frecuentes.xhtml
