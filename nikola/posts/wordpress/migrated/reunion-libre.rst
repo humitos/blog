@@ -11,7 +11,6 @@ Daichman <http://reginadaichman.wordpress.com/>`__ y `Gunnar
 Wolf <http://gwolf.org/>`__ a charlar un rato, aprovenchando que ellos
 estaban en Paraná.
 
-|image0|
-
-.. |image0| image:: http://humitos.files.wordpress.com/2012/07/dsc_5478.jpg
+.. image:: http://humitos.files.wordpress.com/2012/07/dsc_5478.jpg
+   :width: 580px
    :target: http://humitos.files.wordpress.com/2012/07/dsc_5478.jpg

@@ -18,7 +18,6 @@ todos lados que en 15 días lo tenés y *bla blah*, llenándose la boca.
 Pero en fin, acá está, después de unos cuantos días (cantidad aceptable
 para éste trámite, ponele) tengo mi pasaporte conmigo.
 
-|image0|
-
-.. |image0| image:: http://humitos.files.wordpress.com/2012/07/dsc_5482_2.jpg
+.. image:: http://humitos.files.wordpress.com/2012/07/dsc_5482_2.jpg
+   :width: 580px
    :target: http://humitos.files.wordpress.com/2012/07/dsc_5482_2.jpg

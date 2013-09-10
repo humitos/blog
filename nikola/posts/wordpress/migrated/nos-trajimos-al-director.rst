@@ -13,7 +13,6 @@ en La Hendija y luego de la misma habrá un debate. Felicitaciones a
 todos los que van a hacer ésto posible y muchas gracias a Germán que se
 copó con la movida.
 
-|image0|
-
-.. |image0| image:: http://humitos.files.wordpress.com/2012/10/afiche-mail.jpg
+.. image:: http://humitos.files.wordpress.com/2012/10/afiche-mail.jpg
+   :width: 580px
    :target: http://humitos.files.wordpress.com/2012/10/afiche-mail.jpg

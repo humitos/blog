@@ -7,7 +7,6 @@
 
 Dicen que fui mentor en Google Code-In y hoy me llegó mi remerita :D
 
-|DSC_7947_edited|
-
-.. |DSC_7947_edited| image:: http://humitos.files.wordpress.com/2013/03/dsc_7947_edited.jpg
+.. image:: http://humitos.files.wordpress.com/2013/03/dsc_7947_edited.jpg
+   :width: 580px
    :target: http://humitos.files.wordpress.com/2013/03/dsc_7947_edited.jpg

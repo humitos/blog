@@ -38,6 +38,8 @@ seguir tomando mate, así que me preparo otro. Todo vuelve a empezar y...
 
 Entonces, abrí una consola de Linux y ejecuté en ella:
 
+.. code:: bash
+
     while true; do sleep 180; espeak "mate"; done
 
 Lo que sería en "lenguaje humano":
@@ -46,7 +48,6 @@ Lo que sería en "lenguaje humano":
 
 Ahora sí! Cada 3 minutos me tomo un matecito calentito :)
 
- 
 
-**UPDATE 14 Dic 2012:**\ Bautizado por mí a "Soluciones libres a
+**UPDATE 14 Dic 2012:** Bautizado por mí a "Soluciones libres a
 problemas cotidianos"

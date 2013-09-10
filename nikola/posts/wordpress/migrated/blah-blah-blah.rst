@@ -64,11 +64,11 @@ blanco. Algo totalmente razonable...
 
  
 
-.. |image0| image:: http://humitos.files.wordpress.com/2012/06/screenshot-from-2012-06-24-120836.png
-   :target: http://humitos.files.wordpress.com/2012/06/screenshot-from-2012-06-24-120836.png
-.. |image1| image:: http://humitos.files.wordpress.com/2012/06/screenshot-from-2012-06-24-115802.png
-   :target: http://humitos.files.wordpress.com/2012/06/screenshot-from-2012-06-24-115802.png
-.. |image2| image:: http://humitos.files.wordpress.com/2012/06/screenshot-from-2012-06-24-121254.png
-   :target: http://humitos.files.wordpress.com/2012/06/screenshot-from-2012-06-24-121254.png
-.. |image3| image:: http://humitos.files.wordpress.com/2012/06/screenshot-from-2012-06-24-121420.png
-   :target: http://humitos.files.wordpress.com/2012/06/screenshot-from-2012-06-24-121420.png
+.. |image0| image:: screenshot-from-2012-06-24-120836.png
+   :target: screenshot-from-2012-06-24-120836.png
+.. |image1| image:: screenshot-from-2012-06-24-115802.png
+   :target: screenshot-from-2012-06-24-115802.png
+.. |image2| image:: screenshot-from-2012-06-24-121254.png
+   :target: screenshot-from-2012-06-24-121254.png
+.. |image3| image:: screenshot-from-2012-06-24-121420.png
+   :target: screenshot-from-2012-06-24-121420.png

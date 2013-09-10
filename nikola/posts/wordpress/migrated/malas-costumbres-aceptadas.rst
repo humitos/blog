@@ -5,7 +5,9 @@
 .. title: Malas costumbres aceptadas
 .. slug: malas-costumbres-aceptadas
 
-|image0|
+.. image:: http://humitos.files.wordpress.com/2012/10/dsc_6357.jpg
+   :width: 580px
+   :target: http://humitos.files.wordpress.com/2012/10/dsc_6357.jpg
 
 La semana pasada, del Jueves al Sábado, estuve en Capital Federal por
 una reunión de trabajo. Si bien ya conocía Buenos Aires, con todos sus
@@ -72,5 +74,3 @@ a raja tabla y deja de haber clientes realmente? La gente que trabaja
 prostituyéndose y que alimenta a su familia gracias a los ingresos que
 puede obtener por ésto, ¿qué va a hacer?
 
-.. |image0| image:: http://humitos.files.wordpress.com/2012/10/dsc_6357.jpg
-   :target: http://humitos.files.wordpress.com/2012/10/dsc_6357.jpg

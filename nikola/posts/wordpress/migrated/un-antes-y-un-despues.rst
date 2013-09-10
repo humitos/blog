@@ -7,7 +7,6 @@
 
 ... de éste recital...
 
-|image0|
-
-.. |image0| image:: http://humitos.files.wordpress.com/2012/09/dsc_6009_edited.jpg
+.. image:: http://humitos.files.wordpress.com/2012/09/dsc_6009_edited.jpg
+   :width: 580px
    :target: http://humitos.files.wordpress.com/2012/09/dsc_6009_edited.jpg

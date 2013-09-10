@@ -28,7 +28,11 @@ agrupada, poder compartirlas y que la campaña se siga expandiendo. Como
 ya lo ha hecho: "¡Llegó a Montevideo, Uruguay!"
 (`fotos <http://www.flickr.com/photos/ciensonrisas/sets/72157630797826232/>`__)
 
-|image0|\ También habrá una sección en dónde se apoyen a los artistas
+.. image:: http://humitos.files.wordpress.com/2012/07/7666233520_79444e8e61_b.jpg
+   :width: 580px
+   :target: http://humitos.files.wordpress.com/2012/07/7666233520_79444e8e61_b.jpg
+
+También habrá una sección en dónde se apoyen a los artistas
 amigos y colaboradores con la campaña, en dónde se podrá conocer a la
 gente que apoya la movida y participar colectivamente. Igualmente, el
 sitio no está terminado aún, pero la idea era ponerlo en funcionamiento
@@ -39,7 +43,3 @@ Nada más, estoy muy contento al ver que esto ya está funcionando. Hay
 que seguir mejorando el sitio y agregándole información, pero estoy
 seguro que va a ser un éxito, si es que ya no lo es...
 
- 
-
-.. |image0| image:: http://humitos.files.wordpress.com/2012/07/7666233520_79444e8e61_b.jpg
-   :target: http://humitos.files.wordpress.com/2012/07/7666233520_79444e8e61_b.jpg

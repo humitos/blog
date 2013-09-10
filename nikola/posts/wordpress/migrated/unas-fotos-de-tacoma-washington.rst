@@ -32,9 +32,12 @@ cochecitos*
 
 |DSC_9304|
 
-*Yendo a Ruston Way
-(`link <https://maps.google.com/maps?saddr=811+N+Cedar+St,+Tacoma,+Washington,+EEUU&daddr=47.27552,-122.4652853+to:47.28629,-122.488079+to:47.294599,-122.499181+to:N+42nd+St+to:47.258152,-122.5051389+to:47.2580704,-122.4948186+to:47.2552772,-122.4836337+to:811+N+Cedar+St,+Tacoma,+WA,+EEUU&hl=es-419&ll=47.274337,-122.476788&spn=0.047869,0.110378&sll=47.290699,-122.499962&sspn=0.011964,0.027595&geocode=FTUX0QIdYiqz-Cm1TorJHlWQVDEXV1vOEOfvzA%3BFQBe0QId-1Oz-CnXJUK_V1SQVDHS6HamP-JeVQ%3BFRKI0QId8fqy-CnBqhfYi1SQVDFXXtJGQDpJJw%3BFYeo0QIdk8-y-Cm_Ag4-gVSQVDHlviJYn6Z3Ag%3BFRaL0QIdErmy-A%3BFSga0QIdTriy-CmlzwZL11SQVDEGM2uLp1Vz4g%3BFdYZ0QIdnuCy-CkPlw7C2FSQVDG-pOjmmfk8Rw%3BFe0O0QIdTwyz-CkN0ByRIVWQVDEScHQPTVteSQ%3BFTUX0QIdYiqz-Cm1TorJHlWQVDEXV1vOEOfvzA&oq=811+N+Cedar+St,+Tacoma,+Washington,+EEUU&dirflg=w&mra=dpe&mrsp=3&sz=15&via=1,2,3,5,6,7&t=m&z=13>`__)
-me encontré con una vista increíble*
+*Yendo a Ruston Way me encontré con una vista increíble*
+
+.. raw:: html
+
+   <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?saddr=811+N+Cedar+St,+Tacoma,+Washington,+EEUU&amp;daddr=47.2755183,-122.4652987+to:47.2862847,-122.4880965+to:47.2945953,-122.499184+to:N+42nd+St+to:47.2581519,-122.5051348+to:47.2580704,-122.4948186+to:47.2552737,-122.4836159+to:811+N+Cedar+St,+Tacoma,+WA,+EEUU&amp;hl=es-419&amp;sll=47.290699,-122.499962&amp;sspn=0.011964,0.027595&amp;geocode=FTUX0QIdYiqz-Cm1TorJHlWQVDEXV1vOEOfvzA%3BFf5d0QId7lOz-CnXJUK_V1SQVDHS6HamP-JeVQ%3BFQyI0QId4Pqy-CnBqhfYi1SQVDFXXtJGQDpJJw%3BFYOo0QIdkM-y-Cm_YH9AgVSQVDF6Nddrctmhow%3BFRaL0QIdErmy-A%3BFSca0QIdUriy-CmlzwZL11SQVDEGM2uLp1Vz4g%3BFdYZ0QIdnuCy-CkPlw7C2FSQVDG-pOjmmfk8Rw%3BFekO0QIdYQyz-CkN0ByRIVWQVDEScHQPTVteSQ%3BFTUX0QIdYiqz-Cm1TorJHlWQVDEXV1vOEOfvzA&amp;oq=811+N+Cedar+St,+Tacoma,+Washington,+EEUU&amp;dirflg=w&amp;mra=dpe&amp;mrsp=3&amp;sz=15&amp;via=1,2,3,5,6,7&amp;t=m&amp;ie=UTF8&amp;ll=47.290699,-122.499962&amp;spn=0.011964,0.027595&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?saddr=811+N+Cedar+St,+Tacoma,+Washington,+EEUU&amp;daddr=47.2755183,-122.4652987+to:47.2862847,-122.4880965+to:47.2945953,-122.499184+to:N+42nd+St+to:47.2581519,-122.5051348+to:47.2580704,-122.4948186+to:47.2552737,-122.4836159+to:811+N+Cedar+St,+Tacoma,+WA,+EEUU&amp;hl=es-419&amp;sll=47.290699,-122.499962&amp;sspn=0.011964,0.027595&amp;geocode=FTUX0QIdYiqz-Cm1TorJHlWQVDEXV1vOEOfvzA%3BFf5d0QId7lOz-CnXJUK_V1SQVDHS6HamP-JeVQ%3BFQyI0QId4Pqy-CnBqhfYi1SQVDFXXtJGQDpJJw%3BFYOo0QIdkM-y-Cm_YH9AgVSQVDF6Nddrctmhow%3BFRaL0QIdErmy-A%3BFSca0QIdUriy-CmlzwZL11SQVDEGM2uLp1Vz4g%3BFdYZ0QIdnuCy-CkPlw7C2FSQVDG-pOjmmfk8Rw%3BFekO0QIdYQyz-CkN0ByRIVWQVDEScHQPTVteSQ%3BFTUX0QIdYiqz-Cm1TorJHlWQVDEXV1vOEOfvzA&amp;oq=811+N+Cedar+St,+Tacoma,+Washington,+EEUU&amp;dirflg=w&amp;mra=dpe&amp;mrsp=3&amp;sz=15&amp;via=1,2,3,5,6,7&amp;t=m&amp;ie=UTF8&amp;ll=47.290699,-122.499962&amp;spn=0.011964,0.027595&amp;source=embed" style="color:#0000FF;text-align:left">Ver mapa más grande</a></small>
+
 
 |DSC_9328|
 

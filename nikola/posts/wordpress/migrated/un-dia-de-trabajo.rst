@@ -34,7 +34,7 @@ gracias a Joac y a perrito666. Entonces, ubiqué el trípode, conecté la
 cámara por USB a la computadora y le dije que saque una foto cada 2
 segundos con éste comando:
 
-::
+.. code:: bash
 
     gphoto2 --capture-image-and-download --interval 2
 
@@ -43,7 +43,7 @@ una hora. Una vez que había reunido todas esas fotos busqué una forma de
 hacer un video con ellas. Probé varias cosas, cantidad de fotogramas por
 segundos y demás. Terminé usando **mencoder** para hacerlo:
 
-::
+.. code:: bash
 
     mencoder "mf://*.JPG" -mf fps=8 -o output.avi -ovc lavc \
              -lavcopts vcodec=msmpeg4v2:vbitrate=1800
@@ -58,7 +58,7 @@ todo, puse a grabar en el \ **audacity** y le dí click en **Play** al
 video: "qué salga lo que tenga que salir". Después junté el audio y el
 video con éste comando:
 
-::
+.. code:: bash
 
     ffmpeg -i input.avi -i new_audio.ogg -vcodec copy -acodec copy \
            -acodec copy final.avi

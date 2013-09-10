@@ -81,7 +81,9 @@ de la empresa. Gracias a éstos datos, el sistema te podía indicar "en
 cuánto tiempo" pasaba el "próximo" colectivo por la parada de colectivo
 que el usuario elija:
 
-|image0|
+.. image:: http://humitos.files.wordpress.com/2012/08/horario-parada-colectivo1.png
+   :width: 580px
+   :target: http://humitos.files.wordpress.com/2012/08/horario-parada-colectivo1.png
 
 Pasaban las semanas y el sistema seguía creciendo. Más eran las
 opiniones de sus amigos sobre qué estaría bueno hacer. Propuestas e
@@ -199,7 +201,7 @@ Digital <http://www.apfdigital.com.ar/despachos.asp?cod_des=196481&ID_Seccion=21
     RECORRIDO DE LOS COLECTIVOS EN PARANA, PERO FUE RECHAZADO PARANÁ, 26
     AGO (APF.Digital) Fecha Actual: 28/08/2012 13:57:16
 
-    - El año pasado, Manuel Kaufmann, un programador paranaense, había
+    El año pasado, Manuel Kaufmann, un programador paranaense, había
     puesto a disposición de la empresas de transporte y de la
     Municipalidad un sistema para conocer el recorrido de los colectivos
     similar al que anunciaron las autoridades, pero fue rechazado • “Me
@@ -266,6 +268,3 @@ nosotros no queremos. Es muy poco lo que exigimos en comparación a lo
 que se maneja arriba, pero así y todo no somos escuchados. Por otro
 lado, pensando que vamos a fracasar antes de empezar no es una buena
 idea, aunque es 100% correcto: "¡Ya fracasaste!"
-
-.. |image0| image:: http://humitos.files.wordpress.com/2012/08/horario-parada-colectivo1.png
-   :target: http://humitos.files.wordpress.com/2012/08/horario-parada-colectivo1.png

@@ -20,7 +20,6 @@ me reconoció o qué, a tal punto que no me dijo nada del auto.
 Cuando salgo del curso y me subo al auto, me encuentro con éste
 cartelito :)
 
-|image0|
-
-.. |image0| image:: http://humitos.files.wordpress.com/2012/07/dsc_5615-rotado-redimensionado.jpg
+.. image:: http://humitos.files.wordpress.com/2012/07/dsc_5615-rotado-redimensionado.jpg
+   :width: 580px
    :target: http://humitos.files.wordpress.com/2012/07/dsc_5615-rotado-redimensionado.jpg

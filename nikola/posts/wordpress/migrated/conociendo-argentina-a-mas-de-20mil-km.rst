@@ -93,11 +93,7 @@ decía: "Uff", "Oh, my God", "That's crazy, man" entre otros...
 
 .. media:: http://youtu.be/oSspc_P5bb0
 
- 
-
 .. media:: http://youtu.be/e4HCtShGQgw
-
- 
 
 En fin. Mi país, tu país, nuestro país... Un solo mundo. Deberíamos
 empezar a borrar esas linitas que figuran en los mapas: ¿en qué nos

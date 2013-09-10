@@ -5,7 +5,6 @@
 .. title: Colaborar hace bien :)
 .. slug: colaborar-hace-bien
 
-|image0|
-
-.. |image0| image:: http://humitos.files.wordpress.com/2012/08/captura-de-pantalla-de-2012-08-14-210718.png
+.. image:: http://humitos.files.wordpress.com/2012/08/captura-de-pantalla-de-2012-08-14-210718.png
+   :width: 580px
    :target: http://humitos.files.wordpress.com/2012/08/captura-de-pantalla-de-2012-08-14-210718.png

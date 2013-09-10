@@ -5,7 +5,9 @@
 .. title: La Confusión de la Tortuga
 .. slug: la-confusion-de-la-tortuga
 
-|image0|
+.. image:: http://humitos.files.wordpress.com/2012/10/cover.png
+   :width: 580px
+   :target: http://humitos.files.wordpress.com/2012/10/cover.png
 
 Hace un tiempo que con Melina Coronel empezamos a hacer la traducción
 del libro "Turtle Confusion" de Barry Newell. Un excelente y muy
@@ -35,5 +37,3 @@ Commons BY-SA <http://creativecommons.org/licenses/by-sa/3.0/deed.es>`__
 Estamos abiertos a cualquier tipo de sugerencias, comentarios o
 correcciones que puedan hacer sobre la traducción.
 
-.. |image0| image:: http://humitos.files.wordpress.com/2012/10/cover.png
-   :target: http://humitos.files.wordpress.com/2012/10/cover.png

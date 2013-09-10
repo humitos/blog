@@ -19,24 +19,14 @@ versión completa y versión de sala)
 Además, como para seguir colaborando de alguna forma, subí algunas
 versiones de la película a mi servidor:
 
--  `Versión HD
-   Completa <http://mkaufmann.com.ar/~humitos/la_educacion_prohibida-completa-1080p.zip>`__ \*
--  `Versión HD
-   Sala <http://mkaufmann.com.ar/~humitos/la_educacion_prohibida-sala-1080p.zip>`__ \*\*
--  `Versión DVD
-   Sala <http://mkaufmann.com.ar/~humitos/la_educacion_prohibida-sala-dvd.iso>`__ \*\*
+- `Versión HD Completa <http://mkaufmann.com.ar/~humitos/la_educacion_prohibida-completa-1080p.zip>`__
 
-\* Versión adaptada para su proyección en salas de cine y afines,
+*Versión adaptada para su proyección en salas de cine y afines,
 reducida en su duración. Incluye un video introductorio al proyecto por
-parte de German Doin. Duración: 02:00:15
-
-\*\* Versión oficial y completa de la película “La Educación Prohibida”.
-Duración: 02:25:18
+parte de German Doin. Duración: 02:00:15*
 
 *NOTA: los links van a estar disponible todo el tiempo que los pueda
-mantener. Por favor, si alguno no funciona "hacedme" saber.*
-
- 
+mantener. Por favor, si alguno no funciona "hacedme" saber.*
 
 **UPDATE 17 Agosto 2012:** no pude mantener más los links de descarga
 directas porque en menos de 3 días transferí más de 500Gb (que es el

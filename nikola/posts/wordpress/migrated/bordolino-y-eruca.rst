@@ -28,7 +28,9 @@ tomaron el último trago de cerveza y salieron a la cancha a romperlo
 todo! (`acá todas las
 fotos <http://www.flickr.com/photos/20667659@N03/sets/72157635404715039/>`__)
 
-|image0|
+.. image:: http://farm4.staticflickr.com/3771/9688891864_cc95ac6098_o.jpg
+   :width: 580px
+   :target: http://farm4.staticflickr.com/3771/9688891864_cc95ac6098_o.jpg
 
 Después de haber disfrutado plenamente de la música y de flashearla
 sacándole fotos a estos pibes, vino un descanso de unas tres o cuatro
@@ -43,7 +45,9 @@ sacando fotos casi todo el recital. Incluso, subí al escenario a hacer
 algunas fotos estando a unos pocos metros de la bajista. (`acá todas las
 fotos <http://www.flickr.com/photos/20667659@N03/sets/72157635413223576/>`__)
 
-|image1|
+.. image:: http://farm6.staticflickr.com/5347/9689492012_a2fafac7fe_o.jpg
+   :width: 580px
+   :target: http://farm6.staticflickr.com/5347/9689492012_a2fafac7fe_o.jpg
 
 Aunque hubo muchas bandas que no me gustaban, la pasé genial. Estuve
 charlando con amigos que hacía mucho tiempo que no veía y compartíamos
@@ -52,7 +56,3 @@ los "Argentinos Bordolinos" por la buena onda y también a los demás
 *groupies* de la banda que fueron, con quienes estuve socializando
 también. ¡Toda la onda la muchachada!
 
-.. |image0| image:: http://farm4.staticflickr.com/3771/9688891864_cc95ac6098_o.jpg
-   :target: http://farm4.staticflickr.com/3771/9688891864_cc95ac6098_o.jpg
-.. |image1| image:: http://farm6.staticflickr.com/5347/9689492012_a2fafac7fe_o.jpg
-   :target: http://farm6.staticflickr.com/5347/9689492012_a2fafac7fe_o.jpg

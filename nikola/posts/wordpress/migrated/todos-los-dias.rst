@@ -8,23 +8,18 @@
 Ayer salí a recorrer las calles nocturnas y me encontré con varias cosas
 interesantes
 
-|image0|
-
-|image1|
-
- 
-
-|image2|
-
- 
-
-|image3|
-
-.. |image0| image:: http://humitos.files.wordpress.com/2012/08/dsc_5618.jpg
+.. image:: http://humitos.files.wordpress.com/2012/08/dsc_5618.jpg
+   :width: 580px
    :target: http://humitos.files.wordpress.com/2012/08/dsc_5618.jpg
-.. |image1| image:: http://humitos.files.wordpress.com/2012/08/dsc_5622.jpg
+
+.. image:: http://humitos.files.wordpress.com/2012/08/dsc_5622.jpg
+   :width: 580px
    :target: http://humitos.files.wordpress.com/2012/08/dsc_5622.jpg
-.. |image2| image:: http://humitos.files.wordpress.com/2012/08/dsc_5625.jpg
+
+.. image:: http://humitos.files.wordpress.com/2012/08/dsc_5625.jpg
+   :width: 580px
    :target: http://humitos.files.wordpress.com/2012/08/dsc_5625.jpg
-.. |image3| image:: http://humitos.files.wordpress.com/2012/08/dsc_5646.jpg
+
+.. image:: http://humitos.files.wordpress.com/2012/08/dsc_5646.jpg
+   :width: 580px
    :target: http://humitos.files.wordpress.com/2012/08/dsc_5646.jpg

@@ -11,7 +11,6 @@ me vino a la mente y finalmente terminé haciendo otra cosa en la pared.
 Pero como no quería perder la idea, lo dibujé en la compu. Quizás en
 otra oportunidad lo termino pintando realmente en una pared :)
 
-|image0|
-
-.. |image0| image:: http://humitos.files.wordpress.com/2012/10/sensacion_de_libertad.png
+.. image:: http://humitos.files.wordpress.com/2012/10/sensacion_de_libertad.png
+   :width: 580px
    :target: http://humitos.files.wordpress.com/2012/10/sensacion_de_libertad.png

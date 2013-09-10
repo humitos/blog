@@ -32,9 +32,13 @@ contenedor, entonces parece ser algo bastante típico que la gente se
 bañe en la fuente y que los chicos juegue ahí. Me mata en esta foto el
 guachito con las manos cruzadas en la espalda :)*
 
-|DSC_9954|\ *La vista del Río Willamette. Ese es el puente Morrison.*
+|DSC_9954|
 
-|DSC_9956|\ *Pasando por abajo del puente.*
+*La vista del Río Willamette. Ese es el puente Morrison.*
+
+|DSC_9956|
+
+*Pasando por abajo del puente.*
 
 |DSC_9961|
 
@@ -77,15 +81,17 @@ una subida "normal" digamos...*
 le podía sacar una foto. No me hizo ningún gesto, pero tenía una linda
 sonrisa.*
 
-|DSC_0013|\ *Luego, volver a cruzar el Río Willamette para volver al
+|DSC_0013|
+
+*Luego, volver a cruzar el Río Willamette para volver al
 punto de partida, pero ésta vez por el "Hawthorne Bridge". Notar que los
 pibes tiene "manos" para los peatones y para las bicicletas (otra de las
 cosas que nunca funcionarían en Argentina)*
 
 |DSC_0010|
 
-*Más hierro por acá en "Hawthorne Bridge", con semáforo para peatones y
-todos los chiches. Aunque en realidad le falta el "chiche" más
+*Más hierro por acá en "Hawthorne Bridge", con semáforo para peatones
+y todos los chiches. Aunque en realidad le falta el "chiche" más
 importante: le nuestro ;)*
 
 .. |DSC_9949| image:: http://humitos.files.wordpress.com/2013/05/dsc_9949.jpg?w=580

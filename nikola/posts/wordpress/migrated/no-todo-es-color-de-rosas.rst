@@ -5,7 +5,7 @@
 .. title: No todo es color de rosas
 .. slug: no-todo-es-color-de-rosas
 
-|image0|
+.. image:: http://conectate.gov.ar/educar-portal-video-web/module/decorator/img/logoConectate.png
 
 ¡Qué bueno! El gobierno de mi país publicó un material digital grandioso
 en el sitio de `Conectate <http://conectate.gov.ar>`__. Mucho de este
@@ -36,16 +36,18 @@ quemé en un DVD y me dije: "¿Qué había dicho Facundo (el autor de
 Encuentro) sobre las licencias de este contenido?". Ahí me fui al sitio
 de Conectate y leí esto:
 
-    **Uso de los servicios ofrecidos por Conectate.** El portal contiene
-    material protegido por derechos de autor y otra información
-    patentada, incluidos, entre otros, texto, software, fotos, videos,
-    gráficos, música y sonido, y el contenido de este sitio está
-    protegido por las leyes relativas a los derechos de autor de la
-    República Argentina. Usted puede descargar una copia de cualquier
-    material protegido por derechos de autor para uso personal y no
-    comercial. Está prohibida la copia, redistribución, retransmisión,
-    publicación, edición o explotación comercial de material descargado
-    sin el permiso expreso por escrito Educ.ar Sociedad del Estado.
+    **Uso de los servicios ofrecidos por Conectate.**
+
+    El portal contiene material protegido por derechos de autor y otra
+    información patentada, incluidos, entre otros, texto, software,
+    fotos, videos, gráficos, música y sonido, y el contenido de este
+    sitio está protegido por las leyes relativas a los derechos de
+    autor de la República Argentina. Usted puede descargar una copia
+    de cualquier material protegido por derechos de autor para uso
+    personal y no comercial. Está prohibida la copia, redistribución,
+    retransmisión, publicación, edición o explotación comercial de
+    material descargado sin el permiso expreso por escrito Educ.ar
+    Sociedad del Estado.
 
     El Usuario se obliga a usar los Contenidos de forma diligente,
     correcta y lícita y, en particular, se compromete a abstenerse de:
@@ -66,4 +68,3 @@ de Conectate y leí esto:
 material educativo es promover la cultura y apoyar la educación y el
 desarrollo social? ¡Vamos muchachos! ¡No me jodan!
 
-.. |image0| image:: http://conectate.gov.ar/educar-portal-video-web/module/decorator/img/logoConectate.png

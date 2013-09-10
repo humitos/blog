@@ -25,9 +25,11 @@ tiempo <http://humitos.wordpress.com/2013/05/08/walk-there-4t-trail-tram-trolley
 ya sabía el recorrido y pude disfrutar más del viaje que la primera vez.
 Entonces, cuando llegué al lugar ya estaba más canchero. Miré el mapa:
 
-|DSC_0218|\ *"Bueno, yo estoy acá. Tendría que agarrar por acá y luego
-doblar a la derecha en ésta y bueh, seguro que está todo re bien
-señalizado como siempre. Así que voy a andar bien"*
+|DSC_0218|
+
+*"Bueno, yo estoy acá. Tendría que agarrar por acá y luego doblar a la
+derecha en ésta y bueh, seguro que está todo re bien señalizado como
+siempre. Así que voy a andar bien"*
 
 Llegué a la primera intersección con otra calle y ya no sabía qué corno
 hacer. Sacudí un poco la cabeza y para el lado que quedé mirando,
@@ -65,8 +67,6 @@ Seguimos caminando hasta que finalmente encontramos el Jardín Japonés y:
 
 |IMG_5500|
 
- 
-
 Ahí en la entrada nos separamos. Cada uno tomó su rumbo dentro del
 Jardín. Yo empecé escuchando a la guía pero flashió un montón con la
 historia y demás que era difícil de seguir y me pareció como que
@@ -95,8 +95,6 @@ duraba como 10 minutos, era muy gracioso. Entre todo eso, la flaca, que
 tiene 56 pirulos y aparenta tener unos 40, me contó que está casada hace
 unos años con un loco de acá (Estados Unidos) que no habla Japonés y...
 "¿Cómo se entienden?"... "Más o menos. Como podemos". Chau, flashié
-
- 
 
 .. |DSC_0218| image:: http://humitos.files.wordpress.com/2013/05/dsc_0218.jpg?w=200
    :target: http://humitos.files.wordpress.com/2013/05/dsc_0218.jpg

@@ -15,5 +15,5 @@ El otro día encontré un Salmón en el medio de Downtown.
 
 |DSC_1111|
 
-.. |DSC_1111| image:: http://humitos.files.wordpress.com/2013/05/dsc_1111.jpg?w=580
-   :target: http://humitos.files.wordpress.com/2013/05/dsc_1111.jpg
+.. |DSC_1111| image:: dsc_1111.jpg?w=580
+   :target: dsc_1111.jpg
