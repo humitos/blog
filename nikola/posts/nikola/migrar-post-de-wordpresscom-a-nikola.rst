@@ -102,5 +102,12 @@ estilo), pero el trabajo que pude automatizar es demasiado.
 
 Por el momento, estoy contento con los resultados. Vamos a ver cómo sigue todo.
 
+**UPDATE 10-09-2013**
+
+#. Utilicé este script para cambiar el plugin de wordpress de YouTube
+   para en cambio usar la directiva `.. media::` de Nikola
+
+   .. listing:: replace_youtube.py python
+
 .. _parche: import_wordpress.py.diff
 .. _Nikola: http://getnikola.com
