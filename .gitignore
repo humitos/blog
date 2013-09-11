@@ -5,3 +5,4 @@ local_conf.py
 *~
 *.swp
 .doit.db
+Guardfile
