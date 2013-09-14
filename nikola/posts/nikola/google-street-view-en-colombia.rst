@@ -7,9 +7,8 @@
 
 Recién veo un link_ que compartió `Martín Gaitán`_ en Facebook y es aterrador.
 
-.. image:: google-maps.png
-   :width: 580px
-   :target: google-maps.png
+.. image:: google-maps.thumbnail.jpg
+   :target: google-maps.jpg
 
 La verdad que da un poco de miedo. Me pregunto cómo hizo Martín para llegar a
 esa imágen... ¿Estará planeando hospedarse en un hotel de la zona?
