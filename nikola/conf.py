@@ -222,7 +222,7 @@ from local_conf import DEPLOY_COMMANDS
 
 def convert_images(filename):
     name, ext = os.path.splitext(filename)
-    to_filename = name + '.thumbnail.' + ext
+    to_filename = name + '.thumbnail' + ext
     command = 'convert {from_filename} -thumbnail 580 {to_filename}'\
             .format(from_filename=filename,
                     to_filename=to_filename)
