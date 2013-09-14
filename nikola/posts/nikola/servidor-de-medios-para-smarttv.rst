@@ -24,7 +24,7 @@ SmartPhone.
 
 Como yo SmartPhone no tengo, configuré mi Ubuntu 13.04 para que sirva los
 archivos que yo quiero mediante `minidlna`_ que utiliza *DLNA/UPnP-AV* para
-servir los archivos.
+servir los archivos. Se puede escuchar música, ver videos y fotos.
 
 Los pasos fueron bastante simples, pero tuve unos problemas con los permisos de
 archivos.
