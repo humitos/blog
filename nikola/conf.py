@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 import time
+import os
 
 ##############################################
 # Configuration
@@ -218,9 +219,21 @@ from local_conf import DEPLOY_COMMANDS
 # argument.
 #
 # By default, there are no filters.
-# FILTERS = {
-#    ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
-# }
+
+def convert_images(filename):
+    name, ext = os.path.splitext(filename)
+    to_filename = name + '.thumbnail.' + ext
+    command = 'convert {from_filename} -thumbnail 580 {to_filename}'\
+            .format(from_filename=filename,
+                    to_filename=to_filename)
+    os.system(command)
+
+FILTERS = {
+    # ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
+    ".jpg": [convert_images],
+    ".jpeg": [convert_images],
+    ".png": [convert_images],
+}
 
 # Create a gzipped copy of each generated file. Cheap server-side optimization.
 # GZIP_FILES = False
