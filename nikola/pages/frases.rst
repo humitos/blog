@@ -9,6 +9,12 @@
 
 .. epigraph::
 
+   Todos los días se aprende algo viejo...
+
+   -- Javier Smaldone
+
+.. epigraph::
+
    Me declaro en 'estado de sitio'.
 
    -- Manuel Kaufmann
