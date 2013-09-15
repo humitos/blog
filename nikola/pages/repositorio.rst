@@ -49,7 +49,7 @@ Películas
 ---------
 
  #. `La educación prohibida, Germán Doin <http://educacionprohibida.com.ar>`_
- #. `Zeitgeist,Peter Joseph <http://www.zeitgeistmovie.com/>`_
+ #. `Zeitgeist, Peter Joseph <http://www.zeitgeistmovie.com/>`_
 
 Artículos
 ---------
