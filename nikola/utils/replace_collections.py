@@ -9,6 +9,10 @@ REPLACE_RE = '\\[gallery.*\n?.*\\]'
 FIND_RE = r'ids="(.*)"'
 # \1 ids
 
+EXCLUDE_FILES = ['que-tan-boludo-se-puede-ser.rst', 'fue-real.rst', 'nueva-peatonal-en-parana.rst',
+                 'chrome-os-en-la-netbook.rst', 'look-style.rst', 'me-hice-con-un-libro-espectacular.rst',
+                 'mi-primer-regalo-de-25.rst', 'me-hice-con-un-libro-espectacular.rst']
+
 REPLACE_CONTENT = '''.. image:: %(image)s\n   :target: %(target)s\n   :height: 135px\n'''
 OLD_FILES_PATH = '/media/humitos/Toshiba/backup-desktop/blog-wordpress-nikola/files'
 FILES_PATH = '/home/humitos/blog/nikola/files'
@@ -21,6 +25,10 @@ for i in idsf:
 
 
 for f in glob.glob('*.rst'):
+
+    if f in EXCLUDE_FILES:
+        continue
+
     fd = open(f, 'r')
     content = fd.read()
     fd.close()
@@ -48,9 +56,7 @@ for f in glob.glob('*.rst'):
         images = '\n'.join(images)
         new_content = re.sub(REPLACE_RE, images, content)
 
-        import ipdb;ipdb.set_trace()
         fd = open(f, 'w')
         fd.write(new_content)
         fd.close()
 
-        break
