@@ -1,19 +1,24 @@
 import os
 import re
+import csv
 import glob
 import shutil
 
-from import_wordpress import CommandImportWordpress
-xml_file = CommandImportWordpress.read_xml_file('/media/humitos/8c9aa144-b4eb-4c05-8ecb-3e6cb2213ef5/descargas/home-humitos-backup/Downloads/humitos.wordpress.2013-09-09.xml')
-
 SEARCH_FOR = '[gallery '
-REPLACE_RE = r'\[gallery.*ids="(\d{4},?)+"\]'
-FIND_RE = r'(\d{4},?)+'
+REPLACE_RE = r'\[gallery.*\]'
+FIND_RE = r'ids="(.*)"'
 # \1 ids
 
 REPLACE_CONTENT = r'''.. slides::\n\n    %s'''
-FILES_PATH = '/srv/descargas/blog/nikola/files/posts'
-OLD_FILES_PATH = '/home/humitos/blog/files'
+OLD_FILES_PATH = '/media/humitos/Toshiba/backup-desktop/blog-wordpress-nikola/files'
+FILES_PATH = '/home/humitos/blog/files'
+
+csvf = '/home/humitos/blog/nikola/utils/attachments_ids.csv'
+idsf = csv.reader(open(csvf, 'r'), delimiter=',')
+IDS = {}
+for i in idsf:
+    IDS[i[0]] = i[1]
+
 
 for f in glob.glob('*.rst'):
     fd = open(f, 'r')
@@ -23,13 +28,14 @@ for f in glob.glob('*.rst'):
         print f
         # import epdb;epdb.set_trace()
         # raw_input('Press a key...')
-        ids = re.findall(FIND_RE, content)
+        ids = re.findall(FIND_RE, content)[0].split(',')
+        file_ids = [IDS[i] for i in ids]
 
-        import pdb;pdb.set_trace()
 
-        slides = '\n    '.join(ids)
-        new_content = content.replace(gallery_text, REPLACE_CONTENT % slides)
+        slides = '\n    '.join(file_ids)
+        new_content = re.sub(content, REPLACE_RE, REPLACE_CONTENT % slides, re.MULTILINE)
 
+        import ipdb;ipdb.set_trace()
         # fd = open(f, 'w')
         # fd.write(new_content)
         # fd.close()
