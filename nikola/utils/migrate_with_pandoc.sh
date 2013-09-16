@@ -1,4 +1,5 @@
 set -e
+mkdir -p migrated
 for x in `ls *.wp`;
 do pandoc \
     --from=html \
@@ -13,3 +14,4 @@ do pandoc \
     --variable="tags:$(cat $(basename $x .wp).meta | head -n 4 | tail -n 1)" \
     $x;
 done
+
