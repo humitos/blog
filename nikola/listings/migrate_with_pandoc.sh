@@ -1,3 +1,1 @@
-set -e
-mkdir -p migrated
-for x in `ls *.wp`; do pandoc --from=html --to=rst --normalize --output=migrated/`basename $x .wp`.rst $x;done
+../utils/migrate_with_pandoc.sh
