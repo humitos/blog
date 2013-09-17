@@ -27,8 +27,7 @@ tuvo sus *bug-fix releases* hasta el 2012.
 A continuación voy a mostrar las características nuevas más importantes (de uso
 común) desde Python 2.7 y hasta Python 3.3 que no conocía o no estoy habituado
 a usar. Además de las que muestre yo, han habido muchas más, incluso en 
-cuestiones de *performance*. Si estás interesado en leer la lista completa de 
-cambios podés referirte a la página "`What's New in Python 3.3`_".
+cuestiones de *performance*.
 
 .. note::
 
@@ -151,7 +150,6 @@ Python 2.7
 
 * Algunas optimizaciones_ que hacen el funcionamiento de Python más rápido.
 
-.. _What's New in Python 3.3: http://docs.python.org/release/3.3.1/whatsnew/3.3.html
 .. _optimizaciones: http://docs.python.org/release/3.3.1/whatsnew/2.7.html#optimizations
 .. _argparse: http://docs.python.org/release/3.3.1/library/argparse.html
 .. _optparse: http://docs.python.org/release/3.3.1/library/optparse.html
@@ -296,6 +294,11 @@ Python 3.3
     humitos@michifus:~$ source myvenv/bin/activate 
     (myvenv) humitos@michifus:~$ deactivate 
     humitos@michifus:~$
+
+.. note::
+
+    Si sabés de alguna característica importante que me olvidé de mencionar,
+    avisame a través de los comentarios así la agrego.
 
 *Seguramente de acá salga alguna que otra charlita.*
 
