@@ -9,6 +9,12 @@
 
 .. epigraph::
 
+   Estamos parados en hombros de gigantes.
+
+   -- Isaac Newton
+
+.. epigraph::
+
    Todos los días se aprende algo viejo...
 
    -- Javier Smaldone
