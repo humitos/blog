@@ -6,7 +6,7 @@ import feedparser
 from email.mime.text import MIMEText
 
 TAGS_URL = 'http://hg.python.org/cpython/tags'
-CURRENT_TAG = 'v3.4.0a'
+CURRENT_TAG = 'v3.4.0a2'
 ATOM_URL = 'http://hg.python.org/cpython/atom-tags'
 
 rss = feedparser.parse(ATOM_URL)
