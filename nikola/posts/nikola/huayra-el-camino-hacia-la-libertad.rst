@@ -44,5 +44,10 @@ preguntar cosas sobre este *nuevo* sistema e incluso escuchar sus opiniones.
 
    Hoy en día, GNU/Linux ya no es solo para programadores...
 
+Mejor que te lo expliquen ellos, los creadores de toda ésta movida, y no los
+políticos que solo se llenan la boca hablando al pedo:
+
+.. media:: http://www.youtube.com/watch?v=Y1DROkgVSw8
+
 .. _Huayra: http://huayra.conectarigualdad.gob.ar/
 
