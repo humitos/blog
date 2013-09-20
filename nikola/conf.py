@@ -545,7 +545,7 @@ BODY_END = """<script>
 # (ex. 2012-03-30T23:00:00+02:00),
 # set timzone if you want a localized posted date.
 #
-# TIMEZONE = 'America/Argentina/Buenos_Aires'
+TIMEZONE = 'America/Argentina/Buenos_Aires'
 
 # If webassets is installed, bundle JS and CSS to make site loading faster
 # USE_BUNDLES = True
