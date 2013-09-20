@@ -55,5 +55,7 @@ Artículos
 ---------
 
 #. `Orwell VS Huxley, la explicación de por qué nadie hace nada <http://pedacicosarquitectonicos.com/2013/08/30/orwell-vs-huxley-la-explicacion-de-por-que-nadie-hace-nada/>`_
+#. `Why Nikola Tesla was the greatest geek who ever lived <http://theoatmeal.com/comics/tesla>`_
+#. `How and why to use whom in a sentence <http://theoatmeal.com/comics/who_vs_whom>`_
  
 
