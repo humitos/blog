@@ -49,5 +49,11 @@ políticos que solo se llenan la boca hablando al pedo:
 
 .. media:: http://www.youtube.com/watch?v=Y1DROkgVSw8
 
+**UPDATE**: un videíto más corto que muestra a los que trabajaron en Huayra
+para llegar a la primera versión. Varios de los que están laburando ahí los
+conozco, y puedo asegurar que son buena gente :)
+
+.. media:: http://www.youtube.com/watch?v=92Hu2EpdhkE
+
 .. _Huayra: http://huayra.conectarigualdad.gob.ar/
 
