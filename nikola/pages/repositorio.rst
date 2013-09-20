@@ -24,36 +24,36 @@ sugerencias a través de los comentarios y/o mi email.
 Libros
 ------
 
- #. `Un mundo feliz, Aldus Huxley <http://fil.mty.itesm.mx/sites/fil.mty.itesm.mx/files/ebooks/un_mundo_feliz-Aldus_Huxley.pdf>`_
- #. `La confusión de la tortuga, Barry Newell <https://github.com/downloads/humitos/turtle-confusion-es/la-confusion-de-la-tortuga.pdf>`_
- #. `Historia de cronopios y famas, Julio Cortázar <http://nuevaliteratura.com.ar/descargas/Historia%20De%20Cronopios%20Y%20De%20Famas%20-%20Julio%20Cortazar.pdf>`_
- #. `Focus, Leo Babauta <http://bit.ly/9QGRoP>`_
- #. `1984, George Orwell <http://biblio3.url.edu.gt/Libros/2011/1984.pdf>`_
+#. `Un mundo feliz, Aldus Huxley <http://fil.mty.itesm.mx/sites/fil.mty.itesm.mx/files/ebooks/un_mundo_feliz-Aldus_Huxley.pdf>`_
+#. `La confusión de la tortuga, Barry Newell <https://github.com/downloads/humitos/turtle-confusion-es/la-confusion-de-la-tortuga.pdf>`_
+#. `Historia de cronopios y famas, Julio Cortázar <http://nuevaliteratura.com.ar/descargas/Historia%20De%20Cronopios%20Y%20De%20Famas%20-%20Julio%20Cortazar.pdf>`_
+#. `Focus, Leo Babauta <http://bit.ly/9QGRoP>`_
+#. `1984, George Orwell <http://biblio3.url.edu.gt/Libros/2011/1984.pdf>`_
 
 
 Videos
 ------
 
- #. `This is water, David Foster Wallace <http://www.youtube.com/watch?v=6z5TIFr5XMo>`_
- #. `¿Te atreves a soñar?, Matti Hemmi <http://www.youtube.com/watch?v=ykfp1WvVqAY>`_
- #. `La historia de las cosas, Annie Leonard <http://www.youtube.com/watch?v=ykfp1WvVqAY>`_
- #. `Vida, libertad y conciencia, Fredy Kofman <http://www.youtube.com/watch?v=S1D5pliEIaY>`_
+#. `This is water, David Foster Wallace <http://www.youtube.com/watch?v=6z5TIFr5XMo>`_
+#. `¿Te atreves a soñar?, Matti Hemmi <http://www.youtube.com/watch?v=ykfp1WvVqAY>`_
+#. `La historia de las cosas, Annie Leonard <http://www.youtube.com/watch?v=ykfp1WvVqAY>`_
+#. `Vida, libertad y conciencia, Fredy Kofman <http://www.youtube.com/watch?v=S1D5pliEIaY>`_
 
- #. `Plastiquito, Cine Humus <http://www.youtube.com/watch?v=NmGFkBk0uh4>`_
- #. `What if money was no object?, Allan Watts <http://www.youtube.com/watch?v=rApGnn_tLwo>`_
- #. `El miedo destruye al amor, Jiddu Krisnamurti <http://www.youtube.com/watch?v=mzHXG3X5Vp8>`_
- #. `Ilha das flores, Jorge Furtado <http://www.youtube.com/watch?v=3iv9l3Q1NW0>`_
- #. `Wikileaks: War, Lies and Videotapes, Luc Hermann, Paul Moreira <http://www.youtube.com/watch?v=6SbMuWdW100>`_
+#. `Plastiquito, Cine Humus <http://www.youtube.com/watch?v=NmGFkBk0uh4>`_
+#. `What if money was no object?, Allan Watts <http://www.youtube.com/watch?v=rApGnn_tLwo>`_
+#. `El miedo destruye al amor, Jiddu Krisnamurti <http://www.youtube.com/watch?v=mzHXG3X5Vp8>`_
+#. `Ilha das flores, Jorge Furtado <http://www.youtube.com/watch?v=3iv9l3Q1NW0>`_
+#. `Wikileaks: War, Lies and Videotapes, Luc Hermann, Paul Moreira <http://www.youtube.com/watch?v=6SbMuWdW100>`_
 
 Películas
 ---------
 
- #. `La educación prohibida, Germán Doin <http://educacionprohibida.com.ar>`_
- #. `Zeitgeist, Peter Joseph <http://www.zeitgeistmovie.com/>`_
+#. `La educación prohibida, Germán Doin <http://educacionprohibida.com.ar>`_
+#. `Zeitgeist, Peter Joseph <http://www.zeitgeistmovie.com/>`_
 
 Artículos
 ---------
 
- #. `Orwell VS Huxley, la explicación de por qué nadie hace nada <http://pedacicosarquitectonicos.com/2013/08/30/orwell-vs-huxley-la-explicacion-de-por-que-nadie-hace-nada/>`_
-
+#. `Orwell VS Huxley, la explicación de por qué nadie hace nada <http://pedacicosarquitectonicos.com/2013/08/30/orwell-vs-huxley-la-explicacion-de-por-que-nadie-hace-nada/>`_
+ 
 
