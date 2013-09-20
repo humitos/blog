@@ -49,5 +49,12 @@ Lo que sería en "lenguaje humano":
 Ahora sí! Cada 3 minutos me tomo un matecito calentito :)
 
 
-**UPDATE 14 Dic 2012:** Bautizado por mí a "Soluciones libres a
-problemas cotidianos"
+.. admonition:: UPDATE vie, 14 dic 2012
+
+    Bautizado por mí a "Soluciones libres a problemas cotidianos".
+
+.. admonition:: UPDATE vie, 20 sep 2013
+
+    Si usás Windows, podés ver su implementación `acá`_.
+
+.. _acá: http://blog.mkaufmann.com.ar/posts/solucion-windows-a-no-mas-mate-frio/
