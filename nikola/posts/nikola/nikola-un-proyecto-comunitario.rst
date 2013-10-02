@@ -84,9 +84,9 @@ completísimas sobre cómo hacer para colaborar correctamente con Nikola, sin
 mandarse ningún moco y sin hacer que todo explote, que igualmente, cuando lo
 hacés explotar te siguen tratando bien y todo :)
 
-Así que, con ustedes, el nuevo rol reStructuredText para Nikola: `:doc:`, que
-sirve para linkear un blogpost con otro dentro de un mismo sitio. Este feature
-va a ser agregado en la próxima release de Nikola que incluya features.
+Así que, con ustedes, `el nuevo rol reStructuredText para Nikola`_ `:doc:`,
+que sirve para linkear un blogpost con otro dentro de un mismo sitio. Este
+feature va a ser agregado en la próxima release de Nikola que incluya features.
 
 La verdad que los que laburan en Nikola tienen mucha y muy buena onda con los
 que quieren colaborar por más noob que sean. Varias veces me sentí medio
@@ -110,5 +110,5 @@ laburando en Nikola, los pibes me tiraron la mejor onda en todo momento.
 .. _rst2pdf: http://rst2pdf.ralsina.com.ar/
 .. _su blogpost sobre su postura en el proyecto: http://ralsina.me/weblog/posts/being-an-inclusive-project-and-how-github-saved-my-day.html
 .. _instrucciones: https://github.com/getnikola/nikola/blob/refrole/CONTRIBUTING.rst
-
+.. _el nuevo rol reStructuredText para Nikola: https://github.com/getnikola/nikola/pull/730
 

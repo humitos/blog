@@ -58,4 +58,9 @@ Artículos
 #. `Why Nikola Tesla was the greatest geek who ever lived <http://theoatmeal.com/comics/tesla>`_
 #. `How and why to use whom in a sentence <http://theoatmeal.com/comics/who_vs_whom>`_
 #. `9gag - Imagine <http://9gag.com/gag/4881104?ref=fb.s>`_
+#. `Ilustraciones de Pawel Kuczynski <http://agenciaeternity.wordpress.com/2013/09/06/50-reveladoras-ilustraciones-de-pawel-kuczynski-sobre-el-ironico-mundo-en-el-que-vivimos/>`_
+#. `My experience with running an opensource project <http://ondrejcertik.blogspot.com.ar/2009/05/my-experience-with-running-opensource.html>`_
+#. `Robot Turtles midmortem at $250k <http://www.danshapiro.com/blog/2013/09/robot-turtles-midmortem-at-250k/>`_
+#. `Si un niño de 11 años puede cargarse a Monsanto en menos de 5 minutos al menos deberías verlo <http://www.unitedexplanations.org/2013/08/28/si-un-nino-de-11-anos-puede-cargarse-a-monsanto-en-menos-de-5-minutos-al-menos-deberias-verlo/>`_
+#. `Peace of mind <http://saiadeseda.tumblr.com/post/58260417057>`_
 
