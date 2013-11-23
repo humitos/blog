@@ -9,6 +9,19 @@
 
 .. epigraph::
 
+   Es increíble el cambio que podés lograr cuando entendés cómo
+   funcionan las cosas.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
+   No te olvides que nosotros somos decoradores.
+
+   -- Luis Alberto Spinetta
+
+.. epigraph::
+
    Estamos parados en hombros de gigantes.
 
    -- Isaac Newton

@@ -50,6 +50,7 @@ Películas
 
 #. `La educación prohibida, Germán Doin <http://educacionprohibida.com.ar>`_
 #. `Zeitgeist, Peter Joseph <http://www.zeitgeistmovie.com/>`_
+#. `Trom <http://tromsite.com/>`_
 
 Artículos
 ---------
@@ -63,4 +64,13 @@ Artículos
 #. `Robot Turtles midmortem at $250k <http://www.danshapiro.com/blog/2013/09/robot-turtles-midmortem-at-250k/>`_
 #. `Si un niño de 11 años puede cargarse a Monsanto en menos de 5 minutos al menos deberías verlo <http://www.unitedexplanations.org/2013/08/28/si-un-nino-de-11-anos-puede-cargarse-a-monsanto-en-menos-de-5-minutos-al-menos-deberias-verlo/>`_
 #. `Peace of mind <http://saiadeseda.tumblr.com/post/58260417057>`_
+#. `El proyecto GNU cumple 30 años <http://www.vialibre.org.ar/2013/09/27/el-proyecto-gnu-cumple-30-anos/>`_
+#. `Para una obra lo peor no es la copia, sino que la olviden <http://www.marcha.org.ar/1/index.php/nacionales/147-ciencia-y-tecnologia/4455-para-una-obra-lo-peor-no-es-la-copia-sino-el-olvido>`_
+#. `Porqué la "piratería" es beneficiosa para los músicos, y la industria discográfica no <http://derechoaleer.org/blog/2011/05/por-que-la-pirateria-es-beneficiosa-para-los-musicos.html>`_
 
+Charlas
+-------
+
+#. `Haciendo aplicaciones complejas de manera simple, Hugo Ruscitti <https://www.youtube.com/watch?v=TzDhzayO_uk>`_
+#. `Juegos electromecánicos con Arduino, Alejandro Cura <http://www.youtube.com/watch?v=Lc4uS6zuDtQ>`_
+#. `Pilas Engine, Hugo Ruscitti <http://www.youtube.com/watch?v=tXA2BgzrvzA>`_
