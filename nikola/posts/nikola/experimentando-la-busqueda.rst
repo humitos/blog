@@ -100,7 +100,7 @@ Joac para ir a encontrarme con Marcos, el maestro, con quien después
 de comer nos quedamos hablando hasta las 2 de la mañana. Al día
 siguiente trabajé un rato y después de eso me fui a comprar un frasada
 porque me quedé corto con las cosas de abrigo que traje. Y a la
-noche... tuve mi `primera clase de Pa Kau`_ y luego de ésta mi primera
+noche... tuve mi `primera clase de Pa Kua`_ y luego de ésta mi primera
 clase de Armas; ambas a cargo de Marcos: dos horas intensas combinando
 meditación, elongación, destreza y respiración. La flashié bastante y
 encontré mucha similitud con el circo en cuanto a la forma de mezclar
