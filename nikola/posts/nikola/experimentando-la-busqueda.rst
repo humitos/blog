@@ -56,14 +56,17 @@ charlas muy interesantes sobre Python, las metodologías de trabajo a
 las que estamos acostumbrados, cómo lo hacíamos antes y un sin fin de
 charlas constructivas sobre electrónica.
 
-Entre otras cosas que compré, me hice con un soporte para el GPS para
+Entre otras cosas que compré, me hice con un `soporte para el GPS`_ para
 pegarlo en el vidrio, ya que no me trajo y tuve muchos problemas
 durante las rutas cuando se caía al piso y me hablaba desde
-allí. Además, adquirí un inversor de tensión para la batería del auto
+allí. Además, adquirí un `inversor de tensión`_ para la batería del auto
 de 12v que invierte a 220v con una potencia máxima de 350 watts. Por
 lo tanto, puedo enchufar la notebook al auto y trabajar offline (o con
 un WiFi choreado) sin problemas. De hecho, es lo que estoy haciendo
 ahora mismo en el camping y funciona a la perfección.
+
+.. _inversor de tensión: http://articulo.mercadolibre.com.ar/MLA-490824720-conversor-inversor-de-12v-a-220v-potencia-350w-conecta-todo-_JM
+.. _soporte para el GPS: http://articulo.mercadolibre.com.ar/MLA-491487816-soporte-gps-nuvi-garmin-completo-200-40-50-250-255-1300-1400-_JM
 
 Esta semana fue un poco complicada, como toda primera semana de
 cualquier cosa. Estoy empezando a conocer cómo son los espacios del
@@ -97,15 +100,17 @@ Joac para ir a encontrarme con Marcos, el maestro, con quien después
 de comer nos quedamos hablando hasta las 2 de la mañana. Al día
 siguiente trabajé un rato y después de eso me fui a comprar un frasada
 porque me quedé corto con las cosas de abrigo que traje. Y a la
-noche... tuve mi primera clase de Pa Kau y luego de ésta mi primera
+noche... tuve mi `primera clase de Pa Kau`_ y luego de ésta mi primera
 clase de Armas; ambas a cargo de Marcos: dos horas intensas combinando
 meditación, elongación, destreza y respiración. La flashié bastante y
 encontré mucha similitud con el circo en cuanto a la forma de mezclar
 las diferentes ramas de la investigación.
 
+.. _primera clase de Pa Kua: https://www.facebook.com/pakua.martinez
+
 Al día siguiente, Viernes 28, a la mañana bien temprano nos levantamos
 y cuando terminamos de desayunar encaré para San Clemente del Tuyú
-porque había hablado con Mario Mey (un cirquero y software librero)
+porque había hablado con `Mario Mey`_ (un cirquero y software librero)
 que vengo siguiendo desde hace un tiempo porque usa Blender y programa
 en Python mucha de las cosas que usa en escena para su show. Entonces,
 como no lo conocía ni tampoco había visto su show y sabiendo que
@@ -121,17 +126,21 @@ tetraedro y algunas cositas más. Un crack. Ah! Encima me llevé un DVD
 del otro show que tiene y 100 fichas para los fichines de San
 Clemente. Groso!
 
+.. _Mario Mey: http://mariomey.com.ar/
+
 En la misma plaza dónde estuvo Mario Mey, y seguido de él, vino un
 recital de folcklore que no me gustó simplemente porque no me gusta el
 folcklore. Así que, aproveché y me tiré a dormir una horita en el auto
 porque estaba reventado del viaje hasta que largue el otro espectáculo
-circense a cargo de "Los Transhumantes" que parecía prometedor. El
+circense a cargo de "`Los Transhumantes`_" que parecía prometedor. El
 espectáculo era más tradicional, no la locura tecnológica de Mario (
 :) ), palo chino, algo de clown, Jerry que era el bufón del grupo y se
 llevaba todas las gastadas, trapecio de vuelo a cargo de Tatiana (muy
 zarpado) y como número final mientras se pasaba la gorra unos
 malabares con pelotas que estaba bueno pero con el quilombo de la
 gorra no se pudo apreciar mucho.
+
+.. _Los Transhumantes: https://www.facebook.com/transhumantes.circo
 
 Parece que acá está de moda darle a la gente un cuaderno y una
 lapicera para que escriban lo que quieran sobre el espectáculo. Así
