@@ -42,3 +42,33 @@ Para el sonido, lo único que hice fue hacer click izquierdo en el
 .. image:: hdmi-sound-output.png
 
 *Comprobar que efectivamente está saliendo lo que queremos que salga por HDMI*
+
+
+.. admonition:: Desde la consola
+
+   En vez de darle a los clicks a y las ventanitas, busqué cuál es el
+   comando apropiado para hacer esto mismo desde la consola y llegué a
+   estos:
+
+   #. Para activar la salida HDMI::
+
+	xrandr --output HDMI1 --mode 1920x1080 --pos 1366x0 --rotate normal
+	       --output LVDS1 --mode 1366x768 --pos 0x0 --rotate normal
+               --output DP1 --off --output VGA1 --off
+
+	pactl set-card-profile 0 output:hdmi-stereo
+
+   #. Para desactivar la salida HDMI y volver a la notebook::
+
+	xrandr --output HDMI1 --off
+               --output LVDS1 --mode 1366x768 --pos 0x0 --rotate normal
+	       --output DP1 --off
+	       --output VGA1 --off
+
+        pactl set-card-profile 0 output:analog-stereo
+
+   El comando que utilicé para encontrar los nombres de los
+   dispositivos de sallida de audio es::
+
+      pacmd list-cards
+
