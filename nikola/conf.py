@@ -57,9 +57,9 @@ TRANSLATIONS = {
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('http://humitos.wordpress.com', 'Viejo Blog en Wordpress'),
-        ('/pages/info', 'Info'),
-        ('/pages/repositorio', 'Repositorio'),
-        ('/pages/frases', 'Frases'),
+        ('/pages/info/', 'Info'),
+        ('/pages/repositorio/', 'Repositorio'),
+        ('/pages/frases/', 'Frases'),
         ('/archive.html', 'Historial'),
         ('/categories/index.html', 'Tags'),
         # ('/rss.xml', 'RSS'),
