@@ -74,3 +74,5 @@ Charlas
 #. `Haciendo aplicaciones complejas de manera simple, Hugo Ruscitti <https://www.youtube.com/watch?v=TzDhzayO_uk>`_
 #. `Juegos electromecánicos con Arduino, Alejandro Cura <http://www.youtube.com/watch?v=Lc4uS6zuDtQ>`_
 #. `Pilas Engine, Hugo Ruscitti <http://www.youtube.com/watch?v=tXA2BgzrvzA>`_
+#. `Vivir viajando, Aniko Villalba <https://www.youtube.com/watch?v=7qEXjasHPRw>`_
+#. `Una mujer enorme está destruyendo completamente la industria de la música, Amanda Palmer <https://www.youtube.com/watch?v=QZ2pj2oSKIo>`_
