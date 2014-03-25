@@ -9,6 +9,15 @@
 
 .. epigraph::
 
+   Por Einstein sabemos que las cosas son relativas. Todo depende de
+   tu punto de vista. La cosa se pone más interesante todavía cuando
+   te das cuenta de que tienes dos puntos de vista. Eso genera
+   confusión de la buena. Eso es.
+
+   -- Javier Malonda
+
+.. epigraph::
+
    Es increíble el cambio que podés lograr cuando entendés cómo
    funcionan las cosas.
 
