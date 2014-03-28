@@ -1,7 +1,7 @@
 .. title: El motor home
 .. slug: el-motor-home
 .. date: 2014/03/14 00:18:43
-.. tags: auto, viaje, san clemente, buenos aires
+.. tags: auto, viaje, san clemente, buenos aires, argentina en python
 .. link: 
 .. description: 
 .. type: text
