@@ -5,6 +5,16 @@
 .. title: Python más rápido que Java
 .. slug: python-mas-rapido-que-java
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/11/09/python-mas-rapido-que-java/
+
+
 |image0|\ Con un título de post robado de la charla de `Facundo
 Batista <http://www.taniquetil.com.ar/plog/>`__ y Lucio Torre ("`Python
 más rápido que

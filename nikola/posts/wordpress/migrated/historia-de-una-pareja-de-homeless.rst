@@ -5,6 +5,16 @@
 .. title: Historia de una pareja de homeless
 .. slug: historia-de-una-pareja-de-homeless
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/26/historia-de-una-pareja-de-homeless/
+
+
 Por la tarde de ayer decidí venir al corazón de Hollywood para conocer
 un poco cómo es toda esa movida que conocemos por la TV. "Las estrellas
 de Hollywood", "la crema de la crema", "lo top de lo top", "la calle de

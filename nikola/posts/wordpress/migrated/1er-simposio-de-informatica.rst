@@ -5,6 +5,16 @@
 .. title: 1er Simposio de Informática
 .. slug: 1er-simposio-de-informatica
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/09/10/1er-simposio-de-informatica/
+
+
 **NOTA:** actualmente estoy subiendo los archivos de audio al servidor.
 Para descargar estos archivos `click
 aqui <http://grulicueva.homelinux.net/~humitos/blog/1er_simposio_sobre_informatica/>`__

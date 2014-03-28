@@ -5,6 +5,16 @@
 .. title: Transportando Gmail
 .. slug: transportando-gmail
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2009/02/22/transportando-gmail/
+
+
 Lo primero que se me pasó por la cabeza cuando me comrpé la notebook fue
 poder **leer** los mails estando en cualquier lado, por lo que recordé
 que hace un tiempo atrás, cuando la única computadora que tenía era la

@@ -5,6 +5,16 @@
 .. title: Una obra
 .. slug: una-obra
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/04/05/una-obra/
+
+
 |image0|
 
 Una obra se hace mi lado. Una obra completamente nueva: "una nueva

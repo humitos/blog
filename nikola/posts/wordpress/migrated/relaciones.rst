@@ -5,6 +5,16 @@
 .. title: Relaciones
 .. slug: relaciones
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/11/relaciones/
+
+
 Hoy por la mañana leí unos post de Javier Malonda que me traje impresos,
 entre ellos hay uno que `habla de la
 persepción <http://www.javiermalonda.com/modalidades-y-submodalidades-de-la-percepcion/>`__ y

@@ -5,6 +5,16 @@
 .. title: Dibujando con luces
 .. slug: dibujando-con-luces
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/06/20/dibujando-con-luces/
+
+
 Hay mucho más de lo que pensaba en la idea de "dibujar con luces" que
 alguna vez había escuchado en el `curso de
 fotografía <http://humitos.wordpress.com/2012/03/27/primer-trabajo-de-fotografia/>`__.

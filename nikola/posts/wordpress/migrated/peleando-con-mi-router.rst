@@ -5,6 +5,16 @@
 .. title: Peleando con mi Router
 .. slug: peleando-con-mi-router
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/09/17/peleando-con-mi-router/
+
+
 |image0|\ Hace un par de semanas, quizás un mes ya, estoy a las peleas
 con mi router. Desde que contraté el servicio de Arnet de 640kbps que
 tengo problemas; al principio nada serios, pero ultimamente me estoy

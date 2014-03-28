@@ -5,6 +5,16 @@
 .. title: La felicidad hace trabajar mejor a tu cerebro
 .. slug: la-felicidad-hace-trabajar-mejor-a-tu-cerebro
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/03/07/la-felicidad-hace-trabajar-mejor-a-tu-cerebro/
+
+
     Traducción de "`Happiness Makes Your Brain Work
     Better <http://www.inc.com/jessica-stillman/happiness-makes-your-brain-work-better.html>`__\ "
     de **Jessica Stillman**

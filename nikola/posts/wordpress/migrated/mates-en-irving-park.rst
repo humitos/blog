@@ -5,6 +5,16 @@
 .. title: Mates en Irving Park
 .. slug: mates-en-irving-park
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/05/mates-en-irving-park/
+
+
 Cerca de las 10 u 11, preparé el mate, la cámara de fotos, un poco de
 fruta, el libro 1984 (que supuestamente estoy leyendo), le dejé una nota
 a Giulia y, cuando estoy por arrancar para el `Irving

@@ -5,6 +5,16 @@
 .. title: 1000 visitas al blog
 .. slug: 1000-visitas-al-blog
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/09/24/1000-visitas-al-blog/
+
+
 |image0|\ Así es, el blog que comencé a hacer hace casi 1 mes atrás, ya
 tuvo 1000 visitas; y pareciera que sigue contando...
 

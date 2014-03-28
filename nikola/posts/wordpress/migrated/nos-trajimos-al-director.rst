@@ -5,6 +5,16 @@
 .. title: ¡Nos trajimos al director!
 .. slug: nos-trajimos-al-director
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/10/15/nos-trajimos-al-director/
+
+
 Gracias a un esfuerzo en conjunto con la fundación La Hendija, nos
 trajimos al director (Germán Doin) para la fecha de la `segunda
 proyección <http://proyecciones.educacionprohibida.com/evento/la-hendija-parana-entre-rios-argentina-25102012/>`__

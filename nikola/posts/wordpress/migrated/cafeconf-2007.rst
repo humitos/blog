@@ -5,6 +5,16 @@
 .. title: CaFeConf 2007
 .. slug: cafeconf-2007
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/09/30/cafeconf-2007/
+
+
 |image0|\ Al igual que el año pasado, este también asistiré a
 `CaFeConf <http://www.cafeconf.org/2007/modules/edito/content.php?id=4>`__.
 Organizado el viaje por mi facultad estaremos saliendo el Jueves a la

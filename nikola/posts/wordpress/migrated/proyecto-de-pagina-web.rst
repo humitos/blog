@@ -5,6 +5,16 @@
 .. title: Proyecto de página web
 .. slug: proyecto-de-pagina-web
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/08/31/proyecto-de-pagina-web/
+
+
 Hace una semana con unos amigos (Juan y Guillermo), empezamos a diseñar,
 o intentar a hacerlo, una página web para desarrollarla en Python con
 `TurboGears <http://www.turbogears.org/>`__. Con el fin de aprender

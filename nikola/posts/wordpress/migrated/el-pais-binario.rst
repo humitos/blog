@@ -6,6 +6,16 @@
 .. slug: el-pais-binario
 
 
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/09/14/el-pais-binario/
+
+
+
    Nos quedamos sin opciones. Nos hicimos fundamentalistas,
    absolutistas, binarios. Los que ayer salieron a la calle son anti
    K, imperialistas que odian a Cristina, ricos que cuidan su ranchito

@@ -5,6 +5,16 @@
 .. title: Confío en la caja
 .. slug: confio-en-la-caja
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/06/11/confio-en-la-caja/
+
+
 Basado en algo que escuché de Javier Malonda:
 
     No confiamos en algo que nos de un extraño, pero sí en algo que

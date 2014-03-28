@@ -5,6 +5,16 @@
 .. title: MOCA
 .. slug: moca
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/28/moca/
+
+
 No es un café. Es "The Museum Of Contemporary Art", más conocido como
 "somos una manga de loquitos que queremos mostrar lo que hacemos". Esta
 es la primera parte correspondiente a la \ `segunda parte que ya

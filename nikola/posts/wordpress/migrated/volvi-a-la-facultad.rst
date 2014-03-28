@@ -5,6 +5,16 @@
 .. title: Volví a la facultad
 .. slug: volvi-a-la-facultad
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/04/10/volvi-a-la-facultad/
+
+
 Como muchos sabrán, volví a la facultad.
 
 Esta vez mucho más entusiasmado que la última vez que fui, no así la

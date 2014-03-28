@@ -5,6 +5,16 @@
 .. title: Walk There!: Irvington Classic Homes and Heritage Trees
 .. slug: walk-there-irvington-classic-homes-and-heritage-trees
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/04/28/walk-there-irvington-classic-homes-and-heritage-trees/
+
+
 Hace unos días, creo que el 4 o 5 día después de haber llegado a
 Portland, me compré un libro que se llama **Walk There! **\ y tiene "50
 treks in and around Portland and Vancouver". Ni bien lo vi en la

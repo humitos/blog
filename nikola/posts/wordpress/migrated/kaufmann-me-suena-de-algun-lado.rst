@@ -5,6 +5,16 @@
 .. title: Kaufmann... me suena de algún lado
 .. slug: kaufmann-me-suena-de-algun-lado
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/03/31/kaufmann-me-suena-de-algun-lado/
+
+
 Y sí, puede ser que me conozcas porque hiciste tenis, fútbol, fuiste a
 la primaria, a la secundaria, o quizás hiciste remo conmigo. También
 puede ser que éramos amigos del barrio, o conocido de un conocido que

@@ -5,6 +5,16 @@
 .. title: Origami
 .. slug: origami
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/11/24/origami/
+
+
 Siempre me llamaron la atención los origamis y me pregunté cómo carajo
 se hacían. Igualmente, nunca le dediqué ni 10 minutos a ver cómo era la
 técnica.

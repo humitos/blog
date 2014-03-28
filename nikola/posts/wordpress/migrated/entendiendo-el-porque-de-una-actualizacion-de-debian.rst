@@ -5,6 +5,16 @@
 .. title: Entendiendo el porqué de una actualización de Debian
 .. slug: entendiendo-el-porque-de-una-actualizacion-de-debian
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/06/22/entendiendo-el-porque-de-una-actualizacion-de-debian/
+
+
 Me ha pasado muchas veces de querer hacer un **dist-upgrade** desde la
 consola y que APT me diga que quiere desinstalar unos cuantos paquetes
 porque entra en conflicto con "vaya uno a saber qué". Como muchas veces

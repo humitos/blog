@@ -5,6 +5,16 @@
 .. title: Emocionante
 .. slug: emocionante
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/06/24/emocionante/
+
+
 Hoy vi el capítulo "**El Inventor**\ " de *26 Personas para Salvar al
 Mundo* y me emocioné bastante. Es muy loco pensar que trabajo en este
 proyecto y que hay millones de personas en el mundo usando un pedacito

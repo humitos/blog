@@ -5,6 +5,16 @@
 .. title: Así se fue la 3er Jornada de Python en Santa Fe
 .. slug: asi-se-fue-la-3er-jornada-de-python-en-santa-fe
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/10/06/asi-se-fue-la-3er-jornada-de-python-en-santa-fe/
+
+
 Como desde hace 3 años se viene organizando la `Jornada de Python e
 Santa Fe <http://www.pythonsantafe.com.ar/>`__ con el objetivo de
 promocionar este maravillo lenguaje en esta localidad y sus alrededores.

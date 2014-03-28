@@ -5,6 +5,16 @@
 .. title: ¡Qué buen virus!
 .. slug: que-buen-virus
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/03/13/que-buen-virus/
+
+
 Buscando una imagen de una bandera a cuadros de las del estilo de las
 carreras me encontré con esto:
 

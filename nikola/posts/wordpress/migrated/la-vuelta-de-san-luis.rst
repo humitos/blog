@@ -5,6 +5,16 @@
 .. title: La vuelta de San Luis
 .. slug: la-vuelta-de-san-luis
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/11/04/la-vuelta-de-san-luis/
+
+
 Aunque fui `hace algúnas semanas
 ya <http://humitos.wordpress.com/2008/10/19/jornadas-en-san-luis/>`__,
 no tuve la oportunidad de escribir nada al respecto y tampoco quería

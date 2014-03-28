@@ -5,6 +5,16 @@
 .. title: Una "discusión" sobre un parcial
 .. slug: una-discusion-sobre-un-parcial
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/06/04/una-discusion-sobre-un-parcial/
+
+
 Primero como para ponernos en órbita, explico de qué se trata esto. Ayer
 (Martes) rendí el primer y único parcial de **Gestión de datos**. No
 pude estudiar mucho por algunas cuestiones personales en cuanto a

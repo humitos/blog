@@ -5,6 +5,16 @@
 .. title: Otro juego de damas
 .. slug: otro-juego-de-damas
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/11/12/otro-juego-de-damas/
+
+
 |image0|"Another Checkers Game" (Otro juego de damas) es el juego en el
 cuál me sumé hace un par de semanas. Si bien la idea de hacer este juego
 salió allá por las `2das Jornadas de Python en Santa

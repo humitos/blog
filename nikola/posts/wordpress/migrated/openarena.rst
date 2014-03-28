@@ -5,6 +5,16 @@
 .. title: OpenArena
 .. slug: openarena
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/06/14/openarena/
+
+
 Ayer me dieron ganas de jugar un rato a los videos juegos para matar el
 tiempo y para *aprovechar* la placa 3D que tengo. La verdad que hacía
 una cantidad que no jugaba absolutamente a ninguno y me sorprendí cuando

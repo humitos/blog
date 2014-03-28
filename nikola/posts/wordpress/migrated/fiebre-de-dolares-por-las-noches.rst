@@ -5,6 +5,16 @@
 .. title: Fiebre de dólares por las noches
 .. slug: fiebre-de-dolares-por-las-noches
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/06/23/fiebre-de-dolares-por-las-noches/
+
+
 |image0|
 
 Qué cosa el dolar, ¿no? La mayoría no podemos comprar ni nunca pudimos y

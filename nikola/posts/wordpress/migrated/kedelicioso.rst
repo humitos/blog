@@ -5,6 +5,16 @@
 .. title: KeDElicioso
 .. slug: kedelicioso
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/11/27/kedelicioso/
+
+
 Aunque le falta un poco de azúcar todavía, puedo decir que hice un
 *plug-out* para el Konqueror y los marcadores de
 `del.icio.us <http://del.icio.us>`__. Es un *plug-out* porque todavía no

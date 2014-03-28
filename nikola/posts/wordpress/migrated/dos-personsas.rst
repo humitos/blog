@@ -5,6 +5,16 @@
 .. title: Dos personsas...
 .. slug: dos-personsas
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/02/08/dos-personsas/
+
+
 ... que significan mucho en lo que hoy día soy y que tengo "olvidadas"
 de alguna forma :(
 

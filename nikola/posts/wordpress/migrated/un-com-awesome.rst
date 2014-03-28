@@ -5,6 +5,16 @@
 .. title: Un .com awesome!
 .. slug: un-com-awesome
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/06/01/un-com-awesome/
+
+
 ¿A quién le gustaría tener un \ **.com** con su nombre?
 
 Se me hace que muchos de nosotros queremos esto. Para mí, por ejemplo,

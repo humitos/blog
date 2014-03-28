@@ -5,6 +5,16 @@
 .. title: Perdón, no pude contenerme... Siempre quise ser un gran poeta!
 .. slug: perdon-no-pude-contenerme-siempre-quise-ser-un-gran-poeta
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/07/21/perdon-no-pude-contenerme-siempre-quise-ser-un-gran-poeta/
+
+
 .. media:: http://www.youtube.com/watch?v=lY6doOcRVGQ
 
 *Lo vi en `El Orto Del Mundo <http://elortodelmundo.blogspot.com>`__:

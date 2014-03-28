@@ -5,6 +5,16 @@
 .. title: es_AR para todos
 .. slug: es_ar-para-todos
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/08/05/es_ar-para-todos/
+
+
 Hace `un tiempo
 atrás <http://humitos.wordpress.com/2010/04/27/virtualenvwrapper-con-documentacion-en-espanol/>`__
 me puse en contacto con Doug Hellmann para hacer la primera traducción

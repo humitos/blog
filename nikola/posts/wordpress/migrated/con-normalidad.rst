@@ -5,6 +5,16 @@
 .. title: Con normalidad
 .. slug: con-normalidad
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/06/24/con-normalidad/
+
+
 Recién leo en el Facebook de la UADER
 
     Hoy hay clases con normalidad!!!

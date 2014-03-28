@@ -5,6 +5,16 @@
 .. title: Entrevista Labsis
 .. slug: entrevista-labsis
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/09/04/entrevista-labsis/
+
+
 |image0|\ El viernes pasado tuve mi primer entrevista para empezar a
 trabajar en el Labsis (Laboratorio de Sistemas) de mi facultad. Éramos
 tres los chicos que asistimos a la reunión y David que nos había citado

@@ -5,6 +5,16 @@
 .. title: Python Bug Day
 .. slug: python-bug-day
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/02/24/python-bug-day/
+
+
 El sábado pasado hubo un `Python Bug
 day <http://wiki.python.org/moin/PythonBugDay>`__, en el cuál se
 "juntan" en el canal de IRC python-dev de freenode.net y entre todos

@@ -5,6 +5,16 @@
 .. title: Compile Sugar on Debian Testing (wheezy)
 .. slug: compile-sugar-on-debian-testing-wheezy
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/03/19/compile-sugar-on-debian-testing-wheezy/
+
+
 I've been trying to compile Sugar on Debian Testing since a week ago. I
 chat with some guys on #sugar (irc.freenode.net) looking for help and
 solving some bugs related with dependencies:

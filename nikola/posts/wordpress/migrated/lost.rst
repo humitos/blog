@@ -5,6 +5,16 @@
 .. title: Lost
 .. slug: lost
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/09/18/lost/
+
+
 Cada tanto tiempo voy a remar con mis amigos, no muy seguido, pero la
 idea siempre está y cuando se cumplen ciertas características
 aprovechamos y vamos. Esto es, tiene que estar lindo el tiempo, tenemos

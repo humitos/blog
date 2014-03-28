@@ -5,6 +5,16 @@
 .. title: La vuelta de CaFeCONF
 .. slug: la-vuelta-de-cafeconf
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/10/07/la-vuelta-de-cafeconf/
+
+
 Anoche volvimos de Buenos Aires con el grupo de la facu que fuimos. Yo
 particularmente la pasé muy bien, conocí a dos chicos (Leo y Maxi, que
 en realidad se llama Ricardo, pero para nosotros es Maxi) que iban a la

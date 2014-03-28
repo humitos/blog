@@ -5,6 +5,16 @@
 .. title: Primer trabajo de fotografía
 .. slug: primer-trabajo-de-fotografia
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/03/27/primer-trabajo-de-fotografia/
+
+
 Hace aproximadamente 2 meses me compré una `cámara de
 fotos <http://humitos.wordpress.com/2012/02/15/camarit/>`__ y me pareció
 piola buscar algún curso de fotografía para hacer y así aprender muchas

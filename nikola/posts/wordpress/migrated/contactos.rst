@@ -5,6 +5,16 @@
 .. title: Contactos
 .. slug: contactos
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/06/07/contactos/
+
+
     - ¿me darías un mate?
 
     - Hola, sí. Yo me llamo Manuel.

@@ -5,6 +5,16 @@
 .. title: Nueva versión de (K/G)paper
 .. slug: nueva-version-de-kgpaper
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/10/18/nueva-version-de-kgpaper/
+
+
 |image0|\ Y si! Llegó una nueva versión de Kpaper, pero ahora
 principalmente más estable. Con varias correcciones de bug que tenía por
 todos lados, debido a que de la página que descargaba los wallpapers no

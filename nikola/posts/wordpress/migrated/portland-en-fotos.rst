@@ -5,6 +5,16 @@
 .. title: Portland en fotos
 .. slug: portland-en-fotos
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/06/25/portland-en-fotos/
+
+
 Hoy me fui a dar una vuelta por Downtown y saqué un par de fotos en
 Blanco y Negro y en RAW pensando en la consigna de Flicker Paraná de
 hoy: "Luces y sombras"

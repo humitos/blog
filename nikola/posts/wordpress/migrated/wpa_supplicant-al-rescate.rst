@@ -5,6 +5,16 @@
 .. title: wpa_supplicant al rescate
 .. slug: wpa_supplicant-al-rescate
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/04/09/wpa_supplicant-al-rescate/
+
+
 ¿Cuántas miles de veces puteaste porque no te levantaron las X por el
 motivo que sea y tuviste que recurrir a conectarte a la red por la
 consola? ¿Con cuánto tiempo contabas en ese momento para estudiarte los

@@ -5,6 +5,16 @@
 .. title: GREP_OPTIONS is the evil
 .. slug: grep_options-is-the-evil
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/06/18/grep_options-is-the-evil/
+
+
 Sí, cómo dice el título: no es nada bueno tener la variable de entorno
 GREP_OPTIONS configurada en el entorno en el que se está trabajando.
 

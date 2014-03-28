@@ -5,6 +5,16 @@
 .. title: Parseando un feed
 .. slug: parseando-un-feed
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/02/27/parseando-un-feed/
+
+
 Hace como una hora que llegué a mi casa, me bañe y me puse a buscar algo
 para hacer con Python. Le pregunté a
 `perrito666 <http://www.perrito666.com.ar/>`__ sobre el

@@ -5,6 +5,16 @@
 .. title: Vida, libertad y consciencia
 .. slug: vida-libertad-y-consciencia
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/08/29/vida-libertad-y-consciencia/
+
+
 La calidad del video no es muy buena, pero sí que vale la pena anteder a
 la clase de Fredy Kofman.
 

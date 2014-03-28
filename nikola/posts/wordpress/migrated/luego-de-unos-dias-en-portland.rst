@@ -5,6 +5,16 @@
 .. title: Luego de unos días en Portland
 .. slug: luego-de-unos-dias-en-portland
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/04/25/luego-de-unos-dias-en-portland/
+
+
 Lo primero que hicimos cuando llegamos a la casa de Giulia fue pasar la
 casa por el costado y llegar a la puerta de atrás. Empujar la puerta y
 luego entrar. Ahí fue cuando dije mi primer: "re yankee eso" y pensé:

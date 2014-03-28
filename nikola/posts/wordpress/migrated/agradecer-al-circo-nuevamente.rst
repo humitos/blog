@@ -5,6 +5,16 @@
 .. title: Agradecer al circo, nuevamente
 .. slug: agradecer-al-circo-nuevamente
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/02/agradecer-al-circo-nuevamente/
+
+
 A la gente del circo en general, pero específicamente a "Circulando
 Circo Callejero", de quienes aprendí gran parte de lo que hoy soy como
 malabarista y moniciclista (si se quiere) pero principalmente como

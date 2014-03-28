@@ -5,6 +5,16 @@
 .. title: Taller de Improvisación
 .. slug: taller-de-improvisacion
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/04/26/taller-de-improvisacion/
+
+
 La semana pasada me enteré que en el Gloria Montoya (el mismo lugar
 dónde hago circo) hay un **Taller Municipal de Improvisación
 Teatral**\ porque vi un cartel pegado en la puerta, me llamó la atención

@@ -5,6 +5,16 @@
 .. title: Quiero vale 4!
 .. slug: quiero-vale-4
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/04/10/quiero-vale-4/
+
+
 Ayer tuve un cumpleaños en el Thompson de uno de los chicos de circo. En
 el mismo lugar en dónde hace unos meses atrás aprendí a hacer malabares
 con 3 clavas.

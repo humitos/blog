@@ -5,6 +5,16 @@
 .. title: Excelente Plugin de Firefox
 .. slug: excelente-plugin-de-firefox
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/02/25/excelente-plugin-de-firefox/
+
+
 Hoy buscando el plugin que vengo usando para los Tabs Verticales
 (Verttab) en Firefox 3.6.\* para Firefox 4 Beta me encontré con
 `BarTab <https://addons.mozilla.org/en-US/firefox/addon/bartab/>`__.

@@ -5,6 +5,16 @@
 .. title: Portland Weather
 .. slug: portland-weather
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/13/portland-weather/
+
+
  
 
 I was told that in Portland it rains a lot. I didn't believe it when I

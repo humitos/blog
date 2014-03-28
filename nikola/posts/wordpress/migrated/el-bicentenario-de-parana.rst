@@ -5,6 +5,16 @@
 .. title: El bicentenario de Paraná
 .. slug: el-bicentenario-de-parana
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/06/21/el-bicentenario-de-parana/
+
+
 Como muchos saben, vivo en `Paraná, Entre
 Ríos <https://es.wikipedia.org/wiki/Paran%C3%A1_(Argentina)>`__ y en
 estos días se está celebrando su bicentenario. Como con este gobierno

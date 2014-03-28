@@ -5,6 +5,16 @@
 .. title: Estrenando bolsa de PyCon 2009
 .. slug: estrenando-bolsa-de-pycon-2009
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/12/31/estrenando-bolsa-de-pycon-2009/
+
+
 Hace un tiempo fui a una reunión de PyAr y sortearon algunas cosas,
 entre ellas una bolsa de PyCon 2009 verde de una tela "ecológica" que
 habían traído los chicos que fueron a PyCon en Chicago y... ¡me la gané

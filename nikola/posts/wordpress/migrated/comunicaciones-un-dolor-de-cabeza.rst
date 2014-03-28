@@ -5,6 +5,16 @@
 .. title: Comunicaciones. Un dolor de cabeza.
 .. slug: comunicaciones-un-dolor-de-cabeza
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/02/22/comunicaciones-un-dolor-de-cabeza/
+
+
 Vuelvo a escribir en mi blog luego de unas vacaciones largas en el mundo
 cibernético. A decir verdad está bueno, pensar que todos los días me
 levantaba, prendía la PC, verificaba el correo, contestaba algunos,

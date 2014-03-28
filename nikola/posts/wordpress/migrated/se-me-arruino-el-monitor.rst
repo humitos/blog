@@ -5,6 +5,16 @@
 .. title: Se me arruinó el monitor
 .. slug: se-me-arruino-el-monitor
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/03/21/se-me-arruino-el-monitor/
+
+
 Desde hace ya un tiempo vengo notando algo raro cuando veo fotos en mi
 monitor. En aquél entonces pensaba que era la cámara que me generaba una
 línea de píxeles diferentes en la parte de arriba de la foto al tomarla.

@@ -5,6 +5,16 @@
 .. title: #1 Modulo: commands
 .. slug: modulo-commands
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/04/29/modulo-commands/
+
+
 Para capturar la salida de un comando generalmente utilizaba el módulo
 `subprocess <http://docs.python.org/lib/module-subprocess.html>`__\ de
 Python de esta forma:

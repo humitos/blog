@@ -5,6 +5,16 @@
 .. title: Concha
 .. slug: concha
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/13/concha/
+
+
 No he encontrado bizcochos, ni facturas, ni nada que sea realmente
 agradabe a mi paladar en una panadería (Bakery). Es como que, hay cosas
 que tienen mucha, pero mucha pinta, pero no tienen el sabor que

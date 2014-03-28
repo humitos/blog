@@ -5,6 +5,16 @@
 .. title: Encuentro en el circo
 .. slug: encuentro-en-el-circo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/12/13/encuentro-en-el-circo/
+
+
 Dice que un tipo va a la casa de una señorita y se encuentra con que la
 comida no estaba lista, sino que siquiera había sido pensada. Por lo
 tanto había que empezar a pensar en qué ingredientes se podían utilizar

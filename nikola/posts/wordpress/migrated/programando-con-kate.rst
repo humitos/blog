@@ -5,6 +5,16 @@
 .. title: Programando con Kate
 .. slug: programando-con-kate
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/09/10/programando-con-kate/
+
+
 Hace bastante que estoy buscando un editor de texto en el cuál me sienta
 cómodo para programar. Probé varios, `Vim <http://www.vim.org/>`__,
 `Scribes <http://scribes.sourceforge.net/>`__,

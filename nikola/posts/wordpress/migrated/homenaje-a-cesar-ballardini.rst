@@ -5,6 +5,16 @@
 .. title: Homenaje a César Ballardini
 .. slug: homenaje-a-cesar-ballardini
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/05/23/homenaje-a-cesar-ballardini/
+
+
 ¡Así es! Ayer por la noche le hicimos un \ *homenaje sorpresa* a César
 Ballardini: un crack en todo, pero principalmente en el mundo de las
 computadoras.

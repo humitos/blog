@@ -5,6 +5,16 @@
 .. title: "Los bins"
 .. slug: los-bins
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/20/los-bins/
+
+
 Los "otros" Argentinos me comentaron que hay un lugar llamado "Goodwill"
 acá en Estados Unidos dónde se puede comprar cosas de segunda a un muy
 buen precio. Las cosas en general son usadas, pero el "usado" para

@@ -5,6 +5,16 @@
 .. title: Nunca antes me había pasado
 .. slug: nunca-antes-me-habia-pasado
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/10/12/nunca-antes-me-habia-pasado/
+
+
 ¿Alguna vez terminaste una lapicera antes de que se te pierda, se te
 rompa, te la roben, etc?
 

@@ -5,6 +5,16 @@
 .. title: Solo
 .. slug: solo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/06/16/solo/
+
+
 Durante todo el viaje, a veces me pasa que me siento un poco solo. Si
 bien me gusta estar solo, a veces siento que he estado demasiado tiempo
 solo y estaría bueno estar conversando con alguien en algún lado. Nada

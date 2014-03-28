@@ -5,6 +5,16 @@
 .. title: Introducción a Django (charla)
 .. slug: introduccion-a-django-charla
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/09/11/introduccion-a-django-charla/
+
+
 Es la primera vez que voy a hacer esto, no estoy seguro porqué se me
 ocurrió en este momento, pero ya lo había visto en el blog de
 `Juanjo <http://www.juanjoconti.com.ar>`__ hace un tiempo aunque no le

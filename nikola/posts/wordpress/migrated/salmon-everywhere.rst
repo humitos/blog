@@ -5,6 +5,16 @@
 .. title: Salmon everywhere!
 .. slug: salmon-everywhere
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/19/salmon-everywhere/
+
+
 Acá están fanatisados con el Salmón. Hay unos lugares cerca de acá dónde
 se puede ir a ver como los salmones vuelven al lugar que nacieron, río
 arriba. Aunque todavía no he ido, me lo anotado para hacer cuando vuelva

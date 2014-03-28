@@ -5,6 +5,16 @@
 .. title: Redwoods
 .. slug: redwoods
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/06/16/redwoods/
+
+
 De San Francisco a Portland me volví en auto por la ruta 1 (que tiene
 una hermosa vista al mar durante casi todo el tiempo y va entre las
 montañas -famosa por esto) con Giulia y en el medio acampamos dos días

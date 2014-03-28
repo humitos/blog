@@ -5,6 +5,16 @@
 .. title: Recién llegado a Portland, OR
 .. slug: recien-llegado-a-portland-or
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/04/19/recien-llegado-a-portland-or/
+
+
 Finalmente, después de todo el quilombo de la VISA, los dólares,
 Cristina, el país, Daminato, el pasaje, la tarjeta, la gente, y mil
 otras cosas más... Estoy acá. Sí, en Portland Oregon, escribiendo mi

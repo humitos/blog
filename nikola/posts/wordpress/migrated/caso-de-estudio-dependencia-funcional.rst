@@ -5,6 +5,16 @@
 .. title: Caso de estudio: "Dependencia Funcional"
 .. slug: caso-de-estudio-dependencia-funcional
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/04/30/caso-de-estudio-dependencia-funcional/
+
+
 Hoy fui a la facultad a la materia Gestión de Datos e hicimos un
 ejercicio de la guía de actividades prácticas. Estamos dando el tema
 "Dependencia funcional y normalización". El enunciado es este:

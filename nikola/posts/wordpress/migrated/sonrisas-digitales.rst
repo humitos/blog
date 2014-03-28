@@ -5,6 +5,16 @@
 .. title: Sonrisas digitales
 .. slug: sonrisas-digitales
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/07/29/sonrisas-digitales/
+
+
 Hay gente copada que está haciendo cosas muy buenas. Cuando eso pasa,
 cuando siento que me interesa lo que otro hace y cuando me veo en
 posición de dar una mano para que eso que está bueno se siga haciendo,

@@ -5,6 +5,16 @@
 .. title: Bariloche, Día 5 y 6
 .. slug: bariloche-dia-5-y-6
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/08/01/bariloche-dia-5-y-6/
+
+
 **DIA 5**
 
 Después de terminar de escribir el post anterior, me tiré a descansar un

@@ -5,6 +5,16 @@
 .. title: Python Debugger
 .. slug: python-debugger
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/10/15/python-debugger/
+
+
 Hoy estuve haciendo un poco de todo. Configurando el canal de IRC que
 mencioné en el post anterior, buscado plugins para el Kate, viendo
 algunos programas, incorporándome en la comunidad Ubuntu, traduciendo

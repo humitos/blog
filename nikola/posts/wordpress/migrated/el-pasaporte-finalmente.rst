@@ -5,6 +5,16 @@
 .. title: El pasaporte, finalmente
 .. slug: el-pasaporte-finalmente
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/07/19/el-pasaporte-finalmente/
+
+
 "¡Vueltas, vueltas, vueltas y más vueltas!"
 -`dije <http://humitos.wordpress.com/2012/06/18/tramitando-mi-nuevo-pasaporte/>`__
 cuando empecé el trámite del pasaporte. También

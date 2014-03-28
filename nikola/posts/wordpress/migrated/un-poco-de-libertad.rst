@@ -5,6 +5,16 @@
 .. title: Un poco de libertad
 .. slug: un-poco-de-libertad
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/06/02/un-poco-de-libertad/
+
+
 El fin de semana del 17 estuve en San Francisco en las "Jornadas de
 Software Libre de San Francisco". Aunque pasaron muchas cosas
 importantes para mí este fin de semana acá voy a hablar únicamente de

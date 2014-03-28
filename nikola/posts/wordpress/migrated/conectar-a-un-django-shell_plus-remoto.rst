@@ -5,6 +5,16 @@
 .. title: Conectar a un Django shell_plus remoto
 .. slug: conectar-a-un-django-shell_plus-remoto
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/02/24/conectar-a-un-django-shell_plus-remoto/
+
+
 ¡Acabo de utilizar la cabeza para algo! Todavía estoy emocionado. Creo
 que esto va a facilitarle las cosas a varios y a reducir ese tiempo
 tedioso de conectarse al servidor "para probar algo" o "ver qué tiene la

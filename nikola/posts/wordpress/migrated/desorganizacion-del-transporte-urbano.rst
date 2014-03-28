@@ -5,6 +5,16 @@
 .. title: Desorganización del Transporte Urbano
 .. slug: desorganizacion-del-transporte-urbano
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/04/05/desorganizacion-del-transporte-urbano/
+
+
 Hoy estaba esperando el colectivo en la `Plaza de
 Mayo <http://goo.gl/maps/4aaA>`__ situada en 25 de Mayo y Monte Caseros
 (Paraná). Y me puse a pensar dónde debería esperar el colectivo ya que

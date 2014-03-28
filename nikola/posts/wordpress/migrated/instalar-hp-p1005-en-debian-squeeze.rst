@@ -5,6 +5,16 @@
 .. title: Instalar HP p1005 en Debian Squeeze...
 .. slug: instalar-hp-p1005-en-debian-squeeze
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/02/08/instalar-hp-p1005-en-debian-squeeze/
+
+
 ... sin morir en el intento.
 
 Estoy bastante podrido de que "cada vez" que pasa "algo" (no sé

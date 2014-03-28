@@ -5,6 +5,16 @@
 .. title: Comportamiento "raro" en Django
 .. slug: comportamiento-raro-en-django
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/11/16/comportamiento-raro-en-django/
+
+
 En pocas palabras tengo un modelo que obtengo desde su *id* que me viene
 por la url. Para esto utilizo la función **get_object_or_404** que
 trae Django. En el medio de la vista de Django aplico algunas funciones

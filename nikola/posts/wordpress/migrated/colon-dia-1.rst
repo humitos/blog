@@ -5,6 +5,16 @@
 .. title: Colón: Día 1
 .. slug: colon-dia-1
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/03/03/colon-dia-1/
+
+
 Unos días antes de salir para Colón ya tenía los pasajes en la mano.
 Salía el Jueves a las 9 de la mañana.a Noche anterior al viaje me acosté
 relativamente temprano, comparado con los días anteriores, para poder

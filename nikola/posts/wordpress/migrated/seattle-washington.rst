@@ -5,6 +5,16 @@
 .. title: Seattle, Washington
 .. slug: seattle-washington
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/04/27/seattle-washington/
+
+
 Hoy fuimos al `Chihuly Garden and
 Glass <http://www.chihulygardenandglass.com/>`__. Me salió U$S 20 la
 entrada, pero a la salida tendría que haber ido y dejado los U$S 80 que

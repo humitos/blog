@@ -5,6 +5,16 @@
 .. title: Conociendo Argentina a más de 20mil km
 .. slug: conociendo-argentina-a-mas-de-20mil-km
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/27/conociendo-argentina-a-mas-de-20mil-km/
+
+
 Como el mundo es muy pero muy loco (y qué copado que está eso), ayer
 viví otro día loco en este viaje loco dentro de un mundo loco. ¡Qué
 locura!

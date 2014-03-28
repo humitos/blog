@@ -5,6 +5,16 @@
 .. title: Doné sangre
 .. slug: done-sangre
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/06/06/done-sangre/
+
+
 Este post es como que tiene dos caras. Si bien por un lado la mamá de un
 amigo está pasando un mal momento y eso no nada bueno, por el otro puedo
 decir que de alguna manera pude ayudar un poquito en su recuperación

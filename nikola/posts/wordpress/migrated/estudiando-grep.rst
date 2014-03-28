@@ -5,6 +5,16 @@
 .. title: Estudiando "grep"
 .. slug: estudiando-grep
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/11/11/estudiando-grep/
+
+
 |image0|\ Después de tantas luchas para saber si lo que `estoy haciendo
 en
 Java <http://humitos.wordpress.com/2007/11/09/python-mas-rapido-que-java/>`__

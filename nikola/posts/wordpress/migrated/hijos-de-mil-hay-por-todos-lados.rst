@@ -5,6 +5,16 @@
 .. title: Hijos de mil... hay por todos lados
 .. slug: hijos-de-mil-hay-por-todos-lados
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/02/24/hijos-de-mil-hay-por-todos-lados/
+
+
 Siempre me pregunté lo mismo: ¿Porqué empresas grandes tienen unos
 sitios webs de mierda, mal diseñados, pocos funcionales y pésimamente
 desarrollados sin respetar ningún estándar y un sin fin de cualidades

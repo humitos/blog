@@ -5,6 +5,16 @@
 .. title: "Alta cresta"
 .. slug: alta-cresta
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/02/07/alta-cresta/
+
+
 ... -se escuchó a lo lejos; y nuevamente después de unos cortos
 segundos, el silencio-
 

@@ -5,6 +5,16 @@
 .. title: Reunión 27 de PyAr
 .. slug: reunion-27-de-pyar
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/05/13/reunion-27-de-pyar/
+
+
 Otra reunión de PyAr que me *empuja* a viajar con destino a Buenos
 Aires. Una nueva excusa para no cursar algunos días de facultad, y
 demás. No, a decir verdad intento, desde dónde estoy, colaborar como

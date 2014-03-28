@@ -5,6 +5,16 @@
 .. title: Error en Diario UNO
 .. slug: error-en-diario-uno
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/12/24/error-en-diario-uno/
+
+
 Este post es para mi amigo "El Gran" Walini que le gusta coleccionar
 errores de los diarios.
 

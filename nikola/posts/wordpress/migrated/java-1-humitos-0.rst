@@ -5,6 +5,16 @@
 .. title: Java 1 - Humitos 0
 .. slug: java-1-humitos-0
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/09/14/java-1-humitos-0/
+
+
 Este es el resultado del primer tiempo. Entre la mitad del día de ayer y
 todo el día de hoy estuvimos intentando hacer una *mini* aplicación
 gráfica con un amigo, `Guille <http://gheize.wordpress.com>`__. En la

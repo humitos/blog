@@ -5,6 +5,16 @@
 .. title: Colón: Día 2
 .. slug: colon-dia-2
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/03/10/colon-dia-2/
+
+
 Por suerte la noche anterior no salí. A las 3 am se largó una tormenta
 que tapó la ciudad entera con agua. Truenos, rayos y demás captaron mi
 atención un buen rato y me mantuvieron mirando por la ventana.

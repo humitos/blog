@@ -5,6 +5,16 @@
 .. title: Aparezco en Taringa!
 .. slug: aparezco-en-taringa
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/11/30/aparezco-en-taringa/
+
+
 Hoy mi amigo personal `Matías
 Herranz <http://scoobygalletas.blogspot.com/>`__ me mandó un mail
 diciendo que aparezco en Taringa! Wow! :D

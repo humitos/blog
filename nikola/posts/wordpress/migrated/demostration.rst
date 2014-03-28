@@ -5,6 +5,16 @@
 .. title: "Demostration"
 .. slug: demostration
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/03/demostration/
+
+
 Desde que llegué vengo buscando eventos, meetings y demás a través de
 Couchsurfing y meetup.com. Entre tantas cosas que encontré, una de ellas
 fue un grupo de fotografía al cual mandé un mensaje y Tim (uno de los

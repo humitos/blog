@@ -5,6 +5,16 @@
 .. title: "El" viaje a Córdoba
 .. slug: el-viaje-a-cordoba
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/06/22/el-viaje-a-cordoba/
+
+
 Fue complicado ponerle un nombre al post, ya que podría haberse llamado
 "relatos de un viaje", "mi primer viaje en auto", "1 disco y 3 temas",
 "las mil y una cosas camino a Córdoba", "10 horas de ida...", "el viaje

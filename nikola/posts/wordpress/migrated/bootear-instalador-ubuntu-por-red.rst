@@ -5,6 +5,16 @@
 .. title: Bootear instalador Ubuntu por Red
 .. slug: bootear-instalador-ubuntu-por-red
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/10/08/bootear-instalador-ubuntu-por-red/
+
+
 ***Update:**\ siguiente este
 `link <https://help.ubuntu.com/community/Installation/LocalNet>`__, pude
 concretar\ **todo** lo que no pude hacer cuando escribí este post.

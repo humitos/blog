@@ -5,6 +5,16 @@
 .. title: Me hice con un libro espectacular
 .. slug: me-hice-con-un-libro-espectacular
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/10/13/me-hice-con-un-libro-espectacular/
+
+
 Mi vieja empezó a comprar `estos libros de
 Clarín <http://www.clarin.com/sociedad/partir-libros-viajes-National-Geographic_0_518348347.html>`__.
 

@@ -5,6 +5,16 @@
 .. title: ¿Qué tan boludo se puede ser?
 .. slug: que-tan-boludo-se-puede-ser
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/04/15/que-tan-boludo-se-puede-ser/
+
+
 **¡HASTA EL INFINITO Y MÁS ALLÁ!**
 
 Yo vivo al lado de un baldío en Paraná (un terreno igual al de mi casa

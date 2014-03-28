@@ -5,6 +5,16 @@
 .. title: Fotos de Paraná
 .. slug: fotos-de-parana
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/09/14/fotos-de-parana/
+
+
 Hoy después de comer y de dormirme una siestita, como corresponde, salí
 de mi casa caminando con destino al centro de la ciudad. En realidad, a
 un lugar cercano al parque (perdón, quise dibujar un Google Maps, pero

@@ -5,6 +5,16 @@
 .. title: Mi primer reunión de RubyLit
 .. slug: mi-primer-reunion-de-rubylit
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/12/03/mi-primer-reunion-de-rubylit/
+
+
 Hace algún tiempo (no mucho) que estoy subscripto a la lista de correos
 de `RubyLit <http://rubylit.com.ar/wiki/show/HomePage>`__ (Ruby del
 litoral). La principal idea de suscribirme a esta lista era más o menos

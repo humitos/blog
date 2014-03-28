@@ -5,6 +5,16 @@
 .. title: Reunión de PyAr en Rosario
 .. slug: reunion-de-pyar-en-rosario
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/09/07/reunion-de-pyar-en-rosario/
+
+
 Hace unos 15 minutos me bajé del colectivo que venía de Rosario. Fui
 para allá porque se hizo la reunión número 31 de Python Argentina, en
 dónde nos conocimos las caras con algunos Rosarios y con otros pude

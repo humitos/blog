@@ -5,6 +5,16 @@
 .. title: Django Book en español
 .. slug: django-book-en-espanol
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/03/24/django-book-en-espanol/
+
+
 Hace exactamente 10 días me puse a estudiar **Django**, y me topé con
 que toda la documentación, ejemplos y tutoriales están en inglés.
 Después de hacer el primer tutorial básico quería un poco más y me fui a

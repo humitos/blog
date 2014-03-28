@@ -5,6 +5,16 @@
 .. title: Rocky Butte: Natural Area
 .. slug: rocky-butte-natural-area
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/04/rocky-butte-natural-area/
+
+
 Por la tarde me fui en bici a \ *Rocky Butte: Natural Area *\ con el
 objetivo de ver qué corno era eso que en Google Maps parecía atractivo.
 Un día, mientras estaba buscando una dirección, veo que hay una ruta

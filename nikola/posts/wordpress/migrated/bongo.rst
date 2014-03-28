@@ -5,6 +5,16 @@
 .. title: Bongó
 .. slug: bongo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/02/25/bongo/
+
+
 Hace un mes por lo menos ya que me compré un Bongó. Siempre quise tener
 un instrumento de percusión, ya que justamente tengo problemas con el
 tiempo en la guitarra. Algo que sea un poco difícil en cuestiones de

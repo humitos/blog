@@ -5,6 +5,16 @@
 .. title: Flisol 2008
 .. slug: flisol-2008
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/04/26/flisol-2008/
+
+
 Hoy participé por primera vez en una Flisol. Este año se llevó a cabo en
 la UNL (Universidad Nacional del Litoral) de Santa Fé. Intenté ayudar
 con la organización a último momento, ya que no había mucho movimiento

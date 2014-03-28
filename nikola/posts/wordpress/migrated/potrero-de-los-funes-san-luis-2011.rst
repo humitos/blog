@@ -5,6 +5,16 @@
 .. title: Potrero de los Funes, San Luis 2011
 .. slug: potrero-de-los-funes-san-luis-2011
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/04/26/potrero-de-los-funes-san-luis-2011/
+
+
 El miércoles pasado a la noche, después de la facultad arranqué para
 Rosario ya que me iba de viaje a Mendoza con mi primo Gustavo y Pancho
 (Juan) el Jueves a la mañana bien temprano. La idea era salir a eso de

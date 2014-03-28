@@ -5,6 +5,16 @@
 .. title: Vida = Arte
 .. slug: vida-arte
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/08/18/vida-arte/
+
+
 ¿Qué pasa si te digo que el arte y la vida o la vida y el arte puede
 llegar a ser lo mismo? ¿Qué pasa, de hecho, si son exactamente la misma
 cosa? Pero antes que nada, ¿qué es el arte? ¿cómo puede ser que lo esté

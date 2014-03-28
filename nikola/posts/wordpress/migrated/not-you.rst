@@ -5,6 +5,16 @@
 .. title: NOT YOU
 .. slug: not-you
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/10/16/not-you/
+
+
 ¿Qué pasaría si un día te levantás y te das cuenta de que estabas
 equivocado? Que lo que pensás no está bien, sino que está mal. Pero no
 algo que pasó y te acabás de dar cuenta que la otra persona con la que

@@ -5,6 +5,16 @@
 .. title: Visitando a Stallman
 .. slug: visitando-a-stallman
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/12/03/visitando-a-stallman/
+
+
 Exactamente un mes atrás me estaba *codeando* con el personaje más groso
 del planeta, Richard Stallman, un pibe de barrio como cualquier otro :)
 . Así es, después de participar en el 2do PyDay que se realizó en

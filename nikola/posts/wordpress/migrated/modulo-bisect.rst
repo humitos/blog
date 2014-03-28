@@ -5,6 +5,16 @@
 .. title: #2 Modulo: bisect
 .. slug: modulo-bisect
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/05/20/modulo-bisect/
+
+
 El módulo `bisect <http://docs.python.org/lib/module-bisect.html>`__
 sirve para **mapear** números dentro de un rango con algo. Por ejemplo
 si quiero indicar **qué tan grande**\ es un número con palabras, podría

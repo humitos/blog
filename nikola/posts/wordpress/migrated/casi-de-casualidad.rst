@@ -5,6 +5,16 @@
 .. title: Casi de casualidad
 .. slug: casi-de-casualidad
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/06/18/casi-de-casualidad/
+
+
 Casi de casualidad algún día empecé a escribir cosas que tenía en mi
 cabeza sin levantar la lapicera en ningún momento. Casi de casualidad
 cuando levantaba la lapicera estaba desesperado por leer lo que había

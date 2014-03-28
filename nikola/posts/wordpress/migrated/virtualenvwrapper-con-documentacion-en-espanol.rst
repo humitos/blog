@@ -5,6 +5,16 @@
 .. title: virtualenvwrapper con documentación en Español
 .. slug: virtualenvwrapper-con-documentacion-en-espanol
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/04/27/virtualenvwrapper-con-documentacion-en-espanol/
+
+
 Sí sí, estoy haciendo un post en mi blog: cualquier eso, pero bue. La
 cuestión es que quiero anunciar, casi obligado por haber hecho algo en
 dónde han publicado la dirección de mi blog, que terminé la traducción

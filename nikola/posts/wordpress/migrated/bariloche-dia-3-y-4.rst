@@ -5,6 +5,16 @@
 .. title: Bariloche, Día 3 y 4
 .. slug: bariloche-dia-3-y-4
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/07/30/bariloche-dia-3-y-4/
+
+
 **DIA 3**
 
 Como ayer no escribí el post del día, ya se me empezaron a mezclar las

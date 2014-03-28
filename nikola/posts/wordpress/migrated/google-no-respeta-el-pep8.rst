@@ -5,6 +5,16 @@
 .. title: Google no respeta el PEP8
 .. slug: google-no-respeta-el-pep8
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/03/12/google-no-respeta-el-pep8/
+
+
 Sí loco, estoy trabajando con el SDK de Python de Google App Engine y
 veo que usan 2 espacios en vez de 4 para tabular. ¡Todo mal!
 

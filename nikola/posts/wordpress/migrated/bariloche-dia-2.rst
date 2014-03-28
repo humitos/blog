@@ -5,6 +5,16 @@
 .. title: Bariloche, Día 2
 .. slug: bariloche-dia-2
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/07/28/bariloche-dia-2/
+
+
 Anoche, luego de *cortar repentinamente el post* me fui para la pieza,
 me cambié, comí y nos fuimos para el boliche: **Cerebro**. Dónde
 supuestamente nosotros íbamos a ir al VIP y en él podríamos tomar todo

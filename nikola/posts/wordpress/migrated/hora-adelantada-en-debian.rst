@@ -5,6 +5,16 @@
 .. title: Hora adelantada en Debian
 .. slug: hora-adelantada-en-debian
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2009/10/19/hora-adelantada-en-debian/
+
+
 Ayer prendí la notebook y encontré que tenía 1 hora adelantada mi
 máquina. Esto se debe a que este año no se aplicó la\ `ley
 26.350 <http://infoleg.mecon.gov.ar/infolegInternet/anexos/135000-139999/136191/norma.htm>`__.

@@ -5,6 +5,16 @@
 .. title: #hashtag
 .. slug: hashtag
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/12/06/hashtag/
+
+
 Llegué a cualquier hora. Molesto. Cansado, medio dormido y un poco
 angustiado. No estaba seguro muy bien de qué hora era, pero había visto
 un mensaje en el celular y la hora en la que lo había recibido... se

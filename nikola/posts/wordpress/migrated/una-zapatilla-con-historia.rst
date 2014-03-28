@@ -5,6 +5,16 @@
 .. title: Una zapatilla con historia
 .. slug: una-zapatilla-con-historia
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/11/28/una-zapatilla-con-historia/
+
+
 La historia comienza hallá por el año 2007 cuando alojé a Héctor Sánchez
 y a Hugo Ruscitti en mi casa para las 2da Jornada de Python en Santa Fe.
 Entre otras cosas que estuvimos conversando charlamos sobre el quilombo

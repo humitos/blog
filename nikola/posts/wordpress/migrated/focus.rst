@@ -5,6 +5,16 @@
 .. title: Focus
 .. slug: focus
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/08/02/focus/
+
+
 Acabo de terminar de leer el libro
 "`Focus <http://focusmanifesto.com/>`__\ " (el segundo libro en inglés
 `que terminé de leer <http://humitos.wordpress.com/2013/06/17/holes/>`__

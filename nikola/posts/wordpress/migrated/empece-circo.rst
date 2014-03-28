@@ -5,6 +5,16 @@
 .. title: Empecé circo
 .. slug: empece-circo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/09/01/empece-circo/
+
+
 Culiado, ¡Me duele hasta el cu...!
 
 Hace aproximadamente dos semanas que estoy yendo a circo los Lunes y

@@ -5,6 +5,16 @@
 .. title: ¡Qué levante!
 .. slug: que-levante
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/07/31/que-levante/
+
+
 Pareciera que a mis 26 años todavía estoy para la fiesta en cualquier
 momento y en cualquier lugar. Hoy cerca de las 18hs dejé el auto
 estacionado en frente de la Escuela de Artes Visuales porque a las

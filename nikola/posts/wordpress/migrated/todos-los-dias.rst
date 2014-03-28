@@ -5,6 +5,16 @@
 .. title: Todos los días...
 .. slug: todos-los-dias
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/08/09/todos-los-dias/
+
+
 Ayer salí a recorrer las calles nocturnas y me encontré con varias cosas
 interesantes
 

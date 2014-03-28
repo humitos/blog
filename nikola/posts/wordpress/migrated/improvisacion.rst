@@ -5,6 +5,16 @@
 .. title: Improvisación
 .. slug: improvisacion
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/03/31/improvisacion/
+
+
 |image0|
 
 ¿Qué es la improvisación? ¿Qué es para vos? Deberías responderte vos

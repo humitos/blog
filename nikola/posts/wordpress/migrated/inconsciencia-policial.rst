@@ -5,6 +5,16 @@
 .. title: ¿Inconsciencia policial?
 .. slug: inconsciencia-policial
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/09/16/inconsciencia-policial/
+
+
 Ayer cerca del medio día, cuando ya esta todo listo para comer en mi
 casa, terminé de confirmar que me iba a comer a otro lado. Entonces
 cargué las cosas necesarias (entiéndase MP3) para hacer un viaje en

@@ -5,6 +5,16 @@
 .. title: PyCamp 2012
 .. slug: pycamp-2012
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/07/15/pycamp-2012/
+
+
     Yo tomé el taller para dejar de fumar de Humitos. Finalmente, no
     dejé de fumar, pero aprendí a malabarear...
 

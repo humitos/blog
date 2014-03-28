@@ -5,6 +5,16 @@
 .. title: Si esto no es USA: ¿qué es?
 .. slug: si-esto-no-es-usa-que-es
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/05/si-esto-no-es-usa-que-es/
+
+
 Volviendo a casa del Irving Park, me encontré con unos chicos vendiendo
 Limonada. De hecho, muy buena.
 

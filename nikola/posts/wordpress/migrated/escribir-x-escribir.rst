@@ -5,6 +5,16 @@
 .. title: Escribir x Escribir
 .. slug: escribir-x-escribir
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/03/06/escribir-x-escribir/
+
+
 Siempre quise escribir. Sí, siempre quise hacerlo. Incluso lo he
 intentado de diferentes formas: escribiendo para mí, escribiendo para
 los demás, incluso escribiendo para alguien que ni siquiera conozco.

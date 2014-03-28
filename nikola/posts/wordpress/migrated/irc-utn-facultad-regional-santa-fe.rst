@@ -5,6 +5,16 @@
 .. title: IRC UTN Facultad Regional Santa Fé
 .. slug: irc-utn-facultad-regional-santa-fe
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/10/15/irc-utn-facultad-regional-santa-fe/
+
+
 |image0|\ Hace tiempo que venía pensando en crear un canal de
 `IRC <http://es.wikipedia.org/wiki/Internet_Relay_Chat>`__ de la
 facultad, para poder discutir cualquier tema relacionado con ella. Me

@@ -5,6 +5,16 @@
 .. title: Algunos comandos útiles
 .. slug: algunos-comandos-utiles
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/08/28/algunos-comandos-utiles/
+
+
 Hace un tiempo, por lo menos 2 años, que tengo un Trac instalado en casa
 para uso personal. La idea surgió para organizar mis cosas personales,
 como repositorio de código para los scripts que vaya haciendo y además

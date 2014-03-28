@@ -5,6 +5,16 @@
 .. title: ...Python Vs. Ruby... ¿Rivales?
 .. slug: python-vs-ruby-rivales
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/04/24/python-vs-ruby-rivales/
+
+
 Desde la primer charla del LugLi en la UTN, hace un par de semanas, que
 conozco Ruby. Esto quiere decir que ví algo de código, me mostraron
 algunas de sus características y me dejó algo impactado.

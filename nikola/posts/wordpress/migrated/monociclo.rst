@@ -5,6 +5,16 @@
 .. title: Monociclo
 .. slug: monociclo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/08/14/monociclo/
+
+
 Una nueva adquisición: ¡me compré un monociclo!
 
 |image0|

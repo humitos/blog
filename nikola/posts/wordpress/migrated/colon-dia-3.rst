@@ -5,6 +5,16 @@
 .. title: Colón: Día 3
 .. slug: colon-dia-3
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/03/10/colon-dia-3/
+
+
 Me desperté a las 14 hs con el sonido del teléfono, era Facundo que
 llamó para confirmar el viaje a Buenos Aires a la 26a Reunión de PyAr.
 Por suerte llamó, sinó seguía durmiendo hasta quién sabe que hora.

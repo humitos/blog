@@ -5,6 +5,16 @@
 .. title: Recorrido Fotográfico - La Tribu del Salto
 .. slug: recorrido-fotografico-tribu-el-salto
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/06/11/recorrido-fotografico-tribu-el-salto/
+
+
 Ayer por la noche mientras buscaba algo para hacer y pensaba seriamente
 en acostarme a dormir (porque se me cerraban los ojos delante de la PC),
 veo que me habían invitado en el Facebook -no sé quién- a un recorrido

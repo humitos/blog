@@ -5,6 +5,16 @@
 .. title: Al fin me hice con "La máquina de hacer cuentos"
 .. slug: al-fin-me-hice-con-la-maquina-de-hacer-cuentos
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/07/22/al-fin-me-hice-con-la-maquina-de-hacer-cuentos/
+
+
 Después de tanto tiempo que hace que `Juanjo
 Conti <http://www.juanjoconti.com.ar/>`__ sacó su libro: *La máquina de
 hacer cuentos y otras ficciones*, recién ayer me hice con él. Gracias a

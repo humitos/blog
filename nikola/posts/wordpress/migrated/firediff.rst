@@ -5,6 +5,16 @@
 .. title: Firediff
 .. slug: firediff
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/11/17/firediff/
+
+
 Encontré otra **extensión infaltable** para el Firefox:
 `Firediff <http://www.incaseofstairs.com/firediff>`__.
 

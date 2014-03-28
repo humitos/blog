@@ -5,6 +5,16 @@
 .. title: Tri-Met (colectivo)
 .. slug: tri-met-colectivo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/04/30/tri-met-colectivo/
+
+
 Hoy me tomé por primera vez un colectivo acá. Sabía que salía $2.50 pero
 no estaba seguro bien cómo funcionaba, ni por dónde pasaba, ni cuál me
 tenía que tomar ni nada... Así que, lo primero que hice fue preguntarle

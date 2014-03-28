@@ -5,6 +5,16 @@
 .. title: nosehablamas.com.ar | un sitio en 24hs
 .. slug: nosehablamas-com-ar-un-sitio-en-24hs
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/03/01/nosehablamas-com-ar-un-sitio-en-24hs/
+
+
 El Martes por la noche me agarró mirando la televisión mientras cenaba.
 No recuerdo bien la hora, pero estaba mirando TN y el programa que
 estaban pasando se llamaba "Palabras +, palabras menos". Sinceramente,

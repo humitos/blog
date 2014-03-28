@@ -5,6 +5,16 @@
 .. title: BDD y Números Romanos
 .. slug: bdd-y-numeros-romanos
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/04/29/bdd-y-numeros-romanos/
+
+
 En la primera y última, hasta el momento, charla del LugLi en la UTN de
 Santa Fé Gastón mostró lo que es `BDD <http://behaviour-driven.org/>`__
 (Behaviour Driven Development) aplicándolo en su lenguaje favorito (vaya

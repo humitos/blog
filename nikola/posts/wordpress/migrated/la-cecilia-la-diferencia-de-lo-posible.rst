@@ -5,6 +5,16 @@
 .. title: La Cecilia: la diferencia de lo posible
 .. slug: la-cecilia-la-diferencia-de-lo-posible
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/08/16/la-cecilia-la-diferencia-de-lo-posible/
+
+
 Esta semana tuve la maravillosa oportunidad de visitar `La Cecilia:
 Escuela de la nueva cultura <http://www.lacecilia.org.ar>`__, que se
 encuentra en Santa Fe. A esta escuela la conocí el año pasado por la

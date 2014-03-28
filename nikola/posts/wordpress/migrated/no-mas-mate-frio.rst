@@ -5,6 +5,16 @@
 .. title: No más mate frío
 .. slug: no-mas-mate-frio
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/12/14/no-mas-mate-frio/
+
+
 El mate frío es historia del pasado.
 
 Como todas las cosas buenas, ésta también nació por pereza humana... o

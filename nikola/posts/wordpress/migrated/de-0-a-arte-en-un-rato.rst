@@ -5,6 +5,16 @@
 .. title: De 0 a Arte en un rato
 .. slug: de-0-a-arte-en-un-rato
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/01/30/de-0-a-arte-en-un-rato/
+
+
 Tengo varias cosas sobre *arte* para publicar en mi blog, pero vengo
 medio colgado con el tema. He estado hablando con Estefanía durante un
 tiempo sobre crear un blog o *algo* en dónde ella pueda subir sus

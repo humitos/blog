@@ -5,6 +5,16 @@
 .. title: Configurar una placa wifi Airlive wmm3000pci en Debian
 .. slug: configurar-una-placa-wifi-airlive-wmm3000pci-en-debian
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2009/02/11/configurar-una-placa-wifi-airlive-wmm3000pci-en-debian/
+
+
 Resulta que siempre que me hablan de placas wifi y GNU/Linux se me pone
 la piel de gallina. Existen muchas placas wifi en el mercado que
 actualmente no están soportadas por GNU/Linux, como por ejemplo la

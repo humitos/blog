@@ -5,6 +5,16 @@
 .. title: Soda Stereo, Buenos Aires, Argentina
 .. slug: soda-stereo-buenos-aires-argentina
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/11/05/soda-stereo-buenos-aires-argentina/
+
+
 |image0|
 
 El 2 de Noviembre pasado a las 10:40hs estábamos saliendo con Pancho

@@ -5,6 +5,16 @@
 .. title: chmtopdf: conversor de archivos chm
 .. slug: chmtopdf-conversor-de-archivos-chm
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/10/24/chmtopdf-conversor-de-archivos-chm/
+
+
 ¿Qué es esto? Lo mismo digo. Hace como mucho una semana empezamos un
 `proyecto <http://humitos.wordpress.com/proyectos/>`__ con el
 `Guille <http://nercof.wordpress.com>`__, para hacer un programa que

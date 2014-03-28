@@ -5,6 +5,16 @@
 .. title: Este "truco" merece un post
 .. slug: este-truco-merece-un-post
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/01/26/este-truco-merece-un-post/
+
+
 Mientras estaba chateando con algunos amigos sobre "Cómo conseguir un
 trabajo", renovando mi Currículum Vitae y entrando a la `Red Social
 Linkedin <http://ar.linkedin.com/pub/manuel-kaufmann/2a/398/3a5>`__ me

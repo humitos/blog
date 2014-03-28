@@ -5,6 +5,16 @@
 .. title: Instalando Fedora 7
 .. slug: instalando-fedora-7
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/09/15/instalando-fedora-7/
+
+
 Recién termino de instalar y a penas comenzar a configurar mi nueva
 instalación de `Fedora 7 <http://fedoraproject.org/>`__. Me decidí a
 instalar Fedora por varios motivos. Principalmente porque tengo Kubuntu

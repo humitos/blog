@@ -5,6 +5,16 @@
 .. title: Un día de trabajo...
 .. slug: un-dia-de-trabajo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/07/19/un-dia-de-trabajo/
+
+
 El mes pasado empecé un curso de edición de contenido audiovisual que se
 dicta semanalmente: "`Odisea en el
 Taller <https://analisisdigital.com.ar/noticias.php?ed=1&di=0&no=164362>`__\ ".

@@ -5,6 +5,16 @@
 .. title: ¡Llegaron los CD's!
 .. slug: llegaron-los-cds
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/11/13/llegaron-los-cds/
+
+
 Después de `comentar qué pasó con los pedidos de cd's de
 Ubuntu <http://humitos.wordpress.com/2007/11/06/pidiendo-cds-por-embarque/>`__
 esta última vez, hoy llegaron a las 12:30 justo un ratito después que me

@@ -5,6 +5,16 @@
 .. title: Walk There: Hollywood center
 .. slug: walk-there-hollywood-center
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/19/walk-there-hollywood-center/
+
+
 El lunes pasado me fui a caminar un poco y seguí uno más de los paths
 del libro que me compré. En ésta oportunidad un camino bien cortito en
 medio de la ciudad (aunque alejado de Downtown) dónde no estuve mucho

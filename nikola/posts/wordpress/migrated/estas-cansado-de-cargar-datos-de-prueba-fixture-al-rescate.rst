@@ -5,6 +5,16 @@
 .. title: ¿Estás cansado de cargar datos de prueba? Fixture al rescate
 .. slug: estas-cansado-de-cargar-datos-de-prueba-fixture-al-rescate
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/03/12/estas-cansado-de-cargar-datos-de-prueba-fixture-al-rescate/
+
+
 Entre ayer y hoy me puse a ver cómo crear Unittests para el proyecto
 BusStopped que estoy haciendo bajo la plataforma GAE (Google App Engine)
 utilizando Python como lenguaje.

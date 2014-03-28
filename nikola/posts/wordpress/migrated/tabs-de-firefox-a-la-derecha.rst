@@ -5,6 +5,16 @@
 .. title: Tabs de Firefox a la derecha
 .. slug: tabs-de-firefox-a-la-derecha
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/11/14/tabs-de-firefox-a-la-derecha/
+
+
 Soy un tipo que tiene muchos tabs abiertos en el Firefox normalmente.
 Esto es porque siempre tengo el Gmail abierto, el Google Docs / Reader /
 Calendar (alguno de ellos) y además los tabs de las cosas que estoy

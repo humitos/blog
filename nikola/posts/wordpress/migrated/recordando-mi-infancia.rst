@@ -5,6 +5,16 @@
 .. title: Recordando mi infancia...
 .. slug: recordando-mi-infancia
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/10/31/recordando-mi-infancia/
+
+
 |image0|\ Hace un par de días que tenía ganas de jugar a algún juego
 pero sin tener que bootear mi PC en otro Sistema Operativo como hacía
 hace un tiempo atrás. De hecho, ahora no lo puedo hacer porque es el

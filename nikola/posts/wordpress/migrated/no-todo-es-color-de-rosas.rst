@@ -5,6 +5,16 @@
 .. title: No todo es color de rosas
 .. slug: no-todo-es-color-de-rosas
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/07/16/no-todo-es-color-de-rosas/
+
+
 .. image:: http://conectate.gov.ar/educar-portal-video-web/module/decorator/img/logoConectate.png
 
 ¡Qué bueno! El gobierno de mi país publicó un material digital grandioso

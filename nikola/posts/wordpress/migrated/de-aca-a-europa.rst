@@ -5,6 +5,16 @@
 .. title: "De acá a Europa"
 .. slug: de-aca-a-europa
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/04/18/de-aca-a-europa/
+
+
 ... es una frase frecuentemente usada por mí cuando hago algo (sólo o
 con alguien) de lo cual me siento orgulloso y parece que puede llegar a
 tener éxito, por decirlo de alguna manera.

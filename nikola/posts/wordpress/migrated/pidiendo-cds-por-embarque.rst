@@ -5,6 +5,16 @@
 .. title: Pidiendo CD's por embarque
 .. slug: pidiendo-cds-por-embarque
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/11/06/pidiendo-cds-por-embarque/
+
+
 |image0|\ Apenas me enteré que se podían pedir los *nuevos* (ya no
 tanto) CD's de Ubuntu Gutsy Gibbon por ShipIt, me pedí algunos. 10 si
 mal no recuerdo.

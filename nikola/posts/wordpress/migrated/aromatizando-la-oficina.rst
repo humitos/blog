@@ -5,6 +5,16 @@
 .. title: Aromatizando la oficina
 .. slug: aromatizando-la-oficina
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/02/02/aromatizando-la-oficina/
+
+
 Hoy a la mañana vino "Juanma" a casa y entre mate y mate salió el tema
 de\ *aromatizar la oficina.* Como toda oficina, supongo, tiene olor a
 "algo" que no es muy agradable comunmente. Particularmente ésta es muy

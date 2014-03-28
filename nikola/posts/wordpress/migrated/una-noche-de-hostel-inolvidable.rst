@@ -5,6 +5,16 @@
 .. title: Una noche de hostel inolvidable
 .. slug: una-noche-de-hostel-inolvidable
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/06/19/una-noche-de-hostel-inolvidable/
+
+
     No es lo mismo no entender nada que no entender nada y encima estar
     borracho
 

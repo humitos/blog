@@ -5,6 +5,16 @@
 .. title: Mi celular tiene 25 horas
 .. slug: mi-celular-tiene-25-horas
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/12/28/mi-celular-tiene-25-horas/
+
+
 El Jueves este que viene (30 de Diciembre) es el cumpleaños de Estefanía
 y Tarjeta Naranja le regaló una cena en La Ventola de Paraná en el mes
 de su cumpleaños. La cosa es que ella no se quería perder eso, y de paso

@@ -5,6 +5,16 @@
 .. title: LA - SF: 3 días
 .. slug: la-sf-3-dias
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/06/10/la-sf-3-dias/
+
+
 Una vez `cambiado mis
 planes <http://humitos.wordpress.com/2013/05/30/abrupto-cambio-de-planes/>`__
 con respecto a la estadía en LA y habiendo compartido `Las

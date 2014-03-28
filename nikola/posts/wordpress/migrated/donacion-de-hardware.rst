@@ -5,6 +5,16 @@
 .. title: Donación de hardware
 .. slug: donacion-de-hardware
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/02/17/donacion-de-hardware/
+
+
 Como todos saben, `hace un tiempo se me quemó la placa
 madre <http://humitos.wordpress.com/2011/12/21/sustitucion-de-pc-no-asi-de-so/>`__
 y tuve que cambiar algunas partes de mi computadora de escritorio. Sin

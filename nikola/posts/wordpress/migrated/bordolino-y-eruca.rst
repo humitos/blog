@@ -5,6 +5,16 @@
 .. title: Bordolino y Eruca
 .. slug: bordolino-y-eruca
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/09/06/bordolino-y-eruca/
+
+
 Ayer me fui a ver a "Argentino Bordolino" en concepto de *groupie de la
 banda* al Motoencuentro Internacional de Diamante. Concentramos en la
 sala de ensayo y arrancamos todos como una gran familia de monos

@@ -5,6 +5,16 @@
 .. title: Gira Circulando 2012
 .. slug: gira-circulando-2012-2
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/12/27/gira-circulando-2012-2/
+
+
 Desde Paraná Entre Ríos, y para toda la provincia, se está organizando
 una gira de circo "Circulando Circo Callejero 2012" para repartir
 alegría en la mayor cantidad de lugares que sea posible. Para esto, un

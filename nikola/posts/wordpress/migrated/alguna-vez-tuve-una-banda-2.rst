@@ -5,6 +5,16 @@
 .. title: Alguna vez tuve una "banda"
 .. slug: alguna-vez-tuve-una-banda-2
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/03/31/alguna-vez-tuve-una-banda-2/
+
+
 Hace un tiempo atrás, cuando todavía iba a la facultad y estaba re al
 pedo, tocaba mucho la guitarra, la armónica y probaba muchas cosas locas
 con la computadora. Mi sueño siempre fue fusionar esas cosas, así que le

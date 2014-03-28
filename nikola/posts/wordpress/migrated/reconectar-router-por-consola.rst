@@ -5,6 +5,16 @@
 .. title: Reconectar router por consola
 .. slug: reconectar-router-por-consola
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/08/20/reconectar-router-por-consola/
+
+
 En realidad esto me surgió cuando estaba configurando el JDownloader
 para que se reconecte automáticamente cuando
 `rapidshare.com <http://rapidshare.com>`__\ o algunos similares, dicen

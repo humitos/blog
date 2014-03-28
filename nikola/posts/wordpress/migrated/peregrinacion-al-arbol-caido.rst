@@ -5,6 +5,16 @@
 .. title: Peregrinación al árbol caído
 .. slug: peregrinacion-al-arbol-caido
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/06/14/peregrinacion-al-arbol-caido/
+
+
 ¡Qué día de Miércoles! Fue terrible. Lo que viví ese día fue increíble,
 todavía estoy un poco impactado y no paro de contarlo. Nunca había visto
 una cosa así. Encima todo parecía ser un día normal, aunque algo

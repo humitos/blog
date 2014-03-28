@@ -5,6 +5,16 @@
 .. title: El A, B, C para bajar música usando torrents
 .. slug: el-a-b-c-para-bajar-musica-usando-torrents
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/10/30/el-a-b-c-para-bajar-musica-usando-torrents/
+
+
 Hoy prometí que más tarde explicaría como hacer para bajar música desde
 Internet usando `archivos
 Torrents <http://es.wikipedia.org/wiki/.torrent>`__, así que acá

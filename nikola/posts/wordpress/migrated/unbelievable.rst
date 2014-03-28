@@ -5,6 +5,16 @@
 .. title: Unbelievable
 .. slug: unbelievable
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/01/unbelievable/
+
+
 Ayer fue la reunión \ *Game Night* en una pizzería. Una reunión que se
 hace todo los Lunes organizada por algunos Couchsurfers de acá de
 Portland y que consiste en juntarse a jugar a juegos de mesa y de cartas

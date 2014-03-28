@@ -5,6 +5,16 @@
 .. title: Transmitir
 .. slug: transmitir
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/07/14/transmitir/
+
+
 Sorpresivamente me encontré meditando. Mirando al horizonte. Cercano,
 pero horizonte al fin. Buscando penetrar con mi mirada, esquivando los
 árboles y soportando el frío que golpeaba mi cara y resecaba mi piel.

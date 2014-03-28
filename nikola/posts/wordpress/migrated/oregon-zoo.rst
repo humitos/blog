@@ -5,6 +5,16 @@
 .. title: Oregon Zoo
 .. slug: oregon-zoo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/19/oregon-zoo/
+
+
 El Martes pasado fue uno de los "El primer Martes de cada mes", que es
 lo que dice el sitio web del Zoológico de Oregon sobre el precio
 especial. Sale $4 en vez de $12 que sale los otros días. Así que, como

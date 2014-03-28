@@ -5,6 +5,16 @@
 .. title: Manipulador
 .. slug: manipulador
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/04/19/manipulador/
+
+
 Mientras busco la palabra "manipular" en el diccionario, empiezo a
 escribir este post. Teniendo en mente que vivimos en una sociedad dónde
 nos manipulan todo el tiempo e incluso nosotros mismos somos quien

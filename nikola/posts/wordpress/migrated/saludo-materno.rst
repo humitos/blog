@@ -5,6 +5,16 @@
 .. title: Saludo materno
 .. slug: saludo-materno
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/12/31/saludo-materno/
+
+
 Por motivos varios, no me encontré con mi vieja el día de mi cumpleaños.
 Así que, se la ingenió para dejarme un saludo.
 

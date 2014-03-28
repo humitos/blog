@@ -5,6 +5,16 @@
 .. title: Abrupto cambio de planes
 .. slug: abrupto-cambio-de-planes
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/30/abrupto-cambio-de-planes/
+
+
 Los últimos días me estuve mandando algunos mensajes con unos amigos de
 `Juli y
 Guille <http://humitos.wordpress.com/2013/05/20/los-argentinos-son-una-plaga/>`__

@@ -5,6 +5,16 @@
 .. title: En contra de los [...] en los Feed RSS
 .. slug: en-contra-de-los-en-los-feed-rss
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/11/17/en-contra-de-los-en-los-feed-rss/
+
+
 Hace un tiempo considerable que estoy leyendo, y siguiendo, blogs,
 páginas, marcadores `del.icio.us <http://del.icio.us>`__ y demás a
 través de `Akregator <http://akregator.kde.org/>`__ (Lector de orígenes

@@ -5,6 +5,16 @@
 .. title: Metele CSS nomás
 .. slug: metele-css-nomas
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/11/25/metele-css-nomas/
+
+
 ... siguiendo con las extensiones de Firefox...
 
 Me tocó implementar el css de unos Mockups que me dieron en el trabajo,

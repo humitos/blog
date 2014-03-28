@@ -5,6 +5,16 @@
 .. title: Las Vegas
 .. slug: las-vegas
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/06/08/las-vegas/
+
+
 ¿Qué decir de Las Vegas? No es fácil relatar este viaje. Todo el mundo
 habla de Las Vegas como descontrol, joda las 24hs, mucho alcohol, mucho
 sexo, mucho descajete, digamos. Yo, tranqui. Viaje en familia... y así y

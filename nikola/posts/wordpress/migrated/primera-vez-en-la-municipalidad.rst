@@ -5,6 +5,16 @@
 .. title: Primera vez en la Municipalidad
 .. slug: primera-vez-en-la-municipalidad
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/04/15/primera-vez-en-la-municipalidad/
+
+
 Intenté levantarme tempranito para ir a la Municipalidad y pedir mi
 correspondiente *credencial* de estudiante. Como siempre, no pude
 hacerlo (levantarme), me desperté a eso de las 10 hs, desayuné y salí

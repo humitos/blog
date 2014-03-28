@@ -5,6 +5,16 @@
 .. title: Uso práctico de VNC
 .. slug: uso-practico-de-vnc
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/08/29/uso-practico-de-vnc/
+
+
 Actualmente tengo una computadora de escritorio, que dejo siempre
 prendida y uso como server: para descargar cosas de internet, para
 guardar la música, como backup, servidor web y demás.

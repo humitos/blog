@@ -5,6 +5,16 @@
 .. title: Sin espejos
 .. slug: sin-espejos
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/02/11/sin-espejos/
+
+
     ¿Cómo serían nuestra vidas si no existieran los espejos?
 
 Empecé pensando en eso, aunque después trabajé un poco más el concepto y

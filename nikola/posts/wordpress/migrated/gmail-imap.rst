@@ -5,6 +5,16 @@
 .. title: Gmail + IMAP
 .. slug: gmail-imap
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/03/11/gmail-imap/
+
+
 Estos meses que no estuve en casa, se me presentó varias veces el mismo
 problema. Si bien lo tengo hace un tiempo, nunca era tan frecuente como
 ahora, ya que no estuve en casa por mucho tiempo.

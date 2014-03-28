@@ -5,6 +5,16 @@
 .. title: Fibertel y la ... de tu hermana
 .. slug: fibertel-y-la-de-tu-hermana
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/07/14/fibertel-y-la-de-tu-hermana/
+
+
 Si bien escribí que uno puede ser dueño de su conexión a Internet en un
 `post
 anterior <http://humitos.wordpress.com/2011/07/08/se-dueno-de-tu-conexion-fibertel/>`__,

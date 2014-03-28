@@ -5,6 +5,16 @@
 .. title: Jornadas en San Luis
 .. slug: jornadas-en-san-luis
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/10/19/jornadas-en-san-luis/
+
+
 |image0|
 
 El próximo Viernes y Sábado en la ciudad de San Luis se hacen las

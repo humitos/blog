@@ -5,6 +5,16 @@
 .. title: Sé dueño de tu conexión Fibertel
 .. slug: se-dueno-de-tu-conexion-fibertel
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/07/08/se-dueno-de-tu-conexion-fibertel/
+
+
 Antes de ayer pedí (bah, **me hincharon tanto las pelotas** que terminé
 aceptando) el servicio de Fibertel 3Mb + Cablevisión Digital. Hacía
 mucho que veníamos a las vueltas con mi vieja, que sí, que no y qué se

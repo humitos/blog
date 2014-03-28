@@ -5,6 +5,16 @@
 .. title: How do you work every single day with your XO?
 .. slug: how-do-you-work-every-single-day-with-your-xo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/05/24/how-do-you-work-every-single-day-with-your-xo/
+
+
 Have you ever had to type all day long on your XO to test different
 things? How many times did you get frustrated because of its keyboard,
 trying to press the correct letter with your *big*\ finger? How many USB

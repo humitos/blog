@@ -5,6 +5,16 @@
 .. title: Chrome OS en la Netbook
 .. slug: chrome-os-en-la-netbook
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/04/15/chrome-os-en-la-netbook/
+
+
 `Chrome OS <http://www.google.com/chromeos/>`__ es el sistema operativo
 de Google, que probablemente muchos conozcan de nombre, pero quizás no
 lo hayan visto funcionando o ni siquiera un screenshot de cómo luce.

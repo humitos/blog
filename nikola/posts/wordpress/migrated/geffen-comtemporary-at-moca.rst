@@ -5,6 +5,16 @@
 .. title: Geffen Comtemporary at MOCA
 .. slug: geffen-comtemporary-at-moca
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/27/geffen-comtemporary-at-moca/
+
+
 Ésta es la segunda parte del `Museo de Arte
 Contemporáneo <http://humitos.wordpress.com/2013/05/25/que-no-se-te-pase-la-vida-mirandote-al-espejo/>`__
 al que fui hace unos días atrás. Que de hecho, ahora que estoy viendo

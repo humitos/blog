@@ -5,6 +5,16 @@
 .. title: Malabares: "El Torbellino loco"
 .. slug: malabares-el-torbellino-loco
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/03/16/malabares-el-torbellino-loco/
+
+
 El Viernes pasado me junté con los chicos de circo en la Plaza Saenz
 Peña y en un momento determinado éramos al rededor de 6 personas
 malabareando. Entonces, decidimos hacer algunos juegos entre todos y

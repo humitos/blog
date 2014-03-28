@@ -5,6 +5,16 @@
 .. title: Cumpliendo sueños
 .. slug: cumpliendo-suenos
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/06/02/cumpliendo-suenos/
+
+
     “No puede ir mal haciendo lo que querés hacer...”
 
 Hoy, más que nunca, y no porque fuera hoy un día especial, ni porque

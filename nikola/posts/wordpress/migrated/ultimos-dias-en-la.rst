@@ -5,6 +5,16 @@
 .. title: Últimos días en LA
 .. slug: ultimos-dias-en-la
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/06/08/ultimos-dias-en-la/
+
+
  
 
 Los días siguientes luego de haber `conocido a Jesica y su

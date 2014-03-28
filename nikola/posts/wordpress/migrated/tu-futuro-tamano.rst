@@ -5,6 +5,16 @@
 .. title: Tu futuro tamaño
 .. slug: tu-futuro-tamano
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/28/tu-futuro-tamano/
+
+
     Tenemos tu futuro tamaño
 
 |DSC_1337|

@@ -5,6 +5,16 @@
 .. title: Apoyando a la educación
 .. slug: apoyando-a-la-educacion
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/06/28/apoyando-a-la-educacion/
+
+
 Hoy me llegó el mail que dice que me convertí en co-productor de "`La
 Educación
 Prohibida <http://humitos.wordpress.com/2012/06/28/la-educacion-prohibida/>`__\ "

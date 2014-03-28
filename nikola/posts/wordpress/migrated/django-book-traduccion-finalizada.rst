@@ -5,6 +5,16 @@
 .. title: Django Book: Traducción finalizada
 .. slug: django-book-traduccion-finalizada
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/05/20/django-book-traduccion-finalizada/
+
+
 Estoy orgulloso de poder informarles que hemos terminado con la
 traducción de "`El Libro de Django <http://www.djangobook.com>`__\ ". Lo
 que nos estaría faltando es hacer una revisión completa del mismo y

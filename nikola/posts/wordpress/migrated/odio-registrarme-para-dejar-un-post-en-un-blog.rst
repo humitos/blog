@@ -5,6 +5,16 @@
 .. title: Odio registrarme para dejar un post en un blog
 .. slug: odio-registrarme-para-dejar-un-post-en-un-blog
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/05/12/odio-registrarme-para-dejar-un-post-en-un-blog/
+
+
 Pero claro, todo el mundo dice que es muy fácil registrarse, que lo
 puede hacer cualquiera y lleva dos segundos. Con esto el dueño del blog
 se ahorra de un montón de SPAM para revisar todos los días, digamos,

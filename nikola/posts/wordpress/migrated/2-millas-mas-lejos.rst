@@ -5,6 +5,16 @@
 .. title: 2 millas más lejos
 .. slug: 2-millas-mas-lejos
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/08/2-millas-mas-lejos/
+
+
 Hoy se me termina el contrato de estadía en lo de Giulia y me voy a la
 casa de David (un flaco que conocí en la reunión de malabaristas en Reed
 Collegue la semana pasada) por un tiempo. Quizás las dos semanas que

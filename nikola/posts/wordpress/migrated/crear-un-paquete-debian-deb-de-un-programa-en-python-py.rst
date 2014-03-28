@@ -5,6 +5,16 @@
 .. title: Crear un paquete Debian (.deb) de un programa en Python (.py)
 .. slug: crear-un-paquete-debian-deb-de-un-programa-en-python-py
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/09/18/crear-un-paquete-debian-deb-de-un-programa-en-python-py/
+
+
 |image0|\ Siempre quise aprender a hacer paquetes Debian porque muchas
 veces les quería pasar mis programas a mis amigos y se quejaban que
 tenían que instalar muchas dependencias o quizás eso me decían a mí para

@@ -5,6 +5,16 @@
 .. title: USA: Sin estereotipos - Muestra Fotográfica
 .. slug: usa-sin-estereotipos-muestra-fotografica
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/08/14/usa-sin-estereotipos-muestra-fotografica/
+
+
 |afiche|
 
 Esta muestra intenta hacer viajar a los asistentes al norte de nuestro

@@ -5,6 +5,16 @@
 .. title: Jardín Japonés
 .. slug: jardin-japones
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/13/jardin-japones/
+
+
 "¿Fuiste al jardín japonés?" - "¿Ya fuiste al jardín japonés?" - "¿Sabés
 a dónde podés ir? Al jardín japonés" - "Hay un lugar muy lindo para
 visitar: el jardín japonés" y muchas otras preguntas y afirmaciones del

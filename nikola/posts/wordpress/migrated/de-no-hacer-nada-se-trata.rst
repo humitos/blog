@@ -5,6 +5,16 @@
 .. title: De no hacer nada se trata
 .. slug: de-no-hacer-nada-se-trata
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/10/27/de-no-hacer-nada-se-trata/
+
+
 Después de un rato, me encontré que no estaba haciendo nada. Nada de
 nada. Que estaba aburrido, pero que quería hacer algo realmente. Me
 preguntaba qué y tampoco encontraba nada para hacer, pero tampoco sabía

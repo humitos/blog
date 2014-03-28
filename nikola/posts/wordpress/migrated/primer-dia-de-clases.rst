@@ -5,6 +5,16 @@
 .. title: Primer día de clases
 .. slug: primer-dia-de-clases
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/12/12/primer-dia-de-clases/
+
+
 Hace una semana César Ballardini, profesor mío de la facultad, vecino y
 amigo; me manda un mensaje por IM (muy raro de él, ya que no está muy
 seguido por estos lados) preguntándome que tal me veia para dar clases

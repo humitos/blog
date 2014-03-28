@@ -5,6 +5,16 @@
 .. title: Hot Fest 2010: Día 1
 .. slug: hot-fest-2010-dia-1
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/11/22/hot-fest-2010-dia-1/
+
+
 El Viernes y Sábado pasado se realizó el Hot Festival 2010 en Buenos
 Aires (Costanera Sur), dónde estuvieron bandas grosas como Massive
 Attack y Thievery Corporation, entre muchas otras más.

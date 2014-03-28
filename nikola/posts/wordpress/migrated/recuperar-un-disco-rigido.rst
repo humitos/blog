@@ -5,6 +5,16 @@
 .. title: Recuperar un disco rígido
 .. slug: recuperar-un-disco-rigido
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/07/14/recuperar-un-disco-rigido/
+
+
 Se me murió el disco de la netbook hace un par de meses ya (sí, putié
 bastante, de pedo que tiene un año la máquina y ya tubo problemas con el
 flex del monitor y ahora esto), bue...

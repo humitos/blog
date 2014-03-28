@@ -5,6 +5,16 @@
 .. title: Resumiendo días
 .. slug: resumiendo-dias
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/12/20/resumiendo-dias/
+
+
 Ultimamente no tengo tiempo para nada, asique no me estaba sentando a
 escribir algún que otro post sobre qué estoy haciendo, o investigando.
 Esto se debe a que estuve rindiendo una materia de la facultad, dando

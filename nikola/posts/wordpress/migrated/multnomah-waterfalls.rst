@@ -5,6 +5,16 @@
 .. title: Multnomah Waterfalls
 .. slug: multnomah-waterfalls
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/20/multnomah-waterfalls/
+
+
 La historia de los Argentinos éstos es muy larga. De hecho, hace más de
 2 años que salieron de Argentina y que están viajando. Así que no me voy
 a explayar en eso. La cuestión es que se hicieron amigo de un tal

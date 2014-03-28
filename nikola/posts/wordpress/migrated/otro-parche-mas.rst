@@ -5,6 +5,16 @@
 .. title: ¡Otro parche más!
 .. slug: otro-parche-mas
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/03/28/otro-parche-mas/
+
+
 Como conté en un `post
 anterior <http://humitos.wordpress.com/2012/03/26/mi-primer-commit-en-olpc/>`__,
 metí un parche para la OLPC en la Actividad Terminal. Hoy, me acaban de

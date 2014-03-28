@@ -5,6 +5,16 @@
 .. title: If you want...
 .. slug: if-you-want
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/03/19/if-you-want/
+
+
     you can; but maybe you can and you don't want...
 
 No hay nada que quieras hacer y no puedas; no hay nada que te impida

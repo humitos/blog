@@ -5,6 +5,16 @@
 .. title: ¡Hola, mundo!
 .. slug: hola-mundo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/08/30/hola-mundo/
+
+
 |¡Hola Mundo!|\ ¡Hola mundo! a todos. Este es mi primer *post* y ni
 siquiera voy a cambiar el título que trajo por defecto, ya que me
 pareció apropiado. Al final me decidí a empezar este blog porque me

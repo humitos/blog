@@ -5,6 +5,16 @@
 .. title: Una muy buena picada
 .. slug: una-muy-buena-picada
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/06/01/una-muy-buena-picada/
+
+
 *"Gordito"* me dijeron estos días, o por lo menos es una palabra que
 vengo escuchando bastante :)
 

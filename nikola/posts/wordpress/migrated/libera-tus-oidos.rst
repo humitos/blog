@@ -5,6 +5,16 @@
 .. title: Libera tus oídos
 .. slug: libera-tus-oidos
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/10/13/libera-tus-oidos/
+
+
 Para la 3era Jornada de Python en Santa Fe vino mi amigo Leo De Luca a
 alojarse en casa. Como ha sucedido en ocaciones anteriores, como cuando
 vino Karucha y Hugo, se comparten muchos conocimientos en todo lo que

@@ -5,6 +5,16 @@
 .. title: Conexión remota por SSH
 .. slug: conexion-remota-por-ssh
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/10/01/conexion-remota-por-ssh/
+
+
 `SSH <http://es.wikipedia.org/wiki/Secure_Shell>`__ es un protocolo que
 nos permite conectarnos a un equipo de forma remota mediante una red
 `LAN <http://es.wikipedia.org/wiki/Lan>`__ /

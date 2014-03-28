@@ -5,6 +5,16 @@
 .. title: Facebook es la televisión. Pero en internet
 .. slug: facebook-es-la-television-pero-en-internet
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/08/11/facebook-es-la-television-pero-en-internet/
+
+
      -- lo dije yo
 
 |_DSC3593|

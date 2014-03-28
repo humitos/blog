@@ -5,6 +5,16 @@
 .. title: Resumen de la Gira 2012
 .. slug: resumen-de-la-gira-2010
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/02/02/resumen-de-la-gira-2010/
+
+
 No sé si "como todos saben", pero sí "como muchos saben: *tenemos un
 circo!*. Sí, hace al rededor de 2 meses me sumé a un **Festival de Circo
 Callejero** que se estaba llevando a cabo en Paraná 1 vez al mes en

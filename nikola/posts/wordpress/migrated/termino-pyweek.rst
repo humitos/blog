@@ -5,6 +5,16 @@
 .. title: Terminó PyWeek
 .. slug: termino-pyweek
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/09/25/termino-pyweek/
+
+
 |image0|\ Así es, se terminó todo. Después de tanto esfuerzo y tanta
 espera finalizó la quinta *temporada* de
 `PyWeek <http://www.pyweek.org/5/>`__. Estoy **muy**\ contento porque

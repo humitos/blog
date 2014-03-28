@@ -5,6 +5,16 @@
 .. title: Funny 503 status page
 .. slug: funny-503-status-page
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/12/12/funny-503-status-page/
+
+
 Hoy estuve intentando entrar a Taringa! por un rato largo y durante ese
 tiempo me aparecía un mensaje que decía algo como:
 

@@ -5,6 +5,16 @@
 .. title: Más Google Noticias
 .. slug: mas-google-noticias
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/04/14/mas-google-noticias/
+
+
 Como comenté en `mi post
 anterior <http://humitos.wordpress.com/2011/04/12/google-llamo-a-casa/>`__,
 tuve una "entrevista" con Google por teléfono y "salió mal", por decirlo

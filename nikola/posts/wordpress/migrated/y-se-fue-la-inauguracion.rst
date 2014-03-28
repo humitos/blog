@@ -5,6 +5,16 @@
 .. title: Y se fue la inauguración
 .. slug: y-se-fue-la-inauguracion
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/08/25/y-se-fue-la-inauguracion/
+
+
 El Viernes pasado se hizo la inauguración de mi `muestra fotográfica:
 "USA: Sin
 estereotipos" <http://humitos.wordpress.com/2013/08/14/usa-sin-estereotipos-muestra-fotografica/>`__

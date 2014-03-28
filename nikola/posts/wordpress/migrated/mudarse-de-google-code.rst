@@ -5,6 +5,16 @@
 .. title: Mudarse de Google Code
 .. slug: mudarse-de-google-code
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/11/18/mudarse-de-google-code/
+
+
 Desde que monté un servidor en mi casa de svn para probar algunas cosas,
 y debido a que Google Code no me dejaba crear más proyectos. Me convencí
 que el servicio que brinda Google es **demasiado** **lento** en

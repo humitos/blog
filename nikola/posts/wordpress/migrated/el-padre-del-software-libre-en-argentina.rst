@@ -5,6 +5,16 @@
 .. title: El padre del Software Libre en Argentina
 .. slug: el-padre-del-software-libre-en-argentina
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/10/30/el-padre-del-software-libre-en-argentina/
+
+
 ¡Sí, increíble pero verídico! *Don*\ `Richard Stallman va a estar en
 Argentina <http://www.vialibre.org.ar/2008/10/28/richard-stallman-en-argentina/>`__
 el próximo Lunes 3 de Noviembre charlando de lo que realmente sabe

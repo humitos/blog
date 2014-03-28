@@ -5,6 +5,16 @@
 .. title: Encore ENUWI-G2 (RTL8187b) en Debian
 .. slug: encore-enuwi-g2-rtl8187b-en-debian
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/09/21/encore-enuwi-g2-rtl8187b-en-debian/
+
+
 /me pone música porque se viene para largo...
 
 En el transcurso del fin de semana estuve **peleando** con la placa de

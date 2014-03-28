@@ -5,6 +5,16 @@
 .. title: Historia colectiva
 .. slug: historia-colectiva
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/08/28/historia-colectiva/
+
+
 Corría el año... pasado, cuando un joven paranaense ya harto por la
 situación que atravesaba decide dar un giro completo y se propone
 revertirla. Pero para eso, un arduo y millonario trabajo le esperaba...

@@ -5,6 +5,16 @@
 .. title: Los argentinos son una plaga
 .. slug: los-argentinos-son-una-plaga
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/20/los-argentinos-son-una-plaga/
+
+
 La semana pasada, no recuerdo bien si el sábado o domingo, David me
 había dicho que había conocido unos Argentinos en la filmación de un
 video clip para una banda de música local (March Fourth), que filmaron

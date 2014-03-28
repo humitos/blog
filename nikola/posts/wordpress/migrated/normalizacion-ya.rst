@@ -5,6 +5,16 @@
 .. title: Normalización YA
 .. slug: normalizacion-ya
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/04/26/normalizacion-ya/
+
+
 |image0|
 
 **NOTA:** *este artículo es de ayer. Lo intenté publicar ayer mismo,

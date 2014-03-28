@@ -5,6 +5,16 @@
 .. title: What happened?
 .. slug: what-happened
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/11/10/what-happened/
+
+
 Eso es lo que yo me estoy preguntando. Desde las 00hs de hoy Sábado que
 estoy haciendo un **script**, basado en uno que `ya tenía
 hecho <http://www.juanjoconti.com.ar/2006/01/14/py2html/>`__ Juanjo,

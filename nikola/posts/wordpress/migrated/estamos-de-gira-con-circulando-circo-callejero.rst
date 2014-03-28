@@ -5,6 +5,16 @@
 .. title: Estamos de Gira con Circulando Circo Callejero
 .. slug: estamos-de-gira-con-circulando-circo-callejero
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/01/14/estamos-de-gira-con-circulando-circo-callejero/
+
+
 Escuchate el spot que grabamos para la gira! :D
 
 `Spot publicitario de

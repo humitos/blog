@@ -5,6 +5,16 @@
 .. title: Dicen que en esta foto me parezco al flaco
 .. slug: dicen-que-en-esta-foto-me-parezco-al-flaco
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/04/01/dicen-que-en-esta-foto-me-parezco-al-flaco/
+
+
 ¿A qué flaco será?
 
 |image0|

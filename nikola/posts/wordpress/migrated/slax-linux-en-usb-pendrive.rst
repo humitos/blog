@@ -5,6 +5,16 @@
 .. title: Slax Linux en USB pendrive
 .. slug: slax-linux-en-usb-pendrive
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/08/30/slax-linux-en-usb-pendrive/
+
+
 |Slax linux|\ Hace tiempo que quería *meter*\ linux en mi pendrive.
 Justamente **hoy** lo conseguí. Antes había probado la distro
 `Slax <http://www.slax.org/?lang=es>`__ que está basada en

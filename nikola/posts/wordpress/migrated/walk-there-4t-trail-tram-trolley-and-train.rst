@@ -5,6 +5,16 @@
 .. title: Walk There: 4T - Trail, Tram, Trolley and Train
 .. slug: walk-there-4t-trail-tram-trolley-and-train
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/08/walk-there-4t-trail-tram-trolley-and-train/
+
+
 Si hay algo que me gusta mucho de ésta ciudad, es la cantidad de
 espacios verdes que tiene que están mezclados con la civilización. Es
 como que hay una zona "rural" en el medio de lo urbanizado. Y encima,

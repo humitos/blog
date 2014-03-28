@@ -5,6 +5,16 @@
 .. title: Las fotos del día
 .. slug: las-fotos-del-dia
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/11/las-fotos-del-dia/
+
+
 La cosa viene así. Hoy me junté a las 11:30am a malabarear con un loco
 de 72 pirulos. Genio total. El flaco tira más trucos que yo y la cabeza
 le funciona a mil. Hace unos ejercicios de tiempos mentales bastantes

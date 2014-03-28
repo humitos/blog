@@ -5,6 +5,16 @@
 .. title: Acabado por un elefante estéril con sífilis
 .. slug: acabado-por-un-elefante-esteril-con-sifilis
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/07/20/acabado-por-un-elefante-esteril-con-sifilis/
+
+
 ¡Exacto! ¡Qué mala leche hijo de puta!
 
 Resulta que el 17 de Junio me compré una Netbook Samsung N210 de la cuál

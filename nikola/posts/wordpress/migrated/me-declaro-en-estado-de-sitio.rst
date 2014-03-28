@@ -5,6 +5,16 @@
 .. title: Me declaro en 'estado de sitio'
 .. slug: me-declaro-en-estado-de-sitio
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/09/02/me-declaro-en-estado-de-sitio/
+
+
 Nacer y aceptar sin cuestionar nada de lo que mis padres me decían
 debido a la incompetencia de mi poder de razonamiento, principalmente,
 me llevó a lo largo de algunos años a ser una persona ajena. A no

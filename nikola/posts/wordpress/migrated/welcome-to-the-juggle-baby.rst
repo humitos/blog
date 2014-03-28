@@ -5,6 +5,16 @@
 .. title: Welcome to the Juggle, baby!
 .. slug: welcome-to-the-juggle-baby
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/11/13/welcome-to-the-juggle-baby/
+
+
 En la PyConAr 2010 estuve hablando con `Héctor
 Sanchez <http://www.karuchin.com.ar/wordpress/>`__, un amigo de la
 comunidad de Python de hace varios años ya. En pocas palabras, un

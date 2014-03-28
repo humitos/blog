@@ -5,6 +5,16 @@
 .. title: Python Recipes
 .. slug: python-recipes
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/09/27/python-recipes/
+
+
 La comunidad `Ubuntu <http://www.ubuntu.com/>`__ comenzó hace un tiempo
 a desarrollar un Wiki para que sea escrito por todos los que quieran
 participar. De éste modo se ayuda a todos los otros que recién comienzan

@@ -5,6 +5,16 @@
 .. title: Todos los días
 .. slug: todos-los-dias-2
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/06/22/todos-los-dias-2/
+
+
     Si tan solo nos tomaramos unos minutos cada día para mirar el sol y
     apreciar todo lo que sucede a su alrededor.
 

@@ -5,6 +5,16 @@
 .. title: Vos, sí, vos... ¿Cómo hacés para que no te caguen?
 .. slug: vos-si-vos-como-haces-para-que-no-te-caguen
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/09/14/vos-si-vos-como-haces-para-que-no-te-caguen/
+
+
 ¿Qué somos nosotros? ¿Clientes, personas, gente que trabaja para pagar
 lo que consume, números, bytes, bits, simplemente una bola de masa que
 destruye el planeta?

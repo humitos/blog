@@ -5,6 +5,16 @@
 .. title: Bariloche, Día 1
 .. slug: bariloche-dia-1
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/07/27/bariloche-dia-1/
+
+
 El Martes 26 de Julio a las 6:30hs ya me encontraba en la terminal de
 Paraná listo para ser trasladado hacia San Carlos de Bariloche. A unas
 30hs en colectivo y con 50 pasajeros arriba de un colectivo en 17 años

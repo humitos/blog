@@ -5,6 +5,16 @@
 .. title: Ideas mentirosas
 .. slug: ideas-mentirosas
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/12/31/ideas-mentirosas/
+
+
 Hay ideas, hay visiones, hay visionarios e ideologías. Hay gente que
 piensa y hay gente que no. Hay algunos que nacen ricos y otros que nacen
 pobres. Hay de todos los gustos y colores: altos, flacos, gordos,

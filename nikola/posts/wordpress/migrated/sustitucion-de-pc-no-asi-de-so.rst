@@ -5,6 +5,16 @@
 .. title: Sustitución de PC, no así de SO
 .. slug: sustitucion-de-pc-no-asi-de-so
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/12/21/sustitucion-de-pc-no-asi-de-so/
+
+
 Cuenta la historia (mía, ¿de quién sino?), que al vago después de hacer
 una actualización de su sistema operativo por excelencia: "Debian, claro
 está."... La máquina no volvió a arrancar. Así de corta. Nunca prendió

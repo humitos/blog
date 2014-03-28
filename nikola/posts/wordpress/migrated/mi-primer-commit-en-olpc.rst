@@ -5,6 +5,16 @@
 .. title: Mi primer commit en OLPC
 .. slug: mi-primer-commit-en-olpc
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/03/26/mi-primer-commit-en-olpc/
+
+
 Estas últimas dos semanas se las estuve dedicando casi de lleno al
 proyecto `OLPC <http://one.laptop.org/>`__. Sinceramente, perdí mucho
 tiempo en compilar Sugar con JHBuild. Personalmente creo que al proyecto

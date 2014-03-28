@@ -5,6 +5,16 @@
 .. title: Una lucha que nunca va a terminar
 .. slug: una-lucha-que-nunca-va-a-terminar
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/02/27/una-lucha-que-nunca-va-a-terminar/
+
+
 Como comenté en un `post
 anterior <http://humitos.wordpress.com/2008/02/22/comunicaciones-un-dolor-de-cabeza/>`__,
 una de las veces que llamé a Arnet me dijeron que me iban a cambiar el

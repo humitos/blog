@@ -5,6 +5,16 @@
 .. title: Un tachero pelotudo
 .. slug: un-tachero-pelotudo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/11/16/un-tachero-pelotudo/
+
+
 Hoy me re colgué en el laburo y corté como a las 16:30 porque estaba
 enganchado con algo que estaba haciendo y venía saliendo como piña. En
 realidad era una boludés, pero tenía esa sensación de: "copado, me está

@@ -5,6 +5,16 @@
 .. title: Google llamó a casa
 .. slug: google-llamo-a-casa
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/04/12/google-llamo-a-casa/
+
+
 Un poco de historia. Como todos (o al menos muchos) saben, hace dos
 semanas fue el PyCamp en La Falda, Córdoba, al cual asistí y por cierto
 estuvo muy muy bueno. Yo fui un par de días antes de que este empiece y

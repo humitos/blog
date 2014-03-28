@@ -5,6 +5,16 @@
 .. title: Compañeros del trabajo
 .. slug: companeros-del-trabajo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/06/19/companeros-del-trabajo/
+
+
 Normalmente uno cuando tiene una actividad se relaciona con gente, de
 todas las edades, formas y especies. Por lo general uno va "pegando
 onda" con los que son de su estilo, tiene algo en común o les interesan

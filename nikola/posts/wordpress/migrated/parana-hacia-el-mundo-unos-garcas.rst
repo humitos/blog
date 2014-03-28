@@ -5,6 +5,16 @@
 .. title: Paraná hacia el mundo: unos garcas
 .. slug: parana-hacia-el-mundo-unos-garcas
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/06/21/parana-hacia-el-mundo-unos-garcas/
+
+
 |prohibido_parana_hacia_el_mundo|
 
 `Paraná hacia el mundo <http://paranahaciaelmundo.com.ar>`__ perdió toda

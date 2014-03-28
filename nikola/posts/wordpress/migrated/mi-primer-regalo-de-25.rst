@@ -5,6 +5,16 @@
 .. title: Mi primer regalo de 25
 .. slug: mi-primer-regalo-de-25
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/12/22/mi-primer-regalo-de-25/
+
+
 En este cumpleaños poca gente me ha regalado cosas, incluso mi vieja me
 dijo: "Tomá, comprate lo que quieras" y me dio unos cuantos pesos. Lo
 cual está bueno eso, ya que al final no te terminan regalando cualquier

@@ -5,6 +5,16 @@
 .. title: Walk There!: Alameda Ridge and Stairs
 .. slug: walk-there-alameda-ridge-and-stairs
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/04/walk-there-alameda-ridge-and-stairs/
+
+
 Durante la mañana salí a caminar, a hacer otro de los "path" que están
 en el libro que me compré cuando llegué. Como el comienzo del path no
 estaba tan cerca de casa, agarré la bici y me fui hasta el comienzo, la

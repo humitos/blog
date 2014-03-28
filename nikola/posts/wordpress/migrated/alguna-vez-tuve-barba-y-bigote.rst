@@ -5,6 +5,16 @@
 .. title: Alguna vez tuve barba y... bigote
 .. slug: alguna-vez-tuve-barba-y-bigote
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/02/17/alguna-vez-tuve-barba-y-bigote/
+
+
 *Estas fotos fueron tomadas el 1 de Junio de 2006*
 
 |image0|

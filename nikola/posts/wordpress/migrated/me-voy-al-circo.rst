@@ -5,6 +5,16 @@
 .. title: Me voy al circo
 .. slug: me-voy-al-circo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/06/28/me-voy-al-circo/
+
+
 Inmediatamente después de enterarme que **El Cirque Du Soleil** `viene a
 Argentina <http://www.lanacion.com.ar/1480669-nueva-propuesta-del-cirque-du-soleil>`__,
 le mandé un mensaje a unos amigos de Circulando Circo Callejero para

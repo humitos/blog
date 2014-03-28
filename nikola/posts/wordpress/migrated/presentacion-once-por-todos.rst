@@ -5,6 +5,16 @@
 .. title: Presentación: Once por Todos
 .. slug: presentacion-once-por-todos
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/12/13/presentacion-once-por-todos/
+
+
 En Paraná hay un canal de televisión llamado: Once (o El Once) :D . Este
 canal hace unos cuantos años viene haciendo una campaña solidaria
 llamada "Once por Todos" dónde recolectan muchas donaciones de

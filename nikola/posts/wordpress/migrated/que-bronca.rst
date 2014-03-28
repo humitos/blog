@@ -5,6 +5,16 @@
 .. title: ¡QUÉ BRONCA!
 .. slug: que-bronca
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/07/18/que-bronca/
+
+
 Y la 'ta madre!
 
 Recién llego del Juan L de ver una película y tengo una bronca terrible.

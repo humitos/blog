@@ -5,6 +5,16 @@
 .. title: Estadísticas y alcance de un blog
 .. slug: estadisticas-y-alcance-de-un-blog
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/09/07/estadisticas-y-alcance-de-un-blog/
+
+
 ¿Cuántas personas visitan tu blog por día? ¿Cuánto significa eso? ¿Es
 suficiente para vos? ¿Realmente el número de personas que indican tus
 estadísticas leen tu blog? ¿Cuánto de estos son bots?

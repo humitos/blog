@@ -5,6 +5,16 @@
 .. title: Ultimate Frisbee
 .. slug: ultimate-frisbee
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/13/ultimate-frisbee/
+
+
 La cosa empezó cuando buscando eventos en Couchsurfing encontré que el
 domingo pasado se juntaban a jugar frisbee en un parque. "Qué
 estupidez!" -pensé. No sé, tirar el frisbee de un lado al otro,

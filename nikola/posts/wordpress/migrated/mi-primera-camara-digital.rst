@@ -5,6 +5,16 @@
 .. title: Mi primera cámara digital
 .. slug: mi-primera-camara-digital
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/09/06/mi-primera-camara-digital/
+
+
 ¡Me compré una cámara digital!
 
 **Todos tienen una**, es casi como un celular ya. De hecho la mayoría de

@@ -5,6 +5,16 @@
 .. title: Decidir no es trivial
 .. slug: decidir-no-es-trivial
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/02/14/decidir-no-es-trivial/
+
+
     (13:10:22) humitos: tomate un año ;)
 
     (13:10:40) Joaquin Sorianello: tengo que ver si me da la espalda... 

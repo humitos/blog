@@ -5,6 +5,16 @@
 .. title: PyAr en la OLPC
 .. slug: pyar-en-la-olpc
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/04/21/pyar-en-la-olpc/
+
+
 Luego de terminar el `juego que
 hicimos <http://www.pyweek.org/e/pysfe/>`__ con mi equipo para PyWeek,
 nos sugirieron en la lista de `Python

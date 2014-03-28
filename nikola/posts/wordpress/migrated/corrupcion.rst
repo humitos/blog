@@ -5,6 +5,16 @@
 .. title: Corrupción
 .. slug: corrupcion
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/06/24/corrupcion/
+
+
 El político que dice que vamos a ir a la estratósfera y en menos de 5
 minutos vamos a estar en cualquier lugar el mundo. El decano que elige a
 su mejor amigo para que sea profesor de psicología en la universidad. El

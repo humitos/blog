@@ -5,6 +5,16 @@
 .. title: ¡Me cago en el cepo y en la concha de tu hermana!
 .. slug: me-cago-en-el-cepo-y-en-la-concha-de-tu-hermana
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/11/22/me-cago-en-el-cepo-y-en-la-concha-de-tu-hermana/
+
+
 ¡Sí! Vivo en un país dónde el gobierno se te caga de risa en la cara y
 te obliga a vender lo que no querés vender y también te obliga a comprar
 lo que no querés comprar. Me considero un tipo pacífico y que no le

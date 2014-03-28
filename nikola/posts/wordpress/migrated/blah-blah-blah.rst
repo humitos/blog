@@ -5,6 +5,16 @@
 .. title: Blah Blah Blah...
 .. slug: blah-blah-blah
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/06/24/blah-blah-blah/
+
+
     ... llenarse la boca hablando al pedo.
 
      

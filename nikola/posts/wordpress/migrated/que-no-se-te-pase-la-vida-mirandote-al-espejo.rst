@@ -5,6 +5,16 @@
 .. title: Que no se te pase la vida mirándote al espejo
 .. slug: que-no-se-te-pase-la-vida-mirandote-al-espejo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/25/que-no-se-te-pase-la-vida-mirandote-al-espejo/
+
+
 |DSC_1396|
 
 Esto lo encontré en la entrada al *Museo de Arte

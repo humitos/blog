@@ -5,6 +5,16 @@
 .. title: JDownloader sin conexión a internet en Debian
 .. slug: jdownloader-sin-conexion-a-internet-en-debian
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/05/03/jdownloader-sin-conexion-a-internet-en-debian/
+
+
 Después de actualizar Debian a una versión nueva, digamos, no estoy
 seguro bien qué se cambió y por ahora tampoco tenga muchas ganas de
 buscar cuál fue el paquete que hizo este cambio, se me rompieron las

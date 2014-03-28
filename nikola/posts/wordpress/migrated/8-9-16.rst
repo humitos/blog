@@ -5,6 +5,16 @@
 .. title: 8 + 9 = 16
 .. slug: 8-9-16
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/02/07/8-9-16/
+
+
 El fin de semana fuimos con Estefa a Santa Fe al Cinemark a ver **Sudor
 Frío**, una película que nos llamó la atención por ser Argentina y de
 Terror. No creo haber visto alguna de éste Genero en otra oportunidad.

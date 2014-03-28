@@ -5,6 +5,16 @@
 .. title: ¿Un escritorio? KDE. - Primera parte: Konqueror
 .. slug: un-escrtorio-kde-primera-parte-konqueror
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/11/23/un-escrtorio-kde-primera-parte-konqueror/
+
+
 |konqueror|
 
 Sin dudarlo esa es mi respuesta. Hace algunas semanas, quizás un mes, no

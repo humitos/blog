@@ -5,6 +5,16 @@
 .. title: Santa Fe Libre
 .. slug: santa-fe-libre
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/10/11/santa-fe-libre/
+
+
 Hace un tiempo que tenía dando vueltas en la cabeza la idea de hacer
 algo al estilo BAL (Buenos Aires Libre), y cada tanto lo iba comentando
 entre algunos amigos para ver como pegaba este tema e ir pispeando si

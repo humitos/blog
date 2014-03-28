@@ -5,6 +5,16 @@
 .. title: La Gira 2012 continuó
 .. slug: la-gira-2012-continuo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/02/25/la-gira-2012-continuo/
+
+
 Acabo de recibir un mensaje en el celular que decía:
 
     Qué buen post el del resumen de la gira! Y me llamaste "empleador"

@@ -5,6 +5,16 @@
 .. title: ¿Podemos salvar la OLPC de Windows?
 .. slug: podemos-salvar-la-olpc-de-windows
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/05/12/podemos-salvar-la-olpc-de-windows/
+
+
 Me tomé el atrevimiento de traducir el `artículo de Richard M.
 Stallman <https://www.fsf.org/blogs/rms/can-we-rescue-olpc-from-windows>`__
 de su blog:

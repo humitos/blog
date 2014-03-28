@@ -5,6 +5,16 @@
 .. title: Se estrenó La Educación Prohibida en todo el mundo
 .. slug: se-estreno-la-educacion-prohibida-en-todo-el-mundo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/08/13/se-estreno-la-educacion-prohibida-en-todo-el-mundo/
+
+
 Hoy 13 de Agosto se hizo el estreno mundial de este proyecto
 cinematográfico, del cuál soy co-productor a modo de colaborar con la
 movida.

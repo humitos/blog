@@ -5,6 +5,16 @@
 .. title: ¿No será mucho?
 .. slug: no-sera-mucho
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/03/06/no-sera-mucho/
+
+
 Recién estaba `leyendo una
 nota <http://www.unoentrerios.com.ar/contenidos/2011/02/27/noticia_0002.html>`__
 del Diario UNO de Paraná y quise dejar un comentario, pero únicamente

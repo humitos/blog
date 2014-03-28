@@ -5,6 +5,16 @@
 .. title: Versión de los paquetes instalados
 .. slug: version-de-los-paquetes-instalados
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/08/16/version-de-los-paquetes-instalados/
+
+
 Ayer a la noche tuve un problema con una actualización de APT, ya que al
 hacer "apt-get upgrade" me quería eliminar varios paquetes que yo no
 quería quitar, pero se ve que por un problema de dependencias no podía

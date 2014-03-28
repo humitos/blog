@@ -5,6 +5,16 @@
 .. title: Mi Longman en Linux
 .. slug: mi-longman-en-linux
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/04/26/mi-longman-en-linux/
+
+
 Para el Profesorado de Inglés me compré el diccionario: *Longman
 Dictionary of Contemporary English, NEW EDITION, FOR ADVANCED
 LEARNERS* y este viene con un DVD. La verdad que al principio no le dí

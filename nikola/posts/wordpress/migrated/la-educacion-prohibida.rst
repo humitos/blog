@@ -5,6 +5,16 @@
 .. title: La Educación Prohibida
 .. slug: la-educacion-prohibida
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/06/28/la-educacion-prohibida/
+
+
 |image0|
 
 Hoy por la mañana fui a `La Vieja

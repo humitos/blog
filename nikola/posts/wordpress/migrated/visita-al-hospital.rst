@@ -5,6 +5,16 @@
 .. title: Visita al hospital
 .. slug: visita-al-hospital
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/07/29/visita-al-hospital/
+
+
 Hace una semana y media aproximadamente fui a consultar al clínico por
 una molestia en la respiración, que aparecía normalmente de noche cuando
 me acostaba y me ubicaba de costado (mi posición normal de dormir:

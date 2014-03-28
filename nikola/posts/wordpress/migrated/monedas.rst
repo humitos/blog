@@ -5,6 +5,16 @@
 .. title: Monedas
 .. slug: monedas
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/03/10/monedas/
+
+
 ¡Qué genia mi abuela!
 
 Recién llegó de Rosario y me dice:

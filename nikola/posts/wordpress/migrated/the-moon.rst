@@ -5,6 +5,16 @@
 .. title: The moon
 .. slug: the-moon
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/06/23/the-moon/
+
+
 Ayer entré en el mundo de los filtros ya que me compré un `Tiffen
 Filter: Star 4
 point/2mm <http://www.tiffen.com/displayproduct.html?tablename=filters&itemnum=58STR42>`__.

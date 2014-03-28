@@ -5,6 +5,16 @@
 .. title: Actualizar GPS Garmin Nuvi 265W
 .. slug: actualizar-gps-garmin-nuvi-265w
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/06/19/actualizar-gps-garmin-nuvi-265w/
+
+
 Hace un par de días me compré un `GPS Garmin Nuvi
 265W <http://www.amazon.com/Garmin-4-3-Inch-Widescreen-Bluetooth-Navigator/dp/B001ELJ9QK>`__
 en Portland a través de `craigslist.com <http://craigslist.com>`__. Un

@@ -5,6 +5,16 @@
 .. title: Jugando al Cliente-Servidor
 .. slug: jugando-al-cliente-servidor
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/03/12/jugando-al-cliente-servidor/
+
+
 Esta semana se me terminó la joda. El lunes empezaron las clases en la
 facultad y yo de colgado no fui porque no sabía cuando empezaban, asique
 fui el martes (ayer) por primera vez. Hoy teníamos una clase de práctica

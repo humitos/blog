@@ -5,6 +5,16 @@
 .. title: GPS Fail!
 .. slug: gps-fail
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/04/25/gps-fail/
+
+
 Visitando las Salinas del Bebedero en Balde, provincia San Luis, nos
 encontramos con esto:
 

@@ -5,6 +5,16 @@
 .. title: Me privan los datos
 .. slug: me-privan-los-datos
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/06/05/me-privan-los-datos/
+
+
 Es lamentable. Hoy después de hablar lo que publiqué en el post anterior
 con la profesora, un amigo le preguntó que forma tenía de exportar la
 base de datos para poder trabajar en su casa (estamos haciendo 2 guías

@@ -5,6 +5,16 @@
 .. title: Facebook App
 .. slug: facebook-app
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/09/18/facebook-app/
+
+
 Si bien Facebook no me gusta mucho, más que nada **por el uso que la
 gente le da**, y no porque sea una aplicación que no me gusta; de hecho,
 me parece que es muy groso y fue revolucionario.

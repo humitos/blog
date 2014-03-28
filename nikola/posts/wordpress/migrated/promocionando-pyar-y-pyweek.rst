@@ -5,6 +5,16 @@
 .. title: Promocionando PyAr y PyWeek
 .. slug: promocionando-pyar-y-pyweek
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/03/26/promocionando-pyar-y-pyweek/
+
+
 Hoy fue la primer reunión del equipo de Santa Fé para la participación
 de PyWeek 6. Este año nos juntamos antes de que empiece la etapa de
 codificación para tirar algunas ideas de juegos sobre los temas de la

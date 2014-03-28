@@ -5,6 +5,16 @@
 .. title: Hosting nuevo - Vida nueva
 .. slug: hosting-nuevo-vida-nueva
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/11/19/hosting-nuevo-vida-nueva/
+
+
 ¡Mission acomplished! Hace un rato que termino de mudarme. No está demás
 decir que en `PyAr <http://www.python.com.ar>`__\ (Python Argentina) hay
 gente que tiene muy buena onda con la respuesta de los mails que uno

@@ -5,6 +5,16 @@
 .. title: El mejor post
 .. slug: el-mejor-post
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/06/11/el-mejor-post/
+
+
 No quería decir que éste es el mejor post que he leído en mi vida porque
 eso era como demasiado mucho. Pero la verdad que después de leerlo, ver
 el video, pensar en todos los videos y cosas que he leído sobre cómo

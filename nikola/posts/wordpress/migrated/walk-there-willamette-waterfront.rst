@@ -5,6 +5,16 @@
 .. title: Walk There!: Willamette Waterfront
 .. slug: walk-there-willamette-waterfront
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/05/03/walk-there-willamette-waterfront/
+
+
 Hoy me fui caminar nuevamente. Cerca de las 3pm, con unos 82°
 (Fahrenheit) me tomé el Bus 17 a una cuadra de lo de Giulia (ahora que
 estoy más canchero con los coles) y saqué el Day Pass Ticket que sale $5

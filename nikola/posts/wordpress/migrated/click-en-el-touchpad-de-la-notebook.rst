@@ -5,6 +5,16 @@
 .. title: Click en el touchpad de la notebook
 .. slug: click-en-el-touchpad-de-la-notebook
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/08/24/click-en-el-touchpad-de-la-notebook/
+
+
 Hace un tiempo que venía con problemas en el touchpad de la notebook, y
 cada vez que un amigo venía a casa me decía: "Po! ¿todavía no arreglaste
 esto?", así que hoy le dediqué un par de minutos a buscar la solución

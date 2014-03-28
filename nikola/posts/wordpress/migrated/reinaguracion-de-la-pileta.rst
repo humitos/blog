@@ -5,6 +5,16 @@
 .. title: Reinaguración de la pileta
 .. slug: reinaguracion-de-la-pileta
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/12/19/reinaguracion-de-la-pileta/
+
+
 Como es habitual, todo los años abre la pileta del departamento. Esta
 vez más pulenta que nunca. Hace exactamete dos años que vivo en este
 departamento y desde que nos mudamos acá con mi hermano todos los

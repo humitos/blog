@@ -5,6 +5,16 @@
 .. title: Argentino Bordolino, en El Coleguilla
 .. slug: argentino-bordolino-en-el-coleguilla
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/08/25/argentino-bordolino-en-el-coleguilla/
+
+
 ¡Zarpado show el de `Argentino
 Bordolino <http://www.argentinobordolino.com.ar/>`__ anoche en El
 Coleguilla!

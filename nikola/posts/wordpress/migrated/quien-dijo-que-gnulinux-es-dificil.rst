@@ -5,6 +5,16 @@
 .. title: ¿Quién dijo que GNU/Linux es difícil?
 .. slug: quien-dijo-que-gnulinux-es-dificil
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/08/20/quien-dijo-que-gnulinux-es-dificil/
+
+
 Yo. Yo lo he dicho. He dicho que no es fácil usarlo, que la migración de
 Windows a GNU/Linux no es para cualquiera, que ésto, que lo otro. He
 dicho tantas cosas... y hoy me di cuenta que estaba muy equivocado.

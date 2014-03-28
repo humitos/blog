@@ -5,6 +5,16 @@
 .. title: Software Libre en la Universidad
 .. slug: software-libre-en-la-universidad
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/08/29/software-libre-en-la-universidad/
+
+
 Acabo de encontrar un *escrito que data del año 2008* y que por alguna
 razón nunca publiqué (quizás sea porque no está terminado). Recuerdo que
 por esa época me estaba mandando unos mails con Richard Stallman,

@@ -5,6 +5,16 @@
 .. title: Sensación de libertad...
 .. slug: sensacion-de-libertad
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/10/05/sensacion-de-libertad/
+
+
 El otro día, creo que el Lunes o Martes, estuve pensando qué podía
 pintar en un mural que íbamos a intervenir con unos amigos. Algo así se
 me vino a la mente y finalmente terminé haciendo otra cosa en la pared.

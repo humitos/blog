@@ -5,6 +5,16 @@
 .. title: PyWeek 5
 .. slug: pyweek-5
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/08/31/pyweek-5/
+
+
 |image0|\ Me anoté en `PyWeek 5 <http://www.pyweek.org/5/>`__ bajo el
 nombre de 'humitos' para participar con un equipo de Santa Fé. Es la
 primera vez que participa un equipo de esta ciudad y también la primera

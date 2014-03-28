@@ -5,6 +5,16 @@
 .. title: ¡Mirá mamá, sin manos!
 .. slug: mira-mama-sin-manos
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2009/02/16/mira-mama-sin-manos/
+
+
 Frase que escucho al menos una vez a la semana de la boca del *Flamante
 Ingeniero* ( :) ) César, con quién tengo el gusto de trabajar todos los
 días en la misma oficina cara a cara. Bueno, esta vez me tocó usarla a

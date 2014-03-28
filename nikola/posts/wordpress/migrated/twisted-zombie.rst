@@ -5,6 +5,16 @@
 .. title: Twisted Zombie
 .. slug: twisted-zombie
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/09/08/twisted-zombie/
+
+
 |Zombie Nation!|\ Bueno, se terminó todo. Hace algunas horas Juanjo
 subió al sitio de PyWeek el juego que hicimos en esta semana. Estoy
 **muy**\ conforme con lo que logramos hacer, no nos tenían fé!

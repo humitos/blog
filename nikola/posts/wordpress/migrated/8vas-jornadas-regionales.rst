@@ -5,6 +5,16 @@
 .. title: 8vas Jornadas Regionales
 .. slug: 8vas-jornadas-regionales
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/08/25/8vas-jornadas-regionales/
+
+
 Anoche llegué de las 8vas Jornadas regionales. Después de un viaje
 cansador, no pude volver a casa porque todavía no tenía hecha la
 conexión del medidor de luz que por algunas cuestiones un poco raras no

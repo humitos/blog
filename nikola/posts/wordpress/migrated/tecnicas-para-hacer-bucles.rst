@@ -5,6 +5,16 @@
 .. title: Técnicas para hacer bucles
 .. slug: tecnicas-para-hacer-bucles
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/08/30/tecnicas-para-hacer-bucles/
+
+
 Siempre hice cualquier cosa al iterar sobre algo en Python. Y leyendo el
 libro de Guido Van Rossum *"Guía de aprendizaje de Python"* encontré una
 sección llamada como el título del post. Lo que pongo acá es un mail que

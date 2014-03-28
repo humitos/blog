@@ -5,6 +5,16 @@
 .. title: Feliz "sosmasviejo" a mi hermano
 .. slug: feliz-sosmasviejo-a-mi-hermano
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/09/26/feliz-sosmasviejo-a-mi-hermano/
+
+
 Ayer fué el cumpleaños número 25 de mi hermano Pablo y nos juntamos en
 mi departamento a la tarde. Vinieron bastantes amigos de él de la
 facultad, secundaria y otros que yo no conocía.

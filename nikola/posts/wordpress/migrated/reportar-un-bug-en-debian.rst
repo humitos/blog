@@ -5,6 +5,16 @@
 .. title: Reportar un Bug en Debian
 .. slug: reportar-un-bug-en-debian
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2009/02/26/reportar-un-bug-en-debian/
+
+
 Hoy por la tarde (hace un rato, digamos), me comentaron que existía un
 programa llamado `jdownloader <http://jdownloader.org/>`__ en cual sirve
 para bajar múltiples archivos desde RapidShare, Megaupload, entre otros.

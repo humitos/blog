@@ -5,6 +5,16 @@
 .. title: Mudo
 .. slug: mudo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/12/02/mudo/
+
+
 Ayer fui al dentista y volví así:
 
 |image0|

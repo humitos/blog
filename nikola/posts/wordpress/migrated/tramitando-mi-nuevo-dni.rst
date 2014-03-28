@@ -5,6 +5,16 @@
 .. title: Tramitando mi nuevo DNI
 .. slug: tramitando-mi-nuevo-dni
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2010/12/17/tramitando-mi-nuevo-dni/
+
+
 Los que me ven regularmente, dirán: "¿Todavía con eso?" y para los que
 normalmente no me ven: "Sí, soy un indocumentado de mierda".
 

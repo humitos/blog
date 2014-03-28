@@ -5,6 +5,16 @@
 .. title: Resucitando una XBOX
 .. slug: resucitando-una-xbox
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/04/06/resucitando-una-xbox/
+
+
 La `XBOX <http://es.wikipedia.org/wiki/Xbox>`__ es una consola de video
 juegos de Microsoft. La que compite con la PlayStation 2. Esta consola,
 a mi entender, no fue muy famosa, al menos en Argentina, ya que no la he

@@ -5,6 +5,16 @@
 .. title: El síndrome Publifácil
 .. slug: el-sindrome-publifacil
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/09/18/el-sindrome-publifacil/
+
+
 Cómo empezar esto... Partiendo de que hoy no tuve un muy buen día en
 general terminé de explotar cuando llegué a casa y recibí el siguiente
 mensaje:

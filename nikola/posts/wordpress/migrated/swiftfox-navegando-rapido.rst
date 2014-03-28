@@ -5,6 +5,16 @@
 .. title: Swiftfox: navegando rápido
 .. slug: swiftfox-navegando-rapido
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2007/09/16/swiftfox-navegando-rapido/
+
+
 Hace tiempo que me venía quejándo que el navegador que actualmente estoy
 usando, `Firefox <http://www.mozilla.com/en-US/>`__, me andaba bastante
 lento. Aunque en realidad el navegador que más me gusta a mí es

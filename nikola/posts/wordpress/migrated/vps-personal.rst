@@ -5,6 +5,16 @@
 .. title: VPS personal
 .. slug: vps-personal
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/07/15/vps-personal/
+
+
 Hace unos cuántos meses me contraté un
 `VPS <http://es.wikipedia.org/wiki/Servidor_virtual>`__ en
 `Tektonic <http://tektonic.net>`__ y la verdad que he estado muy

@@ -5,6 +5,16 @@
 .. title: Leer
 .. slug: leer
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/06/27/leer/
+
+
 No soy un gran lector, pero en este tiempo acá en Estados Unidos,
 encontré muchas cosas interesantes en los libros. De hecho, compré por
 lo menos 10 desde que llegué y `terminé el primer

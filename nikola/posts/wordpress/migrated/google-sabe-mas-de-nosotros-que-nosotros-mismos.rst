@@ -5,6 +5,16 @@
 .. title: Google sabe más de nosotros que nosotros mismos
 .. slug: google-sabe-mas-de-nosotros-que-nosotros-mismos
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/08/31/google-sabe-mas-de-nosotros-que-nosotros-mismos/
+
+
 Es un poco fuerte el título del post, pero lo peor de todo es que es
 verdad. Últimamente Google me está sorprendiendo con las cosas que me
 está mostrando. Hace un tiempo *importante* que uso varios de sus

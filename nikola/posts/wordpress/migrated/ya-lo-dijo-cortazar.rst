@@ -5,6 +5,16 @@
 .. title: Ya lo dijo Cortázar
 .. slug: ya-lo-dijo-cortazar
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2013/09/04/ya-lo-dijo-cortazar/
+
+
 Por lo tanto no hace ni falta que escriba un artículo de mi autoría
 personal sobre el mismo tema (`link al
 libro <http://nuevaliteratura.com.ar/descargas/Historia%20De%20Cronopios%20Y%20De%20Famas%20-%20Julio%20Cortazar.pdf>`__):

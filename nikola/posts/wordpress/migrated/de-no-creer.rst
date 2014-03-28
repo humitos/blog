@@ -5,6 +5,16 @@
 .. title: De no creer
 .. slug: de-no-creer
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/07/28/de-no-creer/
+
+
 Hoy fue un día complicado. Como todos los días desde hace tres o cuatro
 semanas aproximadamente que me estoy levantando a las 5:40. ¡Si! Está
 jodidísimo. Esto es desde que empecé a trabajar en la **Secretaría de

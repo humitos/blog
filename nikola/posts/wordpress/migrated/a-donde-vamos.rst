@@ -5,6 +5,16 @@
 .. title: ¿A dónde vamos?
 .. slug: a-donde-vamos
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2008/04/14/a-donde-vamos/
+
+
 Como muchos sabrán  y como otros tantos no, en la ciudad de Santa Fé por
 décimanovena vez aproximadamente **aumentó el preciodel boleto de
 colectivo urbano**, el común pasó de estar $1,30 a valer $1,50 lo que me

@@ -5,6 +5,16 @@
 .. title: Debuté como "Albahaquita"
 .. slug: debute-como-albahaquita
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/12/31/debute-como-albahaquita/
+
+
 Después de tantas idas y vueltas, de entrenar mucho, de sacar trucos
 nuevos, de preparar un número, de tomar talleres, de ir a convenciones,
 de probar cosas en el semáforo, de probar cosas en la peatonal, en la

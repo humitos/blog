@@ -5,6 +5,16 @@
 .. title: Estereo!
 .. slug: estereo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/05/23/estereo/
+
+
 El Viernes pasado le llevé el auto a el hermano de un amigo de la facu
 para que me ponga un **estereo en el auto**. Resulta que este estereo
 hace por lo menos 6 años que lo tengo. Me lo \ *regaló* un compañero de

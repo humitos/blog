@@ -5,6 +5,16 @@
 .. title: Malas costumbres aceptadas
 .. slug: malas-costumbres-aceptadas
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/10/19/malas-costumbres-aceptadas/
+
+
 .. image:: http://humitos.files.wordpress.com/2012/10/dsc_6357.jpg
    :width: 580px
    :target: http://humitos.files.wordpress.com/2012/10/dsc_6357.jpg

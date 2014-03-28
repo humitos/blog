@@ -5,6 +5,16 @@
 .. title: Avance en Bus Stopped
 .. slug: avance-en-bus-stopped
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/03/10/avance-en-bus-stopped/
+
+
 Le estuve metiendo como negro a este proyecto. Creo que está quedando
 bastante bien para el tiempo que hace que lo empecé y me ha resultado
 muy práctico y cómo de desarrollarlo con las facilidades que te da

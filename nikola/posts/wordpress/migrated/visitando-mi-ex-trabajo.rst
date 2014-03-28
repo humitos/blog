@@ -5,6 +5,16 @@
 .. title: Visitando mi ex-trabajo
 .. slug: visitando-mi-ex-trabajo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/07/14/visitando-mi-ex-trabajo/
+
+
 El lunes pasado no, el anterior. Digamos, hace dos semanas, visité mi
 ex-trabajo (el Ministerio de Innovación y Cultura de Santa Fe). Sí,
 suena que soy groso porque trabajé ahí, pero no... No lo soy por eso,

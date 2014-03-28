@@ -5,6 +5,16 @@
 .. title: Mi primer auto
 .. slug: mi-primer-auto
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/05/14/mi-primer-auto/
+
+
 Finalmente, me compré un auto.
 
 Después de un tiempo prolongado, y pasando por diferentes ideas en la

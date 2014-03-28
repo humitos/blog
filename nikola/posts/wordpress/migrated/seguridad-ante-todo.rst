@@ -5,6 +5,16 @@
 .. title: Seguridad ante todo...
 .. slug: seguridad-ante-todo
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/04/28/seguridad-ante-todo/
+
+
 Ayer me crucé con esto en **Alem entre Montecaseros y 9 de Julio**.
 |image0|
 

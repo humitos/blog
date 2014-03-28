@@ -5,6 +5,16 @@
 .. title: El video del árbol
 .. slug: el-video-del-arbol
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2012/06/22/el-video-del-arbol/
+
+
 Video de la `Intervención
 Callejera <http://humitos.wordpress.com/2012/06/14/peregrinacion-al-arbol-caido/>`__
 realizada el Miércoles 13 de Junio de 2012.

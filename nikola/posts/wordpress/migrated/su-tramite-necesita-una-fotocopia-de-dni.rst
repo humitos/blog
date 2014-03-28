@@ -5,6 +5,16 @@
 .. title: Su trámite necesita una fotocopia de DNI
 .. slug: su-tramite-necesita-una-fotocopia-de-dni
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/02/28/su-tramite-necesita-una-fotocopia-de-dni/
+
+
 Hoy me desperté, fui a la pc y tenía un mail de CRON (un programa que
 ejecuta scripts a una determinada hora) informándome de un error en el
 script que yo había hecho para chequear el estado del Trámite de mi DNI

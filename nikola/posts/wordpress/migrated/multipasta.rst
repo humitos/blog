@@ -5,6 +5,16 @@
 .. title: Multipasta
 .. slug: multipasta
 
+
+.. note::
+
+   Este post no es el original, sino una migración de Wordpress a
+   Nikola. Si no se visualiza correctamente, podés ir al original (en
+   Wordpress) haciendo click aquí_
+
+.. _aquí: http://humitos.wordpress.com/2011/02/03/multipasta/
+
+
 Mi vieja compró un tupper que se llama **Multipasta** hace algunas
 semanas atrás. La idea de esta cosa es hacer tallarines secos al
 microhondas en un ratito.
