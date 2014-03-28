@@ -76,3 +76,6 @@ Charlas
 #. `Pilas Engine, Hugo Ruscitti <http://www.youtube.com/watch?v=tXA2BgzrvzA>`_
 #. `Vivir viajando, Aniko Villalba <https://www.youtube.com/watch?v=7qEXjasHPRw>`_
 #. `Una mujer enorme está destruyendo completamente la industria de la música, Amanda Palmer <https://www.youtube.com/watch?v=QZ2pj2oSKIo>`_
+#. `Como se nos ocurren las ideas, Estanislao Bachrach <https://www.youtube.com/watch?v=21rwo342nqY>`_
+#. `Pequeñas decisiones y 20 minutos <http://www.youtube.com/watch?v=PFf2ghIR8os>`_
+#. `Como matar al intermediario <https://www.youtube.com/watch?v=_VEYn3bXz34>`_
