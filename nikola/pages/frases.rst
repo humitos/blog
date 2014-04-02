@@ -7,6 +7,13 @@
 
 ... dignas de ser leídas.
 
+
+.. epigraph::
+
+   Veo gente muerta... comentando en Facebook.
+
+   -- Manuel Kaufmann
+
 .. epigraph::
 
    Por Einstein sabemos que las cosas son relativas. Todo depende de
