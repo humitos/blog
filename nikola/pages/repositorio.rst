@@ -79,3 +79,4 @@ Charlas
 #. `Como se nos ocurren las ideas, Estanislao Bachrach <https://www.youtube.com/watch?v=21rwo342nqY>`_
 #. `Pequeñas decisiones y 20 minutos <http://www.youtube.com/watch?v=PFf2ghIR8os>`_
 #. `Como matar al intermediario <https://www.youtube.com/watch?v=_VEYn3bXz34>`_
+#. `Inventing on a Principle, Bret Victor <https://www.youtube.com/watch?v=a-OyoVcbwWE<`_
