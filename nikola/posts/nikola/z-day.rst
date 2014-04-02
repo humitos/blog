@@ -1,7 +1,7 @@
 .. title: Z-Day
 .. slug: z-day
 .. date: 2014/03/16 22:57:40
-.. tags: zeigeist, proyecto venus, zday, buenos aires
+.. tags: zeitgeist, proyecto venus, zday, buenos aires
 .. link: 
 .. description: 
 .. type: text
