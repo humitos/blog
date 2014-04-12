@@ -59,6 +59,7 @@ NAVIGATION_LINKS = {
         ('http://humitos.wordpress.com', 'Viejo Blog en Wordpress'),
         ('/pages/info/', 'Info'),
         ('/pages/repositorio/', 'Repositorio'),
+        ('/pages/traducciones/', 'Traducciones'),
         ('/pages/frases/', 'Frases'),
         ('/archive.html', 'Historial'),
         ('/categories/index.html', 'Tags'),
