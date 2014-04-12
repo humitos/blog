@@ -12,7 +12,7 @@
    Nikola. Si no se visualiza correctamente, podés ir al original (en
    Wordpress) haciendo click aquí_
 
-.. _aquí: http://humitos.wordpress.com/2008/05/12/podemos-salvar-la-olpc-de-windows/
+.. _aquí: http://humitos.wordpress.com/2008/05/12/¿podemos-salvar-la-olpc-de-windows/
 
 
 Me tomé el atrevimiento de traducir el `artículo de Richard M.
