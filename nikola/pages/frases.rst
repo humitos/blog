@@ -10,6 +10,12 @@
 
 .. epigraph::
 
+   Si no usaste `grep` ni `find` en tu vida no sos programador.
+
+   -- Gustavo Morero
+
+.. epigraph::
+
    Veo gente muerta... comentando en Facebook.
 
    -- Manuel Kaufmann
