@@ -36,9 +36,9 @@ La confusión de la tortuga
 Virtualenvwrapper
 -----------------
 
-:Version: 4.1.1.20.gf0f007
+:Version: 4.2.13.g041c411
 :OnLine: http://virtualenvwrapper-docs-es.readthedocs.org/en/latest/
-:Repositorio: https://bitbucket.org/dhellmann/virtualenvwrapper-docs-es
+:Repositorio: https://bitbucket.org/humitos/virtualenvwrapper-docs-es
 :Fecha: 2012-2014
 :Traductor: Manuel Kaufmann
 
