@@ -12,7 +12,7 @@ Traducciones
 
 Aquí hay una lista de las traducciones en las que he participado como
 traductor colaborador así como también haciendo la revisión y edición
-de la versión final del libro.
+de la versión final de las traducciones.
 
 Tutorial Python
 ---------------
@@ -22,6 +22,15 @@ Tutorial Python
 :Repositorio: https://github.com/PyAr/tutorial
 :Fecha: 2013-2014
 :Traductor: Python Argentina
+
+Subtítulos cortos David O'Reilly
+--------------------------------
+
+:Version: 1.0
+:OnLine: http://blog.mkaufmann.com.ar/posts/subtitulos-de-cortos-de-david-oreilly/
+:Fecha: 2014
+:Traductor: Manuel Kaufmann
+:Revisor: Melina Lucía Coronel
 
 La confusión de la tortuga
 --------------------------
