@@ -80,3 +80,4 @@ Charlas
 #. `Pequeñas decisiones y 20 minutos <http://www.youtube.com/watch?v=PFf2ghIR8os>`_
 #. `Como matar al intermediario <https://www.youtube.com/watch?v=_VEYn3bXz34>`_
 #. `Inventing on a Principle, Bret Victor <https://www.youtube.com/watch?v=a-OyoVcbwWE>`_
+#. `Create beautiful command-line interfaces with Python, Vladimir Keleshev <https://www.youtube.com/watch?v=pXhcPJK5cMc>`_
