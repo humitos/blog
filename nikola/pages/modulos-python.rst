@@ -18,6 +18,13 @@ Python
     librería para crear programas de línea de comandos utilizando un
     docstring (POSIX) como entrada para el parser.
 
+`BeautifulSoup <http://www.crummy.com/software/BeautifulSoup/>`_
+    librería para manejar de una forma cómoda archivos HTML y XML sin
+    volverse loco!
+
+`six <https://pypi.python.org/pypi/six>`_
+    utilidad para hacer compatible un programa con Python 2 y 3
+
 
 Django
 ======
@@ -46,6 +53,8 @@ Django
     permite loguearse con cualquier usuario del sistema siendo un
     usuario con permisos de administrador.
 
+`sorl-thumbnail <https://github.com/mariocesar/sorl-thumbnail>`_
+    para crear thumbnails automáticamente y forma sencilla.
 
 
 Comandos
