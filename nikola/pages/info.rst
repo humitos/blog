@@ -4,6 +4,7 @@
 .. date: 2013/09/08 16:27:37
 .. title: Info
 .. slug: info
+.. nocomments: True
 
 
    Fotografía, circo, computación, inglés…
