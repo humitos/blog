@@ -44,6 +44,8 @@ Videos
 #. `El miedo destruye al amor, Jiddu Krisnamurti <http://www.youtube.com/watch?v=mzHXG3X5Vp8>`_
 #. `Ilha das flores, Jorge Furtado <http://www.youtube.com/watch?v=3iv9l3Q1NW0>`_
 #. `Wikileaks: War, Lies and Videotapes, Luc Hermann, Paul Moreira <http://www.youtube.com/watch?v=6SbMuWdW100>`_
+#. `Dios Bendiga al Ateismo <https://www.youtube.com/watch?v=gQThYs5fZVs>`_
+
 
 Películas
 ---------
