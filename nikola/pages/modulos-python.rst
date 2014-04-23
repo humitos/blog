@@ -25,6 +25,11 @@ Python
 `six <https://pypi.python.org/pypi/six>`_
     utilidad para hacer compatible un programa con Python 2 y 3
 
+`pudb <https://pypi.python.org/pypi/pudb>`_
+    un pdb/ipdb super pulenta con una GUI hecha en ncurses
+
+`wdb <https://github.com/Kozea/wdb>`_
+    increíble debugger basado en la web
 
 Django
 ======
