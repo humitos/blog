@@ -16,4 +16,12 @@ Blog: http://blog.mkaufmann.com.ar
 
 Email: humitos@gmail.com
 
+Github: http://github.com/humitos
+
+Linkedin: http://www.linkedin.com/in/manuelkaufmann
+
+Facebook: https://www.facebook.com/kaufmann.manuel
+
+Twitter: https://twitter.com/reydelhumo
+
 Teléfono: +54 343 4053434
