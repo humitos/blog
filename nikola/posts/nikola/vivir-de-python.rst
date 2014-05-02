@@ -64,7 +64,7 @@ hacer PyCon Mendoza 2015. ¡Estaría buenísimo!
    nada e ideas no concretadas o con muy poca determinación, me han
    ayudado muchísimo a poner en marcha esta idea.
 
-   Sin embargo, creo que una de las personas que más me ha empujado y
+   Sin embargo, creo que una de las cosas que más me ha empujado y
    dado ganas de continuar es el apoyo de Melina, que es una genia y
    me encanta. Así que, mucho de esto es gracias a ella también.
 
