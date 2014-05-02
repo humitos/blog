@@ -83,5 +83,5 @@ Charlas
 #. `Como matar al intermediario <https://www.youtube.com/watch?v=_VEYn3bXz34>`_
 #. `Inventing on a Principle, Bret Victor <https://www.youtube.com/watch?v=a-OyoVcbwWE>`_
 #. `Create beautiful command-line interfaces with Python, Vladimir Keleshev <https://www.youtube.com/watch?v=pXhcPJK5cMc>`_
-#. `Hackingschooling makes me happy, Logan LaPlante  <https://www.youtube.com/watch?v=W4R8CNzbpxo>`_
+#. `Hackschooling makes me happy, Logan LaPlante  <https://www.youtube.com/watch?v=W4R8CNzbpxo>`_
 #. `A life unlimited, Ian Usher <https://www.youtube.com/watch?v=sAUIAChAmc4>`_
