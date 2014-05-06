@@ -7,9 +7,12 @@
 .. type: text
 
 En esta página describo brevemente cuáles son los módulos de Python
-que he encontrado interesante a lo largo de los años (ésta página es
-relativamente nueva, por lo que todavía no cuenta con mucha
-información)
+que he encontrado interesante a lo largo de los años.
+
+.. note::
+
+   Esta página es relativamente nueva, por lo que todavía no cuenta
+   con mucha información
 
 Python
 ======
