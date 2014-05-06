@@ -56,7 +56,6 @@ TRANSLATIONS = {
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('http://humitos.wordpress.com', 'Viejo Blog en Wordpress'),
         ('/pages/info/', 'Info'),
         ('/pages/repositorio/', 'Repositorio'),
         ('/pages/modulos-python/', 'Módulos Python'),
@@ -65,6 +64,7 @@ NAVIGATION_LINKS = {
         ('/archive.html', 'Historial'),
         ('/categories/index.html', 'Tags'),
         # ('/rss.xml', 'RSS'),
+        ('http://humitos.wordpress.com', 'Viejo Blog en Wordpress'),
         ('http://feeds.feedburner.com/humitos', 'RSS'),
     ),
 }
