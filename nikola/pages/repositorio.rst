@@ -29,6 +29,7 @@ Libros
 #. `Historia de cronopios y famas, Julio Cortázar <http://nuevaliteratura.com.ar/descargas/Historia%20De%20Cronopios%20Y%20De%20Famas%20-%20Julio%20Cortazar.pdf>`_
 #. `Focus, Leo Babauta <http://bit.ly/9QGRoP>`_
 #. `1984, George Orwell <http://biblio3.url.edu.gt/Libros/2011/1984.pdf>`_
+#. `Four Hour Work Week, Timothy Ferris <http://fourhourworkweek.com/>`_
 
 
 Videos
@@ -45,6 +46,7 @@ Videos
 #. `Ilha das flores, Jorge Furtado <http://www.youtube.com/watch?v=3iv9l3Q1NW0>`_
 #. `Wikileaks: War, Lies and Videotapes, Luc Hermann, Paul Moreira <http://www.youtube.com/watch?v=6SbMuWdW100>`_
 #. `Dios Bendiga al Ateismo <https://www.youtube.com/watch?v=gQThYs5fZVs>`_
+#. `Idiots, Big Lazy Robot VFX <http://vimeo.com/79695097>`_
 
 
 Películas
@@ -85,3 +87,6 @@ Charlas
 #. `Create beautiful command-line interfaces with Python, Vladimir Keleshev <https://www.youtube.com/watch?v=pXhcPJK5cMc>`_
 #. `Hackschooling makes me happy, Logan LaPlante  <https://www.youtube.com/watch?v=W4R8CNzbpxo>`_
 #. `A life unlimited, Ian Usher <https://www.youtube.com/watch?v=sAUIAChAmc4>`_
+#. `Es posible lo imposible, Oscar Villalobos <https://www.youtube.com/watch?v=UgYcQUgDBPc>`_
+#. `Haz que suceda, Isra Garcia <https://www.youtube.com/watch?v=_X5gPNHR1qQ>`_
+#. `Cerebro y percepcion, LeBlanc & West <https://www.youtube.com/watch?v=zONDGowt5lw>`_
