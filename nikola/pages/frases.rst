@@ -10,6 +10,13 @@
 
 .. epigraph::
 
+   Algunos creen que para cumplir los sueños hay que cagarse en los
+   demás, otros... Solo los cumplen.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
    Si no usaste `grep` ni `find` en tu vida no sos programador.
 
    -- Gustavo Morero
