@@ -1,10 +1,17 @@
 .. title: Soldando una placa icaro np06
 .. slug: soldando-una-placa-icaro-np06
 .. date: 2014/05/25 13:32:55
-.. tags: icaro, software libre, electronica
+.. tags: icaro, software libre, electronica, cordoba, argentina en python
 .. link: 
 .. description: 
 .. type: text
+
+.. admonition:: Nota
+
+   Hay una :doc:`segunda versión <placa-icaro-terminada>` de este post
+   donde se muestra la placa terminada y algunos consejos más sobre
+   cómo hacerlo.
+
 
 Ayer de mañana nos fuimos con el Guille a comprar todos los
 `componentes necesarios <roboticaro.org/componentes/>`_ para armar la
