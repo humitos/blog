@@ -61,9 +61,11 @@ Django
     permite loguearse con cualquier usuario del sistema siendo un
     usuario con permisos de administrador.
 
-`sorl-thumbnail <https://github.com/mariocesar/sorl-thumbnail>`_
+`easy-thumbnails <https://github.com/SmileyChris/easy-thumbnails>`_
     para crear thumbnails automáticamente y forma sencilla.
 
+`dogslow <https://bitbucket.org/evzijst/dogslow>`_
+    informa por email sobre requests que toman mucho tiempo
 
 Comandos
 ========
