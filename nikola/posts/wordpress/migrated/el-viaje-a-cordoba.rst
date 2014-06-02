@@ -498,7 +498,9 @@ sacarse una foto. Algún día voy a poder decir: "*Yo estuve ahí, dónde
 .... tal cosa*\ " y para no ser menos que los patos hice alguna de las
 mías:
 
-|image8| Practicando el *pies ventosas* en la \ *casa de alguien famoso*
+|image8|
+
+Practicando el *pies ventosas* en la \ *casa de alguien famoso*
 
 |image9|
 

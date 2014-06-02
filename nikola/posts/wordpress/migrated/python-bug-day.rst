@@ -47,8 +47,14 @@ con el nombre "DEFAULT" y luego agregarle a esta sección un valor, se
 duplicaba. Osea, quedaban dos secciones "DEFAUL" lo cuál está mal...
 Perdón, 'estaba' mal :) .
 
-El ejemplo que mostraba el autor de la apertura del Ticket es este:
-``>>> import sys, ConfigParser  >>> c = ConfigParser.ConfigParser()  >>> c.add_section('DEFAULT')  >>> c.write(sys.stdout)  [DEFAULT]  >>> c.set('DEFAULT', 'color', 'yellow')  >>> c.write(sys.stdout)  [DEFAULT]  color = yellow  [DEFAULT] ``
+El ejemplo que mostraba el autor de la apertura del Ticket es este::
+
+  >>> import sys, ConfigParser
+  >>> c = ConfigParser.ConfigParser()
+  >>> c.add_section('DEFAULT')
+  >>> c.write(sys.stdout)  [DEFAULT]
+  >>> c.set('DEFAULT', 'color', 'yellow')
+  >>> c.write(sys.stdout)  [DEFAULT]  color = yellow  [DEFAULT]
 
 Me puse a ver bien cuál era el problema, preguntando en PyAr si me
 podían ayudar, investigué un poco, leía todos los comentarios, intentaba

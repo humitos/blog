@@ -55,13 +55,24 @@ inspiró a escribir este post ya que las conversaciones normalmente se
 resumen a esto ("dramatización de una conversación en el canal de la
 empresa"):
 
-``[9:14] humitos: buen día  [9:18] scoobygalletas: humitos: hola viejo  ....  [9:50] perrito666: buenas  [9:52] humitos: perrito666: hola, ¿cómo andás?  ....  [10:02] humitos: cómo puedo hacer cambiar el directorio dónde se guardan los archivo en Django? ``
+.. code::
+
+   [9:14] humitos: buen día
+   [9:18] scoobygalletas: humitos: hola viejo
+   [9:50] perrito666: buenas
+   [9:52] humitos: perrito666: hola, ¿cómo andás?
+   [10:02] humitos: cómo puedo hacer cambiar el directorio dónde se guardan los archivo en Django?
 
 Otro ejemplo, más específico es cuando hablamos directamente con nuestro
 Project Manager, osea, en vez de tirar una pregunta al canal lo hacemos
 de forma específica a alguien:
 
-``[11:13] humitos: hola che, ¿cómo andás?  [11:13] humitos: te quería preguntar cómo hacer para ocular el formulario de comentarios en el sitio, usamos jQuery?  [11:14] Darni: hola, bien  [11:14] Darni: sí, dale con eso ``
+.. code::
+
+   [11:13] humitos: hola che, ¿cómo andás?
+   [11:13] humitos: te quería preguntar cómo hacer para ocular el formulario de comentarios en el sitio, usamos jQuery?
+   [11:14] Darni: hola, bien
+   [11:14] Darni: sí, dale con eso
 
 ¿Se entiende lo que quiero mostrar? La principal de esto, es que
 saludamos "formalmente" y preguntamos cómo andamos para no quedar mal

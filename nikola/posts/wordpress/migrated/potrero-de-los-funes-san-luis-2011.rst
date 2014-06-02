@@ -109,7 +109,9 @@ mirar por la ventanilla. Además de estar iluminadas, nos llamó la
 atención que los postes de luz están pintados de muchos colores, algo
 bastante raro pero que quedaba lindo.
 
-|image2| Esto es cerca de llegar a Potrero de los Funes si no me
+|image2|
+
+Esto es cerca de llegar a Potrero de los Funes si no me
 equivoco.
 
 |image3|
@@ -227,7 +229,9 @@ hicimos "Uhhhh! Es el cumpleaños de Pancho ya", nos re olvidamos. Así
 que, como para que nos perdone le cantamos el felíz cumpleaños y le
 improvisamos una torta con una vela:
 
-|image16| El Domingo ya pegamos la vuelta y nuevamente en la ruta y
+|image16|
+
+El Domingo ya pegamos la vuelta y nuevamente en la ruta y
 autopista nos encontramos muchos inconcientes y otra vez un accidente
 que fue bastante groso. En la autopista Córdoba - Rosario.
 

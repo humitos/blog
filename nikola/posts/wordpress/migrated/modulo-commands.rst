@@ -17,17 +17,23 @@
 
 Para capturar la salida de un comando generalmente utilizaba el módulo
 `subprocess <http://docs.python.org/lib/module-subprocess.html>`__\ de
-Python de esta forma:
+Python de esta forma::
 
-``>>> from subprocess import Popen, PIPE  >>> Popen(['date'], stdout=PIPE).stdout.read()  'mar abr 29 17:08:17 ART 2008\n'  >>> ``
+  >>> from subprocess import Popen, PIPE
+  >>> Popen(['date'], stdout=PIPE).stdout.read()
+  'mar abr 29 17:08:17 ART 2008\n'
+  >>>
 
 Hoy viendo el código fuente de un programa
 (`pydf <http://sourceforge.net/projects/pydf/>`__) encontré que
 utilizaba el módulo
 `commands <http://docs.python.org/lib/module-commands.html>`__ y como no
 lo conocía me fijé de qué se trataba. Sirve para hacer lo mismo de una
-manera más sencilla y legible:
+manera más sencilla y legible::
 
-``>>> import commands  >>> commands.getoutput('date')  'mar abr 29 17:04:22 ART 2008'   >>> ``
+  >>> import commands
+  >>> commands.getoutput('date')
+  'mar abr 29 17:04:22 ART 2008'
+  >>>
 
 PD: funciona sólamente en Unix

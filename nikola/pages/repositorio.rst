@@ -90,3 +90,5 @@ Charlas
 #. `Es posible lo imposible, Oscar Villalobos <https://www.youtube.com/watch?v=UgYcQUgDBPc>`_
 #. `Haz que suceda, Isra Garcia <https://www.youtube.com/watch?v=_X5gPNHR1qQ>`_
 #. `Cerebro y percepcion, LeBlanc & West <https://www.youtube.com/watch?v=zONDGowt5lw>`_
+
+

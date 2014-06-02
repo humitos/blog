@@ -89,27 +89,27 @@ Siguiendo ese post de Taringa terminé haciendo estos pasos:
 #. Poner los datos de usuario: **admin** y contraseña: **motorola**
 #. |image0|
 
-Ir a **Advanced -> Options** y luego **des-tildar**\ la
+   Ir a **Advanced -> Options** y luego **des-tildar**\ la
    opción **WAN Blocking**
 #. |image1|
 
-Luego ir a **Advanced -> Forwarding** y habilitar
+   Luego ir a **Advanced -> Forwarding** y habilitar
    *tooooodos*\ los puertos que se te canten. Yo acá puse la dirección
    de IP (que después de la asigno de forma estática mediante el Modem /
    Router de Fiberter - Motorola) del router Linkys al cual conecto el
    RJ45 (cable de red del Motorola) en la interface de WAN
 #. |image2|
 
-En **Basic -> DHCP** le asigno la dirección de IP de forma
+   En **Basic -> DHCP** le asigno la dirección de IP de forma
    estática al router Linksys poniendo su MAC y la dirección de IP que
    le quiero asignar. En este caso 192.168.0.2
 #. |image3|
 
-Por último le cambié el SSID (nombre de la red WiFi) en
+   Por último le cambié el SSID (nombre de la red WiFi) en
    **Wireless -> Primary Network**
 #. |image4|
 
-Me desloguié con **Logout** y luego le quité el cable de
+   Me desloguié con **Logout** y luego le quité el cable de
    energía nuevamente al Modem / Router de Fibertel
 #. Ubiqué todo como quería quede finalmente (*ojo, una vez que le
    colocás el cable de Internet -el coaxil- no podés entrar más a este

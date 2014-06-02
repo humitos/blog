@@ -19,7 +19,7 @@ Doble festejo! Este es mi post número 200  y además puedo presentar en
 sociedad mi nuevo atuendo para el semáforo (por lo menos hasta que
 consiga otro :) )
 
-"E*l que busca siempre encuentra"*, dice mi abuela.
+*"El que busca siempre encuentra"*, dice mi abuela.
 
 Y sí, acá está... Revolviendo mi casa encontré algunas giladas de
 cotillón, agarré un poco de cinta y un pedazo de elástico y ***voilá***:

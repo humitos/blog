@@ -33,11 +33,15 @@ al cd y veo una carpeta que se llama **linux**, y dentro de ésta un
 archivo ejecutable que se llama **setup.sh**\ al cual llamé con *bash
 setup.sh* y en 5 minutos tenía el programa instalado en mi pc.
 
-|image0| Y lo mejor de todo... FUNCIONA!
+|image0|
+
+Y lo mejor de todo... FUNCIONA!
 
 |image1|
 
-|image2| Me pone contento saber que esta gente se tomó el
+|image2|
+
+Me pone contento saber que esta gente se tomó el
 trabajo de que su software funcione en Windows, Mac y Linux sobre todo!
 :)
 
