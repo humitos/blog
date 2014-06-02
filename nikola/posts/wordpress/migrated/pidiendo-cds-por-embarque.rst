@@ -15,7 +15,9 @@
 .. _aquí: http://humitos.wordpress.com/2007/11/06/pidiendo-cds-por-embarque/
 
 
-|image0|\ Apenas me enteré que se podían pedir los *nuevos* (ya no
+|image0|
+
+Apenas me enteré que se podían pedir los *nuevos* (ya no
 tanto) CD's de Ubuntu Gutsy Gibbon por ShipIt, me pedí algunos. 10 si
 mal no recuerdo.
 

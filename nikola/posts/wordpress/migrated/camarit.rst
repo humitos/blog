@@ -54,7 +54,9 @@ haciendo por aquel entonces en el tiempo. Por esto, *junto con mi
 equipo*, decidimos abrir un `nuevo sitio web llamado Humitos'
 Photographies <http://fotos.mkaufmann.com.ar>`__.
 
-|image0|\ Es más, está hecho con un proyecto que conocí cuando fui a
+|image0|
+
+Es más, está hecho con un proyecto que conocí cuando fui a
 Buenos Aires la semana pasada a un Asado Geek, llamado
 `HGP <https://github.com/joac/hgp>`__ que cómo si fuera poco: es
 Software Libre. Así que, empecé a colaborar un poco con este, me lo

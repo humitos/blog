@@ -15,7 +15,9 @@
 .. _aquí: http://humitos.wordpress.com/2007/09/30/cafeconf-2007/
 
 
-|image0|\ Al igual que el año pasado, este también asistiré a
+|image0|
+
+Al igual que el año pasado, este también asistiré a
 `CaFeConf <http://www.cafeconf.org/2007/modules/edito/content.php?id=4>`__.
 Organizado el viaje por mi facultad estaremos saliendo el Jueves a la
 madrugada (noche del Miércoles) hacia Buenos Aires para llegar allá

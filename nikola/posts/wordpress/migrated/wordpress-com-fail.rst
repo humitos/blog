@@ -15,7 +15,9 @@
 .. _aquí: http://humitos.wordpress.com/2011/04/01/wordpress-com-fail/
 
 
-|image0|\ **¿Cuántas visitas tengo el 1 de Abril?**
+|image0|
+
+**¿Cuántas visitas tengo el 1 de Abril?**
 
  
 

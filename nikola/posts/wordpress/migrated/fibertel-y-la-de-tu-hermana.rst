@@ -51,9 +51,13 @@ tengo Fibertel el IRC me anda como el orto. Ahí es dónde entra
 que haga un *mtr* hacia freenode.net para ver dónde se están muriendo
 los paquetes. Así que, eso hice:
 
-|image0|\ mtr irc.freenode.net
+|image0|
 
-|image1|\ mtr calvino.freenode.net
+mtr irc.freenode.net
+
+|image1|
+
+mtr calvino.freenode.net
 
 Bueno, para los que entienden algo... Esto es muy útil. Yo no me voy a
 poner a explicar qué pasa y porqué ni todas esas cosas que seguro que

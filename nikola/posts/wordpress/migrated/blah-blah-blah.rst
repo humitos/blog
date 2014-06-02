@@ -40,7 +40,9 @@ Entonces, me propuse ver si tenía un IE cerca, pero antes se me dió por
 probar con mi número de DNI en el estado del trámite del DNI y.. "Oh,
 sorpresa!"
 
-|image1|\ ¿Entonces? ¿Qué tengo que pensar? ¿Lo que `me llegó a
+|image1|
+
+¿Entonces? ¿Qué tengo que pensar? ¿Lo que `me llegó a
 casa <http://humitos.wordpress.com/2011/04/05/%C2%A1llego-el-dni/>`__ es
 una copia falsa? Vamos muchachos, si hacemos algo que sea para un buen
 fin y no para confundir más a la gente. Hagámos una política sería y

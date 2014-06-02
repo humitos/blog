@@ -27,7 +27,13 @@ una Memoria RAM de 1Gb DDR2, una Fuente de 350W y un Microprocesador AMD
 Athlon 64 X2 4200+ Dual Core Socket AM2 Box paradonar a quien lo
 necesite.
 
-|image0|\ |image1|\ |image2|\ |image3|
+|image0|
+
+|image1|
+
+|image2|
+
+|image3|
 
 La forma de obtener estas partes es simple. Dejás un comentario en este
 post explicando cúal sería el uso y nos ponemos en contacto luego.

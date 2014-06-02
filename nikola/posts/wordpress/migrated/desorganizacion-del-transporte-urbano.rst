@@ -28,7 +28,9 @@ ningún colectivo parado, entonces llegó hasta el final de la cuadra, o
 bien se quedó en el principio de la misma porque ya había varios
 colectivos estacionados subiendo pasajeros.
 
-|image0|\ Además, en esta parada particularmente al pasar muchos
+|image0|
+
+Además, en esta parada particularmente al pasar muchos
 colectivos y ser pleno centro hay mucha gente esperando su bondi.
 Entonces sucede que en el momento que viste que el colectivo te pasó por
 adelante tuyo y está parando a una distancia de 50 metros
@@ -49,7 +51,9 @@ rumbo por el recorrido pero... ¿Qué pasó? Había una señora más adelante
 que no lo vio, no pudo alcanzarlo o lo que sea que cuando vio que se
 estaba yendo se desesperó y le empezó a hacer señas para que pare:
 
-|image1|\ Entonces el colectivo paró nuevamente y la señora pudo
+|image1|
+
+Entonces el colectivo paró nuevamente y la señora pudo
 tomarlo.
 
 Si bien por un lado está bien que el colectivo haya parado y no haya

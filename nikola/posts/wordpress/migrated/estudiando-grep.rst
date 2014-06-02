@@ -15,7 +15,9 @@
 .. _aquí: http://humitos.wordpress.com/2007/11/11/estudiando-grep/
 
 
-|image0|\ Después de tantas luchas para saber si lo que `estoy haciendo
+|image0|
+
+Después de tantas luchas para saber si lo que `estoy haciendo
 en
 Java <http://humitos.wordpress.com/2007/11/09/python-mas-rapido-que-java/>`__
 funcionaba como debería funcionar, me puse a estudiar el comando

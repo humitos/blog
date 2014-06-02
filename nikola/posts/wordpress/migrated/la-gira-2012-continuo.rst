@@ -144,7 +144,9 @@ organizados, sonando muy bien y haciendo reír a mucha gente. Y yo;
 caminando despacito perdido entre la gente tomando una cerveza:
 claramente, el artista vago que siempre quise ser :)
 
-|image0|\ Al terminar esa función, nos ponemos hablar con los muchachos,
+|image0|
+
+Al terminar esa función, nos ponemos hablar con los muchachos,
 me termino la cerveza con algunos del público (ya que por ley de
 Circulando, no se puede tomar ni fumar cuando uno está vestuariado: ¿qué
 van a decir los niños?) y entre palabra que va y otra que viene me

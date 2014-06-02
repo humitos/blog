@@ -68,7 +68,9 @@ rango horario y cada cuántos minutos querés que se dispare. Además podés
 Por el momento, para probarlo, lo puse de 9 a 21 cada 1 hora todos los
 días. Vamos a ver cómo me va :)
 
-|image0|\ |image1|
+|image0|
+
+|image1|
 
 La fragancia que elegí es **rosas** y está bastante buena. Lo único que
 cuando estoy concentrado leyendo con la cabeza casi adentro del monitor

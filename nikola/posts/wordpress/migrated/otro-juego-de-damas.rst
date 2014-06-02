@@ -84,7 +84,9 @@ posibilidad, y un largo etcétera que iremos mejorando con el tiempo.
 
 Algunos screenshots... Y *arribaderchi*
 
-|image1|\ |image2|
+|image1|
+
+|image2|
 
 .. |image0| image:: http://img232.imageshack.us/img232/4416/p1normalbh1.png
 .. |image1| image:: http://img138.imageshack.us/img138/1233/acgbeachrm0.th.png

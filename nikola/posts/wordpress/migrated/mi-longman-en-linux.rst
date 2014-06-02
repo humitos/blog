@@ -35,7 +35,9 @@ setup.sh* y en 5 minutos tenía el programa instalado en mi pc.
 
 |image0| Y lo mejor de todo... FUNCIONA!
 
-|image1|\ |image2| Me pone contento saber que esta gente se tomó el
+|image1|
+
+|image2| Me pone contento saber que esta gente se tomó el
 trabajo de que su software funcione en Windows, Mac y Linux sobre todo!
 :)
 

@@ -40,7 +40,9 @@ que, asumo que o bien me cambiaron las huellas dactilares digitalmente
 para que se *parezcan*\ a las que ellos tenían en el sistema o estoy
 mutando día a día y me van cambiando.
 
-|image0|\ **Gracias a todos los que me dieron una mano** con este
+|image0|
+
+**Gracias a todos los que me dieron una mano** con este
 trámite del orto. La verdad es que es **un perno**\ hacer el Nuevo DNI,
 no tiene ninguna facilidad de las que dice tener el estado. Es un garrón
 y no se lo deseo a nadie: "Cuidá tu DNI más que a cualquier otra cosa".

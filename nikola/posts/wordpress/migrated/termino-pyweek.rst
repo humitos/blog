@@ -15,7 +15,9 @@
 .. _aquí: http://humitos.wordpress.com/2007/09/25/termino-pyweek/
 
 
-|image0|\ Así es, se terminó todo. Después de tanto esfuerzo y tanta
+|image0|
+
+Así es, se terminó todo. Después de tanto esfuerzo y tanta
 espera finalizó la quinta *temporada* de
 `PyWeek <http://www.pyweek.org/5/>`__. Estoy **muy**\ contento porque
 salimos terceros! Si, si, **3ros**! Mi equipo `7

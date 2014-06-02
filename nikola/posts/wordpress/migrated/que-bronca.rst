@@ -25,7 +25,9 @@ escucha.... **ggrrrrssshhhh!**
 FUCK! *¿Qué fue eso? No me digas...* Me bajo, me fijo y me encuentro con
 esto...
 
-|image0|\ La re mil madre, había una mierdita que alguna vez había sido
+|image0|
+
+La re mil madre, había una mierdita que alguna vez había sido
 un *guard rail* (gracias Mati por enseñarme esto) que estaba roto. Osea,
 faltaba la parte de arriba, la horizontal. Esto era como una columnita
 pequeña de unos, no sé... 50cm ponele. No se veía ni ahí! Una bronca!!!

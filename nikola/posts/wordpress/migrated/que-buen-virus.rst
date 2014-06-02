@@ -18,16 +18,22 @@
 Buscando una imagen de una bandera a cuadros de las del estilo de las
 carreras me encontré con esto:
 
-|image0|\ Lo cual, claramente te hace creer que tenés la PC infectada
+|image0|
+
+Lo cual, claramente te hace creer que tenés la PC infectada
 por algún bicho raro. Entonces, te abre una nueva pestaña del Firefox
 que te dice:
 
-|image1|\ Y ahorá más que antes, encima encontró varios virus en mi PC
+|image1|
+
+Y ahorá más que antes, encima encontró varios virus en mi PC
 el scanner de Firefox Security Alert.
 
 Pero por suerte... me sugirió bajar el **desinfector** :)
 
-|image2|\ Y ahora mi PC está como nueva, sin virus :P
+|image2|
+
+Y ahora mi PC está como nueva, sin virus :P
 
  
 

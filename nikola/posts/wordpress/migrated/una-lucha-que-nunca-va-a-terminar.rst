@@ -40,7 +40,15 @@ bocas, USB. La verdad muy lindo a simple vista. El transformador
 correspondiente, los microfiltros y los cables correspondientes. Ya era
 un paso bastante grande. Algunas fotos:
 
-|image0|\ |image1|\ |image2|\ |image3|\ |image4|
+|image0|
+
+|image1|
+
+|image2|
+
+|image3|
+
+|image4|
 
 Lo primero que hago es conectar todo como se debe, viendo que tenía 4
 bocas de ethernet, saqué el switch que tenía antes, ya que no lo iba a

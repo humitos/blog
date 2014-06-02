@@ -15,7 +15,9 @@
 .. _aquí: http://humitos.wordpress.com/2007/09/24/1000-visitas-al-blog/
 
 
-|image0|\ Así es, el blog que comencé a hacer hace casi 1 mes atrás, ya
+|image0|
+
+Así es, el blog que comencé a hacer hace casi 1 mes atrás, ya
 tuvo 1000 visitas; y pareciera que sigue contando...
 
 Hace tiempo que me venían diciendo de hacer un blog y no le encontraba

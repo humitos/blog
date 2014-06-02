@@ -25,7 +25,9 @@ Esta vez, voy a tener la oportunidad de participar de "Tutifruti de
 Circo" que se llevará a cabo los días Jueves 29 y Viernes 30 a las 20hs
 en el Club Olimpia de la ciudad de Paraná:
 
-|image0|\ A todos aquellos a los que les interese asistir se pueden
+|image0|
+
+A todos aquellos a los que les interese asistir se pueden
 comunicar conmigo y les consigo las entradas que quieran. Las
 anticipadas cuestan $12 y en la puerta se estará cobrando $15.
 

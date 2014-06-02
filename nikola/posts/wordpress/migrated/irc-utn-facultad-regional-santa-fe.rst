@@ -15,7 +15,9 @@
 .. _aquí: http://humitos.wordpress.com/2007/10/15/irc-utn-facultad-regional-santa-fe/
 
 
-|image0|\ Hace tiempo que venía pensando en crear un canal de
+|image0|
+
+Hace tiempo que venía pensando en crear un canal de
 `IRC <http://es.wikipedia.org/wiki/Internet_Relay_Chat>`__ de la
 facultad, para poder discutir cualquier tema relacionado con ella. Me
 parece muy útil porque podrías preguntar si tal o cual profesor fue a la

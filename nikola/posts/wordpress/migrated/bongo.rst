@@ -64,7 +64,13 @@ busquen mucha calidad :D
 -  `El
    martillo <http://grulicueva.homelinux.net/~humitos/blog/bongo/el_martillo.ogg>`__
 
-|image0|\ |image1|\ |image2|\ |image3|
+|image0|
+
+|image1|
+
+|image2|
+
+|image3|
 
 .. |image0| image:: http://grulicueva.homelinux.net/~humitos/blog/bongo/thumbails/HPIM2281.JPG
    :target: http://grulicueva.homelinux.net/~humitos/blog/bongo/HPIM2281.JPG

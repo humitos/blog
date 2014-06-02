@@ -26,7 +26,9 @@ es qué corno están haciendo para eso. Lo que sí sabemos es que son
 
 Quizás con una imagen se entienda mejor de qué estoy hablando:
 
-|image0|\ ¿Cuánta gente se necesita para hacer un cartel de este tipo?
+|image0|
+
+¿Cuánta gente se necesita para hacer un cartel de este tipo?
 ¿Me vas a decir que **nadie**\ se dió cuenta? ¿O realmente ninguno fue a
 la escuela?
 

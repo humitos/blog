@@ -30,7 +30,9 @@ para alcanzar el tab deseado. También he visto que por este problema
 algunas personas hacen utilizan algún AddOns para que la barra de tab
 **no scrollee** y que se le hagan varias filas así:
 
-|image0|\ Pero a mí esto no me gustó, ya que me quitaba bastante
+|image0|
+
+Pero a mí esto no me gustó, ya que me quitaba bastante
 pantalla y seguía con el problema de tener tabs chiquitos. En la PyCon
 Argentina 2010, ví en alguna Lighting Talk que el flaco tenía los tabs
 ubicados a la derecha, y me pareció re piola porque siempre digo que

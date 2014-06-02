@@ -15,7 +15,9 @@
 .. _aquí: http://humitos.wordpress.com/2007/09/17/peleando-con-mi-router/
 
 
-|image0|\ Hace un par de semanas, quizás un mes ya, estoy a las peleas
+|image0|
+
+Hace un par de semanas, quizás un mes ya, estoy a las peleas
 con mi router. Desde que contraté el servicio de Arnet de 640kbps que
 tengo problemas; al principio nada serios, pero ultimamente me estoy
 poniendo de los pelos.

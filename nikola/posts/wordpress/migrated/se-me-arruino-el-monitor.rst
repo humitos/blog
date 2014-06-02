@@ -29,7 +29,9 @@ justos para que se vea como se debe ver. Digo esto porque se nota que la
 línea esa cambia de colores a lo largo de diferentes colores, pero **no
 coincide el tono**.
 
-|image0|\ |image1|
+|image0|
+
+|image1|
 
 .. |image0| image:: http://humitos.files.wordpress.com/2011/03/p3211077.jpg
    :target: http://humitos.files.wordpress.com/2011/03/p3211077.jpg

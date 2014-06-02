@@ -40,7 +40,21 @@ contesté sutilmente "Si"
 
 Algunas fotos...
 
-|image0|\ |image1|\ |image2|\ |image3|\ |image4|\ |image5|\ |image6|\ |image7|
+|image0|
+
+|image1|
+
+|image2|
+
+|image3|
+
+|image4|
+
+|image5|
+
+|image6|
+
+|image7|
 
 (se nota que no tengo carama digital ¿no? :P )
 

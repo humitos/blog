@@ -36,7 +36,11 @@ Nos quedamos hasta las 3 am más o menos, no recuerdo muy bien :( .
 Algunos se fueron antes porque al otro día trabajan de mañana. Y los que
 nos quedamos seguimos de festejo.
 
-|image0|\ |image1|\ |image2|
+|image0|
+
+|image1|
+
+|image2|
 
 .. |image0| image:: http://img108.imageshack.us/img108/3235/hpim2085ug0.th.jpg
    :target: http://img108.imageshack.us/img108/3235/hpim2085ug0.jpg

@@ -71,7 +71,9 @@ a la derecha del jugador 2, que es el que está a la derecha del jugador
 
 Ésta es la foto del dibujo que hizo Vale para explicar cómo sería con 3:
 
-|image0|\ El punto que está arriba sería el *jugador 1* de la
+|image0|
+
+El punto que está arriba sería el *jugador 1* de la
 explicación que hice arriba ya que es el *inicializador.* Ese jugador en
 el primer tiempo se pasa una clava con el jugador de la izquierda en la
 imagen. En el siguiente tiempo, el jugador de la izquierda de la imagen
@@ -87,7 +89,9 @@ Luego, todo vuelve a empezar.
 
 Explicación con 4:
 
-|image1|\ Acá la lógica es exactamente la misma, pero va a llegar un
+|image1|
+
+Acá la lógica es exactamente la misma, pero va a llegar un
 momento (*al ser jugadores pares*) que va a haber **dos jugadores que
 están esperando un tiempo** al mismo tiempo.
 
@@ -105,7 +109,9 @@ haber **sólo un jugador que espere un tiempo** mientras todos los otros
 están jugando. Como en los anteriores, en ese tiempo el jugador puede
 hacer lo que le parezca siempre y cuando sea **un tiempo**.
 
-|image3|\ En fin, cuando el juego sale y todos se pasan las clavas con
+|image3|
+
+En fin, cuando el juego sale y todos se pasan las clavas con
 su correspondiente y en el momento que tienen que esperar hace un giro
 por ejemplo, esto se ve hermoso y es un show muy bueno! :)
 

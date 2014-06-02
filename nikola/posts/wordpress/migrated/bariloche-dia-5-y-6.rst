@@ -65,7 +65,9 @@ una especie de trineo. Digamos, relativamente temprano quiere decir que
 *nunca*\ es suficiente lo que dormís, por más que duermas 8hs. El cuerpo
 está exhausto, se nota y te lo hace notar.
 
-|image0|\ Partimos hacia el destino en unas 4x4 Land Rober que estaban
+|image0|
+
+Partimos hacia el destino en unas 4x4 Land Rober que estaban
 buenas, pero éramos 10 adentro de estas e íbamos bastante apretados.
 Llegamos al lugar y... Lo mismo de siempre: **esperamos como 30 minutos
 a que empiece la excursión**. Eso es algo de lo que nos estamos quejando
@@ -83,7 +85,9 @@ despedida de la pista y terminé rodando por la montaña. Algunos chicos
 se quejaron de eso. Creo que se podría solucionar poniendo algunas redes
 más en las curvas (hay algunas, pero no son suficientes) y listo.
 
-|image1|\ Terminada esa excursión, volvimos al hotel (por supuesto,
+|image1|
+
+Terminada esa excursión, volvimos al hotel (por supuesto,
 después de esperar unos cuantos minutos para subir a la camioneta) y
 almorzamos. Pasado un rato, el cual yo aproveché para tirarme un rato en
 la cama, partimos de nuevo hacia otra excursión también relacionada con
@@ -111,7 +115,9 @@ Una vez que llegamos abajo, volvimos a subir en la aerosilla, pero esta
 vez al segundo nivel. Dónde hay un mirador con una vista hermosa y en
 dónde tomamos una chocolatada con churros. Muy rico, por cierto.
 
-|image2|\ Nos sacamos un par de fotos con todo el grupo y yo conté mi
+|image2|
+
+Nos sacamos un par de fotos con todo el grupo y yo conté mi
 penosa experiencia para todos y cada uno de los chicos sobre cómo me dí
 vuelta en el tobogán. Todos, absolutamente todos, se me cagaron de risa
 y me gastaron durante un tiempo prolongado. Y sí, *no podés boludo!*
@@ -124,7 +130,9 @@ para darse vuelta de nuevo. Intenté meterle velocidad, pero me empezaba
 a pasar lo mismo, se me subía al borde del tobogán y me daba mucho
 cagaso, así que frenaba todo el tiempo.
 
-|image3|\ Terminada esa excursión, emprendimos la vuelta al hotel. Yo me
+|image3|
+
+Terminada esa excursión, emprendimos la vuelta al hotel. Yo me
 vine caminando con un grupito de chicos y con Salvador. De camino al
 hotel pasamos por enfrente de Fenoglio y decidimos **hacer la
 previa** en la habitación con unos chocolates de Fenoglio y probar los

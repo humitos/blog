@@ -15,7 +15,9 @@
 .. _aquí: http://humitos.wordpress.com/2007/09/04/entrevista-labsis/
 
 
-|image0|\ El viernes pasado tuve mi primer entrevista para empezar a
+|image0|
+
+El viernes pasado tuve mi primer entrevista para empezar a
 trabajar en el Labsis (Laboratorio de Sistemas) de mi facultad. Éramos
 tres los chicos que asistimos a la reunión y David que nos había citado
 para explicarnos en qué consistía el trabajo. Él nos habló de reglas de

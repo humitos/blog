@@ -51,7 +51,9 @@ los paquetes posibles.
 
 Algunos screenshots:
 
-|image0|\ |image1|
+|image0|
+
+|image1|
 
 .. |image0| image:: http://img260.imageshack.us/img260/8586/swiftfox1ho4.th.jpg
    :target: http://img260.imageshack.us/img260/8586/swiftfox1ho4.jpg

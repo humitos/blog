@@ -135,7 +135,15 @@ veces a la máquina en la que quería instalar Linux la agarraba este y no
 cargaba el instalador. Secuencia en fotos de lo que fue pasando en la
 máquina cliente.
 
-|image0|\ |image1|\ |image2|\ |image3|\ |image4|
+|image0|
+
+|image1|
+
+|image2|
+
+|image3|
+
+|image4|
 
 **Otras cuestiones:**
 

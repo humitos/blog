@@ -15,7 +15,9 @@
 .. _aquí: http://humitos.wordpress.com/2007/10/31/recordando-mi-infancia/
 
 
-|image0|\ Hace un par de días que tenía ganas de jugar a algún juego
+|image0|
+
+Hace un par de días que tenía ganas de jugar a algún juego
 pero sin tener que bootear mi PC en otro Sistema Operativo como hacía
 hace un tiempo atrás. De hecho, ahora no lo puedo hacer porque es el
 único que tengo instalado.

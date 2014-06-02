@@ -15,7 +15,9 @@
 .. _aquí: http://humitos.wordpress.com/2007/10/18/nueva-version-de-kgpaper/
 
 
-|image0|\ Y si! Llegó una nueva versión de Kpaper, pero ahora
+|image0|
+
+Y si! Llegó una nueva versión de Kpaper, pero ahora
 principalmente más estable. Con varias correcciones de bug que tenía por
 todos lados, debido a que de la página que descargaba los wallpapers no
 siempre estaba bien formada y éste no hacía ninguna verificación. Ahora

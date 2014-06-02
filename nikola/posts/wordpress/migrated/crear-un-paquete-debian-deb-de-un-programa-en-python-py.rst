@@ -15,7 +15,9 @@
 .. _aquí: http://humitos.wordpress.com/2007/09/18/crear-un-paquete-debian-deb-de-un-programa-en-python-py/
 
 
-|image0|\ Siempre quise aprender a hacer paquetes Debian porque muchas
+|image0|
+
+Siempre quise aprender a hacer paquetes Debian porque muchas
 veces les quería pasar mis programas a mis amigos y se quejaban que
 tenían que instalar muchas dependencias o quizás eso me decían a mí para
 no correr mis programas en sus máquinas.

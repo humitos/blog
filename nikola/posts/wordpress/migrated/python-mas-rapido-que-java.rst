@@ -15,7 +15,9 @@
 .. _aquí: http://humitos.wordpress.com/2007/11/09/python-mas-rapido-que-java/
 
 
-|image0|\ Con un título de post robado de la charla de `Facundo
+|image0|
+
+Con un título de post robado de la charla de `Facundo
 Batista <http://www.taniquetil.com.ar/plog/>`__ y Lucio Torre ("`Python
 más rápido que
 C <http://www.cafeconf.org/2007/slides/facundo_batista_python_mas_rapido_que_C.tar.gz>`__\ ")

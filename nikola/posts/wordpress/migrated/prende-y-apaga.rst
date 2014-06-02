@@ -20,10 +20,14 @@ como si fuese un Sol para una foto, ya que la noche estaba bien oscura
 debido a la lluvia de todo el día. Cuando estoy por sacar la foto, un
 instante antes de apretar el botón:
 
-|image0|\ Me dió mucha gracia... Esperé a que se prenda y le saqué otra
+|image0|
+
+Me dió mucha gracia... Esperé a que se prenda y le saqué otra
 foto:
 
-|image1|\ La verdad que ahora que lo veo, es una cagada. Sobre todo por
+|image1|
+
+La verdad que ahora que lo veo, es una cagada. Sobre todo por
 la calidad de la foto. Pero en **ese momento**\ y en una pantalla LCD de
 2,5''; fue mucho más gracioso!
 

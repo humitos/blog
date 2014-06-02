@@ -72,7 +72,11 @@ la derecha la máquina remota, por lo que podemos ejecutar todas las
 opciones que nos permite el MC. Entre ellas, copiar, cortar, editar,
 etc...
 
-|image0|\ |image1|\ |image2|
+|image0|
+
+|image1|
+
+|image2|
 
 Desde una consola tipeamos *mc,*\ lo que nos abre el Midnight Commander,
 vamos a la configuración de la vista derecha, por ejemplo, con la tecla

@@ -30,7 +30,9 @@ había chocolates, tortas, pan dulce, bocaditos de fruta, masas y de más.
 
 |image0|
 
-|image1|\ Así que le dimos bastante al chupi y a la comida. Además, el
+|image1|
+
+Así que le dimos bastante al chupi y a la comida. Además, el
 VIP tenía una vista increíble hacia la pista y hacia una especie de
 tribuna de cancha que tiene el boliche. Me gustó eso porque tenías un
 panorama completo del boliche. Además, la música en general del boliche
@@ -44,7 +46,9 @@ y había buena onda, bailamos bastante y nos cagamos de la risa. Después
 nos fuimos a bailar un rato con los chicos, dónde me saqué un poco y
 agité bastante. Se estaba notando el champagne que tenía encima.
 
-|image2|\ Cuando ya empecé a sentirme cansado, agotado y medio en pedo,
+|image2|
+
+Cuando ya empecé a sentirme cansado, agotado y medio en pedo,
 decidí volver para el hotel. Encima, al otro día nos teníamos que
 levantar bien temprano porque nos íbamos al Cerro Catedral a la mañana
 para poder esquiar. Entonces, no era buen negocio llegar hecho mierda y
@@ -58,7 +62,9 @@ la excuersión, por suerte llegamos y empezamos a caminar hacia nuestro
 destino para buscar los cascos y subir por la aerosilla para comenzar
 con la clase de sky.
 
-|image3|\ Llegamos arriba, esperamos un rato en la puerta de una cabaña.
+|image3|
+
+Llegamos arriba, esperamos un rato en la puerta de una cabaña.
 Dejamos la mochila en el guarda ropa (por $10 - **toooodo** te cobran y
 te cagan encima, los chicos están re podridos de que le ofrezcan todo el
 tiempo comprar cosas y que les digan: "chicos lleven abrigo" y después
@@ -84,7 +90,9 @@ ya se las habían ofrecido en el colectivo de ida y la habían comprado).
 Terminamos eso y emprendimos la vuelta hacia abajo para poder almorzar y
 luego volver al hotel.
 
-|image4|\ Ni bien llegamos, devolvimos los cascos y nos fuimos a comer a
+|image4|
+
+Ni bien llegamos, devolvimos los cascos y nos fuimos a comer a
 SkiRanch: una reverenda cagada. Fue pésima la atención, demoraron al
 rededor de 30 hora en servirnos la comida y además a algunos les dieron
 una milanesa cruda y otras que eran in-cortables de la cantidad de
@@ -142,7 +150,9 @@ aislado de los chicos, por lo que no se puede ver nada de lo que están
 haciendo. Este es el único lugar del boliche que tiene otra música
 diferente al resto de todas las otras pistas.
 
-|image5|\ Nosotros estuvimos bailando un rato en el VIP con los chicos y
+|image5|
+
+Nosotros estuvimos bailando un rato en el VIP con los chicos y
 tomandos unos daikiris deliciosos, con frutas de verdad y muy bien
 preparados. Entre trago y trago nos bailamos algunos temas viejos y yo
 me fui a dar una vuelta para bailar con los chicos. A la vuelta al VIP
@@ -157,7 +167,9 @@ Me comí como 5 o 6 porciones y me tomé 2 fernets para acompañarla. Luego
 de eso con la panza llena, nos fuimos a bailar un rato con los chicos y
 a "caretearla" a la pista :P
 
-|image6|\ Estuvimos bailando un rato ahí, cada uno su propio tema e
+|image6|
+
+Estuvimos bailando un rato ahí, cada uno su propio tema e
 incluso descoordinando consigo mismo, nos reimos un rato, nos sacamos un
 par de fotos y me pintó irme. Saludé y a las 4 am ya estaba de vuelta en
 la habitación sentado en el inodoro. Cuando salí del baño, me senté en
@@ -200,7 +212,9 @@ al hotel: **la foto** fue desde la ruta... ¡Una cagada!
 
 |image8|
 
-|image9|\ El siguiente lugar en el que paramos era el *punto
+|image9|
+
+El siguiente lugar en el que paramos era el *punto
 panorámico*. Dónde se podía apreciar una naturaleza hermosa. Saqué
 muchas fotos y me comí un choripán con salsa picante :D . Nos volvimos a
 subir al micro y partimos para la fábrica de chocolates El Reino del
@@ -215,7 +229,9 @@ comenté a Salvador y decidimos volver al hotel porque no daba para
 quedarse ahí. Así que nos volvimos caminando unas 4 cuadras y... Acá
 estoy escribiendo esto.
 
-|image10|\ Esta noche nos toca **By Pass**, vamos a ver que tal está. Me
+|image10|
+
+Esta noche nos toca **By Pass**, vamos a ver que tal está. Me
 comentaron que nos reciben con una mesa salada repleta de fiambres :)
 
  

@@ -62,7 +62,9 @@ día. Además, estoy haciendo los trámites del seguro también.
 El auto es un 147 Spazio TRD Diesel motor 1.3 Rojo, tirando a bordó
 mate. Como si hubiese estado mucho tiempo en el sol y la lluvia.
 
-|image1|\ Tengo pensado empezar a viajar cuanto antes, fines de semanas
+|image1|
+
+Tengo pensado empezar a viajar cuanto antes, fines de semanas
 largos y demás. Espero que esté lo suficientemente bien como para
 hacerlo y que la gente con la que quiero ir se prenda a éstas aventuras.
 Además, tengo muchas ganas de visitar **gentes** de diferentes lugares.

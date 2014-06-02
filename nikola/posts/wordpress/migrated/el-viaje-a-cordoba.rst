@@ -89,7 +89,9 @@ en el celular. Después pasé por el laburo de mi vieja, busqué todas las
 *porquerías*\ esas y partí. Esta es la cara que tenía en ese momento:
 *tristeza 100%, más sólo que yo*
 
-|image0|\ En el semáforo de Laurencena y Ramírez yendo hacia el Túnel
+|image0|
+
+En el semáforo de Laurencena y Ramírez yendo hacia el Túnel
 Subfluvial.
 
 Pasó ese semáforo, agarro el rulo para encarar para el Túnel y ya veo
@@ -161,7 +163,9 @@ aceite. Le faltaba un poco de ambos. Agregué y partí nuevamente.
 Cuando ya me estaba acostumbrando al "*Bbbrrrrrrrrrrrrrrrrr....*\ " del
 motor yendo a unos 110 Km/h (hay foto que lo demuestra):
 
-|image1|\ Yendo de San Francisco al próximo pueblo por la Ruta 19
+|image1|
+
+Yendo de San Francisco al próximo pueblo por la Ruta 19
 
 ... se escucha: "*plaaaf"* y automáticamente me di cuenta que había
 perdido el sentido de la vista. Posta, no entendía nada. No se veía nada
@@ -363,14 +367,22 @@ al parque Sarmiento, si no me equivoco, a dónde nos llevamos muchas de
 las empanadas del día anterior y mate. Nos hicimos una onda picnic y
 estuvimos cirqueando toda la tarde entre malabares y acrobacias.
 
-|image2|\ Vista desde el puente que te lleva a la isla que está en el
+|image2|
+
+Vista desde el puente que te lleva a la isla que está en el
 parque Sarmiento. Dónde están los "batibotes" ;)
 
-|image3|\ Malabareando un rato en el parque
+|image3|
 
-|image4|\ El Mati en su primer intento. Todos queríamos jugar.
+Malabareando un rato en el parque
 
-|image5|\ Después ya vinieron las clases de Acrobacia, que ni el profe
+|image4|
+
+El Mati en su primer intento. Todos queríamos jugar.
+
+|image5|
+
+Después ya vinieron las clases de Acrobacia, que ni el profe
 sabía como hacerlas, pero usaba a sus alumnos de ratitas.
 
 |image6|"El avioncito"
@@ -488,7 +500,9 @@ mías:
 
 |image8| Practicando el *pies ventosas* en la \ *casa de alguien famoso*
 
-|image9|\ El grupo completo: Matías (abajo), Luciana, Magalí, Melisa y
+|image9|
+
+El grupo completo: Matías (abajo), Luciana, Magalí, Melisa y
 yo
 
 Luego de esta expedición y casi perdiendo la vida a la vuelta intentando

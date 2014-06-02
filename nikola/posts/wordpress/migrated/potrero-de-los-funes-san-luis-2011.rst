@@ -161,7 +161,9 @@ que servía de la que estaba bañada en tierra. No la íbamos a tirar,
 además teníamos más hambre que el chavo. Imaginate el hambre que le
 metimos tanta brasa que se re contra quemó... Era incomible!
 
-|image8|\ Hacía MUCHO frío. De hecho, hace mucho frío por la noche (con
+|image8|
+
+Hacía MUCHO frío. De hecho, hace mucho frío por la noche (con
 mucho viento) y durante el día un calor muy agradable.\ |image9|
 
 Me mata la cara de Pancho en esta foto!
@@ -192,15 +194,25 @@ aprendimos algunas cosas locas sobre los elementos que se han
 descubierto y utilizado para entender / aprender diferentes cosas.
 Además visitamos la sala de experimentos.
 
-|image10|\ Esto es desde el mirador hacia La Punta. Esa es la ruta que
+|image10|
+
+Esto es desde el mirador hacia La Punta. Esa es la ruta que
 recorrimos entre las montañas
 
-|image11|\ |image12|\ La cancha de fútbol, que por cierto tenía un
+|image11|
+
+|image12|
+
+La cancha de fútbol, que por cierto tenía un
 césped envidiable.
 
-|image13|\ La réplica del Cabildo.
+|image13|
 
-|image14|\ La sala de experimentos del planetario.
+La réplica del Cabildo.
+
+|image14|
+
+La sala de experimentos del planetario.
 
 |image15|
 
