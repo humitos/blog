@@ -10,6 +10,12 @@
 
 .. epigraph::
 
+   Cuando uno no ama, compra.
+
+   -- Gustavo Cerati
+
+.. epigraph::
+
    Algunos creen que para cumplir los sueños hay que cagarse en los
    demás, otros... Solo los cumplen.
 
