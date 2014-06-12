@@ -1,7 +1,7 @@
 .. title: Llegando a Capilla
 .. slug: llegando-a-capilla
 .. date: 2014-06-07 00:55:05 UTC-03:00
-.. tags: argentina en python, capilla del monte, viaje, cordoba
+.. tags: argentina en python, capilla del monte, viajes, cordoba
 .. link: 
 .. description: 
 .. type: text

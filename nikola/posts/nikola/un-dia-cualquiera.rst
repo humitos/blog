@@ -42,3 +42,7 @@ Me prestaron una bici plegable para ir que tenía toda la onda:
 
 Así que, ni bien llegué, me puse en campaña para preparar el mate y
 seguir trabajando.
+
+Todas las fotos del día de hoy, aquí_.
+
+.. _aquí: https://www.flickr.com/photos/20667659@N03/sets/72157645133092015/
