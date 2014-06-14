@@ -56,15 +56,26 @@ TRANSLATIONS = {
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ('/pages/argentina-en-python/', 'Argentina en Python'),
         ('/pages/info/', 'Info'),
-        ('/pages/repositorio/', 'Repositorio'),
-        ('/pages/modulos-python/', 'Módulos Python'),
         ('/pages/traducciones/', 'Traducciones'),
-        ('/pages/frases/', 'Frases'),
-        ('/archive.html', 'Historial'),
-        ('/categories/index.html', 'Tags'),
+        ('/pages/modulos-python/', 'Módulos Python'),
+        (
+            (
+                ('/pages/repositorio/', 'Repositorio'),
+                ('/pages/frases/', 'Frases'),
+            ),
+            'Extras',
+        ),
+        (
+            (
+                ('/categories/index.html', 'Etiquetas'),
+                ('/archive.html', 'Archivo Anual'),
+                ('http://humitos.wordpress.com', 'Viejo Blog en Wordpress'),
+            ),
+            'Historial',
+        ),
         # ('/rss.xml', 'RSS'),
-        ('http://humitos.wordpress.com', 'Viejo Blog en Wordpress'),
         ('http://feeds.feedburner.com/humitos', 'RSS'),
     ),
 }
