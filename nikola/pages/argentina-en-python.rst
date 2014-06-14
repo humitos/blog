@@ -81,7 +81,7 @@ seguir para el lado de Mendoza.
 Hasta el momento los lugares en los que he estado son:
 
 * Córdoba, Córdoba, Argentina
-* Capilla del Monte, Córdoba, Argentina
+* Capilla del Monte, Córdoba, Argentina (`fotos <https://www.flickr.com/photos/20667659@N03/sets/72157645050168061/>`_, `más <https://www.flickr.com/photos/20667659@N03/sets/72157645133092015/>`_)
 * San Marcos Sierras, Córdoba Argentina
 * El Quicho, Córdoba, Argentina
 
