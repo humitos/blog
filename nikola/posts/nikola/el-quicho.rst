@@ -150,3 +150,9 @@ avanzado de lo lindo. Son groso estos tipos.
    :target: DSC_6769_01.jpg
 
 Así, se me pasó un día hermoso de campo, educación y familia.
+
+.. note::
+
+   Como estoy con una conexión a internet que no tiene mucha subida,
+   todas las fotos van a estar disponible en los próximos días cuando
+   me mueva para otro lugar y pueda subir muchas fotos.
