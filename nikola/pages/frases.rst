@@ -10,6 +10,16 @@
 
 .. epigraph::
 
+   La única gente que me interesa es la que está loca, la gente que
+   está loca por vivir, loca por hablar, loca por salvarse, con ganas
+   de todo al mismo tiempo, la gente que nunca bosteza ni habla de
+   lugares comunes, sino que arde, arde como fabulosos cohetes
+   amarillos explotando igual que arañas entre las estrellas.
+
+   -- Jean-Louis Jack Kerouac
+
+.. epigraph::
+
    Cuando uno no ama, compra.
 
    -- Gustavo Cerati
