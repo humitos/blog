@@ -19,16 +19,22 @@ la hora de preparar la comida y, como el día estaba increíble,
 decidimos preparala en el patio tomando un poco del solcito y mirar la
 imponente vista:
 
-.. image:: DSC_6575_01.thumbnail.jpg
+.. figure:: DSC_6575_01.thumbnail.jpg
    :target: DSC_6575_01.jpg
+
+   Vista desde el patio
+
+.. TEASER_END: Seguir leyendo...
 
 De ahí, después de comer unas riquísimas verduras salteadas al wok con
 semillas y demáses, decidimos ir a hacer un poco de actividad física
 antes de seguir trabajando. Para eso, agarramos las bicis y nos fuimos
 a ver qué tal el Dique "El Cajón":
 
-.. image:: DSC_6593_01.thumbnail.jpg
+.. figure:: DSC_6593_01.thumbnail.jpg
    :target: DSC_6593_01.jpg
+
+   Dique el Cajón, Capilla del Monte
 
 Después de estirar un poco las piernas y sacar algunas fotos por el
 lugar, decidimos emprender la vuelta a la casa para seguir trabajando
@@ -37,8 +43,10 @@ tarde y encima me había ido al medio día a pasear.
 
 Me prestaron una bici plegable para ir que tenía toda la onda:
 
-.. image:: me-riding-a-foldable-bike.resize.thumbnail.jpg
+.. figure:: me-riding-a-foldable-bike.resize.thumbnail.jpg
    :target: me-riding-a-foldable-bike.resize.jpg
+
+   Andando en una bici plegable
 
 Así que, ni bien llegué, me puse en campaña para preparar el mate y
 seguir trabajando.

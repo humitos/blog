@@ -23,8 +23,12 @@ de los terrenos que me mostró. Una zona hermosa.
 
 Acá, dos fotos que me sacó él que me gustan mucho:
 
-.. image:: DSC_6551_01.thumbnail.jpg
+.. figure:: DSC_6551_01.thumbnail.jpg
    :target: DSC_6551_01.jpg
 
-.. image:: DSC_6558_01.thumbnail.jpg
+   Contemplando el paisaje
+
+.. figure:: DSC_6558_01.thumbnail.jpg
    :target: DSC_6558_01.jpg
+
+   Perdido entre la vegetación

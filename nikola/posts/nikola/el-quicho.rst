@@ -8,8 +8,10 @@
 
 Llegó el día. Hoy fuimos a `El Quicho`_.
 
-.. image:: DSC_6620_01.thumbnail.jpg
+.. figure:: DSC_6620_01.thumbnail.jpg
    :target: DSC_6620_01.jpg
+
+   Escuela Rubén Darío, El Quicho
 
 .. _El Quicho: https://www.google.com.ar/maps/place/Serrezuela/@-30.6392951,-65.3855667,1330m/data=!3m1!1e3!4m2!3m1!1s0x942c20aea36bba97:0x8bd681859d12d7be
 
@@ -24,6 +26,8 @@ hace por lo menos 15 Km para llegar a la escuela desde la casa. La
 mayoría de ellos van en moto hasta la escuela. Desde los chicos de
 primaria (quizás unos 10 años) hasta los más grandecitos y algunos
 otros van en auto / camioneta Ford F100 o ese estilo.
+
+.. TEASER_END: Seguir leyendo...
 
 La verdad que en el mapa no se puede ver nada, pero la escuela está a
 unos 20 Km por tierra desde la ruta (cerca de Serrezuela).
@@ -63,8 +67,10 @@ Audacity_.
 
 .. _Audacity: http://audacity.sourceforge.net/
 
-.. image:: DSC_6623_01.thumbnail.jpg
+.. figure:: DSC_6623_01.thumbnail.jpg
    :target: DSC_6623_01.jpg
+
+   Agustín en el taller de edición de audio con Audacity_
 
 De ahí, me fui a chusmear un poco cómo iba Ceci con su curso de
 Video. Para cuando llegué, ya estaban laburando con OpenShot_. Un
@@ -74,8 +80,10 @@ didáctica. Saqué algunas fotitos y me quedé escuchando qué decía para
 ver si podía aprender algo de reojo. Casi casi que me siento a hacer
 el curso con los chicos.
 
-.. image:: DSC_6642_01.thumbnail.jpg
+.. figure:: DSC_6642_01.thumbnail.jpg
    :target: DSC_6642_01.jpg
+
+   Cecilia en el taller de edición de video con OpenShot_
 
 .. _OpenShot: http://www.openshot.org/
 
@@ -116,8 +124,10 @@ escapado para hacer otras cosas. Creo que tenía un grupo con varios
 chicos que se dispersaban fácilmente, pero sin embargo había un par
 que estában embaladísimos e hicieron algunas cositas interesantes.
 
-.. image:: DSC_6636_01.thumbnail.jpg
+.. figure:: DSC_6636_01.thumbnail.jpg
    :target: DSC_6636_01.jpg
+
+   Leo en el taller de edición de imágenes con Inkscape_ y Sozi_
 
 .. _Inkscape: http://www.inkscape.org/es/
 .. _Sozi: http://sozi.baierouge.fr/
@@ -146,8 +156,10 @@ que haga un poco de hielo en un recipiente térmico y voilá. Si bien es
 un prototipo, parece que vienen trabajando hace bastante y han
 avanzado de lo lindo. Son groso estos tipos.
 
-.. image:: DSC_6769_01.thumbnail.jpg
+.. figure:: DSC_6769_01.thumbnail.jpg
    :target: DSC_6769_01.jpg
+
+   Prototipo de heladera solar
 
 Así, se me pasó un día hermoso de campo, educación y familia.
 

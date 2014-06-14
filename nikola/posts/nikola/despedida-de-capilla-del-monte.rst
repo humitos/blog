@@ -8,7 +8,7 @@
 
 Así me fui de Capilla del Monte, despidiendo a Laura y Agustín:
 
-.. image:: DSC_6616_01.thumbnail.jpg
+.. figure:: DSC_6616_01.thumbnail.jpg
    :target: DSC_6616_01.jpg
 
 con una sonrisa hermosa dibujada en la cara y sabiendo que iba a
