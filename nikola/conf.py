@@ -310,6 +310,7 @@ FAVICONS = {
     ("icon", "/favicon_128x128.png", "128x128"),
 }
 
+INDEX_TEASERS = True
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
 INDEX_READ_MORE_LINK = True
 # 'Read more...' for the RSS_FEED, if RSS_TEASERS is True (translatable)
