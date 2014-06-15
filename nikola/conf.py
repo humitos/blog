@@ -14,7 +14,7 @@ BLOG_AUTHOR = "Manuel Kaufmann"
 BLOG_TITLE = "Humitos"
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://blog.mkaufmann.com.ar/"
+SITE_URL = "http://elblogdehumitos.com.ar/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://nikola.ralsina.com.ar"
