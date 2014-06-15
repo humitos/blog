@@ -315,6 +315,7 @@ INDEX_TEASERS = True
 INDEX_READ_MORE_LINK = True
 # 'Read more...' for the RSS_FEED, if RSS_TEASERS is True (translatable)
 RSS_READ_MORE_LINK = False
+RSS_TEASERS = False
 
 # A HTML fragment describing the license, for the sidebar. Default is "".
 # I recommend using the Creative Commons' wizard:
