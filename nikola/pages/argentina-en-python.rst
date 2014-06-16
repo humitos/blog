@@ -19,7 +19,7 @@ problemas cotidianos en usuarios comunes, como así también desarrollar
 programas poderosos y complejos de una forma sencilla, estimulando el
 aprendizaje colaborativo y la filosofía del Software Libre.
 
-La metología que el proyecto lleva adelante para poder promover
+La metodología que el proyecto lleva adelante para poder promover
 Python_ (entre otras cosas de interés personal) es viajando por el
 país, siguiendo la energía de las comunidades de Software Libre
 regionales y contactándose con gente que esté interesada en un curso o
@@ -74,8 +74,8 @@ El 16 de Mayo salí de Paraná, Entre Ríos en dirección a Córdoba
 Capital porque ya tenía arreglado previamente algunas cosas para
 empezar a hacer ahí. Como todo, una cosa llevó a la otra y fui
 conociendo diferentes grupos en varias reuniones, a su vez, con
-diferentes intereses y se fueron organizando otras reuniones más que
-hoy en día me llevó a San Marcos Sierras, Córdoba, con proyecciones de
+diferentes intereses y se fueron organizando otras reuniones más hasta
+que llevó a San Marcos Sierras, de dónde escribo, con proyecciones de
 seguir para el lado de Mendoza.
 
 Hasta el momento los lugares en los que he estado son:
@@ -92,8 +92,8 @@ Si bien no tiene una fecha de cierre certera, el plan original
 estimaba entre 3 y 4 meses de viajes y charlas, pero siendo que el
 proyecto ha sufrido algunas modificaciones en cuanto a su dirección y
 los tiempos libres se han reducido bastante, estoy medio desorientado
-con respecto a su duración. De cualquier modo, supongo que se va a
-mantener en esos valores...
+con respecto a su duración. De cualquier modo, supongo que durará
+aparentemente ese tiempo...
 
 ¿Cómo colaborar?
 ----------------
