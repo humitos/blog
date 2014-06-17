@@ -282,6 +282,7 @@ USE_FILENAME_AS_TITLE = True
 
 # Name of the theme to use.
 # THEME = 'site'
+THEME = 'elblogdehumitos'
 
 # Color scheme to be used for code blocks. If your theme provides
 # "assets/css/code.css" this is ignored.
@@ -547,7 +548,39 @@ GENERATE_RSS = True
 # EXTRA_HEAD_DATA = ""
 # Google analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
-BODY_END = """<script>
+BODY_END = """
+<script src="/assets/js/jquery.timeago.js" type="text/javascript"></script>
+<script>
+    jQuery(document).ready(function() {
+
+	if(jQuery('html').attr('lang') === 'es'){
+	    jQuery.timeago.settings.strings = {
+		prefixAgo: "hace",
+		prefixFromNow: "dentro de",
+		suffixAgo: "",
+		suffixFromNow: "",
+		seconds: "menos de un minuto",
+		minute: "un minuto",
+		minutes: "unos %d minutos",
+		hour: "una hora",
+		hours: "%d horas",
+		day: "un día",
+		days: "%d días",
+		month: "un mes",
+		months: "%d meses",
+		year: "un año",
+		years: "%d años"
+	    };
+	}
+	jQuery("time.published").timeago();
+
+	jQuery('article:not(:first)').before('<hr>');
+
+	jQuery('.highlight pre').addClass('code');
+    });
+</script>
+
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
