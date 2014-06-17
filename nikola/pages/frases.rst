@@ -10,6 +10,12 @@
 
 .. epigraph::
 
+   El conocimiento te puede llevar a lugares impensados.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
    La única gente que me interesa es la que está loca, la gente que
    está loca por vivir, loca por hablar, loca por salvarse, con ganas
    de todo al mismo tiempo, la gente que nunca bosteza ni habla de
