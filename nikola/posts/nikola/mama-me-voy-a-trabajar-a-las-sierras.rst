@@ -67,7 +67,7 @@ hasta el auto y seguir 1,5 Km más donde me dijeron que iba a encontrar
 un lugar maravilloso...
 
 .. figure:: DSC_6993_01.thumbnail.jpg
-   :target: DSC_6993.jpg
+   :target: DSC_6993_01.jpg
 
    Entrada a la estancia "Pozos Azules"
 
