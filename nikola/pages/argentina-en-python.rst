@@ -84,6 +84,8 @@ Hasta el momento los lugares en los que he estado son:
 * Capilla del Monte, Córdoba, Argentina (`fotos <https://www.flickr.com/photos/20667659@N03/sets/72157645050168061/>`_, `más <https://www.flickr.com/photos/20667659@N03/sets/72157645133092015/>`_)
 * San Marcos Sierras, Córdoba Argentina
 * El Quicho, Córdoba, Argentina
+* Cura Brochero, Córdoba, Argentina
+* Mina Clavero, Córdoba, Argentina
 
 ¿Cuándo termina?
 ----------------

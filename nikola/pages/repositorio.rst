@@ -71,6 +71,7 @@ Artículos
 #. `El proyecto GNU cumple 30 años <http://www.vialibre.org.ar/2013/09/27/el-proyecto-gnu-cumple-30-anos/>`_
 #. `Para una obra lo peor no es la copia, sino que la olviden <http://www.marcha.org.ar/1/index.php/nacionales/147-ciencia-y-tecnologia/4455-para-una-obra-lo-peor-no-es-la-copia-sino-el-olvido>`_
 #. `Porqué la "piratería" es beneficiosa para los músicos, y la industria discográfica no <http://derechoaleer.org/blog/2011/05/por-que-la-pirateria-es-beneficiosa-para-los-musicos.html>`_
+#. `El miedo a viajar (y por qué no hay que dejar que nos frene) <http://viajandoporahi.com/el-miedo-a-viajar-y-por-que-no-hay-que-dejar-que-nos-frene>`_
 
 Charlas
 -------
