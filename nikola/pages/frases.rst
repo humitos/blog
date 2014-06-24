@@ -7,6 +7,18 @@
 
 ... dignas de ser leídas.
 
+.. epigraph::
+
+   Sin aire no hay fuego.
+
+   -- FM La Tribu
+
+
+.. epigraph::
+
+   Me encanta generar mi destino.
+
+   -- Manuel Kaufmann
 
 .. epigraph::
 
