@@ -86,6 +86,7 @@ Hasta el momento los lugares en los que he estado son:
 * El Quicho, Córdoba, Argentina
 * Cura Brochero, Córdoba, Argentina
 * Mina Clavero, Córdoba, Argentina
+* Merlo, San Luis, Argentina
 
 ¿Cuándo termina?
 ----------------
