@@ -206,6 +206,8 @@ Comemos, sacamos un par de fotos más y volvemos...
 .. figure:: DSC_7352.thumbnail.jpg
    :target: DSC_7352.jpg
 
+   Montañas. Piedras gigantes y nubes en las que te metés adentro
+
 Así y todo, las fotos no pueden representar ni un 3% de lo que es ese
 lugar. Inmenso y hermoso.
 
