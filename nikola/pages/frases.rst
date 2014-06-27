@@ -9,6 +9,18 @@
 
 .. epigraph::
 
+   Al que juzgue tu camino, préstale tus zapatos.
+
+   -- No sé de quién es, pero me lo dijo Walini
+
+.. epigraph::
+
+   No hay que preocuparse por el futuro, éste viene solo.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
    Me gustan las sorpresas, pero no en el baño. Dejá limpio.
 
    -- La ex-sirvienta
