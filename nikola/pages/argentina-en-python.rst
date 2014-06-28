@@ -85,10 +85,14 @@ Hasta el momento los lugares en los que he estado son:
   <https://www.flickr.com/photos/20667659@N03/sets/72157645050168061/>`_,
   `más
   <https://www.flickr.com/photos/20667659@N03/sets/72157645133092015/>`_)
-* San Marcos Sierras, Córdoba Argentina
+* San Marcos Sierras, Córdoba Argentina (`las fotos
+  <https://www.flickr.com/photos/20667659@N03/sets/72157644996855319/>`_)
 * El Quicho, Córdoba, Argentina
 * Cura Brochero, Córdoba, Argentina
-* Mina Clavero, Córdoba, Argentina
+* Mina Clavero, Córdoba, Argentina (`algunas fotos
+  <https://www.flickr.com/photos/20667659@N03/sets/72157645263262002/>`_,
+  `noche de jazz y quebrada de los condoritos
+  <https://www.flickr.com/photos/20667659@N03/sets/72157644996195737/>`_)
 * Merlo, San Luis, Argentina (`álbum
   <https://www.flickr.com/photos/20667659@N03/sets/72157645390570231>`_)
 * El Trapiche, San Luis, Argentina
@@ -140,6 +144,10 @@ haberme ayudado y sino, espero que se estén enterando ahora :)
 
 Mapa
 ----
+
+Este es el mapa del recorrido realizado. Para ver los próximos
+destinos podés consultar :doc:`este post <ruta-de-viaje>`, aunque
+puede que quede desactualizado en algunos días.
 
 .. raw:: html
 
