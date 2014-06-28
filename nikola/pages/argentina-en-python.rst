@@ -81,12 +81,18 @@ seguir para el lado de Mendoza.
 Hasta el momento los lugares en los que he estado son:
 
 * Córdoba, Córdoba, Argentina
-* Capilla del Monte, Córdoba, Argentina (`fotos <https://www.flickr.com/photos/20667659@N03/sets/72157645050168061/>`_, `más <https://www.flickr.com/photos/20667659@N03/sets/72157645133092015/>`_)
+* Capilla del Monte, Córdoba, Argentina (`fotos
+  <https://www.flickr.com/photos/20667659@N03/sets/72157645050168061/>`_,
+  `más
+  <https://www.flickr.com/photos/20667659@N03/sets/72157645133092015/>`_)
 * San Marcos Sierras, Córdoba Argentina
 * El Quicho, Córdoba, Argentina
 * Cura Brochero, Córdoba, Argentina
 * Mina Clavero, Córdoba, Argentina
-* Merlo, San Luis, Argentina
+* Merlo, San Luis, Argentina (`fotos
+  <https://www.flickr.com/photos/20667659@N03/sets/72157645390570231>`_)
+* El Trapiche, San Luis, Argentina
+* San Luis, San Luis, Argentina
 
 ¿Cuándo termina?
 ----------------

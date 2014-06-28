@@ -154,3 +154,6 @@ ese.
 Por suerte, caí en `Hostel Casa Grande
 <http://casagrandehostelmerlo.com/>`_ que no me arrepiento ni un
 poquito de haber ido ahí. Muy buena onda, tanta, tanta que...
+
+Acá pueden ver `todas las fotos
+<https://www.flickr.com/photos/20667659@N03/sets/72157645390570231>`_.
