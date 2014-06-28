@@ -116,7 +116,7 @@ era mortal.
 
 La verdad que `@gilgamezh <https://twitter.com/gilgamezh>`_ la pegó
 con la ruta que me recomendó hacer. Si bien tuve bastante miedo en
-varias oportunidades, la experiencia fue apasionante y el paisaja
+varias oportunidades, la experiencia fue apasionante y el paisaje
 maravilloso. ¡Gracias `@gilgamezh <https://twitter.com/gilgamezh>`_!
 
 Podés ver `todas las fotos acá
