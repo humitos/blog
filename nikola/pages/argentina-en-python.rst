@@ -89,10 +89,25 @@ Hasta el momento los lugares en los que he estado son:
 * El Quicho, Córdoba, Argentina
 * Cura Brochero, Córdoba, Argentina
 * Mina Clavero, Córdoba, Argentina
-* Merlo, San Luis, Argentina (`fotos
+* Merlo, San Luis, Argentina (`álbum
   <https://www.flickr.com/photos/20667659@N03/sets/72157645390570231>`_)
 * El Trapiche, San Luis, Argentina
 * San Luis, San Luis, Argentina
+
+Fotos
+-----
+
+.. slides::
+
+   DSC_6809.jpg
+   DSC_6892.jpg
+   DSC_6975.jpg
+   DSC_6977.jpg
+   DSC_7036.jpg
+   DSC_7294.jpg
+   DSC_7387.jpg
+   DSC_7419.jpg
+   DSC_7469.jpg
 
 ¿Cuándo termina?
 ----------------
@@ -122,3 +137,12 @@ alojamiento. Eso es un punto extra.
 Mucha gente me ayudó a llegar hoy hasta acá: gracias a ellos. Creo
 haberles hecho saber a cada uno de ellos lo agradecido que estoy por
 haberme ayudado y sino, espero que se estén enterando ahora :)
+
+Mapa
+----
+
+.. raw:: html
+
+   <a class="align-center" href="https://goo.gl/maps/TLGfq"><img class="align-center" src="mapa.jpg"/></a>
+   <em class="align-center" style="margin-left: 270px; margin-right: auto;">(Click en la imagen para ir al mapa de google)</em>
+
