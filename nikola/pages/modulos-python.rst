@@ -17,6 +17,11 @@ que he encontrado interesante a lo largo de los años.
 Python
 ======
 
+`jedi <http://jedi.jedidjah.ch/en/latest/>`_ una librería de
+    autocompletado muy copada, la podés usar en el intérprete
+    interactivo común para sugerencias con TAB. También está su
+    `plugin para Emacs <https://github.com/tkf/emacs-jedi>`_
+
 `docopt <http://docopt.org/>`_
     librería para crear programas de línea de comandos utilizando un
     docstring (POSIX) como entrada para el parser.

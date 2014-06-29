@@ -9,6 +9,12 @@
 
 .. epigraph::
 
+   ¿Qué harías si no tuvieras miedo?
+
+   -- Acción Poética San Luis
+
+.. epigraph::
+
    Al que juzgue tu camino, préstale tus zapatos.
 
    -- No sé de quién es, pero me lo dijo Walini
