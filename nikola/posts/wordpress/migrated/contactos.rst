@@ -215,12 +215,12 @@ lo más rápido que pude.
 
 Al otro día, me levanté muy relajado por suerte. Después de desayunar,
 voy hacia la oficina y veo que había escrito algunas cosas la noche
-anterior antes de irme a dormir (es algo que normalmente hago, de dónde
-después sale un post en el blog, un proyecto o una idea revolucionaria
-que va a cambiar el mundo en los próximos años) y decía: "*El daño
-psicológico del
-`robo <http://humitos.wordpress.com/2012/05/28/un-dia-tristisimo/>`__ es
-irreversible*\ ". Lo cual me hizo pensar un rato y estar muy de acuerdo
+anterior antes de irme a dormir (es algo que normalmente hago, de
+dónde después sale un post en el blog, un proyecto o una idea
+revolucionaria que va a cambiar el mundo en los próximos años) y
+decía: "El daño psicológico del `robo
+<http://humitos.wordpress.com/2012/05/28/un-dia-tristisimo/>`__ es
+irreversible". Lo cual me hizo pensar un rato y estar muy de acuerdo
 conmigo mismo. Algo que no comúnmente pasa. Interesante.
 
 Trabajé toda la mañana. Un éxito. Arreglé muchas cosas y lo disfruté
