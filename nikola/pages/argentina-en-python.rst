@@ -97,6 +97,12 @@ Hasta el momento los lugares en los que he estado son:
   <https://www.flickr.com/photos/20667659@N03/sets/72157645390570231>`_)
 * El Trapiche, San Luis, Argentina
 * San Luis, San Luis, Argentina
+* Mendoza, Mendoza, Argentina
+* Uspallata, Mendoza, Argentina
+* Los Andes, Los Andes, Chile
+* Viña del Mar, Valparíso, Chile
+* Valparaíso, Valparaíso, Chile
+* San Juan, San Juan, Argentina
 
 Fotos
 -----
@@ -149,8 +155,12 @@ Este es el mapa del recorrido realizado. Para ver los próximos
 destinos podés consultar :doc:`este post <ruta-de-viaje>`, aunque
 puede que quede desactualizado en algunos días.
 
+*Tuve que sacar algunos destinos del mapa porque Google Maps te
+permite hasta un cierto límite. Sin embargo, traté de dejar la ruta
+lo más parecido a lo que hice*
+
 .. raw:: html
 
-   <a class="align-center" href="https://goo.gl/maps/TLGfq"><img class="align-center" src="mapa.jpg"/></a>
+   <a class="align-center" href="https://goo.gl/maps/AjUIi" target="_blank"><img class="align-center" src="mapa.jpg"/></a>
    <em class="align-center" style="margin-left: 270px; margin-right: auto;">(Click en la imagen para ir al mapa de google)</em>
 

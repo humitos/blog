@@ -9,6 +9,38 @@
 
 .. epigraph::
 
+   Aprovecha ahora que eres joven para sufrir todo lo que puedas, que
+   estas cosas no duran toda la vida.
+
+   -- Gabriel García Marquez
+
+.. epigraph::
+
+   Una cosa es trabajar en cualquier lado.. y otra es trabajar en
+   movimiento.
+
+   -- angvp
+
+.. epigraph::
+
+   Enamorado de la vida, aunque a veces duela.
+
+   -- Jorge Drexler
+
+.. epigraph::
+
+   Que el código que escribimos funcione, es una excepción.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
+   No todos los que deambulan están perdidos.
+
+   -- J. R. R. Tolkien
+
+.. epigraph::
+
    Es díficil de cumplir ese requisito. Es cómo cuando vas a sacar un
    crédito, para que te lo den necesitas demostrar que no lo necesitás.
 
