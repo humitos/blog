@@ -9,6 +9,12 @@
 
 .. epigraph::
 
+   Salir de la ciudad para entender el ritmo de las cosas.
+
+   -- Julio y Agosto
+
+.. epigraph::
+
    Aprovecha ahora que eres joven para sufrir todo lo que puedas, que
    estas cosas no duran toda la vida.
 

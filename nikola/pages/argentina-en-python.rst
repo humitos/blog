@@ -103,6 +103,8 @@ Hasta el momento los lugares en los que he estado son:
 * Viña del Mar, Valparíso, Chile
 * Valparaíso, Valparaíso, Chile
 * San Juan, San Juan, Argentina
+* Capilla del Monte, Córdoba, Argentina
+* Paraná, Entre Ríos, Argentina
 
 Fotos
 -----
@@ -151,9 +153,7 @@ haberme ayudado y sino, espero que se estén enterando ahora :)
 Mapa
 ----
 
-Este es el mapa del recorrido realizado. Para ver los próximos
-destinos podés consultar :doc:`este post <ruta-de-viaje>`, aunque
-puede que quede desactualizado en algunos días.
+Este es el mapa del recorrido realizado.
 
 *Tuve que sacar algunos destinos del mapa porque Google Maps te
 permite hasta un cierto límite. Sin embargo, traté de dejar la ruta
