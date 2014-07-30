@@ -47,6 +47,7 @@ Videos
 #. `Wikileaks: War, Lies and Videotapes, Luc Hermann, Paul Moreira <http://www.youtube.com/watch?v=6SbMuWdW100>`_
 #. `Dios Bendiga al Ateismo <https://www.youtube.com/watch?v=gQThYs5fZVs>`_
 #. `Idiots, Big Lazy Robot VFX <http://vimeo.com/79695097>`_
+#. `Argentina para armar: Secretos para viajar toda la vida <http://tn.com.ar/programas/argentina-para-armar/argentina-para-armar-27072014-secretos-para-viajar-toda-la-vida_520067>`_
 
 
 Películas
@@ -73,6 +74,8 @@ Artículos
 #. `Porqué la "piratería" es beneficiosa para los músicos, y la industria discográfica no <http://derechoaleer.org/blog/2011/05/por-que-la-pirateria-es-beneficiosa-para-los-musicos.html>`_
 #. `El miedo a viajar (y por qué no hay que dejar que nos frene) <http://viajandoporahi.com/el-miedo-a-viajar-y-por-que-no-hay-que-dejar-que-nos-frene>`_
 #. `Mis 6 años de viajera, el sindrome de parís y el lado oscuro de los viajes <http://viajandoporahi.com/mis-6-anos-de-viajera-el-sindrome-de-paris-y-el-lado-oscuro-de-los-viajes>`_
+#. `Esto somos <http://cuidadocontucassette.blogspot.com.ar/2014/07/normal-0-21-false-false-false-es-ar-x.html>`_
+
 
 Charlas
 -------

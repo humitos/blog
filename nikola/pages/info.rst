@@ -7,7 +7,7 @@
 .. nocomments: True
 
 
-   Fotografía, circo, computación, inglés…
+   Fotografía, cultura, electrónica, circo, computación, inglés…
 
 .. image:: me_unicycle.jpg
    :align: left

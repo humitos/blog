@@ -9,6 +9,13 @@
 
 .. epigraph::
 
+   Me he dado cuenta que la gente gasta la mejor parte de su vida en
+   juntar dinero para disfrutarlo durante la parte menos interesante.
+
+   -- http://www.chetoba.com.ar
+
+.. epigraph::
+
    Salir de la ciudad para entender el ritmo de las cosas.
 
    -- Julio y Agosto
