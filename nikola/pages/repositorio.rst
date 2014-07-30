@@ -95,5 +95,5 @@ Charlas
 #. `Es posible lo imposible, Oscar Villalobos <https://www.youtube.com/watch?v=UgYcQUgDBPc>`_
 #. `Haz que suceda, Isra Garcia <https://www.youtube.com/watch?v=_X5gPNHR1qQ>`_
 #. `Cerebro y percepcion, LeBlanc & West <https://www.youtube.com/watch?v=zONDGowt5lw>`_
-
-
+#. `La vacación perpetua, Marcela Chamorro <https://www.youtube.com/watch?v=Bn6voL8uphg>`_
+#. `La música de las ideas, Sergio Feferovich <https://www.youtube.com/watch?v=1wA2sl9IRcE>`_

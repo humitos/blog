@@ -9,6 +9,13 @@
 
 .. epigraph::
 
+   El genio no fue el que inventó el teléfono, genio fue el que
+   inventó el segundo teléfono.
+
+   -- Alejandro Dolina
+
+.. epigraph::
+
    Me he dado cuenta que la gente gasta la mejor parte de su vida en
    juntar dinero para disfrutarlo durante la parte menos interesante.
 

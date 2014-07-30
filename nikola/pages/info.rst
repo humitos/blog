@@ -24,38 +24,27 @@
 
 :Twitter: https://twitter.com/reydelhumo
 
+:Couchsurfing: https://www.couchsurfing.org/people/manuel.kaufmann
+
 :IRC: humitos
 
 :Teléfono: +54 343 4053434
 
 :Fotos:
 
-.. image:: me-el-quicho.thumbnail.jpg
-   :width: 120px
-   :target: me-el-quicho.jpg
-   :alt: El Quicho, Córdoba, Argentina, Junio 2014
-
-.. image:: with-an-xo.thumbnail.jpeg
-   :width: 120px
-   :target: with-an-xo.jpeg
-   :alt: Paraná, Entre Ríos, Argentina
-
-
-.. image:: pycamp-veronica.thumbnail.jpg
-   :width: 120px
-   :target: pycamp-veronica.jpg
-   :alt: Verónica, Buenos Aires, Argentina
-
 .. raw:: html
 
-   <div style="margin-top: 5px;">
+   <div style="margin-top: 5px; max-width: 420px; margin-left: 430px;">
 
-.. image:: edujam-uruguay-2012.thumbnail.jpg
-   :width: 120px
-   :target: edujam-uruguay-2012.jpg
-   :alt: Montevideo, Uruguay
+
+.. slides::
+
+   me-el-quicho.thumbnail.jpg
+   with-an-xo.thumbnail.jpeg
+   pycamp-veronica.thumbnail.jpg
+   edujam-uruguay-2012.thumbnail.jpg
+
 
 .. raw:: html
 
    </div>
-
