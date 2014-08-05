@@ -7,7 +7,7 @@
 .. nocomments: True
 
 
-   Fotografía, cultura, electrónica, circo, computación, inglés…
+   Fotografía, cultura, electrónica, circo, educación, computación, inglés…
 
 .. image:: me_unicycle.jpg
    :align: left
@@ -43,6 +43,7 @@
    with-an-xo.thumbnail.jpeg
    pycamp-veronica.thumbnail.jpg
    edujam-uruguay-2012.thumbnail.jpg
+   DSC_7076_01.thumbnail.jpg
 
 
 .. raw:: html

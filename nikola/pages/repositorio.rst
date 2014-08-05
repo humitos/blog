@@ -75,6 +75,8 @@ Artículos
 #. `El miedo a viajar (y por qué no hay que dejar que nos frene) <http://viajandoporahi.com/el-miedo-a-viajar-y-por-que-no-hay-que-dejar-que-nos-frene>`_
 #. `Mis 6 años de viajera, el sindrome de parís y el lado oscuro de los viajes <http://viajandoporahi.com/mis-6-anos-de-viajera-el-sindrome-de-paris-y-el-lado-oscuro-de-los-viajes>`_
 #. `Esto somos <http://cuidadocontucassette.blogspot.com.ar/2014/07/normal-0-21-false-false-false-es-ar-x.html>`_
+#. `12 startups in 12 months: here’s how this digital nomad is f**king doing it <http://www.techinasia.com/12-startups-in-12-months-how-this-digital-nomad-doing-it/>`_
+
 
 
 Charlas
@@ -97,3 +99,14 @@ Charlas
 #. `Cerebro y percepcion, LeBlanc & West <https://www.youtube.com/watch?v=zONDGowt5lw>`_
 #. `La vacación perpetua, Marcela Chamorro <https://www.youtube.com/watch?v=Bn6voL8uphg>`_
 #. `La música de las ideas, Sergio Feferovich <https://www.youtube.com/watch?v=1wA2sl9IRcE>`_
+#. `Como me enamoré de una lenteja, Eduardo Marcovich <https://www.youtube.com/watch?v=G5_OJhg-wu0>`_
+#. `Conversando, Roberto Ripari <https://www.youtube.com/watch?v=QU6sl6OOVfQ>`_
+#. `Objetos para pensar, Cristian Rizzi <https://www.youtube.com/watch?v=jgavUY3fzj8>`_
+#. `Para liderar hay que transpirar, Marcelo Katz <https://www.youtube.com/watch?v=nw1w4PqjieQ>`_
+#. `Sin obligacion de compra, Andres Michkin <https://www.youtube.com/watch?v=GZEjZL53zL8>`_
+#. `El objetivo de la educación, Noam Chomsky <https://www.youtube.com/watch?v=AsZJxDsd1Q8>`_
+#. `Como fracasar exitosamente, Rodolfo Giro <https://www.youtube.com/watch?v=AN6wtWc_b_g>`_
+#. `Montaña y valores, Oscar Boiero <https://www.youtube.com/watch?v=s4SPdEHJHeI>`_
+#. `Herramientas para la toma de decisiones, Pablo Montilla <https://www.youtube.com/watch?v=y8hcosWVgKI>`_
+#. `Vivir con menos = Mayor felicidad, Graham Hill <https://www.youtube.com/watch?v=47ubkqC2n6w>`_
+#. `La paradoja de elegir, Barry Schwatz <https://www.youtube.com/watch?v=XXRm7qbbYSk>`_

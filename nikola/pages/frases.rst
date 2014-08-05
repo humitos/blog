@@ -9,6 +9,26 @@
 
 .. epigraph::
 
+   El propósito de la educación debería ser mostrarle a la gente como
+   aprender por sí misma.
+
+   -- Noam Chomsky
+
+.. epigraph::
+
+   Somos el resultado de nuestras decisiones.
+
+   -- Marcelo Katz
+
+.. epigraph::
+
+   Los medios nos dicen la verdad para que nosotros creamos en la
+   mentira.
+
+   -- Pablo Wahnon
+
+.. epigraph::
+
    El genio no fue el que inventó el teléfono, genio fue el que
    inventó el segundo teléfono.
 

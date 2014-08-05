@@ -1,7 +1,7 @@
 .. title: Revolver, revolver, revolver
 .. slug: revolver-revolver-revolver
 .. date: 2014-07-31 18:20:34 UTC-03:00
-.. tags: paraná, argentina
+.. tags: argentina, argentina en python, san juan
 .. link: 
 .. description: 
 .. type: text

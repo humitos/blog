@@ -104,7 +104,7 @@ Hasta el momento los lugares en los que he estado son:
 * Valparaíso, Valparaíso, Chile
 * San Juan, San Juan, Argentina
 * Capilla del Monte, Córdoba, Argentina
-* Paraná, Entre Ríos, Argentina
+* Paraná, Entre Ríos, Argentina (:doc:`decidí volver <el-final-un-nuevo-comienzo>`)
 
 Fotos
 -----
