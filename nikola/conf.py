@@ -437,20 +437,7 @@ PRETTY_URLS = True
 
 # Social buttons. This is sample code for AddThis (which was the default for a
 # long time). Insert anything you want here, or even make it empty.
-SOCIAL_BUTTONS_CODE = \
-"""
-<!-- Social buttons -->
-<div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
-<a class="addthis_button_more">Share</a>
-<ul><li><a class="addthis_button_facebook"></a>
-<li><a class="addthis_button_google_plusone_share"></a>
-<li><a class="addthis_button_linkedin"></a>
-<li><a class="addthis_button_twitter"></a>
-</ul>
-</div>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
-<!-- End of social buttons -->
-"""
+SOCIAL_BUTTONS_CODE = ""
 
 # Show link to source for the posts?
 SHOW_SOURCELINK = True
@@ -580,16 +567,12 @@ BODY_END = """
     });
 </script>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-29338119-3', 'mkaufmann.com.ar');
-  ga('send', 'pageview');
-
-</script>"""
+<a title="Real Time Web Analytics" href="http://clicky.com/100758465">
+  <img alt="Real Time Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0" />
+</a>
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(100758465); }catch(e){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100758465ns.gif" /></p></noscript>"""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
