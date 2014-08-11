@@ -70,7 +70,10 @@ Django
     para crear thumbnails automáticamente y forma sencilla.
 
 `dogslow <https://bitbucket.org/evzijst/dogslow>`_
-    informa por email sobre requests que toman mucho tiempo
+    informa por email sobre requests que toman mucho tiempo.
+
+`factoryboy <http://factoryboy.readthedocs.org/en/latest/>`_
+    permite crear instancias de nuestros modelos fácilmente para ser usados en test cases.
 
 Comandos
 ========

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: viajes
+.. tags: viajes, colon, entre rios, argentina
 .. date: 2008/03/03 15:07:45
 .. title: Colón: Día 1
 .. slug: colon-dia-1

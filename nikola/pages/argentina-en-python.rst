@@ -51,10 +51,10 @@ El vehículo
 -----------
 
 Estoy viajando en mi auto particular con algunas modificaciones como
-para que entre una parrilla de cama y unas colchonetas y así poder
-dormir dentro del auto cuando sea necesario. Además, llevo un equipo
-de cocina básico como para poder alojarme en campings de diferentes
-lugares.
+para que entre una parrilla de cama y un pequeño colchón para así
+poder dormir dentro del auto cuando sea necesario. Además, llevo un
+equipo de cocina básico como para poder alojarme en campings de
+diferentes lugares.
 
 .. figure:: peugeot-206-capilla-del-monte.thumbnail.jpg
    :target: peugeot-206-capilla-del-monte.jpg
@@ -73,10 +73,10 @@ charlas y experiencias. ¡Esta es la parte que más me gusta!
 El 16 de Mayo salí de Paraná, Entre Ríos en dirección a Córdoba
 Capital porque ya tenía arreglado previamente algunas cosas para
 empezar a hacer ahí. Como todo, una cosa llevó a la otra y fui
-conociendo diferentes grupos en varias reuniones, a su vez, con
-diferentes intereses y se fueron organizando otras reuniones más hasta
-que llevó a San Marcos Sierras, de dónde escribo, con proyecciones de
-seguir para el lado de Mendoza.
+conociendo diferentes grupos en varias reuniones. A su vez, con
+diferentes intereses que permitieron organizar otras reuniones en
+distintos puntos del país gracias a le gente que fui conociendo en el
+camino.
 
 Hasta el momento los lugares en los que he estado son:
 
@@ -128,16 +128,20 @@ Si bien no tiene una fecha de cierre certera, el plan original
 estimaba entre 3 y 4 meses de viajes y charlas, pero siendo que el
 proyecto ha sufrido algunas modificaciones en cuanto a su dirección y
 los tiempos libres se han reducido bastante, estoy medio desorientado
-con respecto a su duración. De cualquier modo, supongo que durará
-aparentemente ese tiempo...
+con respecto a su duración.
+
+*El Sábado 26 de Julio volví a Paraná para tomar algunas decisiones
+personales y también sobre el rumbo de este proyecto. Actualmente,
+estoy organizando diferentes aspectos para determinar si es viable
+hacer una segunda parte.*
 
 ¿Cómo colaborar?
 ----------------
 
-Es muy importante para mí hacer contactos con gente interesada en
-estos temas como para poder coordinar a la distancia algunas
-actividades de mutuo interés: desde el circo hasta la programación,
-pasando por la fotografía y los eventos culturales.
+Es muy importante para mí :doc:`hacer contactos <mendoza-tiene-agite>`
+con gente interesada en estos temas como para poder coordinar a la
+distancia algunas actividades de mutuo interés: desde el circo hasta
+la programación, pasando por la fotografía y los eventos culturales.
 
 Esto permite una mejor y anticipada organización para charlas y
 talleres que llevan su tiempo de montaje y difusión, así como también

@@ -76,7 +76,7 @@ Artículos
 #. `Mis 6 años de viajera, el sindrome de parís y el lado oscuro de los viajes <http://viajandoporahi.com/mis-6-anos-de-viajera-el-sindrome-de-paris-y-el-lado-oscuro-de-los-viajes>`_
 #. `Esto somos <http://cuidadocontucassette.blogspot.com.ar/2014/07/normal-0-21-false-false-false-es-ar-x.html>`_
 #. `12 startups in 12 months: here’s how this digital nomad is f**king doing it <http://www.techinasia.com/12-startups-in-12-months-how-this-digital-nomad-doing-it/>`_
-
+#. `Entrevista a Chango Spasiuk en "Dos Acordes" <https://www.youtube.com/watch?v=L8f10dKoybM>`_
 
 
 Charlas

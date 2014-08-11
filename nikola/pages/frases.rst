@@ -7,6 +7,27 @@
 
 ... dignas de ser leídas.
 
+
+.. epigraph::
+
+   El que escucha está interpretando, y el que interpreta está
+   tratando de escuchar.
+
+   -- Chango Spasiuk
+
+.. epigraph::
+
+   Pasar por un lugar y no conocer a quien lo habita es como mirar un
+   documental, como ver de lejos.
+
+   -- Aniko Villalba
+
+.. epigraph::
+
+   Hay que ser valiente para captar tu propia esencia.
+
+   -- Kevin Johansen
+
 .. epigraph::
 
    El propósito de la educación debería ser mostrarle a la gente como
@@ -56,7 +77,7 @@
 
 .. epigraph::
 
-   Una cosa es trabajar en cualquier lado.. y otra es trabajar en
+   Una cosa es trabajar en cualquier lado... y otra es trabajar en
    movimiento.
 
    -- angvp
@@ -115,7 +136,6 @@
    Sin aire no hay fuego.
 
    -- FM La Tribu
-
 
 .. epigraph::
 
