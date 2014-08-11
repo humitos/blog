@@ -10,6 +10,12 @@
 
 .. epigraph::
 
+   Cuando te conocí me tropecé. Cuando me levanté ya no estabas ahí.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
    El que escucha está interpretando, y el que interpreta está
    tratando de escuchar.
 
