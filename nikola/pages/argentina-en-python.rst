@@ -132,8 +132,8 @@ con respecto a su duración.
 
 *El Sábado 26 de Julio volví a Paraná para tomar algunas decisiones
 personales y también sobre el rumbo de este proyecto. Actualmente,
-estoy organizando diferentes aspectos para determinar si es viable
-hacer una segunda parte.*
+estoy organizando la segunda etapa con fecha tentativa para el 5 de
+Septiembre, con Santiago del Estero como primer destino.*
 
 ¿Cómo colaborar?
 ----------------
@@ -168,3 +168,12 @@ lo más parecido a lo que hice*
    <a class="align-center" href="https://goo.gl/maps/AjUIi" target="_blank"><img class="align-center" src="mapa.jpg"/></a>
    <em class="align-center" style="margin-left: 270px; margin-right: auto;">(Click en la imagen para ir al mapa de google)</em>
 
+
+Post sobre "Argentina en Python"
+--------------------------------
+
+Últimos 5 posts (`ver todos </categories/argentina-en-python/>`_):
+
+.. post-list::
+   :stop: 5
+   :tags: argentina en python,
