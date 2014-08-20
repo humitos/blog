@@ -12,7 +12,7 @@
 .. raw:: html
 
    <div class="row">
-     <div class="span5">
+     <div class="span6">
 
 .. image:: me_unicycle.jpg
    :align: left
@@ -20,7 +20,7 @@
 .. raw:: html
 
      </div>
-     <div class="span5">
+     <div class="span6">
 
 :Blog: http://elblogdehumitos.com.ar
 
