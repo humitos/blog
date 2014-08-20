@@ -9,8 +9,18 @@
 
    Fotografía, cultura, electrónica, circo, educación, computación, inglés…
 
+.. raw:: html
+
+   <div class="row">
+     <div class="span5">
+
 .. image:: me_unicycle.jpg
    :align: left
+
+.. raw:: html
+
+     </div>
+     <div class="span5">
 
 :Blog: http://elblogdehumitos.com.ar
 
@@ -34,7 +44,7 @@
 
 .. raw:: html
 
-   <div style="margin-top: 5px; max-width: 420px; margin-left: 430px;">
+     <div style="margin-top: 5px; max-width: 500px">
 
 
 .. slides::
@@ -48,4 +58,6 @@
 
 .. raw:: html
 
+       </div>
+     </div>
    </div>
