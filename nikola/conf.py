@@ -241,6 +241,13 @@ from local_conf import DEPLOY_COMMANDS
 # By default, there are no filters.
 
 def convert_images(filename):
+    EXCLUDE_IMAGES = (
+        'assets',
+    )
+    for exclude in EXCLUDE_IMAGES:
+        if exclude in filename:
+            continue
+
     name, ext = os.path.splitext(filename)
     to_filename = name + '.thumbnail' + ext
     command = 'convert {from_filename} -thumbnail 580 {to_filename}'\
