@@ -517,11 +517,24 @@ GENERATE_RSS = True
 # </script>
 # """
 
-# EXTRA_HEAD_DATA = """
-# <link rel="stylesheet" type="text/css" href="/assets/css/tipuesearch.css">
-# <div id="tipue_search_content" style="margin-left: auto; margin-right: auto; padding: 20px;"></div>
-# """
-
+EXTRA_HEAD_DATA = """
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@reydelhumo">
+<meta name="twitter:title" content="Novedades">
+<meta name="twitter:description" content="Novedades sobre &quot;Argentina en Python&quot;">
+<meta name="twitter:creator" content="@argenpython">
+<meta name="twitter:image:src" content="http://elblogdehumitos.com.ar/pages/argentina-en-python/logo.png">
+<meta name="twitter:domain" content="elblogdehumitos.com.ar">
+<meta name="twitter:app:name:iphone" content="">
+<meta name="twitter:app:name:ipad" content="">
+<meta name="twitter:app:name:googleplay" content="">
+<meta name="twitter:app:url:iphone" content="">
+<meta name="twitter:app:url:ipad" content="">
+<meta name="twitter:app:url:googleplay" content="">
+<meta name="twitter:app:id:iphone" content="">
+<meta name="twitter:app:id:ipad" content="">
+<meta name="twitter:app:id:googleplay" content="">
+"""
 
 # Use content distribution networks for jquery and twitter-bootstrap css and js
 # If this is True, jquery is served from the Google CDN and twitter-bootstrap
@@ -572,7 +585,10 @@ BODY_END = """
 </a>
 <script src="//static.getclicky.com/js" type="text/javascript"></script>
 <script type="text/javascript">try{ clicky.init(100758465); }catch(e){}</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100758465ns.gif" /></p></noscript>"""
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100758465ns.gif" /></p></noscript>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+"""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
