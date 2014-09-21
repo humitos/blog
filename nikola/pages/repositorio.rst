@@ -35,8 +35,8 @@ Libros
 Videos
 ------
 
-#. `This is water, David Foster Wallace <http://www.youtube.com/watch?v=6z5TIFr5XMo>`_
-#. `¿Te atreves a soñar?, Matti Hemmi <http://www.youtube.com/watch?v=ykfp1WvVqAY>`_
+#. `This is water, David Foster Wallace <https://www.youtube.com/watch?v=EaYMcD5xodg>`_
+#. `¿Te atreves a soñar?, Matti Hemmi <https://www.youtube.com/watch?v=i07qz_6Mk7g>`_
 #. `La historia de las cosas, Annie Leonard <http://www.youtube.com/watch?v=ykfp1WvVqAY>`_
 #. `Vida, libertad y conciencia, Fredy Kofman <http://www.youtube.com/watch?v=S1D5pliEIaY>`_
 
@@ -48,6 +48,7 @@ Videos
 #. `Dios Bendiga al Ateismo <https://www.youtube.com/watch?v=gQThYs5fZVs>`_
 #. `Idiots, Big Lazy Robot VFX <http://vimeo.com/79695097>`_
 #. `Argentina para armar: Secretos para viajar toda la vida <http://tn.com.ar/programas/argentina-para-armar/argentina-para-armar-27072014-secretos-para-viajar-toda-la-vida_520067>`_
+#. `Todo es un remix, Kirby Ferguson <https://www.youtube.com/watch?v=O7-DlOaCsjU>`_
 
 
 Películas
@@ -56,6 +57,7 @@ Películas
 #. `La educación prohibida, Germán Doin <http://educacionprohibida.com.ar>`_
 #. `Zeitgeist, Peter Joseph <http://www.zeitgeistmovie.com/>`_
 #. `Trom <http://tromsite.com/>`_
+#. `The Real Me <http://therealme.serenablues.com/es/>`_
 
 Artículos
 ---------
@@ -76,7 +78,6 @@ Artículos
 #. `Mis 6 años de viajera, el sindrome de parís y el lado oscuro de los viajes <http://viajandoporahi.com/mis-6-anos-de-viajera-el-sindrome-de-paris-y-el-lado-oscuro-de-los-viajes>`_
 #. `Esto somos <http://cuidadocontucassette.blogspot.com.ar/2014/07/normal-0-21-false-false-false-es-ar-x.html>`_
 #. `12 startups in 12 months: here’s how this digital nomad is f**king doing it <http://www.techinasia.com/12-startups-in-12-months-how-this-digital-nomad-doing-it/>`_
-#. `Entrevista a Chango Spasiuk en "Dos Acordes" <https://www.youtube.com/watch?v=L8f10dKoybM>`_
 
 
 Charlas
@@ -110,3 +111,5 @@ Charlas
 #. `Herramientas para la toma de decisiones, Pablo Montilla <https://www.youtube.com/watch?v=y8hcosWVgKI>`_
 #. `Vivir con menos = Mayor felicidad, Graham Hill <https://www.youtube.com/watch?v=47ubkqC2n6w>`_
 #. `La paradoja de elegir, Barry Schwatz <https://www.youtube.com/watch?v=XXRm7qbbYSk>`_
+#. `Utilizando el poder de millones de mentes humanas, Luis von Ahn <https://www.youtube.com/watch?v=x1ShVyBm8GU>`_
+#. `Entrevista a Chango Spasiuk en "Dos Acordes" <https://www.youtube.com/watch?v=L8f10dKoybM>`_
