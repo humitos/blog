@@ -45,7 +45,12 @@ de forma itinerante a lo largo de todo el país.
 :doc:`Por varias razones <experimentando-la-busqueda>`, esta propuesta
 no se pudo realizar tal cuál se había pensado en un principio, por lo
 que se hicieron algunas modificaciones y, si bien se está empujando,
-el tiempo dedicado a estas activiades no es el deseado.
+el tiempo dedicado a estas activiades no es el deseado. Sin embargo,
+muchas de estas actividades se están desarrollando de manera
+informal. Compartiendo charlas de Software Libre con gente que no
+conoce el concepto, haciendo asistencia GNU/Linux en sistemas
+domésticos, como así también colaborando con algunos scripts Python
+para resolver tareas cotidianas y así alentar el aprendizaje personal.
 
 El vehículo
 -----------
@@ -70,6 +75,9 @@ charlas y experiencias. ¡Esta es la parte que más me gusta!
 ¿En qué estado está actualmente?
 --------------------------------
 
+Primera Etapa
+*************
+
 El 16 de Mayo salí de Paraná, Entre Ríos en dirección a Córdoba
 Capital porque ya tenía arreglado previamente algunas cosas para
 empezar a hacer ahí. Como todo, una cosa llevó a la otra y fui
@@ -77,6 +85,11 @@ conociendo diferentes grupos en varias reuniones. A su vez, con
 diferentes intereses que permitieron organizar otras reuniones en
 distintos puntos del país gracias a le gente que fui conociendo en el
 camino.
+
+*El Sábado 26 de Julio volví a Paraná para tomar algunas decisiones
+personales y también sobre el rumbo de este proyecto. Así como también
+organizar una segunda etapa con fecha tentativa para el 5 de
+Septiembre, con Santiago del Estero como primer destino.*
 
 Hasta el momento los lugares en los que he estado son:
 
@@ -106,6 +119,36 @@ Hasta el momento los lugares en los que he estado son:
 * Capilla del Monte, Córdoba, Argentina
 * Paraná, Entre Ríos, Argentina (:doc:`decidí volver <el-final-un-nuevo-comienzo>`)
 
+Este es el mapa del recorrido realizado.
+
+*Tuve que sacar algunos destinos del mapa porque Google Maps te
+permite hasta un cierto límite. Sin embargo, traté de dejar la ruta
+lo más parecido a lo que hice*
+
+.. raw:: html
+
+   <a class="align-center" href="https://goo.gl/maps/AjUIi" target="_blank"><img class="align-center" src="mapa.jpg"/></a>
+   <em class="align-center" style="margin-left: 270px; margin-right: auto;">(Click en la imagen para ir al mapa de google)</em>
+
+Segunda Etapa
+*************
+
+La idea de la segunda etapa se concretó el Viernes 5 de Septiembre,
+saliendo desde Paraná hacia Rafaela como primer destino.
+
+Los lugares por los que he estado hasta el momento:
+
+* Rafaela, Santa Fe, Argentina
+* Ceres, Santa Fe, Argentina
+* Santiago del Estero, Santiago del Estero, Argentina
+
+Este es el mapa del recorrido realizado.
+
+.. raw:: html
+
+   <a class="align-center" href="https://goo.gl/maps/wPhmx" target="_blank"><img class="align-center" src="mapa_2da.jpg"/></a>
+   <em class="align-center" style="margin-left: 270px; margin-right: auto;">(Click en la imagen para ir al mapa de google)</em>
+
 Fotos
 -----
 
@@ -124,16 +167,15 @@ Fotos
 ¿Cuándo termina?
 ----------------
 
-Si bien no tiene una fecha de cierre certera, el plan original
-estimaba entre 3 y 4 meses de viajes y charlas, pero siendo que el
-proyecto ha sufrido algunas modificaciones en cuanto a su dirección y
-los tiempos libres se han reducido bastante, estoy medio desorientado
-con respecto a su duración.
+La etapa que estoy cursando actualmente tiene como cierre la PyCon2014_
+a realizarse en Rafaela, Santa Fe los días 13, 14 y 15 de Noviembre.
 
-*El Sábado 26 de Julio volví a Paraná para tomar algunas decisiones
-personales y también sobre el rumbo de este proyecto. Actualmente,
-estoy organizando la segunda etapa con fecha tentativa para el 5 de
-Septiembre, con Santiago del Estero como primer destino.*
+.. _PyCon2014: http://myconference.co/pyconar2014
+
+Es probable que exista una tercera etapa en un futuro. Todo dependerá
+de como vaya la segunda con respecto a la situación laboral, la
+organización personal y los desafíos planteados durante el viaje.
+
 
 ¿Cómo colaborar?
 ----------------
@@ -153,21 +195,6 @@ alojamiento. Eso es un punto extra.
 Mucha gente me ayudó a llegar hoy hasta acá: gracias a ellos. Creo
 haberles hecho saber a cada uno de ellos lo agradecido que estoy por
 haberme ayudado y sino, espero que se estén enterando ahora :)
-
-Mapa
-----
-
-Este es el mapa del recorrido realizado.
-
-*Tuve que sacar algunos destinos del mapa porque Google Maps te
-permite hasta un cierto límite. Sin embargo, traté de dejar la ruta
-lo más parecido a lo que hice*
-
-.. raw:: html
-
-   <a class="align-center" href="https://goo.gl/maps/AjUIi" target="_blank"><img class="align-center" src="mapa.jpg"/></a>
-   <em class="align-center" style="margin-left: 270px; margin-right: auto;">(Click en la imagen para ir al mapa de google)</em>
-
 
 Post sobre "Argentina en Python"
 --------------------------------
