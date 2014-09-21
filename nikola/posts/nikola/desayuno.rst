@@ -59,7 +59,7 @@ revuelvo y listo para empezar a comer acompañándolo con el mate.
 
 .. admonition:: Otras opciones
 
-   Antes, en vez de ponerle una cucharada de miel, corataba media
+   Antes, en vez de ponerle una cucharada de miel, cortaba media
    banana en rebanadas no muy grandes ni muy chiquitas y las mezclaba
    con la preparación.
 
