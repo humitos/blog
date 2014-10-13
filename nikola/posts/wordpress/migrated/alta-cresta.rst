@@ -95,9 +95,7 @@ una sensación de frescura única...
 
 "Alta cresta"... -se escuchó a lo lejos
 
-*(\*) basado en una historia real:
-`Foto1 <http://humitos.files.wordpress.com/2012/02/2012-02-07-131255.jpg>`__
--
-`Foto2 <http://humitos.files.wordpress.com/2012/02/2012-02-07-131321.jpg>`__
--
-`Yapa <http://humitos.files.wordpress.com/2012/02/2012-02-07-131155.jpg>`__*
+(*) basado en una historia real:
+`Foto1 <http://humitos.files.wordpress.com/2012/02/2012-02-07-131255.jpg>`_
+`Foto2 <http://humitos.files.wordpress.com/2012/02/2012-02-07-131321.jpg>`_
+`Yapa <http://humitos.files.wordpress.com/2012/02/2012-02-07-131155.jpg>`_
