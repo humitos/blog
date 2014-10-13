@@ -17,8 +17,8 @@ de la versión final de las traducciones.
 Tutorial Python
 ---------------
 
-:Version: 3.4.1
-:OnLine: http://docs.python.org.ar/tutorial/index.html
+:Version: 3.4.2rc1
+:OnLine: http://tutorial.python.org.ar/
 :Repositorio: https://github.com/PyAr/tutorial
 :Fecha: 2013-2014
 :Traductor: Python Argentina

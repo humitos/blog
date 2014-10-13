@@ -141,6 +141,13 @@ Los lugares por los que he estado hasta el momento:
 * Rafaela, Santa Fe, Argentina
 * Ceres, Santa Fe, Argentina
 * Santiago del Estero, Santiago del Estero, Argentina
+* San Miguel de Tucumán, Tucumán, Argentina
+* Tafí del Valle, Tucumán, Argentina
+* Ampimpa, Tucumán, Argentina
+* Amaicha del Valle, Tucumán, Argentina
+* Cafayate, Salta, Argentina
+* San Lorenzo, Salta, Argentina
+* Salta, Salta, Argentina
 
 Este es el mapa del recorrido realizado.
 

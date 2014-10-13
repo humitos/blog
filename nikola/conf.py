@@ -65,7 +65,7 @@ NAVIGATION_LINKS = {
                 ('/pages/apoyo/', 'Apoyo'),
                 ('/pages/repositorio/', 'Repositorio'),
                 ('/pages/frases/', 'Frases'),
-                ('http://docs.python.org.ar/tutorial/', 'El Tutorial de Python'),
+                ('http://tutorial.python.org.ar/', 'El Tutorial de Python'),
             ),
             'Extras',
         ),

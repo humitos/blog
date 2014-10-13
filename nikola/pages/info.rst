@@ -61,3 +61,9 @@
        </div>
      </div>
    </div>
+
+
+.. tip::
+
+   Prefiero *email* como medio de contacto por sobre los demas ya que
+   es lo que reviso con más frecuencia.

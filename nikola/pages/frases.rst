@@ -7,6 +7,31 @@
 
 ... dignas de ser leídas.
 
+.. epigraph::
+
+   Uno no se da cuenta de las cosas que tiene, hasta que le falla el
+   WiFi.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
+   Como vamos a promover un sistema de consumo partiendo de bienes no
+   renovables.
+
+   -- Pilar Guauque
+
+.. epigraph::
+
+   Poder decir adiós es crecer.
+
+   -- Gustavo Cerati
+
+.. epigraph::
+
+   Separarse de la especie por algo superior no es soberbia, es amor.
+
+   -- Gustavo Cerati
 
 .. epigraph::
 
