@@ -48,6 +48,8 @@ digo eso..."
 "¿Qué carajo le dejo?" -pensaba yo. "¿Me estará pidiendo algo como 'un
 paquete de yerba' o querrá que le deje 'ropa' o qué mierda querrá?"
 
+.. TEASER_END: Seguir leyendo...
+
 Me hago más adelante, estaciono, busco 'algo' dentro de todas las
 cosas que tenía en el auto, me fijo si tenía algo de plata en algún
 sucucho que por ahí guardo por cualquier cosa, o que te va quedando de
