@@ -148,6 +148,8 @@ Los lugares por los que he estado hasta el momento:
 * Cafayate, Salta, Argentina
 * San Lorenzo, Salta, Argentina
 * Salta, Salta, Argentina
+* Purmamarca, Jujuy, Argentina
+* Tilcara, Jujuy, Argentina
 
 Este es el mapa del recorrido realizado.
 
