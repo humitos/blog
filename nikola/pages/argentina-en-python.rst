@@ -75,6 +75,32 @@ charlas y experiencias. ¡Esta es la parte que más me gusta!
 ¿En qué estado está actualmente?
 --------------------------------
 
+Etapa 0
+*******
+
+Como buen programador, el viaje tiene que empezar con una etapa 0
+(cero). Comenzando el 21 de Febrero con destino principal Ciudad
+Autónoma de Buenos Aires para que comience la organización de
+*semejante (desconocido) proyecto*. Esta etapa se extendió durante
+todo el mes de Marzo.
+
+Esta etapa fue una experimentación personal, una prueba piloto, una
+búsqueda de una organización funcional que mezcle el trabajo cotidiano
+con el viaje constante...
+
+Recorrido:
+
+* Ciudad Autónoma de Buenos Aires, Buenos Aires, Argentina
+* Martínez, Buenos Aires, Argentina
+* San Clemente del Tuyú, Buenos Aires, Argentina
+* Ciudad Autónoma de Buenos Aires, Buenos Aires, Argentina
+* Quilmes, Buenos Aires, Argentina
+* Tigre, Buenos Aires, Argentina
+* Olivos, Buenos Aires, Argentina
+* González Catán, Buenos Aires, Argentina
+* Martínez, Buenos Aires, Argentina
+
+
 Primera Etapa
 *************
 
@@ -91,7 +117,7 @@ personales y también sobre el rumbo de este proyecto. Así como también
 organizar una segunda etapa con fecha tentativa para el 5 de
 Septiembre, con Santiago del Estero como primer destino.*
 
-Hasta el momento los lugares en los que he estado son:
+Los lugares en los que he estado son:
 
 * Córdoba, Córdoba, Argentina
 * Capilla del Monte, Córdoba, Argentina (`fotos

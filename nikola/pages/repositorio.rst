@@ -78,6 +78,7 @@ Artículos
 #. `Mis 6 años de viajera, el sindrome de parís y el lado oscuro de los viajes <http://viajandoporahi.com/mis-6-anos-de-viajera-el-sindrome-de-paris-y-el-lado-oscuro-de-los-viajes>`_
 #. `Esto somos <http://cuidadocontucassette.blogspot.com.ar/2014/07/normal-0-21-false-false-false-es-ar-x.html>`_
 #. `12 startups in 12 months: here’s how this digital nomad is f**king doing it <http://www.techinasia.com/12-startups-in-12-months-how-this-digital-nomad-doing-it/>`_
+#. `¿Qué me ha enseñado el nomadismo? <http://unviajedemilesdekmempiezaconunpequenopaso.wordpress.com/2014/04/27/que-me-ha-ensenado-el-nomadismo/>`_
 
 
 Charlas

@@ -40,6 +40,10 @@ hr {
     margin: 20px 0;
 }
 
+hr.docutils {
+    width: 100% !important;
+}
+
 header .subtitle {
     font-size: 25.02px;
     font-weight: 400;

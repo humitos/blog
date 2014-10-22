@@ -165,6 +165,13 @@ copado. Finalmente, lo encontramos y acordamos quedarnos una noche
 ahí, luego ir a "El refugio" (también recomendación de Gaby) y el
 Domingo partir para Tilcara. Ese era el plan.
 
+.. note::
+
+   Sí, aunque parezca mentira, el dueño del camping (Billy) era
+   Analista de Sistemas, sabía programar en PHP y tenía una empresa de
+   diseño web también. "No digas nada, te ganaste un libro del
+   Tutorial de Python"
+
 .. figure:: DSC_0960.thumbnail.jpg
    :target: DSC_0960.jpg
 
@@ -208,7 +215,10 @@ traé el encendedor".
 
 De nuevo, organizamos nuestra cosas y partimos hacia
 Tilcara. Llegamos, buscamos el hostel al que yo había enviado un mail
-por disponibilidad y nos fuimos para ahí. Enseguida ya conocimos más gente, entre ellas, Jana, una Suiza que estaba paseando por acá también y nos organizamos para comer todos juntos unas pata-muslo con ensalada y luego salir a hacer trekking para *La Garganta del Diablo*
+por disponibilidad y nos fuimos para ahí. Enseguida ya conocimos más
+gente, entre ellas, Jana, una Suiza que estaba paseando por acá
+también y nos organizamos para comer todos juntos unas pata-muslo con
+ensalada y luego salir a hacer trekking para *La Garganta del Diablo*
 
 .. figure:: DSC_1106.thumbnail.jpg
    :target: DSC_1106.jpg
