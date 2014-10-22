@@ -2,12 +2,25 @@
 .. description: 
 .. tags: 
 .. date: 2013/09/08 16:27:37
-.. title: Info
-.. slug: info
+.. title: ¿Quién escribe?
+.. slug: quien-escribe
 .. nocomments: True
 
 
    Fotografía, cultura, electrónica, circo, educación, computación, inglés…
+
+¡Bienvenido a mi blog! Yo, quien te escribe, soy Manuel Kaufmann. Un
+programador Python aficionado por hobbie y también de profesión al que
+le gusta escribir en este blog contando anécdotas, experiencias y
+también textos un poco más técnicos con el objetivo de compartir,
+enseñar, transmitir y motivar a otros a perseguir sus sueños como
+tantos otros me han ayudado a mi.
+
+Actualmente he estado viajando por la Argentina por más de 10 meses,
+llevando adelante la segunda etapa de un proyecto personal y
+comunitario llamado :doc:`argentina-en-python`.
+
+----
 
 .. raw:: html
 
@@ -62,6 +75,7 @@
      </div>
    </div>
 
+----
 
 .. tip::
 
