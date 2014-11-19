@@ -176,6 +176,12 @@ Los lugares por los que he estado hasta el momento:
 * Salta, Salta, Argentina
 * Purmamarca, Jujuy, Argentina
 * Tilcara, Jujuy, Argentina
+* Santiago del Estero, Santiago del Estero, Argentina
+* San Fernando del Valle de Catamarca, Catamarca, Argentina
+* Villa Tulumba, Córdoba, Argentina
+* Capilla del Monte, Córdoba, Argentina
+* Capital, Córdoba, Argentina
+* Rafaela, Santa Fe, Argentina
 
 Este es el mapa del recorrido realizado.
 
@@ -202,15 +208,14 @@ Fotos
 ¿Cuándo termina?
 ----------------
 
-La etapa que estoy cursando actualmente tiene como cierre la PyCon2014_
-a realizarse en Rafaela, Santa Fe los días 13, 14 y 15 de Noviembre.
+La 2da etapa cerró en la PyCon2014_ que se realizó en Rafale, Santa Fe
+los días 13, 14 y 15 de Noviembre.
 
 .. _PyCon2014: http://myconference.co/pyconar2014
 
-Es probable que exista una tercera etapa en un futuro. Todo dependerá
-de como vaya la segunda con respecto a la situación laboral, la
-organización personal y los desafíos planteados durante el viaje.
-
+:doc:`Aquí se puede leer un artículo
+<python-conference-argentina-2014>` sobre el resultado de esta
+etapa.
 
 ¿Cómo colaborar?
 ----------------
