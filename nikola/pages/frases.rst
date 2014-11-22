@@ -9,6 +9,30 @@
 
 .. epigraph::
 
+   Fanáticos del *football* y repugnantes de halloween
+
+   -- Marcos
+
+.. epigraph::
+
+   Uno no se muere cuando quiere, sino cuando puede
+
+   -- Gabriel García Márquez
+
+.. epigraph::
+
+   Los ricos no se enferman de pobreza
+
+   -- Marcos
+
+.. epigraph::
+
+   Buscando un trabajo corría el riesgo de encontrarlo.
+
+   -- Javier Malonda
+
+.. epigraph::
+
    Uno no se da cuenta de las cosas que tiene, hasta que le falla el
    WiFi.
 

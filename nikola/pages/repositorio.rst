@@ -79,6 +79,8 @@ Artículos
 #. `Esto somos <http://cuidadocontucassette.blogspot.com.ar/2014/07/normal-0-21-false-false-false-es-ar-x.html>`_
 #. `12 startups in 12 months: here’s how this digital nomad is f**king doing it <http://www.techinasia.com/12-startups-in-12-months-how-this-digital-nomad-doing-it/>`_
 #. `¿Qué me ha enseñado el nomadismo? <http://unviajedemilesdekmempiezaconunpequenopaso.wordpress.com/2014/04/27/que-me-ha-ensenado-el-nomadismo/>`_
+#. `Guía de viajes para humanos <http://viajandoporahi.com/guia-de-viajes-para-humanos>`_
+#. `Lo que te sobra, no es tuyo <https://viajerosvoluntarios.wordpress.com/2014/10/31/lo-que-te-sobra-no-es-tuyo/>`_
 
 
 Charlas
