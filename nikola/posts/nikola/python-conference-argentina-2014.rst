@@ -14,6 +14,13 @@
    Logo oficial de la conferencia
 
 
+.. sidebar:: Prensa
+
+   `Cristian Bertelegni <https://twitter.com/cbertelegni>`_ escribió
+   un artículo que `salió publicado en el blog de La Nación
+   <http://blogs.lanacion.com.ar/data/argentina/sexto-encuentro-nacional-de-python-argentina/>`_
+   sobre la conferencia.
+
 La Conferencia Anual de Programadores Python, organizada por el Grupo
 de Usuarios de Python Argentina, tuvo lugar el pasado Jueves, Viernes
 y Sábado en Rafaela, Santa Fe.
@@ -22,9 +29,9 @@ Así nomás, el anuncio de las fechas de la conferencia conllevaba
 muchísimas expectativas, como todos los años. Sin embargo,
 personalmente estaba bastante nervioso porque era la primera
 presentación en público (una comunidad a la que quiero y respeto
-mucho) sobre el proyecto que vengo empujando y llevando adelante desde
-el año pasado, luego de haber dicho que *"lo iba a hacer"* en una
-`lightning talk`_ en Rosario, Santa Fe.
+mucho) sobre el :doc:`proyecto que vengo empujando y llevando adelante
+<argentina-en-python>` desde el año pasado, luego de haber dicho que
+*"lo iba a hacer"* en una `lightning talk`_ en Rosario, Santa Fe.
 
 .. _lightning talk: https://www.youtube.com/watch?v=U34rV6dRXU8&t=986
 
@@ -123,7 +130,7 @@ con sus colaboraciones y el Jueves en su charla, me la devolvió y me
 la volvió a volar con IPython Notebook para luego...
 
 A mitad del día Jueves, se me acerca un flaco (posteriormente conocido
-como Julio) y me dice:
+como *Julo*) y me dice:
 
     Che, groso lo que estás haciendo con tu proyecto...
 
@@ -159,7 +166,7 @@ despreocupado y confiado de que todo iba salir, no estaba seguro de
 cómo hacer la introducción. La parte dónde comparo la imaginación
 generalizada con la realidad. Si hacer una especie de actuación o
 simplemente comentarlo y que salgo como salga... Así, con esa
-insertidumbre de cómo empezar mi charla, me fui a la de *¿Cómo
+incertidumbre de cómo empezar mi charla, me fui a la de *¿Cómo
 debuguear código Python?* de Facundo Batista, que cuando lo ví ahí
 arriba del escenario muy relajado y *en patas* hizo que se me pasen
 bastantes los nervios. Estaba muy tranquilo el tipo, como si lo
@@ -410,6 +417,62 @@ PyCon Argentina que se hace en "el interior del país". Brindo por eso.
 Me la pasé lagrimeando durante todo el tiempo que me llevó escribir
 este post...
 
+.. admonition:: Actualización 18 Noviembre
+
+   ¡Qué mal que te pase esto! Me acaba de llegar un mensaje que dice
+   "Zarpado post!" y me lo mandó Gustavo, quien me alojó en su casa
+   durante todos los días de la PyCon y no mencioné nada en el post
+   sobre lo agradecido que estamos. ¡Qué flojo que estuve!
+
+   Sí, Gustavo se ofreció a alojarme a mí y a Johanna en su casa. Nos
+   sentímos súper cómodos en todo momento. Los padres nos trataron
+   como si fuéramos sus propios hijos. Nos preparaban el desayuno, me
+   tendían la cama y hasta me dobablan la toalla luego de que esté
+   seca. Y yo, luego de recibir el mensaje de Gustavo por Facebook, me
+   sentí para el culo. Esa es la verdad. Así que, acá me vine a
+   actualizar el post agradeciendo todas las buenas vibras que nos
+   brindaron y también la buena onda de Tavo y sus charlas locas de
+   RasberriPy sobre la transmisión de FM para la traducción... :)
+
+   ... wa! sí, hubo traducción en vivo también y tampoco mencioné
+   nada... Muy groso eso. Desde la organización, Tavo con su
+   RasberriPy y Melina haciendo la interpretación de las charlas "aō
+   vivo". Genial todo esto, genial de verdad. Todo. Ahora me estoy
+   dando cuenta que seguro hay mil cosas que estuvieron zarpadas y no
+   mencioné. Quizás las vaya agregando a medida que me voy
+   acordando...
+
+   ... por ejemplo, mientras escribía la primera parte... perdí la
+   noche del Jueves, completamente... ¿Qué hicimos el Jueves? "Tic,
+   tac, tic, tac..."
+
+   ¡Gracias!
+
+   .. admonition:: Viajando con una planta
+
+      Otra cosita que me puso un poco mal es que me fui de Rafaela sin
+      poder ir a visitar a la mamá de Fisa, quién cocinó unos riquísimos
+      tallarines allá por Septiembre y me invitó a comer a su
+      casa. Además, como si eso fuese poco, me invitó con un riquísimo
+      postre y me regaló una planta porque le dije que me sentía solo y
+      quería tener un ser vivo en el auto que me acompañe :D
+
+   Muchas fotos de la conferencia, `aquí
+   <https://www.flickr.com/photos/70871182@N04/sets/72157648925618199/>`_
+   por Yamila Cuestas.
+
+.. admonition:: Slides de mi charla
+
+   Los slides de mi charla los pueden ver acá. Si bien no es muy
+   interesante su contenido, al final tiene una sección de
+   "Motivaciones" que son artículos y videos que me ayudaron a llegar
+   hasta acá.
+
+   .. raw:: html
+
+      <iframe src="//www.slideshare.net/slideshow/embed_code/41729522" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+
 .. _waliki: https://github.com/mgaitan/waliki/
 .. _nikola: https://github.com/getnikola/nikola/
 .. _ansible: http://www.ansible.com/home/
@@ -423,7 +486,7 @@ este post...
    .. figure:: two-scoops-of-django.thumbnail.jpg
       :target: two-scoops-of-django.jpg
    
-      El libro de Danny and Audrey
+      El libro de Danny y Audrey
 
    .. figure:: credencial.thumbnail.jpg
       :target: credencial.jpg

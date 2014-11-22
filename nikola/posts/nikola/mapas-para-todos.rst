@@ -1,7 +1,7 @@
 .. title: Mapas para todos
 .. slug: mapas-para-todos
 .. date: 2014-10-13 16:54:17 UTC-03:00
-.. tags: argentina en python, mapas, proyecto mapear, openstreetmap, garmin, gps, viajes, auto
+.. tags: argentina en python, mapas, proyecto mapear, openstreetmap, garmin, gps, viajes, auto, osm
 .. link:
 .. description:
 .. type: text
@@ -66,6 +66,15 @@ Una vez que hayamos cargado todos los datos que consideremos que
 hacían falta, lo último que nos queda es actualizar el GPS con esos
 nuevos datos. Para eso yo utilizo un sitio web que genera un archivo
 `gmapsupp.img` específico para Garmin.
+
+.. sidebar:: Actualización 8 de Nov 2014
+
+   Encontré estos mapas que están listos para usarse (solo hay que
+   bajar y copiar el archivo al GPS) y muy pulidos para todo lo que es
+   Argentina. Altamente recomendables ya que tienen un activo y
+   continuo desarrollo:
+
+   http://www.i-nis.com.ar/osm/garmin
 
 #. Entramos a http://garmin.openstreetmap.nl/
 
