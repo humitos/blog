@@ -18,7 +18,7 @@ máximo de luminosidad) tenía el foco manual y a eso había que sumarle
 que cada vez que hacían un truco mientras estaban colgados, la
 estructura se me movía como loco...
 
-`Acá están las fotos <https://www.flickr.com/photos/20667659@N03/>`_
+`Acá están las fotos <https://www.flickr.com/photos/20667659@N03/sets/72157649447585995/>`_
 que pude rescatar (aunque no estoy muy contento con el resultado):
 
 .. figure:: DSC_2530_01.thumbnail.jpg
