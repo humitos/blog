@@ -60,6 +60,7 @@ NAVIGATION_LINKS = {
         ('/pages/traducciones/', 'Traducciones'),
         # ('/pages/modulos-python/', 'Módulos Python'),
         ('http://tutorial.python.org.ar/', 'El Tutorial de Python'),
+        ('/random/', 'Random'),
         (
             (
                 ('/pages/apoyo/', 'Apoyo'),
@@ -588,24 +589,25 @@ BODY_END = """
     });
 </script>
 
-
 <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+<script src="/assets/js/geolocation.js"></script>
 
+<!-- Piwik -->
 <script type="text/javascript">
-  $.getJSON("/assets/js/point.json", function(data){
-      var map = L.map('map').setView(data, 11);
-
-      // create the tile layer with correct attribution
-      var osmUrl='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
-      var osmAttrib='Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors';
-      var osm = new L.TileLayer(osmUrl, {minZoom: 8, maxZoom: 14, attribution: osmAttrib});
-      map.addLayer(osm);
-
-      var marker = L.marker(data).addTo(map);
-      marker.bindPopup("<b>Humitos</b> está aquí!").openPopup();
-  });
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//elblogdehumitos.com.ar/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
 </script>
+<noscript><p><img src="//elblogdehumitos.com.ar/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
 
 <a title="Real Time Web Analytics" href="http://clicky.com/100758465">
   <img alt="Real Time Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0" />
@@ -681,4 +683,6 @@ TIMEZONE = 'America/Argentina/Buenos_Aires'
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
 
-GLOBAL_CONTEXT = {}
+GLOBAL_CONTEXT = {
+    'has_custom_css': True,
+}
