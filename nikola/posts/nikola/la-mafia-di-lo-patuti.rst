@@ -13,8 +13,10 @@ compartido humildemente algunos escenarios allá por la época de
 
 ¡Felicitaciones por la función, fue un éxito!
 
+`Acá están todas las fotos del álbum
+<https://www.flickr.com/photos/20667659@N03/>`_
+
 .. figure:: DSC_1847_01.thumbnail.jpg
-   :target: https://www.flickr.com/photos/20667659@N03/
+   :target: DSC_1847_01.jpg
 
-   Click en la foto para ver todo el álbum
-
+   Iniciando...
