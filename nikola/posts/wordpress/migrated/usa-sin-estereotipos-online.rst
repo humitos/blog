@@ -15,15 +15,15 @@
 .. _aquí: http://humitos.wordpress.com/2013/08/30/usa-sin-estereotipos-online/
 
 
-|_DSC3817.resized|
+.. figure:: http://humitos.files.wordpress.com/2013/08/dsc3817-resized.jpg
 
 Presentación: este texto estaba impreso en mitades de hojas A4 y
 dobladas como si fuese un mini-librito que se podían descolgar de entre
-las fotos.
+las fotos::
 
     USA: Sin estereotipos
 
-     Luego de soñar diferentes cosas, emprenderlas, cancelarlas,
+    Luego de soñar diferentes cosas, emprenderlas, cancelarlas,
     suspenderlas y posponerlas... Finalmente, pude viajar a Estados
     Unidos. Diferentes motivos me llevaron al norte del continente en el
     que nací. Mejorar mi Inglés, conocer realidades muy diferentes,
@@ -31,21 +31,21 @@ las fotos.
     trabajado a la distancia sin ver su rostro, ver si el agua del
     inodoro gira realmente para el otro lado y muchas otras cosas más.
 
-     Pero claro, cuando comentaba entre mis grupos que en poco tiempo me
-    iba de viaje a Estados Unidos, muchos me decían: “\ *¿Estados
+    Pero claro, cuando comentaba entre mis grupos que en poco tiempo me
+    iba de viaje a Estados Unidos, muchos me decían: *¿Estados
     Unidos? Guac, ¿con qué necesidad? Yo no iría nunca a ese país.
     Podrías haber elegido cualquier otro, hay muchísimos lugares a dónde
-    ir e incluso mejores...*\ ” El capitalismo, el consumismo, las
+    ir e incluso mejores...* El capitalismo, el consumismo, las
     guerras, el McDonald's y muchísimas otras cosas me eran mencionadas
     luego de mi comentario sobre mi viaje. Y sí, me imagino que debe
     haber muchos otros lugares que están mejores que Estados Unidos, y
     espero que así sea, así los puedo conocer en otra oportunidad.
 
-     Aunque yo tenía mis razones, hablar con la gente que está “en
-    contra” de este país me hacía pensar nuevamente las cosas y volver a
+    Aunque yo tenía mis razones, hablar con la gente que está "en
+    contra" de este país me hacía pensar nuevamente las cosas y volver a
     considerarlo. Buscar otra alternativa, pero era imposible...
 
-     Luego de haber vivido 3 meses allá, alojado en diferentes casas por
+    Luego de haber vivido 3 meses allá, alojado en diferentes casas por
     diferentes familias de diferentes partes del mundo (inmigrantes),
     pude conocer muchas realidades de ese país y comprender el porqué de
     algunas cosas que suceden allá, quitarme muchos prejuicios y también
@@ -54,34 +54,34 @@ las fotos.
     común de ellos te resulta muy extraño, la cabeza empieza a trabajar
     a velocidades nunca antes pensadas...
 
-     Aprendí a abrir mi cabeza, a entender nuevas realidades sin estar
+    Aprendí a abrir mi cabeza, a entender nuevas realidades sin estar
     de acuerdo con ellas, a recorrer las calles y mirar diferentes
     comportamientos de la gente en muchos lugares y tratar de integrarme
-    sin perder mi escencia. Comparé nuestra época del “1 a 1”, -cuando
+    sin perder mi escencia. Comparé nuestra época del "1 a 1", -cuando
     era más barato comprar uno nuevo que hacerlo arreglar-, con su vida
-    día a día. Así, pasé 3 meses “analizando” otro país, tratando de
+    día a día. Así, pasé 3 meses "analizando" otro país, tratando de
     hacer las cosas típicas de allá sin traicionar mis valores y gracias
     a eso tuve la posibilidad de disfrutar muchísimo un viaje que tenía
-    una “\ *connotación negativa*\ ” de alguna manera.
+    una *connotación negativa* de alguna manera.
 
-     Finalmente, y gracias a la cantidad de gente con muy buena onda que
+    Finalmente, y gracias a la cantidad de gente con muy buena onda que
     conocí, eliminé todos los estereotipos del típico yankee que estamos
     acostumbrados a consumir por la televisión, las películas, los
     noticieros y los medios en general. Me dí cuenta que no tiene ningún
     sentido juzgar a un país entero por las cosas que consumimos de los
-    medios, por sus decisiones políticas y/o por las cosas “que pasan”
+    medios, por sus decisiones políticas y/o por las cosas "que pasan"
     (que en realidad no sabemos que pasan) allá. Personalmente, no me
     gustaría que me critiquen/juzgen por las decisiones que nuestro
     gobierto toma (o ha tomado), ni por nuestros deportistas, como ser
     Maradona, ni nada que se le parezca... Me parece de poco inteligente
     pensar así.
 
-     Hijos de puta hay en todos lados. Y así y todo, viajando 3 meses
+    Hijos de puta hay en todos lados. Y así y todo, viajando 3 meses
     por diferentes ciudades de Estados Unidos, relacionándome con
     muchísima gente de diferentes clases sociales, tuve la suerte de no
     conocer a ninguno de ellos.
 
-    - Manuel Kaufmann
+    -- Manuel Kaufmann
 
 Luego, la muestra estaba organizada en paneles con una foto principal en
 tamaño A3+ y algunas fotos más pequeñas que acompañaban a la principal
@@ -98,7 +98,7 @@ Estados Unidos...
 
     **Glass Museum - Seattle, Washington**
 
-    “El arte es muy valorado”. Esa fue la impresión que me quedó luego
+    "El arte es muy valorado". Esa fue la impresión que me quedó luego
     del viaje. Encontrar museos (no sólo históricos), exposiciones de
     fotos y galerías con alguna muestra era algo bastante sencillo
     incluso sin saber dónde estaban. Además, el costo de la entrada era
@@ -140,7 +140,7 @@ Estados Unidos...
     La mayoría de las casas tienen un jardín en la entrada con
     diferentes variedades de plantas, flores e incluso huertas dónde
     cultivan lechuga, tomate y distintos tipos de "berries" (arándanos,
-    moras, fresas), por ejemplo. Es común ir caminando y “probando” las
+    moras, fresas), por ejemplo. Es común ir caminando y "probando" las
     cerezas, moras, manzanas, etc que vas cruzando a medida que vas
     avanzando.
 
@@ -207,22 +207,22 @@ Estados Unidos...
     **Living Outside - Portland, Oregon**
 
     Escuché muchas cosas sobre la gente que vive en las calles
-    (Homeless). Algunos me dijeron que ellos “eligen” vivir en las
-    calles porque están en contra del sistema, otros “eligen” vivir en
+    (Homeless). Algunos me dijeron que ellos "eligen" vivir en las
+    calles porque están en contra del sistema, otros "eligen" vivir en
     un bote para no pagar los impuestos inmobiliarios que son altísimos,
-    otros que simplemente “aprovechan” los lugares comunitarios para ir
+    otros que simplemente "aprovechan" los lugares comunitarios para ir
     a almorzar y cenar (aunque no les permiten dormir ahí), otros...
 
-    Hablando con los “homeless” me enteré de miles de situaciones
+    Hablando con los "homeless" me enteré de miles de situaciones
     distintas, desde gente que fue toda la vida alcohólica hasta
-    familias a las que “el sistema” le arruinó la vida. Caminando por
-    “la calle de las estrellas” en Hollywood conocí a una pareja que
-    decía en voz alta: “No somos invisibles. No queremos tu dinero. Solo
+    familias a las que "el sistema" le arruinó la vida. Caminando por
+    "la calle de las estrellas" en Hollywood conocí a una pareja que
+    decía en voz alta: "No somos invisibles. No queremos tu dinero. Solo
     necesitamos comida. Por lo menos miranos y regalanos una sonrrisa,
-    no nos evites... Estamos acá, compartiendo el mismo mundo que vos.”
+    no nos evites... Estamos acá, compartiendo el mismo mundo que vos."
 
-    David, una de las personas que me alojó me preguntó: “¿A vos te
-    parece que alguien puede querer/elegir ser homeless?”
+    David, una de las personas que me alojó me preguntó: "¿A vos te
+    parece que alguien puede querer/elegir ser homeless?"
 
 *Frases que aparecen al lado de las fotografías:*
 
@@ -276,15 +276,15 @@ Estados Unidos...
     caminado largas horas por toda la isla para así entender cómo era el
     funcionamiento y conocer su maravillosa historia, el gustito amargo
     era inevitable. Todo tenía una explicación demasiado adornada para
-    mi gusto y algunas cosas eran “poco creíbles”. Por ejemplo, nos
-    dijeron que “nunca nadie se había escapado”, que “ningún preso fue
-    mal tratado”, que “los indios que reclamaban su tierra y tomaron la
-    isla se fueron voluntariamente” y algunas otras cosas más que eran,
+    mi gusto y algunas cosas eran "poco creíbles". Por ejemplo, nos
+    dijeron que "nunca nadie se había escapado", que "ningún preso fue
+    mal tratado", que "los indios que reclamaban su tierra y tomaron la
+    isla se fueron voluntariamente" y algunas otras cosas más que eran,
     al menos, de mi sospecha.
 
     En general, pasé por varias situaciones similares a ésta en
     diferentes oportunidades. Como tratándo de convencer / mostrar que
-    “son buenos” y que “lo hacen por el bien de todos”. En el Zoológico,
+    "son buenos" y que "lo hacen por el bien de todos". En el Zoológico,
     por ejemplo, cada jaula de cada animal tenía un cartel que decía que
     lo habían encontrado agonizando o que ya no se podía valer por sus
     propios medios y que gracias al Zoológico le salvaron la vida. ¿No
@@ -308,7 +308,7 @@ Estados Unidos...
 
 *Texto impreso debajo de las fotografías:*
 
-    **“STOP: All Way” - Portland, Oregon**
+    **"STOP: All Way" - Portland, Oregon**
 
     *Tacoma, Washington*
 
@@ -327,7 +327,7 @@ Estados Unidos...
 
     Además, me encontré con lugares permitidos para estacionar con un
     límite máximo de tiempo (2hs, por ejemplo) pero que nadie controla,
-    sino que es uno mismo quien tiene que ser “fiel” a la regla. También
+    sino que es uno mismo quien tiene que ser "fiel" a la regla. También
     hay semáforos temporales (como si fuese un trailer) con sensores de
     movimiento que organizan el tránsito cuando están trabajando en una
     ruta, habilitando una mano o la otra.
@@ -345,8 +345,8 @@ Estados Unidos...
     mexicanos ilegales nacido en Estados Unidos no es reconocido como
     estadounidense.
 
-    “Ningún ser humano es ilegal”, “Mantengan las familias unidas, NO
-    divididas”, “El poder a la gente” y otros carteles más paseaban las
+    "Ningún ser humano es ilegal", "Mantengan las familias unidas, NO
+    divididas", "El poder a la gente" y otros carteles más paseaban las
     calles de la ciudad de forma muy ordenada escoltados por policías en
     autos, bicicletas y a pie luego de un acto bastante importante con
     músico, artístas plásticos y oradores (hablando en diferentes
@@ -379,10 +379,10 @@ Estados Unidos...
 
     **Keep Portland Weird - Portland, Oregon**
 
-    “Manten Portland raro” es un graffitti que se encuentra en Downtown
+    "Manten Portland raro" es un graffitti que se encuentra en Downtown
     (centro de la ciudad) que expresa el orgullo que esa comunidad tiene
-    por diferenciarse del resto y de que los traten de “raros”. Ésto es
-    porque dentro de los EEUU también son “raros”, ya que son una ciudad
+    por diferenciarse del resto y de que los traten de "raros". Ésto es
+    porque dentro de los EEUU también son "raros", ya que son una ciudad
     ecológicamente amigable, separan la basura en 4 (compost,
     reciclable, vidrio y basura), hay un gran porcentaje de gente que
     anda en bicicletas y porque mucha gente cosecha su propia comida en
@@ -400,16 +400,16 @@ Estados Unidos...
 
     **Portland Saturday Market - Porland, Oregon**
 
-    Todos los Sábados se realiza un “mercado callejero” en alguna plaza
+    Todos los Sábados se realiza un "mercado callejero" en alguna plaza
     de la ciudad en dónde los granjeros locales dan a conocer y venden
-    sus cultivos “orgánicos”: libres de químicos como ser pesticidas,
+    sus cultivos "orgánicos": libres de químicos como ser pesticidas,
     por ejemplo.
 
-    Hay una movida grande al rededor de la comida “orgánica” ya que
+    Hay una movida grande al rededor de la comida "orgánica" ya que
     también hay muchos productos que son muy artificiales y las frutas y
     verduras han sufrido alguna modificación genética o han sido
     cultivadas con diferentes tipos de químicos. Es por eso que como
-    contra parte existen estos tipos de “mercados orgánicos” a los
+    contra parte existen estos tipos de "mercados orgánicos" a los
     cuales asiste mucha gente. Sin embargo, estos productos por son
     bastante más caros y más aún en este tipo de mercados, aunque es muy
     notable la diferencia y son deliciosos.
@@ -423,8 +423,8 @@ Estados Unidos...
 
     No confiamos en algo que nos dé un extraño, pero sí en algo que
     agarramos en el supermercado, que no tenemos ni puta idea quién lo
-    hizo ni como, pero viene en una caja y forrado en plástico. “Ah,
-    claro! Esto sí que es seguro. Está cerrado al vacío”.
+    hizo ni como, pero viene en una caja y forrado en plástico. "Ah,
+    claro! Esto sí que es seguro. Está cerrado al vacío".
 
     Believe in what you believe... it will all come around.
 
@@ -446,7 +446,7 @@ Estados Unidos...
 
 *Texto impreso debajo de las fotografías:*
 
-    **“Everyone deserves... (?)” - Portland, Oregon**
+    **"Everyone deserves... (?)" - Portland, Oregon**
 
     "Everyone deserves healthy teeth" (Todos merecen dientes saludables)
     era la discusión del momento en el que llegué a EEUU. Lo que
@@ -467,7 +467,7 @@ Estados Unidos...
     información recaudada no es suficiente para decidir si es nocivo o
     no ya que los problemas serían a largo plazo. Suiza, entre otros
     países del mundo, ha interrumpido la fluorización del agua ya debido
-    a estos “desconocidos” riesgos.
+    a estos "desconocidos" riesgos.
 
 [gallery ids="2454,2458,2499,2497,2500,2498"]
 
@@ -512,5 +512,5 @@ este post tiene abierta la sección de comentarios para explayar
 cualquier idea revolucionaria, o no, que esté relacionado con alguno de
 los temas que toca la muestra, siendo que se esté a favor o en contra.
 
-.. |_DSC3817.resized| image:: http://humitos.files.wordpress.com/2013/08/dsc3817-resized.jpg?w=580
+.. |_DSC3817.resized| image:: ?w=580
    :target: http://humitos.files.wordpress.com/2013/08/dsc3817-resized.jpg
