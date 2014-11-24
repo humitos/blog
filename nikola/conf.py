@@ -1,4 +1,3 @@
-
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 import time
@@ -57,15 +56,15 @@ TRANSLATIONS = {
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/pages/argentina-en-python/', 'Argentina en Python'),
-        ('/pages/info/', 'Info'),
+        ('/pages/quien-escribe/', '¿Quién escribe?'),
         ('/pages/traducciones/', 'Traducciones'),
-        ('/pages/modulos-python/', 'Módulos Python'),
+        # ('/pages/modulos-python/', 'Módulos Python'),
+        ('http://tutorial.python.org.ar/', 'El Tutorial de Python'),
         (
             (
                 ('/pages/apoyo/', 'Apoyo'),
                 ('/pages/repositorio/', 'Repositorio'),
                 ('/pages/frases/', 'Frases'),
-                ('http://tutorial.python.org.ar/', 'El Tutorial de Python'),
             ),
             'Extras',
         ),
@@ -276,7 +275,9 @@ FILTERS = {
 GALLERY_PATH = "galleries"
 THUMBNAIL_SIZE = 180
 MAX_IMAGE_SIZE = 1280
-USE_FILENAME_AS_TITLE = True
+USE_FILENAME_AS_TITLE = False
+GALLERY_SORT_BY_DATE = True
+EXTRA_IMAGE_EXTENSIONS = []
 
 # #############################################################################
 # HTML fragments and diverse things that are used by the templates
@@ -585,6 +586,25 @@ BODY_END = """
 
 	jQuery('.highlight pre').addClass('code');
     });
+</script>
+
+
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+
+<script type="text/javascript">
+  $.getJSON("/assets/js/point.json", function(data){
+      var map = L.map('map').setView(data, 11);
+
+      // create the tile layer with correct attribution
+      var osmUrl='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+      var osmAttrib='Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors';
+      var osm = new L.TileLayer(osmUrl, {minZoom: 8, maxZoom: 14, attribution: osmAttrib});
+      map.addLayer(osm);
+
+      var marker = L.marker(data).addTo(map);
+      marker.bindPopup("<b>Humitos</b> está aquí!").openPopup();
+  });
 </script>
 
 <a title="Real Time Web Analytics" href="http://clicky.com/100758465">
