@@ -17,6 +17,8 @@ momento:
 
    Primera
 
+.. TEASER_END: Seguir leyendo...
+
 .. figure:: video-2.thumbnail.jpg
    :target: video-2.jpg
 
@@ -47,6 +49,7 @@ momento:
 
    Séptima
 
+.. media:: http://youtu.be/Mvn6IxcdEcw
 
 .. admonition:: Guión Video presentación
 
