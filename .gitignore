@@ -7,3 +7,5 @@ local_conf.py
 .doit.db
 Guardfile
 .venv
+geolocation.log
+plugins
