@@ -1,7 +1,7 @@
 .. title: Saltar
 .. slug: saltar
 .. date: 2014-07-29 16:06:28 UTC-03:00
-.. tags: paraná, argentina, arte, viajes, frases, sociedad
+.. tags: argentina, arte, frases, sociedad, viajes, paraná
 .. link: 
 .. description: 
 .. type: text
