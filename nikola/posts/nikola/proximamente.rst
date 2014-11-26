@@ -5,6 +5,7 @@
 .. title: Proximamente
 .. slug: proximamente
 
-.. image:: argenpython-logo.png
-   :align: center
+.. figure:: argenpython-logo.png
    :height: 350px
+
+   Logo oficial del proyecto
