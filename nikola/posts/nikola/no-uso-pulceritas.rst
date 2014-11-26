@@ -1,7 +1,7 @@
 .. title: No uso pulceritas
 .. slug: no-uso-pulceritas
 .. date: 2014-09-22 12:23:55 UTC-03:00
-.. tags: argentina en python, tafi del valle, tucuman
+.. tags: argentina en python, tucumán, tafí del valle
 .. link: 
 .. description: 
 .. type: text

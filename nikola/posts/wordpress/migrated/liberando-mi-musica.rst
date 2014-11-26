@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: musica, ubuntu
+.. tags: ubuntu, música
 .. date: 2007/09/17 13:04:05
 .. title: Liberando mi música
 .. slug: liberando-mi-musica

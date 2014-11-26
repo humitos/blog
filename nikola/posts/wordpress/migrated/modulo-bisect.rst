@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: modulos, python
+.. tags: python, módulos
 .. date: 2008/05/20 01:15:15
 .. title: #2 Modulo: bisect
 .. slug: modulo-bisect

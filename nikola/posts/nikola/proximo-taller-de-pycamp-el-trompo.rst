@@ -1,7 +1,7 @@
 .. title: Próximo taller de PyCamp: el trompo
 .. slug: proximo-taller-de-pycamp-el-trompo
 .. date: 2014/06/01 12:13:41
-.. tags: circo, argentina en python, cordoba, viajes
+.. tags: argentina en python, circo, viajes, córdoba
 .. link: 
 .. description: 
 .. type: text

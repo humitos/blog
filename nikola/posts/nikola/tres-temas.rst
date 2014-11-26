@@ -1,7 +1,7 @@
 .. title: Tres temas
 .. slug: tres-temas
 .. date: 2014/06/02 17:00:12
-.. tags: musica, argentina en python, viajes, cordoba
+.. tags: argentina en python, córdoba, viajes, música
 .. link: 
 .. description: 
 .. type: text

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, fotos, musica, paraná
+.. tags: arte, fotos, paraná, música
 .. date: 2013/09/06 17:19:52
 .. title: Bordolino y Eruca
 .. slug: bordolino-y-eruca

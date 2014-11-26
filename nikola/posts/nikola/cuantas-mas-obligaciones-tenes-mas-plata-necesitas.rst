@@ -1,7 +1,7 @@
 .. title: Cuantas más obligaciones tenés, más plata necesitás
 .. slug: cuantas-mas-obligaciones-tenes-mas-plata-necesitas
 .. date: 2014-10-27 16:17:01 UTC-03:00
-.. tags: viajes, educacion, frases
+.. tags: frases, viajes, educación
 .. link: 
 .. description: 
 .. type: text

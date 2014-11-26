@@ -1,7 +1,7 @@
 .. title: Mapas para todos
 .. slug: mapas-para-todos
 .. date: 2014-10-13 16:54:17 UTC-03:00
-.. tags: argentina en python, mapas, proyecto mapear, openstreetmap, garmin, gps, viajes, auto, osm
+.. tags: argentina en python, auto, garmin, gps, mapas, openstreetmap, proyecto mapear, viajes
 .. link:
 .. description:
 .. type: text

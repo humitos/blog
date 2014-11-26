@@ -1,7 +1,7 @@
 .. title: Los inicios
 .. slug: los-inicios
 .. date: 2014-11-23 03:08:13 UTC-03:00
-.. tags: argentina en python, viajes, videos
+.. tags: argentina en python, viajes, video
 .. link: 
 .. description: 
 .. type: text

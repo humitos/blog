@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: musica, viajes
+.. tags: viajes, música
 .. date: 2012/11/10 11:52:55
 .. title: ¡Fue real!
 .. slug: fue-real

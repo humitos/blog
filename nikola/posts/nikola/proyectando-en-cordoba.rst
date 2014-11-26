@@ -1,7 +1,7 @@
 .. title: Proyectando en Córdoba
 .. slug: proyectando-en-cordoba
 .. date: 2014/05/31 22:43:12
-.. tags: viajes, argentina en python, cordoba, software libre, electronica, python
+.. tags: argentina en python, córdoba, python, software libre, viajes, electrónica
 .. link: 
 .. description: 
 .. type: text

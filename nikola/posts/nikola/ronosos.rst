@@ -1,7 +1,7 @@
 .. title: Roñosos
 .. slug: ronosos
 .. date: 2014-11-04 23:21:48 UTC-03:00
-.. tags: argentina en python, alojamiento, villa tulumba, cordoba
+.. tags: alojamiento, argentina en python, villa tulumba, córdoba
 .. link: 
 .. description: 
 .. type: text

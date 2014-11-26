@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: general, musica, paraná
+.. tags: general, paraná, música
 .. date: 2012/06/07 21:34:11
 .. title: Contactos
 .. slug: contactos

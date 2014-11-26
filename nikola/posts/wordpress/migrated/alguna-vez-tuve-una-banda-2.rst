@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: musica
+.. tags: música
 .. date: 2011/03/31 23:56:47
 .. title: Alguna vez tuve una "banda"
 .. slug: alguna-vez-tuve-una-banda-2

@@ -1,7 +1,7 @@
 .. title: Soldando una placa icaro np06
 .. slug: soldando-una-placa-icaro-np06
 .. date: 2014/05/25 13:32:55
-.. tags: icaro, software libre, electronica, cordoba, argentina en python
+.. tags: argentina en python, córdoba, icaro, software libre, electrónica
 .. link: 
 .. description: 
 .. type: text

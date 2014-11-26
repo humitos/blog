@@ -1,7 +1,7 @@
 .. title: Tucumán
 .. slug: tucuman
 .. date: 2014-09-27 20:40:18 UTC-03:00
-.. tags: tucuman, argentina en python, san miguel, tafi del valle, argentina
+.. tags: argentina, argentina en python, san miguel, tucumán, tafí del valle
 .. link: 
 .. description: 
 .. type: text

@@ -1,7 +1,7 @@
 .. title: Buen Día
 .. slug: buen-dia
 .. date: 2014-06-07 17:10:37 UTC-03:00
-.. tags: argentina en python, capilla del monte, cordoba
+.. tags: argentina en python, capilla del monte, córdoba
 .. link: 
 .. description: 
 .. type: text

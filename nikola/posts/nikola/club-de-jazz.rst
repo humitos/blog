@@ -1,7 +1,7 @@
 .. title: Club de Jazz
 .. slug: club-de-jazz
 .. date: 2014-06-24 19:05:55 UTC-03:00
-.. tags: argentina en python, cordoba, mina clavero, jazz, musica
+.. tags: argentina en python, córdoba, jazz, mina clavero, música
 .. link: 
 .. description: 
 .. type: text

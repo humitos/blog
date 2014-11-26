@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: musica, paraná, viajes
+.. tags: paraná, viajes, música
 .. date: 2012/07/03 07:27:13
 .. title: Acid Coast
 .. slug: acid-coast

@@ -1,7 +1,7 @@
 .. title: Ruta de viaje
 .. slug: ruta-de-viaje
 .. date: 2014-06-20 18:59:50 UTC-03:00
-.. tags: argentina en python, viajes, cordoba, mina clavero
+.. tags: argentina en python, mina clavero, viajes, córdoba
 .. link: 
 .. description: 
 .. type: text

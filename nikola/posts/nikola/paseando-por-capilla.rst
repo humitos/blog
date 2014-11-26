@@ -1,7 +1,7 @@
 .. title: Paseando por Capilla
 .. slug: paseando-por-capilla
 .. date: 2014-06-07 17:44:50 UTC-03:00
-.. tags: argentina en python, viajes, cordoba, capilla del monte
+.. tags: argentina en python, capilla del monte, viajes, córdoba
 .. link: 
 .. description: 
 .. type: text

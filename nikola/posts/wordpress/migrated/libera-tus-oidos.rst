@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: internet, musica
+.. tags: internet, música
 .. date: 2008/10/13 00:59:09
 .. title: Libera tus oídos
 .. slug: libera-tus-oidos

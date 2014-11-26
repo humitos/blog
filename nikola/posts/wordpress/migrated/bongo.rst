@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: musica
+.. tags: música
 .. date: 2008/02/25 14:05:06
 .. title: Bongó
 .. slug: bongo

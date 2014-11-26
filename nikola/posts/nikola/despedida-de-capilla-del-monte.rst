@@ -1,7 +1,7 @@
 .. title: Despedida de Capilla del Monte
 .. slug: despedida-de-capilla-del-monte
 .. date: 2014-06-12 17:57:18 UTC-03:00
-.. tags: viajes, capilla del monte, cordoba, argentina en python
+.. tags: argentina en python, capilla del monte, viajes, córdoba
 .. link: 
 .. description: 
 .. type: text

@@ -1,7 +1,7 @@
 .. title: Una mala
 .. slug: una-mala
 .. date: 2014-11-03 20:48:49 UTC-03:00
-.. tags: argentina en python, auto, viajes, catamarca, cordoba
+.. tags: argentina en python, auto, catamarca, viajes, córdoba
 .. link: 
 .. description: 
 .. type: text

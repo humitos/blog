@@ -1,7 +1,7 @@
 .. title: Argentino Bordolino presenta su DVD
 .. slug: argentino-bordolino-presenta-su-dvd
 .. date: 2014-11-25 20:33:39 UTC-03:00
-.. tags: argentino bordolino, entre rios, musica, videos, paraná
+.. tags: argentino bordolino, entre rios, música, paraná, video
 .. link: 
 .. description: 
 .. type: text

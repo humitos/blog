@@ -1,7 +1,7 @@
 .. title: Un día cualquiera
 .. slug: un-dia-cualquiera
 .. date: 2014-06-11 21:12:46 UTC-03:00
-.. tags: viajes, argentina en python, cordoba, capilla del monte 
+.. tags: argentina en python, capilla del monte, viajes, córdoba
 .. link: 
 .. description: 
 .. type: text

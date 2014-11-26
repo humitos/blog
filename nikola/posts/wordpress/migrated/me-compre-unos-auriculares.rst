@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: musica
+.. tags: música
 .. date: 2011/02/10 08:53:55
 .. title: Me compré unos auriculares :)
 .. slug: me-compre-unos-auriculares

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: facultad, musica, paraná
+.. tags: facultad, paraná, música
 .. date: 2012/05/28 20:12:03
 .. title: Un día tristísimo
 .. slug: un-dia-tristisimo

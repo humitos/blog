@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: internet, musica, software libre
+.. tags: internet, software libre, música
 .. date: 2012/10/30 20:23:10
 .. title: El A, B, C para bajar música usando torrents
 .. slug: el-a-b-c-para-bajar-musica-usando-torrents

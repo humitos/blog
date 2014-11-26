@@ -1,7 +1,7 @@
 .. title: Quebrada de los condoritos
 .. slug: quebrada-de-los-condoritos
 .. date: 2014-06-24 19:53:55 UTC-03:00
-.. tags: argentina en python, viajes, cordoba, mina clavero
+.. tags: argentina en python, mina clavero, viajes, córdoba
 .. link: 
 .. description: 
 .. type: text

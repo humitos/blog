@@ -1,6 +1,6 @@
 .. link: 
 .. description: 
-.. tags: robotica, python, icaro, pic
+.. tags: icaro, pic, python, robótica
 .. date: 2013/11/18 11:30:40
 .. title: Instalar ICARO en Ubuntu
 .. slug: instalar-icaro-en-ubuntu

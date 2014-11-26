@@ -1,6 +1,6 @@
 .. link: 
 .. description: 
-.. tags: icaro, pic, electronica
+.. tags: icaro, pic, electrónica
 .. date: 2013/11/23 00:46:03
 .. title: Intensidad de un LED con PIC18F4550 y PWM por Software
 .. slug: intensidad-de-un-led-con-pic18f4550-y-pwm-por-software

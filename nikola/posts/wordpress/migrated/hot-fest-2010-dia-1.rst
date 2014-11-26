@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: musica, viajes
+.. tags: viajes, música
 .. date: 2010/11/22 19:32:42
 .. title: Hot Fest 2010: Día 1
 .. slug: hot-fest-2010-dia-1

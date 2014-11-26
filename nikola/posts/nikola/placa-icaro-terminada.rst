@@ -1,7 +1,7 @@
 .. title: Placa ICARO terminada
 .. slug: placa-icaro-terminada
 .. date: 2014/05/30 12:55:39
-.. tags: icaro, software libre, electronica, cordoba, argentina en python
+.. tags: argentina en python, córdoba, icaro, software libre, electrónica
 .. link: 
 .. description: 
 .. type: text

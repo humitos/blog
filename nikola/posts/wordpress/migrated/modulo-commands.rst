@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: modulos, modulos, python, python
+.. tags: python, módulos
 .. date: 2008/04/29 17:46:18
 .. title: #1 Modulo: commands
 .. slug: modulo-commands

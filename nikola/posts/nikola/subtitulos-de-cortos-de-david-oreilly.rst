@@ -1,7 +1,7 @@
 .. title: Subtítulos de cortos de David O'Reilly
 .. slug: subtitulos-de-cortos-de-david-oreilly
 .. date: 2014/04/05 14:45:52
-.. tags: videos, subtitulos, cortos, traducciones
+.. tags: cortos, subtitulos, traducciones, video
 .. link: 
 .. description: 
 .. type: text

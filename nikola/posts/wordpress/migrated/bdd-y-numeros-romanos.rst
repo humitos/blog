@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: numeros, python, romanos, software libre
+.. tags: python, romanos, software libre, números
 .. date: 2008/04/29 11:33:07
 .. title: BDD y Números Romanos
 .. slug: bdd-y-numeros-romanos

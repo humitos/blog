@@ -1,7 +1,7 @@
 .. title: Mapeando Capilla del Monte
 .. slug: mapeando-capilla-del-monte
 .. date: 2014-11-07 15:23:53 UTC-03:00
-.. tags: argentina en python, osm, software libre, viajes, capilla del monte, cordoba
+.. tags: argentina en python, capilla del monte, córdoba, software libre, viajes, openstreetmap
 .. link: 
 .. description: 
 .. type: text

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: musica, viajes
+.. tags: viajes, música
 .. date: 2007/11/05 16:56:34
 .. title: Soda Stereo, Buenos Aires, Argentina
 .. slug: soda-stereo-buenos-aires-argentina
