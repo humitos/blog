@@ -10,15 +10,14 @@
    Fotografía, cultura, electrónica, circo, educación, computación, inglés…
 
 ¡Bienvenido a mi blog! Yo, quien te escribe, soy Manuel Kaufmann. Un
-programador Python aficionado por hobbie y también de profesión al que
-le gusta escribir en este blog contando anécdotas, experiencias y
-textos un poco más técnicos con el objetivo de compartir, enseñar,
-transmitir y motivar a otros a perseguir sus sueños como tantos otros
-me han ayudado a mi.
+programador Python aficionado por hobbie, y también de profesión, al
+que le gusta escribir en este blog contando anécdotas, experiencias y,
+a veces, textos un poco más técnicos. El objetivo es de compartir,
+enseñar, transmitir y motivar a otros a perseguir sus sueños como
+tantos otros me han ayudado a mi.
 
-Actualmente he estado viajando por la Argentina por más de 10 meses,
-llevando adelante la segunda etapa de un proyecto personal y
-comunitario llamado :doc:`argentina-en-python`.
+Desde Octubre de 2013 he estado viajando y llevando adelante un
+proyecto personal y comunitario llamado :doc:`argentina-en-python`.
 
 ----
 
@@ -47,11 +46,11 @@ comunitario llamado :doc:`argentina-en-python`.
 
 :Twitter: https://twitter.com/reydelhumo
 
-:Couchsurfing: https://www.couchsurfing.org/people/manuel.kaufmann
+:Couchsurfing: https://www.couchsurfing.com/users/4700587/profile
 
 :IRC: humitos
 
-:Teléfono: +54 343 4053434
+:Teléfono: +54 9 343 4053434
 
 :Fotos:
 
