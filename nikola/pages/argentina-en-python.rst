@@ -75,30 +75,60 @@ charlas y experiencias. ¡Esta es la parte que más me gusta!
 ¿En qué estado está actualmente?
 --------------------------------
 
-Etapa 0
-*******
+Tercera Etapa
+*************
 
-Como buen programador, el viaje tiene que empezar con una etapa 0
-(cero). Comenzando el 21 de Febrero con destino principal Ciudad
-Autónoma de Buenos Aires para que comience la organización de
-*semejante (desconocido) proyecto*. Esta etapa se extendió durante
-todo el mes de Marzo.
+La etapa anterior fue muy intensa, y el cierre en la
+:doc:`python-conference-argentina-2014` también. Durante estos casi
+tres meses de viaje pasaron muchas cosas, cambiaron otras y se crearon
+varios proyectos.
 
-Esta etapa fue una experimentación personal, una prueba piloto, una
-búsqueda de una organización funcional que mezcle el trabajo cotidiano
-con el viaje constante...
+Hubo una re-estructuración en la forma de viajar, compartí la
+cotideaneidad con gente que me *asocié* durante el viaje y compartí
+con ellos diferentes formas de viajar. Ahora, para la tercera etapa se
+sumó Johanna para acompañarme a recorrer la parte Noreste de nuestro
+país (Corrientes, Misiones, etc) y proyectar la posibilidad de visitar
+otros países, como Paraguay y Bolivia, por ejemplo.
 
-Recorrido:
+La fecha tentativa de salida es el Viernes 5 de Diciembre con destino
+a Concordia como primer destino para luego ir bordeando la costa de
+Entre Ríos.
 
-* Ciudad Autónoma de Buenos Aires, Buenos Aires, Argentina
-* Martínez, Buenos Aires, Argentina
-* San Clemente del Tuyú, Buenos Aires, Argentina
-* Ciudad Autónoma de Buenos Aires, Buenos Aires, Argentina
-* Quilmes, Buenos Aires, Argentina
-* Tigre, Buenos Aires, Argentina
-* Olivos, Buenos Aires, Argentina
-* González Catán, Buenos Aires, Argentina
-* Martínez, Buenos Aires, Argentina
+¡Próximamente más novedades!
+
+Segunda Etapa
+*************
+
+La idea de la segunda etapa se concretó el Viernes 5 de Septiembre,
+saliendo desde Paraná hacia Rafaela como primer destino.
+
+Los lugares por los que he estado hasta el momento:
+
+* Rafaela, Santa Fe, Argentina
+* Ceres, Santa Fe, Argentina
+* Santiago del Estero, Santiago del Estero, Argentina
+* San Miguel de Tucumán, Tucumán, Argentina
+* Tafí del Valle, Tucumán, Argentina
+* Ampimpa, Tucumán, Argentina
+* Amaicha del Valle, Tucumán, Argentina
+* Cafayate, Salta, Argentina
+* San Lorenzo, Salta, Argentina
+* Salta, Salta, Argentina
+* Purmamarca, Jujuy, Argentina
+* Tilcara, Jujuy, Argentina
+* Santiago del Estero, Santiago del Estero, Argentina
+* San Fernando del Valle de Catamarca, Catamarca, Argentina
+* Villa Tulumba, Córdoba, Argentina
+* Capilla del Monte, Córdoba, Argentina
+* Capital, Córdoba, Argentina
+* Rafaela, Santa Fe, Argentina
+
+Este es el mapa del recorrido realizado.
+
+.. raw:: html
+
+   <a class="align-center" href="https://goo.gl/maps/wPhmx" target="_blank"><img class="align-center" src="mapa_2da.jpg"/></a>
+   <em class="align-center" style="margin-left: 270px; margin-right: auto;">(Click en la imagen para ir al mapa de google)</em>
 
 
 Primera Etapa
@@ -156,39 +186,31 @@ lo más parecido a lo que hice*
    <a class="align-center" href="https://goo.gl/maps/AjUIi" target="_blank"><img class="align-center" src="mapa.jpg"/></a>
    <em class="align-center" style="margin-left: 270px; margin-right: auto;">(Click en la imagen para ir al mapa de google)</em>
 
-Segunda Etapa
-*************
 
-La idea de la segunda etapa se concretó el Viernes 5 de Septiembre,
-saliendo desde Paraná hacia Rafaela como primer destino.
+Etapa 0
+*******
 
-Los lugares por los que he estado hasta el momento:
+Como buen programador, el viaje tiene que empezar con una etapa 0
+(cero). Comenzando el 21 de Febrero con destino principal Ciudad
+Autónoma de Buenos Aires para que comience la organización de
+*semejante (desconocido) proyecto*. Esta etapa se extendió durante
+todo el mes de Marzo.
 
-* Rafaela, Santa Fe, Argentina
-* Ceres, Santa Fe, Argentina
-* Santiago del Estero, Santiago del Estero, Argentina
-* San Miguel de Tucumán, Tucumán, Argentina
-* Tafí del Valle, Tucumán, Argentina
-* Ampimpa, Tucumán, Argentina
-* Amaicha del Valle, Tucumán, Argentina
-* Cafayate, Salta, Argentina
-* San Lorenzo, Salta, Argentina
-* Salta, Salta, Argentina
-* Purmamarca, Jujuy, Argentina
-* Tilcara, Jujuy, Argentina
-* Santiago del Estero, Santiago del Estero, Argentina
-* San Fernando del Valle de Catamarca, Catamarca, Argentina
-* Villa Tulumba, Córdoba, Argentina
-* Capilla del Monte, Córdoba, Argentina
-* Capital, Córdoba, Argentina
-* Rafaela, Santa Fe, Argentina
+Esta etapa fue una experimentación personal, una prueba piloto, una
+búsqueda de una organización funcional que mezcle el trabajo cotidiano
+con el viaje constante...
 
-Este es el mapa del recorrido realizado.
+Recorrido:
 
-.. raw:: html
-
-   <a class="align-center" href="https://goo.gl/maps/wPhmx" target="_blank"><img class="align-center" src="mapa_2da.jpg"/></a>
-   <em class="align-center" style="margin-left: 270px; margin-right: auto;">(Click en la imagen para ir al mapa de google)</em>
+* Ciudad Autónoma de Buenos Aires, Buenos Aires, Argentina
+* Martínez, Buenos Aires, Argentina
+* San Clemente del Tuyú, Buenos Aires, Argentina
+* Ciudad Autónoma de Buenos Aires, Buenos Aires, Argentina
+* Quilmes, Buenos Aires, Argentina
+* Tigre, Buenos Aires, Argentina
+* Olivos, Buenos Aires, Argentina
+* González Catán, Buenos Aires, Argentina
+* Martínez, Buenos Aires, Argentina
 
 Fotos
 -----
