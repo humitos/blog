@@ -13,8 +13,11 @@ case "$2" in
     /home/humitos/.virtualenvs/blog/bin/python \
         geolocation.py >> geolocation.log &
 
-    scp output/assets/js/point.json \
-        mkaufmann.com.ar:~/apps/blog.mkaufmann.com.ar/blog/nikola/output/assets/js/point.json &
+    # wait some time before copying the .json file
+    sleep 15
+
+    scp output/assets/js/points.json \
+        mkaufmann.com.ar:~/apps/blog.mkaufmann.com.ar/blog/nikola/output/assets/js/points.json &
     exit 0
     ;;
     *)
