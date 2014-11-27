@@ -592,6 +592,7 @@ BODY_END = """
 <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
 <link rel="stylesheet" href="/assets/css/leaflet-routing-machine.css" />
+<script src="/assets/js/gpx.js"></script>
 <script src="/assets/js/leaflet-routing-machine.js"></script>
 <script src="/assets/js/geolocation.js"></script>
 
