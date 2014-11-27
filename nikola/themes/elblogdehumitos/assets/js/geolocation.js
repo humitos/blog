@@ -16,7 +16,10 @@ $(document).ready(function (){
 	    });
 
 	    var current_position = points[0]
-	    map = L.map('map').setView(current_position, 11);
+	    map = L.map(
+		'map',
+ 		{fullscreenControl: true}
+	    ).setView(current_position, 11);
 
 	    // create the tile layer with correct attribution
 	    var osmUrl='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
@@ -40,5 +43,6 @@ $(document).ready(function (){
 	    layer.bindPopup("Ruta <b><em>aproximada</em></b> que vamos a recorrer.");
 	    map.addLayer(e.target);
 	});
+
     }
 });
