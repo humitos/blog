@@ -16,6 +16,22 @@ $(document).ready(function (){
         osmLayer = new L.TileLayer(osmUrl, {minZoom: 4, maxZoom: 14, attribution: osmAttrib});
         map.addLayer(osmLayer);
 
+	// http://osrm.at/acF
+	var gpxUrl = '/assets/data/segunda-etapa.gpx';
+	gpxLayer = new L.GPX(gpxUrl, {
+	    async: true,
+	    marker_options: {
+		startIconUrl: '/assets/img/no-icon.png',
+		endIconUrl: '/assets/img/no-icon.png',
+		shadowUrl: '/assets/img/no-icon.png'
+	    }
+	}).on('loaded', function(e) {
+	    gpxlayer.bindPopup("Ruta realizada en la <em>Segunda Etapa</em>");
+	    // map.addLayer(e.target);
+	});
+
+
+
         $.getJSON('/assets/data/cities.json', function(data) {
             var layers = {};
             var redIcon = new L.Icon({
@@ -56,7 +72,8 @@ $(document).ready(function (){
 
 	    var overlayMaps = {
 		"<img src='/assets/img/marker-icon-red.png' /> <span>Próximas ciudades</span>": layers['next'],
-		"<img src='/assets/img/marker-icon-green.png' /> <span>Ciudades Visitadas</span>": layers['previous']
+		"<img src='/assets/img/marker-icon-green.png' /> <span>Ciudades Visitadas</span>": layers['previous'],
+		"<img src='/assets/img/blue-line.png' /> <span>Ruta <em>Segunda Etapa</em></span>": gpxLayer
 	    };
 
 	    L.control.layers(null, overlayMaps).addTo(map);
@@ -80,19 +97,6 @@ $(document).ready(function (){
 	    var marker = L.marker(point, {icon: icon}).addTo(map);
 	    marker.bindPopup("<b><em>humitos</em></b> está <em>por</em> aquí!").openPopup();
 	});
-
-	// var gpxUrl = '/assets/js/route.gpx';
-	// layer = new L.GPX(gpxUrl, {
-	//     async: true,
-	//     marker_options: {
-	// 	startIconUrl: '/assets/img/gpx-marker.png',
-	// 	endIconUrl: '/assets/img/gpx-marker.png',
-	// 	shadowUrl: '/assets/img/gpx-marker-shadow.png'
-	//     }
-	// }).on('loaded', function(e) {
-	//     layer.bindPopup("Ruta <b><em>aproximada</em></b> que vamos a recorrer.");
-	//     map.addLayer(e.target);
-	// });
 
     }
 });
