@@ -12,9 +12,7 @@ function add_gpx_layers() {
 	{url: '/assets/data/segunda-etapa.gpx', name: 'Segunda Etapa', colorLine: 'yellow'}
     ];
 
-    console.debug('add_gpx_layers');
     $.each(gpxData, function(i, gpx) {
-	console.debug(gpx);
 	layer = new L.GPX(gpx.url, {
 	    async: false,
 	    marker_options: {
@@ -28,11 +26,6 @@ function add_gpx_layers() {
 	});
 	name = "<img src='/assets/img/" + gpx.colorLine + "-line.png' /> <span>" + gpx.name + "</span>"
 	layerControl.addOverlay(layer, name);
-
-	    // .on('loaded', function(e) {
-	    // name = "<img src='/assets/img/" + gpx.colorLine + "-line.png' /> <span>" + gpx.name + "</span>"
-	    // layerControl.addOverlay(e.target, name);
-	// });
     });
 }
 

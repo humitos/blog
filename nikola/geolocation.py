@@ -5,7 +5,7 @@
 Usage:
   geolocation.py [(-v | --verbose)] (-m | --me)
   geolocation.py [(-v | --verbose)] (-a | --address) [(-p | --previous-city)] <address>
-  geolocation.py (-s | --symlinks)
+  geolocation.py [(-v | --verbose)] (-s | --symlinks)
   geolocation.py (-h | --help)
   geolocation.py --version
 
@@ -30,10 +30,11 @@ from logging.handlers import RotatingFileHandler
 logger = logging.getLogger('geolocation')
 
 SYMLINKS_DIR = 'output/assets/data'
-GPX_FILES = (
-    'geodata/segunda-etapa.gpx',
+GPX_FILES = [
     'geodata/0-etapa.gpx',
-)
+    'geodata/primera-etapa.gpx',
+    'geodata/segunda-etapa.gpx',
+]
 CITIES_FILENAME = 'geodata/cities.json'
 MY_POSITION_FILENAME = 'geodata/my-position.json'
 SYMLINK_FILES = [
@@ -74,26 +75,26 @@ def setup_output(output):
 
 
 def create_symlinks(dirname=SYMLINKS_DIR):
+    logger.info('Creating symlinks...')
     if not os.path.exists(dirname):
+        logger.info('Creating directory: %s', dirname)
         os.makedirs(dirname)
 
-    def get_abspath(filename):
+    def get_output_path(filename):
         return os.path.join(
             dirname,
             os.path.basename(filename)
         )
 
-    cities_output = get_abspath(CITIES_FILENAME)
-    if not os.path.exists(cities_output):
-        os.symlink(os.path.abspath(CITIES_FILENAME), cities_output)
+    def get_abs_path(filename):
+        return os.path.abspath(filename)
 
-    my_position_output = get_abspath(MY_POSITION_FILENAME)
-    if not os.path.exists(my_position_output):
-        os.symlink(os.path.abspath(MY_POSITION_FILENAME), my_position_output)
-
-    gpx2 = get_abspath(GPX_2_FILENAME)
-    if not os.path.exists(gpx2):
-        os.symlink(os.path.abspath(GPX_2_FILENAME), gpx2)
+    for filename in SYMLINK_FILES:
+        destination = get_output_path(filename)
+        if not os.path.exists(destination):
+            source = get_abs_path(filename)
+            logger.info('Creating symlink: %s', destination)
+            os.symlink(source, destination)
 
 
 def calc_my_position(output=MY_POSITION_FILENAME):
