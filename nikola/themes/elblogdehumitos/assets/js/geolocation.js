@@ -1,48 +1,98 @@
 var map;
+var osmLayer;
 
 $(document).ready(function (){
     // check if the map id exists before executing the code
     if ($('#map').length) {
-	$.getJSON("/assets/js/points.json", function(points){
+
+        map = L.map(
+            'map',
+            {fullscreenControl: true}
+        );
+
+        // create the tile layer with correct attribution
+        var osmUrl='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+        var osmAttrib='Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors';
+        osmLayer = new L.TileLayer(osmUrl, {minZoom: 4, maxZoom: 14, attribution: osmAttrib});
+        map.addLayer(osmLayer);
+
+        $.getJSON('/assets/data/cities.json', function(data) {
+            var layers = {};
+            var redIcon = new L.Icon({
+                iconUrl: '/assets/img/marker-icon-red.png',
+                shadowUrl: '/assets/img/marker-icon-shadow.png',
+                iconSize:     [25, 41], // size of the icon
+                shadowSize:   [41, 41], // size of the shadow
+                iconAnchor:   [12, 41],  // point of the icon which will correspond to marker's location
+                shadowAnchor: [12, 41], // the same for the shadow
+                popupAnchor:  [0, -50]    // point from which the popup should open relative to the iconAnchor
+            });
+
+	    var greenIcon = new L.Icon({
+		iconUrl: '/assets/img/marker-icon-green.png',
+		shadowUrl: '/assets/img/marker-icon-shadow.png',
+		iconSize:     [25, 41], // size of the icon
+		shadowSize:   [41, 41], // size of the shadow
+		iconAnchor:   [12, 41],  // point of the icon which will correspond to marker's location
+		shadowAnchor: [12, 41], // the same for the shadow
+		popupAnchor:  [0, -50]    // point from which the popup should open relative to the iconAnchor
+	    });
+
+	    $.each(['previous', 'next'], function(i, when) {
+		var markers = [];
+		$.each(data[when], function(i, city) {
+		    var point = [city.lat, city.lng];
+		    if (when == 'next') icon = redIcon
+		    else icon = greenIcon
+		    var city_name = city.address.split(', ')[0];
+		    markers.push(L.marker(point, {icon: icon}).bindPopup(city_name + ', ' + city.state));
+		});
+		layers[when] = L.layerGroup(markers);
+	    });
+
+	    // var baseMaps = {
+	    // 	'Map': osmLayer
+	    // };
+
+	    var overlayMaps = {
+		"<img src='/assets/img/marker-icon-red.png' /> <span>Próximas ciudades</span>": layers['next'],
+		"<img src='/assets/img/marker-icon-green.png' /> <span>Ciudades Visitadas</span>": layers['previous']
+	    };
+
+	    L.control.layers(null, overlayMaps).addTo(map);
+	});
+
+	$.getJSON("/assets/data/my-position.json", function(point){
 	    var icon = L.icon({
-		iconUrl: '/assets/img/marker.png',
-		shadowUrl: '/assets/img/marker-shadow.png',
+		iconUrl: '/assets/img/marker-car.png',
+		shadowUrl: '/assets/img/marker-car-shadow.png',
 
 		iconSize:     [64, 36], // size of the icon
 		shadowSize:   [82, 49], // size of the shadow
 		iconAnchor:   [32, 0],   // point of the icon which will correspond to marker's location
 		shadowAnchor: [28, 10],   // the same for the shadow
-		popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+		popupAnchor:  [0, -10] // point from which the popup should open relative to the iconAnchor
 	    });
 
-	    var current_position = points[0]
-	    map = L.map(
-		'map',
- 		{fullscreenControl: true}
-	    ).setView(current_position, 11);
+	    // center the map in my position
+	    map.setView(point, 11);
 
-	    // create the tile layer with correct attribution
-	    var osmUrl='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
-	    var osmAttrib='Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors';
-	    var osmLayer = new L.TileLayer(osmUrl, {minZoom: 8, maxZoom: 14, attribution: osmAttrib});
-	    map.addLayer(osmLayer);
-
-	    var marker = L.marker([current_position.lat, current_position.lng], {icon: icon}).addTo(map);
+	    var marker = L.marker(point, {icon: icon}).addTo(map);
 	    marker.bindPopup("<b><em>humitos</em></b> está <em>por</em> aquí!").openPopup();
 	});
 
-	var gpxUrl = '/assets/js/route.gpx';
-	layer = new L.GPX(gpxUrl, {
-	    async: true,
-	    marker_options: {
-		startIconUrl: '/assets/img/gpx-marker.png',
-		endIconUrl: '/assets/img/gpx-marker.png',
-		shadowUrl: '/assets/img/gpx-marker-shadow.png'
-	    }
-	}).on('loaded', function(e) {
-	    layer.bindPopup("Ruta <b><em>aproximada</em></b> que vamos a recorrer.");
-	    map.addLayer(e.target);
-	});
+	// var gpxUrl = '/assets/js/route.gpx';
+	// layer = new L.GPX(gpxUrl, {
+	//     async: true,
+	//     marker_options: {
+	// 	startIconUrl: '/assets/img/gpx-marker.png',
+	// 	endIconUrl: '/assets/img/gpx-marker.png',
+	// 	shadowUrl: '/assets/img/gpx-marker-shadow.png'
+	//     }
+	// }).on('loaded', function(e) {
+	//     layer.bindPopup("Ruta <b><em>aproximada</em></b> que vamos a recorrer.");
+	//     map.addLayer(e.target);
+	// });
 
     }
 });

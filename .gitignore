@@ -8,4 +8,5 @@ local_conf.py
 Guardfile
 .venv
 geolocation.log
+my-position.json
 plugins

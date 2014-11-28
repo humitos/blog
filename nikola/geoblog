@@ -5,19 +5,18 @@ IF=$1
 STATUS=$2
  
 cd /home/humitos/Source/blog/nikola
-date >> geolocation.log
 
 case "$2" in
     up)
     logger -s "NM Script 'geoblog' triggered"
     /home/humitos/.virtualenvs/blog/bin/python \
-        geolocation.py >> geolocation.log &
+        geolocation.py --me
 
-    # wait some time before copying the .json file
+    # wait some time before copying the data
     sleep 15
 
-    scp output/assets/js/points.json \
-        mkaufmann.com.ar:~/apps/blog.mkaufmann.com.ar/blog/nikola/output/assets/js/points.json &
+    scp geodata/* \
+        mkaufmann.com.ar:~/apps/blog.mkaufmann.com.ar/blog/nikola/output/assets/data/ &
     exit 0
     ;;
     *)
