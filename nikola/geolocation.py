@@ -30,9 +30,16 @@ from logging.handlers import RotatingFileHandler
 logger = logging.getLogger('geolocation')
 
 SYMLINKS_DIR = 'output/assets/data'
-GPX_2_FILENAME = 'geodata/segunda-etapa.gpx'
+GPX_FILES = (
+    'geodata/segunda-etapa.gpx',
+    'geodata/0-etapa.gpx',
+)
 CITIES_FILENAME = 'geodata/cities.json'
 MY_POSITION_FILENAME = 'geodata/my-position.json'
+SYMLINK_FILES = [
+    CITIES_FILENAME,
+    MY_POSITION_FILENAME,
+] + GPX_FILES
 WAIT_BEFORE_QUERY = 5
 
 

@@ -1,5 +1,41 @@
 var map;
 var osmLayer;
+var layerControl;
+
+function add_gpx_layers() {
+    var gpxData = [
+	// http://osrm.at/acG
+	{url: '/assets/data/0-etapa.gpx', name: 'Etapa 0', colorLine: 'green'},
+	// http://osrm.at/acH
+	{url: '/assets/data/primera-etapa.gpx', name: 'Primera Etapa', colorLine: 'blue'},
+	// http://osrm.at/acF
+	{url: '/assets/data/segunda-etapa.gpx', name: 'Segunda Etapa', colorLine: 'yellow'}
+    ];
+
+    console.debug('add_gpx_layers');
+    $.each(gpxData, function(i, gpx) {
+	console.debug(gpx);
+	layer = new L.GPX(gpx.url, {
+	    async: false,
+	    marker_options: {
+		startIconUrl: '/assets/img/no-icon.png',
+		endIconUrl: '/assets/img/no-icon.png',
+		shadowUrl: '/assets/img/no-icon.png'
+	    },
+	    polyline_options: {
+		color: gpx.colorLine
+	    }
+	});
+	name = "<img src='/assets/img/" + gpx.colorLine + "-line.png' /> <span>" + gpx.name + "</span>"
+	layerControl.addOverlay(layer, name);
+
+	    // .on('loaded', function(e) {
+	    // name = "<img src='/assets/img/" + gpx.colorLine + "-line.png' /> <span>" + gpx.name + "</span>"
+	    // layerControl.addOverlay(e.target, name);
+	// });
+    });
+}
+
 
 $(document).ready(function (){
     // check if the map id exists before executing the code
@@ -16,21 +52,10 @@ $(document).ready(function (){
         osmLayer = new L.TileLayer(osmUrl, {minZoom: 4, maxZoom: 14, attribution: osmAttrib});
         map.addLayer(osmLayer);
 
-	// http://osrm.at/acF
-	var gpxUrl = '/assets/data/segunda-etapa.gpx';
-	gpxLayer = new L.GPX(gpxUrl, {
-	    async: true,
-	    marker_options: {
-		startIconUrl: '/assets/img/no-icon.png',
-		endIconUrl: '/assets/img/no-icon.png',
-		shadowUrl: '/assets/img/no-icon.png'
-	    }
-	}).on('loaded', function(e) {
-	    gpxlayer.bindPopup("Ruta realizada en la <em>Segunda Etapa</em>");
-	    // map.addLayer(e.target);
-	});
+	layerControl = L.control.layers(null, null, {collapsed: false});
+	layerControl.addTo(map);
 
-
+	add_gpx_layers();
 
         $.getJSON('/assets/data/cities.json', function(data) {
             var layers = {};
@@ -70,13 +95,10 @@ $(document).ready(function (){
 	    // 	'Map': osmLayer
 	    // };
 
-	    var overlayMaps = {
-		"<img src='/assets/img/marker-icon-red.png' /> <span>Próximas ciudades</span>": layers['next'],
-		"<img src='/assets/img/marker-icon-green.png' /> <span>Ciudades Visitadas</span>": layers['previous'],
-		"<img src='/assets/img/blue-line.png' /> <span>Ruta <em>Segunda Etapa</em></span>": gpxLayer
-	    };
-
-	    L.control.layers(null, overlayMaps, {collapsed: false}).addTo(map);
+	    name = "<img src='/assets/img/marker-icon-red.png' /> <span>Próximos Destinos</span>";
+	    layerControl.addOverlay(layers['next'], name);
+	    name = "<img src='/assets/img/marker-icon-green.png' /> <span>Ciudades Visitadas</span>";
+	    layerControl.addOverlay(layers['previous'], name);
 	});
 
 	$.getJSON("/assets/data/my-position.json", function(point){
@@ -97,6 +119,5 @@ $(document).ready(function (){
 	    var marker = L.marker(point, {icon: icon}).addTo(map);
 	    marker.bindPopup("<b><em>humitos</em></b> está <em>por</em> aquí!").openPopup();
 	});
-
     }
 });
