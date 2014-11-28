@@ -171,6 +171,7 @@ Los lugares en los que he estado son:
 * Los Andes, Los Andes, Chile
 * Viña del Mar, Valparíso, Chile
 * Valparaíso, Valparaíso, Chile
+* Santiago de Chile, Chile
 * San Juan, San Juan, Argentina
 * Capilla del Monte, Córdoba, Argentina
 * Paraná, Entre Ríos, Argentina (:doc:`decidí volver <el-final-un-nuevo-comienzo>`)

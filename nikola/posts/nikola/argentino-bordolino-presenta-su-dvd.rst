@@ -28,6 +28,8 @@ están preparando estrenar dentro de poco.
 
 .. media:: https://www.youtube.com/watch?v=3J0DqsGw63Y
 
+.. TEASER_END: Seguir leyendo...
+
 .. media:: https://www.youtube.com/watch?v=RK1kigWJyTU
 
 .. media:: https://www.youtube.com/watch?v=xxiPOSJR0Zw

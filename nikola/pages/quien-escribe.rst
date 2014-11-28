@@ -16,8 +16,9 @@ a veces, textos un poco más técnicos. El objetivo es de compartir,
 enseñar, transmitir y motivar a otros a perseguir sus sueños como
 tantos otros me han ayudado a mi.
 
-Desde Octubre de 2013 he estado viajando y llevando adelante un
-proyecto personal y comunitario llamado :doc:`argentina-en-python`.
+Desde Octubre de 2013 he estado viajando por diferentes lugares de
+Argentine llevando adelante un proyecto personal y comunitario llamado
+:doc:`argentina-en-python`.
 
 ----
 

@@ -37,7 +37,7 @@ Tené en cuenta que...
 
 * La dirección del lugar es `Chacabuco 538
   <http://www.openstreetmap.org/export/embed.html?layer=mapnik&marker=-31.74326400000001,-60.52781199999998&zoom=16&bbox=-60.54,-31.74,-60.51,-31.75>`_
-  (entre Yrigoyen y Pascual Palma)
+  (entre Yrigoyen y Pascual Palma), Paraná, Entre Ríos.
 
 * Lunes 1, Martes 2 y Miércoles 3 de Diciembre de 15hs a 19hs. Vamos a
   tener unos descansos en el medio.
