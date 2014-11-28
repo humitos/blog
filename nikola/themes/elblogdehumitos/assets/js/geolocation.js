@@ -76,7 +76,7 @@ $(document).ready(function (){
 		"<img src='/assets/img/blue-line.png' /> <span>Ruta <em>Segunda Etapa</em></span>": gpxLayer
 	    };
 
-	    L.control.layers(null, overlayMaps).addTo(map);
+	    L.control.layers(null, overlayMaps, {collapsed: false}).addTo(map);
 	});
 
 	$.getJSON("/assets/data/my-position.json", function(point){
