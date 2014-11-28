@@ -5,12 +5,14 @@
 Usage:
   geolocation.py [(-v | --verbose)] (-m | --me)
   geolocation.py [(-v | --verbose)] (-a | --address) [(-p | --previous-city)] <address>
+  geolocation.py (-s | --symlinks)
   geolocation.py (-h | --help)
   geolocation.py --version
 
 Options:
   <address>            Address to be calculated.
   -p --previous-city   Save the calculated point into the previous cities file.
+  -s --symlinks        Create symlinks in output directory to upload on deploy.
   -h --help            Show this screen.
   -v --verbose         Show the log in the standard output.
   --version            Show version.
@@ -28,6 +30,7 @@ from logging.handlers import RotatingFileHandler
 logger = logging.getLogger('geolocation')
 
 SYMLINKS_DIR = 'output/assets/data'
+GPX_2_FILENAME = 'geodata/segunda-etapa.gpx'
 CITIES_FILENAME = 'geodata/cities.json'
 MY_POSITION_FILENAME = 'geodata/my-position.json'
 WAIT_BEFORE_QUERY = 5
@@ -67,21 +70,23 @@ def create_symlinks(dirname=SYMLINKS_DIR):
     if not os.path.exists(dirname):
         os.makedirs(dirname)
 
-    cities_output = os.path.join(
-        dirname,
-        os.path.basename(CITIES_FILENAME)
-    )
+    def get_abspath(filename):
+        return os.path.join(
+            dirname,
+            os.path.basename(filename)
+        )
 
+    cities_output = get_abspath(CITIES_FILENAME)
     if not os.path.exists(cities_output):
         os.symlink(os.path.abspath(CITIES_FILENAME), cities_output)
 
-    my_position_output = os.path.join(
-        dirname,
-        os.path.basename(MY_POSITION_FILENAME)
-    )
-
+    my_position_output = get_abspath(MY_POSITION_FILENAME)
     if not os.path.exists(my_position_output):
         os.symlink(os.path.abspath(MY_POSITION_FILENAME), my_position_output)
+
+    gpx2 = get_abspath(GPX_2_FILENAME)
+    if not os.path.exists(gpx2):
+        os.symlink(os.path.abspath(GPX_2_FILENAME), gpx2)
 
 
 def calc_my_position(output=MY_POSITION_FILENAME):
@@ -140,6 +145,9 @@ if __name__ == '__main__':
 
     if arguments['-m'] or arguments['--me']:
         calc_my_position()
+
+    if arguments['--symlinks']:
+        create_symlinks()
 
     create_symlinks()
 
