@@ -324,9 +324,16 @@ FAVICONS = {
 
 INDEX_TEASERS = True
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
-INDEX_READ_MORE_LINK = True
+# INDEX_READ_MORE_LINK = 'Seguir leyendo...'
 # 'Read more...' for the RSS_FEED, if RSS_TEASERS is True (translatable)
-RSS_READ_MORE_LINK = False
+INDEX_READ_MORE_LINK = RSS_READ_MORE_LINK = '''
+<ul class="pager">
+  <li class="previous">
+    <a href="{link}">Seguir leyendo...</a>
+  </li>
+</ul>
+'''
+
 RSS_TEASERS = False
 
 # A HTML fragment describing the license, for the sidebar. Default is "".
