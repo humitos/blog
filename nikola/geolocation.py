@@ -27,16 +27,18 @@ import logging
 from docopt import docopt
 from logging.handlers import RotatingFileHandler
 
+
 logger = logging.getLogger('geolocation')
 
-SYMLINKS_DIR = 'output/assets/data'
+DIRNAME = os.path.dirname(os.path.abspath(__file__))
+SYMLINKS_DIR = os.path.join(DIRNAME, 'output/assets/data')
 GPX_FILES = [
-    'geodata/0-etapa.gpx',
-    'geodata/primera-etapa.gpx',
-    'geodata/segunda-etapa.gpx',
+    os.path.join(DIRNAME, 'geodata/0-etapa.gpx'),
+    os.path.join(DIRNAME, 'geodata/primera-etapa.gpx'),
+    os.path.join(DIRNAME, 'geodata/segunda-etapa.gpx'),
 ]
-CITIES_FILENAME = 'geodata/cities.json'
-MY_POSITION_FILENAME = 'geodata/my-position.json'
+CITIES_FILENAME = os.path.join(DIRNAME, 'geodata/cities.json')
+MY_POSITION_FILENAME = os.path.join(DIRNAME, 'geodata/my-position.json')
 SYMLINK_FILES = [
     CITIES_FILENAME,
     MY_POSITION_FILENAME,
@@ -45,7 +47,7 @@ WAIT_BEFORE_QUERY = 5
 
 
 def setup_logging(verbose):
-    logfile = 'geodata/geolocation.log'
+    logfile = os.path.join(DIRNAME, 'geodata/geolocation.log')
     handler = RotatingFileHandler(logfile, maxBytes=1e6, backupCount=10)
     logger.addHandler(handler)
     formatter = logging.Formatter("%(asctime)s  %(name)-10s  "
@@ -75,7 +77,6 @@ def setup_output(output):
 
 
 def create_symlinks(dirname=SYMLINKS_DIR):
-    logger.info('Creating symlinks...')
     if not os.path.exists(dirname):
         logger.info('Creating directory: %s', dirname)
         os.makedirs(dirname)
@@ -107,9 +108,25 @@ def calc_my_position(output=MY_POSITION_FILENAME):
     logger.info('LatLng: %s', response.latlng)
     logger.info('Place: %s, %s', response.city, response.state)
 
+    logger.info('Querying the server about "%s"...', response.address)
+    response = geocoder.osm(response.address)
+    logger.info('LatLng: %s', response.latlng)
+    logger.info('Place: %s, %s', response.city, response.state)
+
     logger.info('Saving file...')
     with open(output, 'w') as fh:
         fh.write(json.dumps(response.latlng))
+
+    command = 'scp {} ' \
+              'mkaufmann.com.ar:~/apps/blog.mkaufmann.com.ar/blog/' \
+              'nikola/output/assets/data/'.format(
+                  os.path.join(DIRNAME, 'geodata/my-position.json'),
+              )
+
+    logger.debug(command)
+    logger.info('Uploading new "my-position.json" file...')
+    os.system(command)
+    logger.info('Upload Finished!')
 
 
 def calc_address(address, when, output=CITIES_FILENAME):

@@ -10,13 +10,7 @@ case "$2" in
     up)
     logger -s "NM Script 'geoblog' triggered"
     /home/humitos/.virtualenvs/blog/bin/python \
-        geolocation.py --me
-
-    # wait some time before copying the data
-    sleep 15
-
-    scp geodata/* \
-        mkaufmann.com.ar:~/apps/blog.mkaufmann.com.ar/blog/nikola/output/assets/data/ &
+        geolocation.py --me &
     exit 0
     ;;
     *)
