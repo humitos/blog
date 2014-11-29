@@ -44,6 +44,9 @@ $(document).ready(function (){
         var osmAttrib='Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors';
         osmLayer = new L.TileLayer(osmUrl, {minZoom: 4, maxZoom: 14, attribution: osmAttrib});
         map.addLayer(osmLayer);
+	map.on('overlayadd', function(e) {
+	    map.fitBounds(e.layer);
+	});
 
 	layerControl = L.control.layers(null, null, {collapsed: false});
 	layerControl.addTo(map);
@@ -81,7 +84,7 @@ $(document).ready(function (){
 		    var city_name = city.address.split(', ')[0];
 		    markers.push(L.marker(point, {icon: icon}).bindPopup(city_name + ', ' + city.state));
 		});
-		layers[when] = L.layerGroup(markers);
+		layers[when] = L.featureGroup(markers);
 	    });
 
 	    // var baseMaps = {
