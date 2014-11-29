@@ -12,12 +12,12 @@
 ¡Bienvenido a mi blog! Yo, quien te escribe, soy Manuel Kaufmann. Un
 programador Python aficionado por hobbie, y también de profesión, al
 que le gusta escribir en este blog contando anécdotas, experiencias y,
-a veces, textos un poco más técnicos. El objetivo es de compartir,
+a veces, textos un poco más técnicos. El objetivo es compartir,
 enseñar, transmitir y motivar a otros a perseguir sus sueños como
 tantos otros me han ayudado a mi.
 
 Desde Octubre de 2013 he estado viajando por diferentes lugares de
-Argentine llevando adelante un proyecto personal y comunitario llamado
+Argentina llevando adelante un proyecto personal y comunitario llamado
 :doc:`argentina-en-python`.
 
 ----

@@ -7,6 +7,9 @@
 .. type: text
 
 
+.. raw:: html
+   :file: files/pages/argentina-en-python/twitter-modal.html
+
 ¿Qué es?
 --------
 
