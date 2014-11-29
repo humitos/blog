@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, los angeles, viajes
+.. tags: arte, los angeles, viaje
 .. date: 2013/05/27 21:32:37
 .. title: Geffen Comtemporary at MOCA
 .. slug: geffen-comtemporary-at-moca

@@ -1,7 +1,7 @@
 .. title: What's on a man's mind
 .. slug: whats-on-a-mans-mind
 .. date: 2014-08-05 12:54:20 UTC-03:00
-.. tags: argentina en python, viajes, arte, dibujos, frases
+.. tags: argentina en python, arte, dibujos, frases, viaje
 .. link: 
 .. description: 
 .. type: text

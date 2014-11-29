@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/05/20 18:34:24
 .. title: "Los bins"
 .. slug: los-bins

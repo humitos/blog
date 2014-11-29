@@ -1,7 +1,7 @@
 .. title: Óptiko
 .. slug: optiko
 .. date: 2014-08-11 18:34:13 UTC-03:00
-.. tags: argentina en python, chile, luz, optiko, valparaiso, viajes, electrónica
+.. tags: argentina en python, chile, electrónica, luz, optiko, valparaiso, viaje
 .. link: 
 .. description: 
 .. type: text

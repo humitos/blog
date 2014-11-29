@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, eu!, frases, viajes
+.. tags: arte, eu!, frases, viaje
 .. date: 2013/09/02 13:10:21
 .. title: Me declaro en 'estado de sitio'
 .. slug: me-declaro-en-estado-de-sitio

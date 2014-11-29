@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: general, internet, viajes
+.. tags: general, internet, viaje
 .. date: 2012/05/19 20:32:26
 .. title: ¿Vale la pena...
 .. slug: vale-la-pena

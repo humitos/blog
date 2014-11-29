@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, viajes
+.. tags: arte, viaje
 .. date: 2012/08/18 01:20:08
 .. title: Vida = Arte
 .. slug: vida-arte

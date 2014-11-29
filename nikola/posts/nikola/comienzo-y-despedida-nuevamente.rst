@@ -1,7 +1,7 @@
 .. title: Comienzo y despedida, nuevamente
 .. slug: comienzo-y-despedida-nuevamente
 .. date: 2014-10-20 15:41:21 UTC-03:00
-.. tags: argentina en python, viajes, salta, jujuy, purmamarca, tilcara
+.. tags: argentina en python, jujuy, purmamarca, salta, tilcara, viaje
 .. link: 
 .. description: 
 .. type: text

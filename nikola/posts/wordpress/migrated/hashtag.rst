@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: viajes
+.. tags: viaje
 .. date: 2012/12/06 21:17:42
 .. title: #hashtag
 .. slug: hashtag

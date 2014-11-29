@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/05/05 01:28:09
 .. title: Mates en Irving Park
 .. slug: mates-en-irving-park

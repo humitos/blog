@@ -1,7 +1,7 @@
 .. title: Python Conference Argentina 2014
 .. slug: python-conference-argentina-2014
 .. date: 2014-11-18 18:17:46 UTC-03:00
-.. tags: python, argentina en python, pyconar, rafaela, viajes, santa fe
+.. tags: argentina en python, pyconar, python, rafaela, santa fe, viaje
 .. link: 
 .. description: 
 .. type: text

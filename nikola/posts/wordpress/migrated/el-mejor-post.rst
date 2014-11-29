@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: blog, viajes, video
+.. tags: blog, video, viaje
 .. date: 2013/06/11 00:58:04
 .. title: El mejor post
 .. slug: el-mejor-post

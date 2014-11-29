@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: viajes
+.. tags: viaje
 .. date: 2011/10/16 16:49:58
 .. title: Resumen...
 .. slug: resumen

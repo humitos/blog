@@ -1,7 +1,7 @@
 .. title: ¿Qué necesitamos para vivir?
 .. slug: que-necesitamos-para-vivir
 .. date: 2014-09-24 22:52:19 UTC-03:00
-.. tags: argentina, argentina en python, viajes, educación
+.. tags: argentina, argentina en python, educación, viaje
 .. link: 
 .. description: 
 .. type: text

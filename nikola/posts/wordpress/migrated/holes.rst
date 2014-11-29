@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: libros, portland, viajes
+.. tags: libros, portland, viaje
 .. date: 2013/06/17 01:32:07
 .. title: Holes
 .. slug: holes

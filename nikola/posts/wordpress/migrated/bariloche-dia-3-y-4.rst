@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: viajes
+.. tags: viaje
 .. date: 2011/07/30 19:24:26
 .. title: Bariloche, Día 3 y 4
 .. slug: bariloche-dia-3-y-4

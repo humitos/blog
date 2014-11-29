@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: internet, viajes
+.. tags: internet, viaje
 .. date: 2013/07/09 16:57:59
 .. title: Banderas del mundo
 .. slug: banderas-del-mundo

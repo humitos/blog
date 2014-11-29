@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, charla, circo, olpc, python, software libre, viajes
+.. tags: arte, charla, circo, olpc, python, software libre, viaje
 .. date: 2012/07/15 01:21:43
 .. title: PyCamp 2012
 .. slug: pycamp-2012

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/04/28 23:45:45
 .. title: Walk There!: Irvington Classic Homes and Heritage Trees
 .. slug: walk-there-irvington-classic-homes-and-heritage-trees

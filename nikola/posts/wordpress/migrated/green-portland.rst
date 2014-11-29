@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/04/21 03:51:19
 .. title: Green Portland
 .. slug: green-portland

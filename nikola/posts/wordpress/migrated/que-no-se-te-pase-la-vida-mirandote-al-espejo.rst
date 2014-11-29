@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: los angeles, viajes
+.. tags: los angeles, viaje
 .. date: 2013/05/25 16:08:29
 .. title: Que no se te pase la vida mirándote al espejo
 .. slug: que-no-se-te-pase-la-vida-mirandote-al-espejo

@@ -1,7 +1,7 @@
 .. title: Mendoza tiene agite
 .. slug: mendoza-tiene-agite
 .. date: 2014-08-03 13:08:58 UTC-03:00
-.. tags: argentina, argentina en python, mendoza, python, software libre, viajes, electrónica
+.. tags: argentina, argentina en python, electrónica, mendoza, python, software libre, viaje
 .. link: 
 .. description: 
 .. type: text

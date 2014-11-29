@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, inglés, portland, viajes
+.. tags: arte, inglés, portland, viaje
 .. date: 2013/05/11 19:36:55
 .. title: Relaciones
 .. slug: relaciones

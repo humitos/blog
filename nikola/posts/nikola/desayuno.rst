@@ -1,7 +1,7 @@
 .. title: Desayuno
 .. slug: desayuno
 .. date: 2014-09-10 22:43:54 UTC-03:00
-.. tags: comida, viajes, argentina en python, desayuno
+.. tags: argentina en python, comida, desayuno, viaje
 .. link: 
 .. description: 
 .. type: text

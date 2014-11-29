@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/05/13 18:57:39
 .. title: Ultimate Frisbee
 .. slug: ultimate-frisbee

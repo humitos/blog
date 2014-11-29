@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: tacoma, viajes
+.. tags: tacoma, viaje
 .. date: 2013/04/25 21:40:32
 .. title: Unas fotos de Tacoma, Washington
 .. slug: unas-fotos-de-tacoma-washington

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/05/08 15:16:31
 .. title: Walk There: 4T - Trail, Tram, Trolley and Train
 .. slug: walk-there-4t-trail-tram-trolley-and-train

@@ -1,7 +1,7 @@
 .. title: El final: un nuevo comienzo
 .. slug: el-final-un-nuevo-comienzo
 .. date: 2014-07-25 17:37:39 UTC-03:00
-.. tags: argentina en python, viajes, capilla del monte, san juan
+.. tags: argentina en python, capilla del monte, san juan, viaje
 .. link: 
 .. description: 
 .. type: text

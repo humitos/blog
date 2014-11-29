@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: seattle, viajes
+.. tags: seattle, viaje
 .. date: 2013/04/27 04:36:29
 .. title: Seattle, Washington
 .. slug: seattle-washington

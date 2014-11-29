@@ -1,7 +1,7 @@
 .. title: Riesgo de muerte
 .. slug: riesgo-de-muerte
 .. date: 2014-06-27 21:10:19 UTC-03:00
-.. tags: argentina en python, viajes, san luis
+.. tags: argentina en python, san luis, viaje
 .. link: 
 .. description: 
 .. type: text

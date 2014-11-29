@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: auto, viajes
+.. tags: auto, viaje
 .. date: 2011/06/22 21:36:22
 .. title: "El" viaje a Córdoba
 .. slug: el-viaje-a-cordoba

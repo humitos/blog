@@ -1,7 +1,7 @@
 .. title: Resumen del viaje versión beta
 .. slug: resumen-del-viaje-version-beta
 .. date: 2014/03/27 17:29:50
-.. tags: argentina en python, viajes, auto, python
+.. tags: argentina en python, auto, python, viaje
 .. link: 
 .. description: 
 .. type: text

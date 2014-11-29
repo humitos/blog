@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, fotos, portland, viajes
+.. tags: arte, fotos, portland, viaje
 .. date: 2013/06/23 02:25:01
 .. title: The moon
 .. slug: the-moon

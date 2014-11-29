@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: los angeles, viajes
+.. tags: los angeles, viaje
 .. date: 2013/05/26 15:41:56
 .. title: Historia de una pareja de homeless
 .. slug: historia-de-una-pareja-de-homeless

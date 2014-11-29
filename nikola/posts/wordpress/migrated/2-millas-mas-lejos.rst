@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/05/08 15:33:24
 .. title: 2 millas más lejos
 .. slug: 2-millas-mas-lejos

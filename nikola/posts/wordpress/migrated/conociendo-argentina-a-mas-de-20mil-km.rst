@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: los angeles, viajes
+.. tags: los angeles, viaje
 .. date: 2013/05/27 15:56:53
 .. title: Conociendo Argentina a más de 20mil km
 .. slug: conociendo-argentina-a-mas-de-20mil-km

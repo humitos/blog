@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: los angeles, viajes
+.. tags: los angeles, viaje
 .. date: 2013/05/30 04:01:25
 .. title: Abrupto cambio de planes
 .. slug: abrupto-cambio-de-planes

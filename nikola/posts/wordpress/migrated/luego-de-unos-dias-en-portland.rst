@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/04/25 15:16:45
 .. title: Luego de unos días en Portland
 .. slug: luego-de-unos-dias-en-portland

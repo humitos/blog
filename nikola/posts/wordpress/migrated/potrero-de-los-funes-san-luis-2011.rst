@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: viajes
+.. tags: viaje
 .. date: 2011/04/26 21:45:42
 .. title: Potrero de los Funes, San Luis 2011
 .. slug: potrero-de-los-funes-san-luis-2011

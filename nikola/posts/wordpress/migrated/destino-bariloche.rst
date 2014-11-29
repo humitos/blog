@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: viajes
+.. tags: viaje
 .. date: 2011/07/23 20:23:58
 .. title: Destino: Bariloche
 .. slug: destino-bariloche

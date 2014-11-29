@@ -1,7 +1,7 @@
 .. title: Una semana de viaje
 .. slug: una-semana-de-viaje
 .. date: 2014/05/23 21:57:58
-.. tags: argentina en python, software libre, viajes, córdoba
+.. tags: argentina en python, córdoba, software libre, viaje
 .. link: 
 .. description: 
 .. type: text

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: facultad, la educación prohibida, software libre, viajes
+.. tags: facultad, la educación prohibida, software libre, viaje
 .. date: 2013/08/16 11:13:07
 .. title: La Cecilia: la diferencia de lo posible
 .. slug: la-cecilia-la-diferencia-de-lo-posible

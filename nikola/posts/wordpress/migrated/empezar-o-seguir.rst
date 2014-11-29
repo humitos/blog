@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, frases, portland, viajes
+.. tags: arte, frases, portland, viaje
 .. date: 2013/07/02 20:44:46
 .. title: Empezar o seguir
 .. slug: empezar-o-seguir

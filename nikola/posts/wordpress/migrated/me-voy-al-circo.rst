@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, circo, viajes
+.. tags: arte, circo, viaje
 .. date: 2012/06/28 13:57:16
 .. title: Me voy al circo
 .. slug: me-voy-al-circo

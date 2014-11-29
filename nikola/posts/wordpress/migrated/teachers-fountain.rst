@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: inglés, portland, viajes
+.. tags: inglés, portland, viaje
 .. date: 2013/05/17 21:27:16
 .. title: Teachers fountain
 .. slug: teachers-fountain

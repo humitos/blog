@@ -1,7 +1,7 @@
 .. title: Paisajes que sorprenden
 .. slug: paisajes-que-sorprenden
 .. date: 2014-11-10 19:35:40 UTC-03:00
-.. tags: argentina en python, capilla del monte, fotos, viajes, córdoba
+.. tags: argentina en python, capilla del monte, córdoba, fotos, viaje
 .. link: 
 .. description: 
 .. type: text

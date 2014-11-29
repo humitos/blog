@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/05/13 17:11:54
 .. title: Jardín Japonés
 .. slug: jardin-japones

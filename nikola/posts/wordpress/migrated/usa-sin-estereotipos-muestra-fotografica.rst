@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, charla, fotos, viajes
+.. tags: arte, charla, fotos, viaje
 .. date: 2013/08/14 13:28:51
 .. title: USA: Sin estereotipos - Muestra Fotográfica
 .. slug: usa-sin-estereotipos-muestra-fotografica

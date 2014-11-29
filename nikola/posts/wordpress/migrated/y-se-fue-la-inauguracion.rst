@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, fotos, proyectos, viajes
+.. tags: arte, fotos, proyectos, viaje
 .. date: 2013/08/25 18:37:40
 .. title: Y se fue la inauguración
 .. slug: y-se-fue-la-inauguracion

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/05/01 03:06:38
 .. title: Unbelievable
 .. slug: unbelievable

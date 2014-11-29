@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/05/04 02:01:20
 .. title: Rocky Butte: Natural Area
 .. slug: rocky-butte-natural-area

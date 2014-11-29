@@ -1,7 +1,7 @@
 .. title: Mama, me voy a trabajar a las sierras
 .. slug: mama-me-voy-a-trabajar-a-las-sierras
 .. date: 2014-06-20 15:13:37 UTC-03:00
-.. tags: argentina en python, mina clavero, viajes, córdoba
+.. tags: argentina en python, córdoba, mina clavero, viaje
 .. link: 
 .. description: 
 .. type: text

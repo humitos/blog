@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/05/11 04:13:08
 .. title: Las fotos del día
 .. slug: las-fotos-del-dia

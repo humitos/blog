@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/04/28 20:11:50
 .. title: Un insulto
 .. slug: un-insulto

@@ -1,7 +1,7 @@
 .. title: Internet cacheada en Merlo
 .. slug: internet-cacheada-en-merlo
 .. date: 2014-06-23 18:08:36 UTC-03:00
-.. tags: argentina en python, san luis, merlo, viajes, internet
+.. tags: argentina en python, internet, merlo, san luis, viaje
 .. link: 
 .. description: 
 .. type: text

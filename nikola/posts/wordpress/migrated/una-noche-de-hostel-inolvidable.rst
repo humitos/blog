@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: viajes, eeuu, hollywood, california
+.. tags: california, eeuu, hollywood, viaje
 .. date: 2013/06/19 01:36:58
 .. title: Una noche de hostel inolvidable
 .. slug: una-noche-de-hostel-inolvidable

@@ -1,7 +1,7 @@
 .. title: Voalá
 .. slug: voala
 .. date: 2014-06-29 17:43:03 UTC-03:00
-.. tags: argentina en python, mendoza, trompo, circo, viajes
+.. tags: argentina en python, circo, mendoza, trompo, viaje
 .. link: 
 .. description: 
 .. type: text

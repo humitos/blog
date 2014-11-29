@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: viajes
+.. tags: viaje
 .. date: 2013/06/09 12:52:52
 .. title: Imaginame...
 .. slug: imaginame

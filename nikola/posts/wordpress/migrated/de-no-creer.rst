@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: charla, charla, olpc, proyectos, pygame, python, viajes
+.. tags: charla, olpc, proyectos, pygame, python, viaje
 .. date: 2008/07/28 20:07:03
 .. title: De no creer
 .. slug: de-no-creer

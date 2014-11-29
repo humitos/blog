@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: blog, circo, general, viajes
+.. tags: blog, circo, general, viaje
 .. date: 2011/12/13 22:49:40
 .. title: Encuentro en el circo
 .. slug: encuentro-en-el-circo

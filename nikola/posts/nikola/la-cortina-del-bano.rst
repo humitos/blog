@@ -1,7 +1,7 @@
 .. title: La cortina del baño
 .. slug: la-cortina-del-bano
 .. date: 2014-09-12 14:58:50 UTC-03:00
-.. tags: santiago del estero, viajes, libros
+.. tags: libros, santiago del estero, viaje
 .. link: 
 .. description: 
 .. type: text

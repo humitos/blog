@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: los angeles, viajes
+.. tags: los angeles, viaje
 .. date: 2013/05/27 16:04:07
 .. title: Los Ángeles Weather
 .. slug: los-angeles-weather

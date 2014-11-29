@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/04/30 18:32:01
 .. title: Tri-Met (colectivo)
 .. slug: tri-met-colectivo

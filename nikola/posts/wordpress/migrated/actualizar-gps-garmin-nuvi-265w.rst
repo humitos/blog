@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: auto, internet, portland, software libre, viajes, garmin, gps
+.. tags: auto, garmin, gps, internet, portland, software libre, viaje
 .. date: 2013/06/19 18:07:18
 .. title: Actualizar GPS Garmin Nuvi 265W
 .. slug: actualizar-gps-garmin-nuvi-265w

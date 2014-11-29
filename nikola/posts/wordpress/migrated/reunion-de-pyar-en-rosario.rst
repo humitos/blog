@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: olpc, python, pyweek, software libre, viajes
+.. tags: olpc, python, pyweek, software libre, viaje
 .. date: 2008/09/07 23:57:05
 .. title: Reunión de PyAr en Rosario
 .. slug: reunion-de-pyar-en-rosario

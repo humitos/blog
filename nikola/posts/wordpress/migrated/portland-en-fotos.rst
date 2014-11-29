@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, fotos, portland, viajes
+.. tags: arte, fotos, portland, viaje
 .. date: 2013/06/25 02:42:21
 .. title: Portland en fotos
 .. slug: portland-en-fotos

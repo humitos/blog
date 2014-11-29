@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: blog, general, viajes
+.. tags: blog, general, viaje
 .. date: 2012/06/23 11:12:37
 .. title: Fiebre de dólares por las noches
 .. slug: fiebre-de-dolares-por-las-noches

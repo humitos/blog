@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: viajes
+.. tags: viaje
 .. date: 2011/04/25 17:24:26
 .. title: GPS Fail!
 .. slug: gps-fail

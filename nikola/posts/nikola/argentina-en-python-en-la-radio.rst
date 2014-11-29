@@ -1,7 +1,7 @@
 .. title: Argentina en Python en la Radio
 .. slug: argentina-en-python-en-la-radio
 .. date: 2014-11-07 17:08:59 UTC-03:00
-.. tags: argentina en python, capilla del monte, córdoba, mapas, viajes, openstreetmap
+.. tags: argentina en python, capilla del monte, córdoba, mapas, openstreetmap, viaje
 .. link: 
 .. description: 
 .. type: text

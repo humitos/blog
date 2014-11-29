@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, blog, frases, viajes
+.. tags: arte, blog, frases, viaje
 .. date: 2012/07/14 05:00:09
 .. title: Es suficiente que cambie una sóla persona para que cambie el mundo
 .. slug: es-suficiente-que-cambie-una-sola-persona-para-que-cambie-el-mundo

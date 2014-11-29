@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: viajes
+.. tags: viaje
 .. date: 2011/07/28 20:50:32
 .. title: Bariloche, Día 2
 .. slug: bariloche-dia-2

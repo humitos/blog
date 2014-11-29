@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/05/19 20:51:53
 .. title: Walk There: Hollywood center
 .. slug: walk-there-hollywood-center

@@ -1,7 +1,7 @@
 .. title: Rafaela - Santiago del Estero
 .. slug: rafaela-santiago-del-estero
 .. date: 2014-09-21 11:47:28 UTC-03:00
-.. tags: argentina en python, viajes, rafaela, santa fe, santiago del estero
+.. tags: argentina en python, rafaela, santa fe, santiago del estero, viaje
 .. link: 
 .. description: 
 .. type: text

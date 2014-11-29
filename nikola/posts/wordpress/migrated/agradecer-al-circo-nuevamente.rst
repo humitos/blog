@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: circo, portland, viajes
+.. tags: circo, portland, viaje
 .. date: 2013/05/02 04:03:26
 .. title: Agradecer al circo, nuevamente
 .. slug: agradecer-al-circo-nuevamente

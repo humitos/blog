@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: los angeles, viajes
+.. tags: los angeles, viaje
 .. date: 2013/06/10 16:16:19
 .. title: LA - SF: 3 días
 .. slug: la-sf-3-dias

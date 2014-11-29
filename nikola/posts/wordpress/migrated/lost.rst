@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: remo, viajes
+.. tags: remo, viaje
 .. date: 2010/09/18 11:44:13
 .. title: Lost
 .. slug: lost

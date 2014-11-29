@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: frases, portland, viajes
+.. tags: frases, portland, viaje
 .. date: 2013/07/04 16:49:54
 .. title: No estoy tan solo...
 .. slug: no-estoy-tan-solo

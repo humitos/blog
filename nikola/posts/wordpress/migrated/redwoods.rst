@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: viajes
+.. tags: viaje
 .. date: 2013/06/16 23:16:33
 .. title: Redwoods
 .. slug: redwoods

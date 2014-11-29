@@ -1,7 +1,7 @@
 .. title: 3500 Km
 .. slug: 3500-km
 .. date: 2014-07-22 21:32:25 UTC-03:00
-.. tags: viajes, argentina en python, san juan
+.. tags: argentina en python, san juan, viaje
 .. link: 
 .. description: 
 .. type: text

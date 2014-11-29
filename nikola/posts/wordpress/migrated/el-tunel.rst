@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: los angeles, viajes
+.. tags: los angeles, viaje
 .. date: 2013/05/27 06:13:45
 .. title: El tunel
 .. slug: el-tunel

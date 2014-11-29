@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: dibujos, viajes
+.. tags: dibujos, viaje
 .. date: 2011/01/30 17:47:50
 .. title: De 0 a Arte en un rato
 .. slug: de-0-a-arte-en-un-rato

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: inglés, portland, viajes
+.. tags: inglés, portland, viaje
 .. date: 2013/04/19 15:15:15
 .. title: Recién llegado a Portland, OR
 .. slug: recien-llegado-a-portland-or

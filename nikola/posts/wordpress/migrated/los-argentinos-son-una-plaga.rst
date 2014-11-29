@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/05/20 18:29:43
 .. title: Los argentinos son una plaga
 .. slug: los-argentinos-son-una-plaga

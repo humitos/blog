@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: olpc, software libre, viajes
+.. tags: olpc, software libre, viaje
 .. date: 2008/12/03 21:23:53
 .. title: Visitando a Stallman
 .. slug: visitando-a-stallman

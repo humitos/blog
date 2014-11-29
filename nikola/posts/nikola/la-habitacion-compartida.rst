@@ -1,7 +1,7 @@
 .. title: La habitación compartida
 .. slug: la-habitacion-compartida
 .. date: 2014-06-26 22:57:32 UTC-03:00
-.. tags: argentina en python, viajes, san luis
+.. tags: argentina en python, san luis, viaje
 .. link: 
 .. description: 
 .. type: text

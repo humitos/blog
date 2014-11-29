@@ -1,7 +1,7 @@
 .. title: Vivir de Python
 .. slug: vivir-de-python
 .. date: 2014/05/02 11:13:22
-.. tags: argentina en python, python, viajes, video
+.. tags: argentina en python, python, video, viaje
 .. link: 
 .. description: 
 .. type: text

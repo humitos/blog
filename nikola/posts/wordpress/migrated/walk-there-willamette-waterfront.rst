@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/05/03 02:38:16
 .. title: Walk There!: Willamette Waterfront
 .. slug: walk-there-willamette-waterfront

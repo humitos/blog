@@ -1,7 +1,7 @@
 .. title: Historias de Buenos Aires
 .. slug: historias-de-buenos-aires
 .. date: 2014/03/13 21:06:05
-.. tags: viajes, auto, python, buenos aires, argentina en python
+.. tags: argentina en python, auto, buenos aires, python, viaje
 .. link: 
 .. description: 
 .. type: text

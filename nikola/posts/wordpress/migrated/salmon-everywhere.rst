@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/05/19 21:23:56
 .. title: Salmon everywhere!
 .. slug: salmon-everywhere

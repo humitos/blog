@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: viajes
+.. tags: viaje
 .. date: 2011/08/01 17:08:52
 .. title: Bariloche, Día 5 y 6
 .. slug: bariloche-dia-5-y-6

@@ -1,7 +1,7 @@
 .. title: Viviendo...
 .. slug: viviendo
 .. date: 2014-10-15 12:12:58 UTC-03:00
-.. tags: argentina en python, viajes, salta
+.. tags: argentina en python, salta, viaje
 .. link: 
 .. description: 
 .. type: text

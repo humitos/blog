@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: los angeles, viajes
+.. tags: los angeles, viaje
 .. date: 2013/05/28 17:58:50
 .. title: Tu futuro tamaño
 .. slug: tu-futuro-tamano

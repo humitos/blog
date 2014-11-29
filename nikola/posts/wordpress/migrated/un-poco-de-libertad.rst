@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: blog, software libre, viajes
+.. tags: blog, software libre, viaje
 .. date: 2008/06/02 02:16:29
 .. title: Un poco de libertad
 .. slug: un-poco-de-libertad

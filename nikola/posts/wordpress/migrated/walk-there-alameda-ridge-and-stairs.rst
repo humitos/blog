@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/05/04 02:34:56
 .. title: Walk There!: Alameda Ridge and Stairs
 .. slug: walk-there-alameda-ridge-and-stairs

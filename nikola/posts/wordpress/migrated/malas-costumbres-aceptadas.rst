@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: viajes
+.. tags: viaje
 .. date: 2012/10/19 17:15:06
 .. title: Malas costumbres aceptadas
 .. slug: malas-costumbres-aceptadas

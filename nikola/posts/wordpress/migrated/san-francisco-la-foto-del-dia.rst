@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, fotos, viajes
+.. tags: arte, fotos, viaje
 .. date: 2013/06/10 03:59:54
 .. title: San Francisco: la foto del día
 .. slug: san-francisco-la-foto-del-dia

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: viajes
+.. tags: viaje
 .. date: 2013/06/08 16:31:58
 .. title: Las Vegas
 .. slug: las-vegas

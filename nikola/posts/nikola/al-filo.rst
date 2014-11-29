@@ -1,7 +1,7 @@
 .. title: Al Filo
 .. slug: al-filo
 .. date: 2014-06-27 20:14:48 UTC-03:00
-.. tags: argentina en python, viajes, san luis, merlo
+.. tags: argentina en python, merlo, san luis, viaje
 .. link: 
 .. description: 
 .. type: text

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: portland, viajes
+.. tags: portland, viaje
 .. date: 2013/05/05 00:51:03
 .. title: Si esto no es USA: ¿qué es?
 .. slug: si-esto-no-es-usa-que-es

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: charla, olpc, python, software libre, viajes
+.. tags: charla, olpc, python, software libre, viaje
 .. date: 2008/08/25 23:15:12
 .. title: 8vas Jornadas Regionales
 .. slug: 8vas-jornadas-regionales

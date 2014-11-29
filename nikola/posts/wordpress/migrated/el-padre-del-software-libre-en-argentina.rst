@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: charla, django, python, software libre, viajes
+.. tags: charla, django, python, software libre, viaje
 .. date: 2008/10/30 21:37:19
 .. title: El padre del Software Libre en Argentina
 .. slug: el-padre-del-software-libre-en-argentina

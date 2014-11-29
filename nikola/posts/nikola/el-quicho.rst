@@ -1,7 +1,7 @@
 .. title: El Quicho
 .. slug: el-quicho
 .. date: 2014-06-13 20:41:47 UTC-03:00
-.. tags: argentina en python, el quicho, viajes, córdoba
+.. tags: argentina en python, córdoba, el quicho, viaje
 .. link: 
 .. description: 
 .. type: text

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, fotos, viajes
+.. tags: arte, fotos, viaje
 .. date: 2013/06/22 20:35:56
 .. title: Todos los días
 .. slug: todos-los-dias-2

@@ -1,7 +1,7 @@
 .. title: Curso de Python en Cruz del Eje
 .. slug: curso-de-python-en-cruz-del-eje
 .. date: 2014-06-19 13:19:06 UTC-03:00
-.. tags: argentina en python, cruz del eje, python, viajes, córdoba
+.. tags: argentina en python, cruz del eje, córdoba, python, viaje
 .. link: 
 .. description: 
 .. type: text
