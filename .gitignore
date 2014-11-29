@@ -10,3 +10,4 @@ Guardfile
 geolocation.log
 my-position.json
 plugins
+nikola/utils/photos
