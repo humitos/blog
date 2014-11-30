@@ -4,13 +4,14 @@
 
 Usage:
   geolocation.py [(-v | --verbose)] (-m | --me)
-  geolocation.py [(-v | --verbose)] (-a | --address) [(-p | --previous-city)] <address>
+  geolocation.py [(-v | --verbose)] (-a | --address) [(-r | --remove)] [(-p | --previous-city)] <address>
   geolocation.py [(-v | --verbose)] (-s | --symlinks)
   geolocation.py (-h | --help)
   geolocation.py --version
 
 Options:
   <address>            Address to be calculated.
+  -r --remove          Remove this point from the json file.
   -p --previous-city   Save the calculated point into the previous cities file.
   -s --symlinks        Create symlinks in output directory to upload on deploy.
   -h --help            Show this screen.
@@ -23,6 +24,7 @@ import json
 import time
 import geocoder
 import logging
+import collections
 
 from docopt import docopt
 from logging.handlers import RotatingFileHandler
@@ -73,7 +75,11 @@ def setup_output(output):
                 'next': [],
                 'previous': [],
             }
-            fh.write(json.dumps(init))
+            data = json.dumps(
+                init,
+                sort_keys=True
+            )
+            fh.write(data)
 
 
 def create_symlinks(dirname=SYMLINKS_DIR):
@@ -106,16 +112,20 @@ def calc_my_position(output=MY_POSITION_FILENAME):
     logger.info('Querying the server about my ip...')
     response = geocoder.ip('me')
     logger.info('LatLng: %s', response.latlng)
-    logger.info('Place: %s, %s', response.city, response.state)
+    logger.info('Place: %s', response.address)
 
     logger.info('Querying the server about "%s"...', response.address)
     response = geocoder.osm(response.address)
     logger.info('LatLng: %s', response.latlng)
-    logger.info('Place: %s, %s', response.city, response.state)
+    logger.info('Place: %s', response.address)
 
     logger.info('Saving file...')
     with open(output, 'w') as fh:
-        fh.write(json.dumps(response.latlng))
+        data = json.dumps(
+            response.latlng,
+            sort_keys=True
+        )
+        fh.write(data)
 
     command = 'scp {} ' \
               'mkaufmann.com.ar:~/apps/blog.mkaufmann.com.ar/blog/' \
@@ -137,7 +147,11 @@ def calc_address(address, when, output=CITIES_FILENAME):
     logger.info('Got an answer!')
 
     logger.info('Loading old cities from: %s', output)
-    cities = json.loads(open(output, 'r').read().decode('utf8'))
+    data = open(output, 'r').read().decode('utf8')
+    cities = json.loads(
+        data,
+        object_pairs_hook=collections.OrderedDict
+    )
 
     osm_id = response.json['osm_id']
     last_osm_id = None
@@ -145,15 +159,53 @@ def calc_address(address, when, output=CITIES_FILENAME):
         last_osm_id = cities[when][-1]['osm_id']
 
     if not cities[when] or osm_id != last_osm_id:
-        logger.info('Adding new city: "%s, %s, %s"',
-                    response.city, response.state, response.country)
+        logger.info('Adding new city: "%s"', response.address)
         cities[when].append(response.json)
         logger.info('Saving file...')
         with open(output, 'w') as fh:
-            fh.write(json.dumps(cities, indent=4))
+            data = json.dumps(
+                cities,
+                indent=4,
+                sort_keys=True
+            )
+            fh.write(data)
     else:
         logger.info('This city is already saved. Excluding...')
 
+
+def remove_address(address, output=CITIES_FILENAME):
+    logger.info('Querying the server for: "%s" ...', address)
+    response = geocoder.osm(address)
+    logger.info('Got an answer!')
+    logger.info('Place: %s', response.address)
+
+    logger.info('Loading old cities from: %s', output)
+    data = open(output, 'r').read().decode('utf8')
+    cities = json.loads(
+        data,
+        object_pairs_hook=collections.OrderedDict
+    )
+
+    removed = False
+    next_cities = cities['next']
+    for city in next_cities:
+        if city['osm_id'] == response.json['osm_id']:
+            logger.info('City: %s removed!', city['address'])
+            next_cities.remove(city)
+            removed = True
+            break
+
+    if removed:
+        logger.info('Saving file...')
+        with open(output, 'w') as fh:
+            data = json.dumps(
+                cities,
+                indent=4,
+                sort_keys=True
+            )
+            fh.write(data)
+    else:
+        logger.info('City not found!')
 
 if __name__ == '__main__':
     arguments = docopt(__doc__, version='Geolocation 0.1')
@@ -162,11 +214,14 @@ if __name__ == '__main__':
     if arguments['-a'] or arguments['--address']:
         address = arguments['<address>'].decode('utf8')
 
-        if arguments['--previous-city']:
-            when = 'previous'
+        if arguments['--remove']:
+            remove_address(address)
         else:
-            when = 'next'
-        calc_address(address, when)
+            if arguments['--previous-city']:
+                when = 'previous'
+            else:
+                when = 'next'
+            calc_address(address, when)
 
     if arguments['-m'] or arguments['--me']:
         calc_my_position()
