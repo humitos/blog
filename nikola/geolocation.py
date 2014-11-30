@@ -46,6 +46,7 @@ SYMLINK_FILES = [
     MY_POSITION_FILENAME,
 ] + GPX_FILES
 WAIT_BEFORE_QUERY = 5
+MAP_ZOOM = 14
 
 
 def setup_logging(verbose):
@@ -74,6 +75,15 @@ def save_json(data, output):
         fh.write(data)
 
 
+def load_json(output):
+    data = open(output, 'r').read().decode('utf8')
+    cities = json.loads(
+        data,
+        object_pairs_hook=collections.OrderedDict
+    )
+    return cities
+
+
 def setup_output(output):
     dirname = os.path.dirname(output)
     if not os.path.exists(dirname):
@@ -86,6 +96,25 @@ def setup_output(output):
             'previous': [],
         }
         save_json(init, output)
+
+
+def osmurl_invalid():
+    logger.info('The URL is not correct. Quitting...')
+
+
+def is_osmurl_valid(response):
+    url = 'http://www.openstreetmap.org/#map={zoom}/{lat}/{lng}'.format(
+        zoom=MAP_ZOOM,
+        lat=response.lat,
+        lng=response.lng,
+    )
+    logger.info('OSMUrl: %s', url)
+    answer = None
+    while answer not in ('y', 'yes', 'n', 'no'):
+        answer = raw_input('Is this URL correct?\n    {}\n[y/n]: '.format(url))
+    if answer in ('y', 'yes'):
+        return True
+    return False
 
 
 def create_symlinks(dirname=SYMLINKS_DIR):
@@ -125,6 +154,10 @@ def calc_my_position(output=MY_POSITION_FILENAME):
     logger.info('LatLng: %s', response.latlng)
     logger.info('Place: %s', response.address)
 
+    # if not is_osmurl_valid(response):
+    #     osmurl_invalid()
+    #     return
+
     save_json(response.latlng, output)
 
     command = 'scp {} ' \
@@ -138,6 +171,8 @@ def calc_my_position(output=MY_POSITION_FILENAME):
     os.system(command)
     logger.info('Upload Finished!')
 
+    return response
+
 
 def calc_address(address, when, output=CITIES_FILENAME):
     setup_output(output)
@@ -146,12 +181,12 @@ def calc_address(address, when, output=CITIES_FILENAME):
     response = geocoder.osm(address)
     logger.info('Got an answer!')
 
+    if not is_osmurl_valid(response):
+        osmurl_invalid()
+        return
+
     logger.info('Loading old cities from: %s', output)
-    data = open(output, 'r').read().decode('utf8')
-    cities = json.loads(
-        data,
-        object_pairs_hook=collections.OrderedDict
-    )
+    cities = load_json(output)
 
     osm_id = response.json['osm_id']
     last_osm_id = None
@@ -161,10 +196,11 @@ def calc_address(address, when, output=CITIES_FILENAME):
     if not cities[when] or osm_id != last_osm_id:
         logger.info('Adding new city: "%s"', response.address)
         cities[when].append(response.json)
-        logger.info('Saving file...')
         save_json(cities, output)
     else:
         logger.info('This city is already saved. Excluding...')
+
+    return response
 
 
 def remove_address(address, output=CITIES_FILENAME):
@@ -174,11 +210,7 @@ def remove_address(address, output=CITIES_FILENAME):
     logger.info('Place: %s', response.address)
 
     logger.info('Loading old cities from: %s', output)
-    data = open(output, 'r').read().decode('utf8')
-    cities = json.loads(
-        data,
-        object_pairs_hook=collections.OrderedDict
-    )
+    cities = load_json(output)
 
     removed = False
     next_cities = cities['next']
@@ -194,6 +226,8 @@ def remove_address(address, output=CITIES_FILENAME):
     else:
         logger.info('City not found!')
 
+    return response
+
 
 if __name__ == '__main__':
     arguments = docopt(__doc__, version='Geolocation 0.1')
@@ -203,16 +237,16 @@ if __name__ == '__main__':
         WAIT_BEFORE_QUERY = 0
 
     if arguments['-a'] or arguments['--address']:
-        address = arguments['<address>'].decode('utf8')
+        q = arguments['<address>'].decode('utf8')
 
         if arguments['--remove']:
-            remove_address(address)
+            response = remove_address(q)
         else:
             if arguments['--previous-city']:
                 when = 'previous'
             else:
                 when = 'next'
-            calc_address(address, when)
+            calc_address(q, when)
 
     if arguments['-m'] or arguments['--me']:
         calc_my_position()
