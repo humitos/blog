@@ -499,19 +499,6 @@
             "status": "OK"
         }, 
         {
-            "address": "Regi\u00f3n de Valpara\u00edso, Chile", 
-            "country": "CL", 
-            "lat": -32.5976089, 
-            "lng": -70.8529753, 
-            "location": "valparaiso, chile", 
-            "osm_id": "924836600", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "state", 
-            "state": "Regi\u00f3n de Valpara\u00edso", 
-            "status": "OK"
-        }, 
-        {
             "address": "Vi\u00f1a del Mar, Provincia de Valpara\u00edso, V Regi\u00f3n de Valpara\u00edso, Chile", 
             "city": "Vi\u00f1a del Mar", 
             "country": "CL", 
@@ -661,6 +648,20 @@
             "provider": "osm", 
             "quality": "administrative", 
             "state": "Jujuy", 
+            "status": "OK"
+        }, 
+        {
+            "address": "Valpara\u00edso, Provincia de Valpara\u00edso, V Regi\u00f3n de Valpara\u00edso, Chile", 
+            "city": "Valpara\u00edso", 
+            "country": "CL", 
+            "lat": -33.0475721, 
+            "lng": -71.6153581, 
+            "location": "valparaiso, provincia del valparaiso, chile", 
+            "osm_id": "110808", 
+            "osm_type": "relation", 
+            "provider": "osm", 
+            "quality": "city", 
+            "state": "V Regi\u00f3n de Valpara\u00edso", 
             "status": "OK"
         }
     ]
