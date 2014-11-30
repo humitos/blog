@@ -3,7 +3,7 @@
 """Calculate a position from an IP or Address and save it into a file
 
 Usage:
-  geolocation.py [(-v | --verbose)] (-m | --me)
+  geolocation.py [(-v | --verbose)] [--no-wait] (-m | --me)
   geolocation.py [(-v | --verbose)] (-a | --address) [(-r | --remove)] [(-p | --previous-city)] <address>
   geolocation.py [(-v | --verbose)] (-s | --symlinks)
   geolocation.py (-h | --help)
@@ -63,6 +63,17 @@ def setup_logging(verbose):
         logger.addHandler(handler)
 
 
+def save_json(data, output):
+    logger.info('Saving file...')
+    with open(output, 'w') as fh:
+        data = json.dumps(
+            data,
+            indent=4,
+            sort_keys=True
+        )
+        fh.write(data)
+
+
 def setup_output(output):
     dirname = os.path.dirname(output)
     if not os.path.exists(dirname):
@@ -70,16 +81,11 @@ def setup_output(output):
 
     if not os.path.exists(output):
         # touch file with an empty dict
-        with open(output, 'w') as fh:
-            init = {
-                'next': [],
-                'previous': [],
-            }
-            data = json.dumps(
-                init,
-                sort_keys=True
-            )
-            fh.write(data)
+        init = {
+            'next': [],
+            'previous': [],
+        }
+        save_json(init, output)
 
 
 def create_symlinks(dirname=SYMLINKS_DIR):
@@ -119,13 +125,7 @@ def calc_my_position(output=MY_POSITION_FILENAME):
     logger.info('LatLng: %s', response.latlng)
     logger.info('Place: %s', response.address)
 
-    logger.info('Saving file...')
-    with open(output, 'w') as fh:
-        data = json.dumps(
-            response.latlng,
-            sort_keys=True
-        )
-        fh.write(data)
+    save_json(response.latlng, output)
 
     command = 'scp {} ' \
               'mkaufmann.com.ar:~/apps/blog.mkaufmann.com.ar/blog/' \
@@ -162,13 +162,7 @@ def calc_address(address, when, output=CITIES_FILENAME):
         logger.info('Adding new city: "%s"', response.address)
         cities[when].append(response.json)
         logger.info('Saving file...')
-        with open(output, 'w') as fh:
-            data = json.dumps(
-                cities,
-                indent=4,
-                sort_keys=True
-            )
-            fh.write(data)
+        save_json(cities, output)
     else:
         logger.info('This city is already saved. Excluding...')
 
@@ -196,21 +190,18 @@ def remove_address(address, output=CITIES_FILENAME):
             break
 
     if removed:
-        logger.info('Saving file...')
-        with open(output, 'w') as fh:
-            data = json.dumps(
-                cities,
-                indent=4,
-                sort_keys=True
-            )
-            fh.write(data)
+        save_json(cities, output)
     else:
         logger.info('City not found!')
+
 
 if __name__ == '__main__':
     arguments = docopt(__doc__, version='Geolocation 0.1')
 
     setup_logging(arguments['--verbose'])
+    if arguments['--no-wait']:
+        WAIT_BEFORE_QUERY = 0
+
     if arguments['-a'] or arguments['--address']:
         address = arguments['<address>'].decode('utf8')
 
