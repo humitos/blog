@@ -87,7 +87,7 @@ iframe {
     text-align: center;
 }
 
-#map {
+#map, #map-zero, #map-first, #map-second, #map-third {
     height: 350px;
     margin-top: 5px;
     margin-bottom: 15px;

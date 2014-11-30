@@ -10,6 +10,10 @@
 .. raw:: html
    :file: files/pages/argentina-en-python/news-note.html
 
+.. raw:: html
+
+   <script defer src="/assets/js/argentina-en-python.js"></script>
+
 ¿Qué es?
 --------
 
@@ -134,8 +138,7 @@ Este es el mapa del recorrido realizado.
 
 .. raw:: html
 
-   <a class="align-center" href="https://goo.gl/maps/wPhmx" target="_blank"><img class="align-center" src="mapa_2da.jpg"/></a>
-   <em class="align-center" style="margin-left: 270px; margin-right: auto;">(Click en la imagen para ir al mapa de google)</em>
+   <div id="map-second"></div>
 
 
 Primera Etapa
@@ -185,14 +188,9 @@ Los lugares en los que he estado son:
 
 Este es el mapa del recorrido realizado.
 
-*Tuve que sacar algunos destinos del mapa porque Google Maps te
-permite hasta un cierto límite. Sin embargo, traté de dejar la ruta
-lo más parecido a lo que hice*
-
 .. raw:: html
 
-   <a class="align-center" href="https://goo.gl/maps/AjUIi" target="_blank"><img class="align-center" src="mapa.jpg"/></a>
-   <em class="align-center" style="margin-left: 270px; margin-right: auto;">(Click en la imagen para ir al mapa de google)</em>
+   <div id="map-first"></div>
 
 
 Etapa 0
@@ -219,6 +217,10 @@ Recorrido:
 * Olivos, Buenos Aires, Argentina
 * González Catán, Buenos Aires, Argentina
 * Martínez, Buenos Aires, Argentina
+
+.. raw:: html
+
+   <div id="map-zero"></div>
 
 Fotos
 -----
