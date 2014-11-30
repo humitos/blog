@@ -7,8 +7,10 @@
 .. type: text
 
 Este mapa es útil para saber en qué lugar estoy *aproximadamente* en
-este momento, con el fin de contactar con gente de la zona para así
-poder coordinar y organizarnos para encontrarnos.
+este momento, con el fin de :doc:`contactar con gente de la zona
+<quien-escribe>` para así poder coordinar algo relacionado a
+:doc:`argentina-en-python` (u otra cosa de interés mutuo) y
+organizarnos para encontrarnos en las cercanías.
 
 .. raw:: html
 
@@ -24,33 +26,34 @@ estoy.
 
 ----
 
-¿Cómo funciona *exactamente*?
------------------------------
+¿Cómo funciona *exactamente*...
+-------------------------------
 
-En profundidad, lo que hago es, mediante javascript, descargar el
-archivo *point.json* que es dónde están las coordenadas de mi posición
-actual y mostrarlo en el mapa:
+En profundidad, lo que hago es, mediante javascript, descargo el
+archivo *my-position.json* que es dónde están las coordenadas de mi
+posición actual y lo muestro en el mapa:
 
 .. TODO: acá hay un bug con Nikola que no me permite usar la directiva
    "include" (https://github.com/getnikola/nikola/issues/1506)
 
 .. listing:: geolocation.js javascript
 
-#. Descarga el *point.json*
+#. Descarga el archivo *my-location.json*
 #. Crea el mapa utilizando `leaflet.js <http://leafletjs.com/>`_
-#. Agrega el punto que está en *point.json* al mapa
+#. Agrega el punto que está en *my-location.json* al mapa
 #. Centra el mapa en esa posición
 
 
-Ese *point.json* lo genero con un script Python.
+Ese *my-location.json* lo genero con un script Python.
 
 .. include:: geolocation.py 
    :code: python
 
 #. Utiliza la librería *geocoder* para obtener las coordenadas de mi
    dirección de IP
-#. Muestra en pantalla la longitud, latitud y el nombre del lugar
-#. Guarda en el archivo *point.json* la longitud y latitud
+#. Loguea todo el proceso para, en caso de haber un error, saber qué
+   ocurrió
+#. Guarda en el archivo *my-location.json* la longitud y latitud
 
 .. note::
 
@@ -64,12 +67,17 @@ a una red.
 .. include:: geoblog
    :code: bash
 
+.. note::
+
+   Este script va copiado en la carpeta
+   `/etc/NetworkManager/dispatch.d/geoblog` y *root* tiene que ser el
+   owner del archivo para que NM lo ejecute correctamente.
+
 Básicamente lo que hace es:
 
-#. Loguea la fecha
 #. Si la interfaz es levantada (*up*), ejecuta un script Python
-#. Loguea la salida de ese script
-#. Copia al servidor el archivo *point.json*
+#. Loguea todo el proceso para futuro análisis
+#. Copia al servidor el archivo *my-location.json*
 
 .. note::
 

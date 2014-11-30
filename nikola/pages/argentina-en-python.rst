@@ -93,9 +93,13 @@ sumó Johanna para acompañarme a recorrer la parte Noreste de nuestro
 país (Corrientes, Misiones, etc) y proyectar la posibilidad de visitar
 otros países, como Paraguay y Bolivia, por ejemplo.
 
-La fecha tentativa de salida es el Viernes 5 de Diciembre con destino
-a Concordia como primer destino para luego ir bordeando la costa de
-Entre Ríos.
+La fecha tentativa de salida es el Viernes 5 de Diciembre hacia
+Concordia como primer destino para luego ir bordeando la costa este de
+Entre Ríos hasta Puerto Iguazú, pasando por Corrientes y Posadas.
+
+:doc:`En el mapa <donde-esta-humitos>` se puede consultar cuáles son
+los próximos destinos aproximados y empezar a organizar encuentros,
+charlas y cursos con antelación.
 
 ¡Próximamente más novedades!
 
