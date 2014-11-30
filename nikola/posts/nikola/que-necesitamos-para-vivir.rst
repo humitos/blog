@@ -31,7 +31,7 @@ superarlo.
 
    -- *un tal* Facundo
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 ¿Cuánta comida? ¿Cuánta ropa? ¿Cuánta tecnología? ¿Cuánto de todo esto
 que nos rodea todos los días nos hace falta para ser felices? ¿Porqué

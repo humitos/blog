@@ -13,7 +13,7 @@ Salí a pasear por Capilla del Monte al dique El Cajón, y volví con un fotón:
 
    Dique El Cajón
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Y de yapa...
 

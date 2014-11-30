@@ -34,7 +34,7 @@ colaborar y/o compartir lo que tengo, lo que sé, con alguien que esté
 dispuesto a recibirlo y también, cambiarle la vida a alguien para
 siempre: ¿porqué no? (uno nunca sabe)
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Entonces, muchas veces no me llamaba mucho la antención ir a un lugar
 dónde *no conocía a nadie* o *no tenía ningún contacto* en esa

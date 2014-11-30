@@ -33,7 +33,7 @@ aire:
 
    Así manejé varios kilómetros hasta llegar a la cima de la montaña
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Le metí pata lo más que pude. Bah, pata... Iba a 20 o a 30 Km/h. No se
 podía ir a más que eso. Incluso a esa velocidad, por ahí me aparecían

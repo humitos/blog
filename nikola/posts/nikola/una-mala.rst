@@ -28,7 +28,7 @@ problema para seguir adelante hasta llegar a destino.
 
    de frente...
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 .. figure:: DSC_1537.thumbnail.jpg
    :target: DSC_1537.jpg

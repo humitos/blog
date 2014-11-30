@@ -17,7 +17,7 @@ momento:
 
    Primera
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 .. figure:: video-2.thumbnail.jpg
    :target: video-2.jpg

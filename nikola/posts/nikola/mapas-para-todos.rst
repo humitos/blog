@@ -48,7 +48,7 @@ diseñé una metodogía de trabajo que puede acelerar el mapeo a futuro.
    Puntos de Interés (Estaciones de Servicio, Hoteles, Atracciones,
    etc)
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Siguiendo estos 3 pasos, luego será mucho más fácil cargar la
 información que recopilamos utilizando JOSM.

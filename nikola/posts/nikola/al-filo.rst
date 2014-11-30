@@ -41,7 +41,7 @@ camino era hermoso y la vista maravillosa.
    Vista a mitad de camino yendo al Filo
 
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Ahí mismo, en el lugar dónde saqué la foto, me puse a esperar unos
 chicos que iban caminando y que yo había pasado hacía un toque. Yo

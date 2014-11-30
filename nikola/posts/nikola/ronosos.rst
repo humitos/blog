@@ -23,7 +23,7 @@ pregunto por el precio de la habitación y los servicios y me dice:
 todo el tiempo que llevo viajando y el lugar, a simple vista, no
 parecía nada del otro mundo. Digamos que "solamente era caro".
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Acepto el precio ya que no tenía ganas de renegar con nada. Ya
 demasiado tenía con la cabra maldita. Luego viene su mujer (a la que

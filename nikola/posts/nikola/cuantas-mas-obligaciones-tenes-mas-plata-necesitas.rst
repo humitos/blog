@@ -37,7 +37,7 @@ un gran pedazo de tronco fresco mínimamente tallado y empezando a ser
 ahuecado, él, mirando hacia el cielo contempla las estrellas y desea
 que al día siguiente finalmente llegue esa lluvia esperanzadora...
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 El señor con obligaciones vive en la ciudad. Pues claro, tiene que
 cumplir con sus obligaciones. Las obligaciones están en la ciudad. En

@@ -33,7 +33,7 @@ datos a OSM y seguir entendiendo cómo es la dinámica del mapeo
 diario. Ahora me pasa que quiero salir con el GPS en *modo peatón*
 cada vez que salgo a caminar. Y la verdad, ¡es muy valioso hacer eso!
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 El Martes me fui a subir el Cerro San Bernardo que está en la misma
 ciudad de Salta (desde el hostel quedaba a 5 cuadras más o menos). Yo

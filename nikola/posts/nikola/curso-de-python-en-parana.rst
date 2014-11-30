@@ -19,7 +19,7 @@ programar computadoras y explorar juntos.
 
    Flyer del curso de Python
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Tené en cuenta que...
 ---------------------

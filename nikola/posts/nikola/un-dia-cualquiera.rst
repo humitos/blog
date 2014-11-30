@@ -24,7 +24,7 @@ imponente vista:
 
    Vista desde el patio
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 De ahí, después de comer unas riquísimas verduras salteadas al wok con
 semillas y demáses, decidimos ir a hacer un poco de actividad física

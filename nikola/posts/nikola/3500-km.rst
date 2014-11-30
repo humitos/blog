@@ -15,7 +15,7 @@ paso" que genera increíbles sensaciones y emociones en mí. Compartí
 la habitación con gente desconocida casi todos los días y hasta
 incluso desperté al sonido de algunos gemidos.
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 En todo este tiempo, pasé por todas las sensaciones y emociones que
 una persona puede tener e incluso descubrí sensaciones que no había

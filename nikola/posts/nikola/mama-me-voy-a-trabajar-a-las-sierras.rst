@@ -20,7 +20,7 @@ tomarme los feriados por ninguna razón en especial, pero como venía
 medio a los tumbos esta semana, decidí tomármelo y salir a pasear para
 relajarme un poco.
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Me levanté más o menos "tarde", cerca de las 9:45hs, desayuné y me
 fijé en *la carpeta azul de las excursiones* que hay en Hostel a ver a

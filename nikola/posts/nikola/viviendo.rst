@@ -32,7 +32,7 @@ sentimientos de soledad que andaban dando vueltas por ahí.
 
    Caminando por Tafí del Valle, en lugares no-turísticos
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 .. figure:: DSC_0110.thumbnail.jpg
    :target: DSC_0110.jpg

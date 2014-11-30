@@ -24,7 +24,7 @@ energizante, es super rico y barato. Sí, es cierto que varias de las
 primeras preparaciones no eran tan ricas, pero es el costo que hay que
 pagar hasta encontrarle el punto adecuado al paladar de cada uno.
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Mi preparación lleva los siguientes ingredientes (*en medidas
 desconocidas, que voy calculando mientras la voy preparando y viendo

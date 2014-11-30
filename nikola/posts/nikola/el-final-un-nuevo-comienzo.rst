@@ -34,7 +34,7 @@ monte" a cambio de poder subir una montaña todos los días. Gente que
 tiene otras pasiones, diferentes a las socialmente aceptadas y que lo
 dejan todo a cambio de un objetivo puntual. ¡Apasionante!
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Conocí profesionales (de esos importantes que visten trajes), me
 relacioné con hippies (de esos que saben hacer muchísimas cosas con

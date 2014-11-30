@@ -42,7 +42,7 @@ Sí, ok, ¿pero de qué va todo esto? Bueno, la idea principal es:
 
       Mapa impreso con Walking Papers
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 #. Salir a caminar por esa zona marcando la información que falta en
    el mapa:

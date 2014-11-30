@@ -18,7 +18,7 @@ antes de que salga de viaje, está cocinado (miralo maximizado):
 
 .. media:: http://youtu.be/8O6wfM1_Cvk
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Después, metí un par de trucos más aprovechando la volada: "El Puente"
 

@@ -44,7 +44,7 @@ le estaban enseñando un poco de Bash (¡Buenísimo!) para hacer
 scripts. También hablaron de Visual Basic y de lo difícil que es
 encontrar un error en C cuando no compila por algún motivo.
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Así que, usé esas cosas como para decir: "esto en Python está resuelto
 así", "para hacer una lista sólo abrís y cerrás corchete", "el tipo,

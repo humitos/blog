@@ -17,7 +17,7 @@ sierras. Está muy bueno. Si querés te podés sumar"
 
    Luces de velas muy ténues alumbraban el lugar
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Y así fue. El Viernes a la noche coordiné con Yamil (uno de los chicos
 que labura en el hostel -y muy piola) para ir cerca de las 21hs ya que

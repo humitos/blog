@@ -27,7 +27,7 @@ mayoría de ellos van en moto hasta la escuela. Desde los chicos de
 primaria (quizás unos 10 años) hasta los más grandecitos y algunos
 otros van en auto / camioneta Ford F100 o ese estilo.
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 La verdad que en el mapa no se puede ver nada, pero la escuela está a
 unos 20 Km por tierra desde la ruta (cerca de Serrezuela).

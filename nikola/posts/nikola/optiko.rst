@@ -21,7 +21,7 @@ Valparaiso. En el hostel en el que estábamos parando nos recomendaros
 visitar la ex-cárcel de Valparaíso y nos dijeron que ahora era un
 museo que contaba muy bien la historia. Valía la pena ir.
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Si mal no recuerdo, el último día que estuvimos en Valparaíso
 decidimos ir a visitar la ex-cárcel ya que nos llamaba un poco la

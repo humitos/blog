@@ -35,7 +35,7 @@ mucho) sobre el :doc:`proyecto que vengo empujando y llevando adelante
 
 .. _lightning talk: https://www.youtube.com/watch?v=U34rV6dRXU8&t=986
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Durante las semanas previas estuve muy disperso, intentando
 concentrarme para poder resumir todos estos meses de viajes, ocio y

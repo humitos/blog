@@ -26,7 +26,7 @@ expresarlo. Escribir me hizo descubrir que me descubrí, que me
 encontré, que me volví a perder y volver a leerme me marcó nuevamente
 el rumbo.
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Durante los últimos casi 3 meses que estuve viajando, traté de
 mantener actualizado mi paradero mediante mi blog. Comentando como me

@@ -45,7 +45,7 @@ mandando cualquiera?. "¡Ya fué! pongo el disco de `Argentino Bordolino
 <https://www.youtube.com/watch?v=L9X6U36Y32U>`_, compañero de rutas, y
 dejo de pensar por un rato"
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Llego a Rafaela y me voy para la casa de Ariel donde era la reunión de
 la organización de la PyConAr 2014. Ni bien entro a la casa y ya me

@@ -27,7 +27,7 @@ unos paisajes de la puta madre mientras subíamos las sierras:
 
    Yamil contemplando el paisaje
 
-.. TEASER_END: Seguir leyendo...
+.. TEASER_END
 
 Seguimos recorrido y en eso aparece un control policial. Sí, otro
 más. Aunque no lo he estado comentando, en Córdoba me hincharon
