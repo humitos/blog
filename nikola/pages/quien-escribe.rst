@@ -35,6 +35,13 @@ Argentina llevando adelante un proyecto personal y comunitario llamado
      </div>
      <div class="span6">
 
+.. raw:: html
+
+   <span style="font-size: 31.5px; font-weight: bold; margin-bottom: 20px">Contacto</span>
+   <style>
+     table {margin-top: 2em !important};
+   </style>
+
 :Blog: http://elblogdehumitos.com.ar
 
 :Email: humitos@gmail.com

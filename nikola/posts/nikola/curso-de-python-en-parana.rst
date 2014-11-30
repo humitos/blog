@@ -42,6 +42,10 @@ Tené en cuenta que...
 * Lunes 1, Martes 2 y Miércoles 3 de Diciembre de 15hs a 19hs. Vamos a
   tener unos descansos en el medio.
 
+.. raw:: html
+
+   <iframe style="width: 100%; height: 320px;" src="http://www.openstreetmap.org/export/embed.html?layer=mapnik&marker=-31.74326400000001,-60.52781199999998&zoom=16&bbox=-60.54,-31.74,-60.51,-31.75"></iframe>
+
 Programa tentativo
 ------------------
 
