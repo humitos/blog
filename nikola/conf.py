@@ -18,7 +18,8 @@ SITE_URL = "http://elblogdehumitos.com.ar/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://nikola.ralsina.com.ar"
 BLOG_EMAIL = "humitos@gmail.com"
-BLOG_DESCRIPTION = "el blog de Manuel Kaufmann -- comunicando mi vida a la sociedad"
+BLOG_DESCRIPTION = "el blog de Manuel Kaufmann -- " \
+                   "comunicando mi vida a la sociedad"
 
 # Nikola is multilingual!
 #
@@ -57,12 +58,12 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/pages/argentina-en-python/', 'Argentina en Python'),
         ('/pages/quien-escribe/', '¿Quién escribe?'),
-        ('/pages/traducciones/', 'Traducciones'),
         # ('/pages/modulos-python/', 'Módulos Python'),
         ('http://tutorial.python.org.ar/', 'El Tutorial de Python'),
         ('/random/', 'Random'),
         (
             (
+                ('/pages/traducciones/', 'Traducciones'),
                 ('/pages/apoyo/', 'Apoyo'),
                 ('/pages/repositorio/', 'Repositorio'),
                 ('/pages/frases/', 'Frases'),
@@ -172,11 +173,25 @@ LOGO_URL = '/logo.png'
 # the posts themselves. If set to False, it will be just a list of links.
 # TAG_PAGES_ARE_INDEXES = True
 
+# Only include tags on the tag list/overview page if there are at least
+# TAGLIST_MINIMUM_POSTS number of posts or more with every tag. Every tag
+# page is still generated, linked from posts, and included in the sitemap.
+# However, more obscure tags can be hidden from the tag index page.
+# TAGLIST_MINIMUM_POSTS = 1
+
 # Final location is output / TRANSLATION[lang] / INDEX_PATH / index-*.html
 # INDEX_PATH = ""
 
 # Create per-month archives instead of per-year
-# CREATE_MONTHLY_ARCHIVE = True
+# CREATE_MONTHLY_ARCHIVE = False
+# Create one large archive instead of per-year
+# CREATE_SINGLE_ARCHIVE = False
+# Create year, month, and day archives each with a (long) list of posts
+# (overrides both CREATE_MONTHLY_ARCHIVE and CREATE_SINGLE_ARCHIVE)
+# CREATE_FULL_ARCHIVES = False
+# If monthly archives or full archives are created, adds also one archive per day
+# CREATE_DAILY_ARCHIVE = False
+
 # Final locations for the archives are:
 # output / TRANSLATION[lang] / ARCHIVE_PATH / ARCHIVE_FILENAME
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / index.html
@@ -184,7 +199,13 @@ LOGO_URL = '/logo.png'
 # ARCHIVE_PATH = ""
 # ARCHIVE_FILENAME = "archive.html"
 
-# Final locations are:
+# URLs to other posts/pages can take 3 forms:
+# rel_path: a relative URL to the current page/post (default)
+# full_path: a URL with the full path from the root
+# absolute: a complete URL (that includes the SITE_URL)
+# URL_TYPE = 'rel_path'
+
+# Final location for the blog main RSS feed is:
 # output / TRANSLATION[lang] / RSS_PATH / rss.xml
 # RSS_PATH = ""
 
@@ -211,6 +232,15 @@ SLUG_TAG_PATH = True
 # To do manual deployment, set it to []
 # DEPLOY_COMMANDS = []
 from local_conf import DEPLOY_COMMANDS
+
+# For user.github.io OR organization.github.io pages, the DEPLOY branch
+# MUST be 'master', and 'gh-pages' for other repositories.
+# GITHUB_SOURCE_BRANCH = 'master'
+# GITHUB_DEPLOY_BRANCH = 'gh-pages'
+
+# The name of the remote where you wish to push to, using github_deploy.
+# GITHUB_REMOTE_NAME = 'origin'
+
 
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
@@ -267,6 +297,20 @@ FILTERS = {
 # File extensions that will be compressed
 # GZIP_EXTENSIONS = ('.txt', '.htm', '.html', '.css', '.js', '.json')
 
+# Compiler to process LESS files.
+# LESS_COMPILER = 'lessc'
+
+# A list of options to pass to the LESS compiler.
+# Final command is: LESS_COMPILER LESS_OPTIONS file.less
+# LESS_OPTIONS = []
+
+# Compiler to process Sass files.
+# SASS_COMPILER = 'sass'
+
+# A list of options to pass to the Sass compiler.
+# Final command is: SASS_COMPILER SASS_OPTIONS file.s(a|c)ss
+# SASS_OPTIONS = []
+
 # #############################################################################
 # Image Gallery Options
 # #############################################################################
@@ -293,6 +337,14 @@ EXTRA_IMAGE_EXTENSIONS = []
 # THEME = 'site'
 THEME = 'elblogdehumitos'
 
+# Data about post-per-page indexes.
+# INDEXES_PAGES defaults to 'old posts, page %d' or 'page %d' (translated),
+# depending on the value of INDEXES_PAGES_MAIN.
+# INDEXES_TITLE = ""         # If this is empty, defaults to BLOG_TITLE
+# INDEXES_PAGES = ""         # If this is empty, defaults to '[old posts,] page %d' (see above)
+# INDEXES_PAGES_MAIN = False # If True, INDEXES_PAGES is also displayed on
+#                            # the main (the newest) index page (index.html)
+
 # Color scheme to be used for code blocks. If your theme provides
 # "assets/css/code.css" this is ignored.
 # Can be any of autumn borland bw colorful default emacs friendly fruity manni
@@ -312,6 +364,29 @@ THEME = 'elblogdehumitos'
 # (str used by datetime.datetime.strftime)
 DATE_FORMAT = '%d-%m-%Y %H:%M'
 
+# Date format used to display post dates, if local dates are used.
+# (str used by moment.js)
+JS_DATE_FORMAT = DATE_FORMAT
+
+# Date fanciness.
+#
+# 0 = using DATE_FORMAT and TIMEZONE
+# 1 = using JS_DATE_FORMAT and local user time (via moment.js)
+# 2 = using a string like “2 days ago”
+#
+# Your theme must support it, bootstrap and bootstrap3 already do.
+DATE_FANCINESS = 2
+
+# One or more folders containing listings to be processed and stored into 
+# the output. The format is a dictionary of {source: relative destination}.
+# Default is:
+# LISTINGS_FOLDERS = {'listings': 'listings'}
+# Which means process listings from 'listings' into 'output/listings'
+
+# If you want to hide the title of your website (for example, if your logo
+# already contains the text), set this to False.
+SHOW_BLOG_TITLE = True
+
 # FAVICONS contains (name, file, size) tuples.
 # Used for create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
@@ -321,6 +396,18 @@ FAVICONS = {
     ("icon", "/favicon.ico", "16x16"),
     ("icon", "/favicon_128x128.png", "128x128"),
 }
+
+# HTML fragments with the Read more... links.
+# The following tags exist and are replaced for you:
+# {link}                        A link to the full post page.
+# {read_more}                   The string “Read more” in the current language.
+# {reading_time}                An estimate of how long it will take to read the post.
+# {remaining_reading_time}      An estimate of how long it will take to read the post, sans the teaser.
+# {min_remaining_read}          The string “{remaining_reading_time} min remaining to read” in the current language.
+# {paragraph_count}             The amount of paragraphs in the post.
+# {remaining_paragraph_count}   The amount of paragraphs in the post, sans the teaser.
+# {{                            A literal { (U+007B LEFT CURLY BRACKET)
+# }}                            A literal } (U+007D RIGHT CURLY BRACKET)
 
 INDEX_TEASERS = True
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
@@ -335,6 +422,11 @@ INDEX_READ_MORE_LINK = RSS_READ_MORE_LINK = '''
 '''
 
 RSS_TEASERS = False
+# Append a URL query to the RSS_READ_MORE_LINK and the //rss/item/link in
+# RSS feeds. Minimum example for Piwik "pk_campaign=rss" and Google Analytics
+# "utm_source=rss&utm_medium=rss&utm_campaign=rss". Advanced option used for
+# traffic source tracking.
+RSS_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar. Default is "".
 # I recommend using the Creative Commons' wizard:
@@ -393,6 +485,13 @@ COMMENTS_IN_STORIES = True
 # Enable comments on picture gallery pages?
 # COMMENTS_IN_GALLERIES = False
 
+# Enable annotations using annotateit.org?
+# If set to False, you can still enable them for individual posts and pages
+# setting the "annotations" metadata.
+# If set to True, you can disable them for individual posts and pages using
+# the "noannotations" metadata.
+# ANNOTATIONS = False
+
 # What file should be used for directory indexes?
 # Defaults to index.html
 # Common other alternatives: default.html for IIS, index.php
@@ -427,24 +526,48 @@ ROBOTS_EXCLUSIONS = ["/archive.html", "/category/*.html"]
 # to the metadata
 PRETTY_URLS = True
 
+# If True, publish future dated posts right away instead of scheduling them.
+# Defaults to False.
+# FUTURE_IS_NOW = False
+
+# If True, future dated posts are allowed in deployed output
+# Only the individual posts are published/deployed; not in indexes/sitemap
+# Generally, you want FUTURE_IS_NOW and DEPLOY_FUTURE to be the same value.
+DEPLOY_FUTURE = False
+# If False, draft posts will not be deployed
+DEPLOY_DRAFTS = False
+
+# Allows scheduling of posts using the rule specified here (new_post -s)
+# Specify an iCal Recurrence Rule: http://www.kanzaki.com/docs/ical/rrule.html
+# SCHEDULE_RULE = ''
+# If True, use the scheduling rule to all posts by default
+# SCHEDULE_ALL = False
+
 # Do you want a add a Mathjax config file?
 # MATHJAX_CONFIG = ""
 
 # If you are using the compile-ipynb plugin, just add this one:
-#MATHJAX_CONFIG = """
-#<script type="text/x-mathjax-config">
-#MathJax.Hub.Config({
-#    tex2jax: {
-#        inlineMath: [ ['$','$'], ["\\\(","\\\)"] ],
-#        displayMath: [ ['$$','$$'], ["\\\[","\\\]"] ]
-#    },
-#    displayAlign: 'left', // Change this to 'center' to center equations.
-#    "HTML-CSS": {
-#        styles: {'.MathJax_Display': {"margin": 0}}
-#    }
-#});
-#</script>
-#"""
+# MATHJAX_CONFIG = """
+# <script type="text/x-mathjax-config">
+# MathJax.Hub.Config({
+#     tex2jax: {
+#         inlineMath: [ ['$','$'], ["\\\(","\\\)"] ],
+#         displayMath: [ ['$$','$$'], ["\\\[","\\\]"] ],
+#         processEscapes: true
+#     },
+#     displayAlign: 'left', // Change this to 'center' to center equations.
+#     "HTML-CSS": {
+#         styles: {'.MathJax_Display': {"margin": 0}}
+#     }
+# });
+# </script>
+# """
+
+# Do you want to customize the nbconversion of your IPython notebook?
+# IPYNB_CONFIG = {}
+# With the following example configuration you can use a custom jinja template
+# called `toggle.tpl` which has to be located in your site/blog main folder:
+# IPYNB_CONFIG = {'Exporter':{'template_file': 'toggle'}}
 
 # What MarkDown extensions to enable?
 # You will also get gist, nikola and podcast because those are
@@ -533,25 +656,6 @@ GENERATE_RSS = True
 # </script>
 # """
 
-EXTRA_HEAD_DATA = """
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@reydelhumo">
-<meta name="twitter:title" content="Novedades">
-<meta name="twitter:description" content="Novedades sobre &quot;Argentina en Python&quot;">
-<meta name="twitter:creator" content="@argenpython">
-<meta name="twitter:image:src" content="http://elblogdehumitos.com.ar/pages/argentina-en-python/logo.png">
-<meta name="twitter:domain" content="elblogdehumitos.com.ar">
-<meta name="twitter:app:name:iphone" content="">
-<meta name="twitter:app:name:ipad" content="">
-<meta name="twitter:app:name:googleplay" content="">
-<meta name="twitter:app:url:iphone" content="">
-<meta name="twitter:app:url:ipad" content="">
-<meta name="twitter:app:url:googleplay" content="">
-<meta name="twitter:app:id:iphone" content="">
-<meta name="twitter:app:id:ipad" content="">
-<meta name="twitter:app:id:googleplay" content="">
-"""
-
 # Use content distribution networks for jquery and twitter-bootstrap css and js
 # If this is True, jquery is served from the Google CDN and twitter-bootstrap
 # is served from the NetDNA CDN
@@ -565,37 +669,6 @@ EXTRA_HEAD_DATA = """
 # Google analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 BODY_END = """
-<script src="/assets/js/jquery.timeago.js" type="text/javascript"></script>
-<script>
-    jQuery(document).ready(function() {
-
-	if(jQuery('html').attr('lang') === 'es'){
-	    jQuery.timeago.settings.strings = {
-		prefixAgo: "hace",
-		prefixFromNow: "dentro de",
-		suffixAgo: "",
-		suffixFromNow: "",
-		seconds: "menos de un minuto",
-		minute: "un minuto",
-		minutes: "unos %d minutos",
-		hour: "una hora",
-		hours: "%d horas",
-		day: "un día",
-		days: "%d días",
-		month: "un mes",
-		months: "%d meses",
-		year: "un año",
-		years: "%d años"
-	    };
-	}
-	jQuery("time.published").timeago();
-
-	jQuery('article:not(:first)').before('<hr>');
-
-	jQuery('.highlight pre').addClass('code');
-    });
-</script>
-
 <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
 <link href='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v0.0.2/leaflet.fullscreen.css' rel='stylesheet' />
@@ -648,10 +721,18 @@ BODY_END = """
 # set this to true.
 UNSLUGIFY_TITLES = True
 
+# Additional metadata that is added to a post when creating a new_post
+# ADDITIONAL_METADATA = {}
+
+# Nikola supports Open Graph Protocol data for enhancing link sharing and
+# discoverability of your site on Facebook, Google+, and other services.
+# Open Graph is enabled by default.
+# USE_OPEN_GRAPH = True
+
 # Nikola supports Twitter Card summaries / Open Graph.
 # Twitter cards make it possible for you to attach media to Tweets
 # that link to your content.
-#
+
 # IMPORTANT:
 # Please note, that you need to opt-in for using Twitter Cards!
 # To do this please visit
@@ -686,9 +767,56 @@ TIMEZONE = 'America/Argentina/Buenos_Aires'
 # Plugins you don't want to use. Be careful :-)
 # DISABLED_PLUGINS = ["render_galleries"]
 
+# Add the absolute paths to directories containing plugins to use them.
+# For example, the `plugins` directory of your clone of the Nikola plugins
+# repository.
+# EXTRA_PLUGINS_DIRS = []
+
 # List of regular expressions, links matching them will always be considered
 # valid by "nikola check -l"
 # LINK_CHECK_WHITELIST = []
+
+# If set to True, enable optional hyphenation in your posts (requires pyphen)
+# HYPHENATE = False
+
+# The <hN> tags in HTML generated by certain compilers (reST/Markdown)
+# will be demoted by that much (1 → h1 will become h2 and so on)
+# This was a hidden feature of the Markdown and reST compilers in the
+# past.  Useful especially if your post titles are in <h1> tags too, for
+# example.
+# (defaults to 1.)
+# DEMOTE_HEADERS = 1
+
+# If you don’t like slugified file names ([a-z0-9] and a literal dash),
+# and would prefer to use all the characters your file system allows.
+# USE WITH CARE!  This is also not guaranteed to be perfect, and may
+# sometimes crash Nikola, your web server, or eat your cat.
+# USE_SLUGIFY = True
+
+# You can configure the logging handlers installed as plugins or change the
+# log level of the default stderr handler.
+# WARNING: The stderr handler allows only the loglevels of 'INFO' and 'DEBUG'.
+#          This is done for safety reasons, as blocking out anything other
+#          than 'DEBUG' may hide important information and break the user
+#          experience!
+
+LOGGING_HANDLERS = {
+    'stderr': {'loglevel': 'INFO', 'bubble': True},
+    # 'smtp': {
+    #     'from_addr': 'test-errors@example.com',
+    #     'recipients': ('test@example.com'),
+    #     'credentials':('testusername', 'password'),
+    #     'server_addr': ('127.0.0.1', 25),
+    #     'secure': (),
+    #     'level': 'DEBUG',
+    #     'bubble': True
+    # }
+}
+
+# Templates will use those filters, along with the defaults.
+# Consult your engine's documentation on filters if you need help defining
+# those.
+# TEMPLATE_FILTERS = {}
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
