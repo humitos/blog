@@ -5,7 +5,7 @@ var layerControl;
 function add_gpx_layers() {
     var gpxData = [
 	// http://osrm.at/acG
-	{url: '/assets/data/0-etapa.gpx', name: 'Etapa 0', colorLine: 'green'},
+	{url: '/assets/data/0-etapa.gpx', name: 'Etapa 0', colorLine: 'violet'},
 	// http://osrm.at/acH
 	{url: '/assets/data/primera-etapa.gpx', name: 'Primera Etapa', colorLine: 'blue'},
 	// http://osrm.at/acF
