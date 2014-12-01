@@ -6,6 +6,13 @@
 .. description: 
 .. type: text
 
+.. admonition:: Cupo completo
+
+   Hago público que el cupo de asistentes se completó por el momento y
+   varias personas me han enviado un email con su interés en
+   participar. En caso de que alguno de los registrados no pueda
+   asistir, los matendré informados para que se sumen.
+
 El próximo *Lunes 1, Martes 2 y Miércoles 3 de Diciembre* voy a estar
 dando un curso de programación en Python para principiantes en la
 ciudad de Paraná, Entre Ríos.
