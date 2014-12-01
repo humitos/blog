@@ -30,6 +30,51 @@ function add_gpx_layers() {
 }
 
 
+function route_destiny() {
+    var waypoints = [];
+
+    $.getJSON('/assets/data/cities.json', function(data) {
+	$.each(data.next, function(i, city) {
+	    waypoints.push({latLng: L.latLng(city.lat, city.lng)});
+	});
+
+	var router = L.Routing.osrm();
+	router.route(waypoints, function(err, routes) {
+	    if (err) {
+		console.error(err);
+	    } else {
+		l = L.Routing.line(routes[0], {
+		    styles: [
+			{color: 'gray', opacity: 0.3, weight: 3},
+			{color: 'gray', opacity: 0.3, weight: 3},
+			{color: 'gray', opacity: 0.3, weight: 3}
+		    ],
+		    addWaypoints: false
+		}).addTo(map);
+	    }
+	});
+
+	$.getJSON('/assets/data/my-position.json', function(data) {
+	    var router = L.Routing.osrm();
+	    waypoints = [{latLng: L.latLng(data[0], data[1])}, waypoints[0]];
+	    router.route(waypoints, function(err, routes) {
+		if (err) {
+		    console.error(err);
+		} else {
+		    l = L.Routing.line(routes[0], {
+			styles: [
+			    {color: 'green', opacity: 0.3, weight: 4},
+			    {color: 'green', opacity: 0.3, weight: 4},
+			    {color: 'green', opacity: 0.3, weight: 4}
+			],
+			addWaypoints: false
+		    }).addTo(map);
+		}
+	    });
+	});
+    });
+}
+
 $(document).ready(function (){
     // check if the map id exists before executing the code
     if ($('#map').length) {
@@ -115,5 +160,7 @@ $(document).ready(function (){
 	    var marker = L.marker(point, {icon: icon}).addTo(map);
 	    marker.bindPopup("<b><em>humitos</em></b> está <em>por</em> aquí!").openPopup();
 	});
+
+	route_destiny();
     }
 });
