@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: fotos
+.. tags: foto
 .. date: 2011/10/12 22:32:17
 .. title: Prende y apaga
 .. slug: prende-y-apaga

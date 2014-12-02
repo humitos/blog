@@ -1,6 +1,6 @@
 .. link: 
 .. description: 
-.. tags: google, street view, internet, fotos
+.. tags: google, internet, street view, foto
 .. date: 2013/09/12 12:12:02
 .. title: Google Street View en Colombia
 .. slug: google-street-view-en-colombia

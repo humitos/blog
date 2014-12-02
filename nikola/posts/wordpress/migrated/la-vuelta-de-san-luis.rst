@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: charla, django, olpc, python, software libre, viaje
+.. tags: charla, django, olpc, python, software libre, viaje, san luis, argentina
 .. date: 2008/11/04 18:15:20
 .. title: La vuelta de San Luis
 .. slug: la-vuelta-de-san-luis

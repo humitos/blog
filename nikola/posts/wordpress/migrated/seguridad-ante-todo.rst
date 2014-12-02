@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: fotos, paraná
+.. tags: paraná, foto
 .. date: 2011/04/28 12:55:16
 .. title: Seguridad ante todo...
 .. slug: seguridad-ante-todo

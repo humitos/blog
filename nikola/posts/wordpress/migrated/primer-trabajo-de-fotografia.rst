@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: fotos
+.. tags: foto
 .. date: 2012/03/27 14:06:00
 .. title: Primer trabajo de fotografía
 .. slug: primer-trabajo-de-fotografia

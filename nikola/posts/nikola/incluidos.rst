@@ -1,7 +1,7 @@
 .. title: Incluídos
 .. slug: incluidos
 .. date: 2014-11-03 00:51:10 UTC-03:00
-.. tags: catamarca, fotos, incluídos, sociedad
+.. tags: catamarca, incluídos, sociedad, foto
 .. link: 
 .. description: 
 .. type: text

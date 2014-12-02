@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, circo, fotos
+.. tags: arte, circo, foto
 .. date: 2012/09/14 20:23:22
 .. title: Malabarista ciego
 .. slug: malabarista-ciego

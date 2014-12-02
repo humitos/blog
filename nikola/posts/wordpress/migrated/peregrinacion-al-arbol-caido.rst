@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: eu!, fotos, general, paraná
+.. tags: eu!, general, paraná, foto
 .. date: 2012/06/14 23:23:30
 .. title: Peregrinación al árbol caído
 .. slug: peregrinacion-al-arbol-caido

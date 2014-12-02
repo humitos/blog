@@ -1,7 +1,7 @@
 .. title: La foto del día
 .. slug: la-foto-del-dia
 .. date: 2014/06/01 18:14:44
-.. tags: argentina en python, fotos, córdoba
+.. tags: argentina en python, córdoba, foto
 .. link: 
 .. description: 
 .. type: text

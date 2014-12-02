@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, fotos, inglés, libros, portland, viaje
+.. tags: arte, inglés, libros, portland, viaje, foto
 .. date: 2013/06/27 16:39:55
 .. title: Leer
 .. slug: leer

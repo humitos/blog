@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, fotos, viaje
+.. tags: arte, viaje, foto
 .. date: 2013/06/07 00:15:44
 .. title: San Francisco, California, EEUU
 .. slug: san-francisco-california-eeuu

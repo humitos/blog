@@ -1,7 +1,7 @@
 .. title: Hombre en Capilla
 .. slug: hombre-en-capilla
 .. date: 2014-06-10 20:23:37 UTC-03:00
-.. tags: argentina en python, capilla del monte, córdoba, fotos, viaje
+.. tags: argentina en python, capilla del monte, córdoba, viaje, foto
 .. link: 
 .. description: 
 .. type: text

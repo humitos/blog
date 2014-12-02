@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: fotos
+.. tags: foto
 .. date: 2010/09/14 21:07:33
 .. title: Fotos de Paraná
 .. slug: fotos-de-parana

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: fotos, general, paraná
+.. tags: general, paraná, foto
 .. date: 2012/03/23 07:37:14
 .. title: Pileta en la puerta de tu casa
 .. slug: pileta-en-la-puerta-de-tu-casa

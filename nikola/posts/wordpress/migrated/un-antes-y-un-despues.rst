@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, fotos, música
+.. tags: arte, música, foto
 .. date: 2012/09/13 18:27:56
 .. title: Un antes y un después...
 .. slug: un-antes-y-un-despues

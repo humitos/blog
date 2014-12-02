@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: fotos, general
+.. tags: general, foto
 .. date: 2010/12/02 10:56:54
 .. title: Mudo
 .. slug: mudo

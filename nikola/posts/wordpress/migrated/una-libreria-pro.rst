@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: fotos, libros, paraná
+.. tags: libros, paraná, foto
 .. date: 2012/03/27 21:59:24
 .. title: Una librería PRO
 .. slug: una-libreria-pro

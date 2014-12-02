@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: fotos
+.. tags: foto
 .. date: 2011/12/10 07:21:28
 .. title: Cuando me dí cuenta que un auto era una buena inversión
 .. slug: cuando-me-di-cuenta-que-un-auto-era-una-buena-inversion

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: dibujos, fotos
+.. tags: dibujos, foto
 .. date: 2012/04/05 05:22:24
 .. title: Una obra
 .. slug: una-obra

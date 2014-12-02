@@ -1,7 +1,7 @@
 .. title: La Mafia di lo Patuti
 .. slug: la-mafia-di-lo-patuti
 .. date: 2014-11-24 01:48:16 UTC-03:00
-.. tags: argentina, circo, entre rios, fotos, viaje
+.. tags: argentina, circo, entre rios, viaje, foto
 .. link: 
 .. description: 
 .. type: text

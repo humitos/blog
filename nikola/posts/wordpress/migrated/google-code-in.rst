@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: fotos, google, internet, olpc, python, software libre
+.. tags: google, internet, olpc, python, software libre, foto
 .. date: 2013/03/04 17:53:17
 .. title: Google Code-In
 .. slug: google-code-in

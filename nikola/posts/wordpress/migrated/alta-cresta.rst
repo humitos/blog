@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: blog, fotos, paraná
+.. tags: blog, paraná, foto
 .. date: 2012/02/07 13:55:11
 .. title: "Alta cresta"
 .. slug: alta-cresta

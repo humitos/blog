@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, eu!, fotos, frases, general, portland, proyectos, viaje
+.. tags: arte, eu!, frases, general, portland, proyectos, viaje, foto
 .. date: 2013/08/30 16:04:39
 .. title: "USA: Sin estereotipos" OnLine
 .. slug: usa-sin-estereotipos-online

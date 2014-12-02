@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: fotos
+.. tags: foto
 .. date: 2011/12/09 16:21:10
 .. title: "Entre todos se puede"
 .. slug: entre-todos-se-puede

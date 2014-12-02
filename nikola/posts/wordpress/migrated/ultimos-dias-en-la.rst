@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: fotos, los angeles, viaje
+.. tags: los angeles, viaje, foto
 .. date: 2013/06/08 15:08:44
 .. title: Últimos días en LA
 .. slug: ultimos-dias-en-la

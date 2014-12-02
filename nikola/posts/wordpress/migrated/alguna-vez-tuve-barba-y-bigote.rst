@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: fotos
+.. tags: foto
 .. date: 2012/02/17 20:44:03
 .. title: Alguna vez tuve barba y... bigote
 .. slug: alguna-vez-tuve-barba-y-bigote

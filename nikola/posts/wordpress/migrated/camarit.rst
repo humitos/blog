@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: fotos, hosting, proyectos, software libre
+.. tags: hosting, proyectos, software libre, foto
 .. date: 2012/02/15 09:22:47
 .. title: Camarita
 .. slug: camarit

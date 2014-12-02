@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: charla, django, python, software libre, viaje
+.. tags: charla, django, python, software libre, viaje, san luis, argentina
 .. date: 2008/10/19 21:35:11
 .. title: Jornadas en San Luis
 .. slug: jornadas-en-san-luis

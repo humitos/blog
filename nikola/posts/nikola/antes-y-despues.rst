@@ -1,7 +1,7 @@
 .. title: Antes y Después
 .. slug: antes-y-despues
 .. date: 2014/04/10 22:42:29
-.. tags: dentista, dientes, boca, fotos
+.. tags: boca, dentista, dientes, foto
 .. link: 
 .. description: 
 .. type: text

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, circo, fotos, portland, viaje
+.. tags: arte, circo, portland, viaje, foto
 .. date: 2013/06/28 16:02:56
 .. title: Peninsula Park
 .. slug: peninsula-park

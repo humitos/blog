@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: fotos, general, viaje
+.. tags: general, viaje, foto
 .. date: 2010/11/28 18:14:26
 .. title: Mi casa
 .. slug: mi-casa

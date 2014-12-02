@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, circo, fotos
+.. tags: arte, circo, foto
 .. date: 2012/06/20 14:34:24
 .. title: Dibujando con luces
 .. slug: dibujando-con-luces

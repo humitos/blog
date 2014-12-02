@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: arte, fotos, general
+.. tags: arte, general, foto
 .. date: 2013/09/02 14:49:13
 .. title: Look Style
 .. slug: look-style

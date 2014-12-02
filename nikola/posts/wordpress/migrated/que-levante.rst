@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: auto, facultad, fotos, paraná
+.. tags: auto, facultad, paraná, foto
 .. date: 2012/07/31 22:41:45
 .. title: ¡Qué levante!
 .. slug: que-levante

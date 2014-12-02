@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: fotos, general
+.. tags: general, foto
 .. date: 2010/09/06 15:40:08
 .. title: Mi primera cámara digital
 .. slug: mi-primera-camara-digital

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: fotos, general
+.. tags: general, foto
 .. date: 2011/03/10 15:06:48
 .. title: Llevate "esta"
 .. slug: llevate-esta

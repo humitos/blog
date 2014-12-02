@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: fotos, viaje
+.. tags: viaje, foto
 .. date: 2013/06/07 22:19:39
 .. title: Isla de Alcatraz (Cárcel)
 .. slug: isla-de-alcatraz-carcel
