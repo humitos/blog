@@ -17,8 +17,8 @@ enseñar, transmitir y motivar a otros a perseguir sus sueños como
 tantos otros me han ayudado a mi.
 
 Desde Octubre de 2013 he estado viajando por diferentes lugares de
-Argentina llevando adelante un proyecto personal y comunitario llamado
-:doc:`argentina-en-python`.
+Argentina (:doc:`ver mapa <donde-esta-humitos>`) llevando adelante un
+proyecto personal y comunitario llamado :doc:`argentina-en-python`.
 
 ----
 

@@ -9,34 +9,35 @@
 Este mapa es útil para saber en qué lugar estoy *aproximadamente* en
 este momento, con el fin de :doc:`contactar con gente de la zona
 <quien-escribe>` para así poder coordinar algo relacionado a
-:doc:`argentina-en-python` (u otra cosa de interés mutuo) y
-organizarnos para encontrarnos en las cercanías.
+:doc:`argentina-en-python` (u otra cosa de interés mutuo) y organizar
+para encontrarnos en las cercanías.
 
 .. raw:: html
 
    <div id="map"></div>
 
-¿Cómo funciona?
----------------
+¿Cómo funciona este mapa?
+-------------------------
 
 En pocas palabras, cuando me conecto a internet se envía una señal a
 mi blog para que actualice la posición en la que me encuentro,
-utilizando la información de esa conexión a internet para saber dónde
+utilizando la información de la conexión a internet para saber dónde
 estoy.
+
+Como el proceso es automático, permite que tenga una actualización
+mucho más precisa a la que yo le podría dar concientemente cada vez
+que cambio de posición.
 
 ----
 
-¿Cómo funciona *exactamente*...
--------------------------------
+¿Cómo funciona *exactamente*... ?
+---------------------------------
 
 En profundidad, lo que hago es, mediante javascript, descargo el
 archivo *my-position.json* que es dónde están las coordenadas de mi
 posición actual y lo muestro en el mapa:
 
-.. TODO: acá hay un bug con Nikola que no me permite usar la directiva
-   "include" (https://github.com/getnikola/nikola/issues/1506)
-
-.. listing:: geolocation.js javascript
+.. listing:: donde-esta-humitos/geolocation.js javascript
 
 #. Descarga el archivo *my-location.json*
 #. Crea el mapa utilizando `leaflet.js <http://leafletjs.com/>`_
@@ -46,8 +47,7 @@ posición actual y lo muestro en el mapa:
 
 Ese *my-location.json* lo genero con un script Python.
 
-.. include:: geolocation.py 
-   :code: python
+.. listing:: donde-esta-humitos/geolocation.py python
 
 #. Utiliza la librería *geocoder* para obtener las coordenadas de mi
    dirección de IP
@@ -64,8 +64,7 @@ Ese *my-location.json* lo genero con un script Python.
 Ese script Python lo ejecuto con NetworkManager cuando este se conecta
 a una red.
 
-.. include:: geoblog
-   :code: bash
+.. listing:: donde-esta-humitos/geoblog bash
 
 .. note::
 

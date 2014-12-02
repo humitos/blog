@@ -95,6 +95,17 @@ def setup_output(output):
             'next': [],
             'previous': [],
         }
+
+        # TODO: add 'etapa' info so we can use the same data in
+        # "Argentina en Python" page
+
+        #     {
+        #         'first': [],
+        #         'second': [],
+        #         'third': [],
+        #     },
+        # }
+
         save_json(init, output)
 
 

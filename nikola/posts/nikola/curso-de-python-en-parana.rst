@@ -13,6 +13,12 @@
    participar. En caso de que alguno de los registrados no pueda
    asistir, los matendré informados para que se sumen.
 
+.. sidebar:: Actualización
+
+   El curso `salió publicado
+   <http://www.conectarigualdad.gob.ar/noticia/curso-de-python-en-parana-1925>`_
+   en las noticias de "Conectar Igualdad".
+
 El próximo *Lunes 1, Martes 2 y Miércoles 3 de Diciembre* voy a estar
 dando un curso de programación en Python para principiantes en la
 ciudad de Paraná, Entre Ríos.

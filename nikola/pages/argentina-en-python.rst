@@ -27,12 +27,12 @@ programas poderosos y complejos de una forma sencilla, estimulando el
 aprendizaje colaborativo y la filosofía del Software Libre.
 
 La metodología que el proyecto lleva adelante para poder promover
-Python_ (entre otras cosas de interés personal) es viajando por el
-país, siguiendo la energía de las comunidades de Software Libre
-regionales y contactándose con gente que esté interesada en un curso o
-una charla sobre el tema. Así como también simplemente compartir
-momentos en común charlando sobre otras actividades y conociendo
-diferentes culturas y formas de vida.
+Python_ (entre otras cosas de interés personal) es viajando por
+diferentes ciudades, siguiendo la energía de las comunidades de
+Software Libre regionales y :doc:`contactándose <quien-escribe>` con
+gente que esté interesada en un curso o una charla sobre el tema. Así
+como también simplemente compartir momentos en común charlando sobre
+otras actividades y conociendo diferentes culturas y formas de vida.
 
 .. _Python: http://docs.python.org.ar/tutorial/3/real-index.html
 
