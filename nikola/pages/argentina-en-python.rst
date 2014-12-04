@@ -240,14 +240,14 @@ Fotos
 ¿Cuándo termina?
 ----------------
 
-La 2da etapa cerró en la PyCon2014_ que se realizó en Rafale, Santa Fe
-los días 13, 14 y 15 de Noviembre.
+Por el momento, no tenemos una fecha de cierra de esta tercera
+etapa. Suponemos que, en lo posible, nos vamos a poner en contacto con
+la gente que conocimos en la PyCon2014_ de Chile y Brazil cuando
+estemos por Misiones, para así compartir Python y el Sofware Libre en
+otros países también.
 
 .. _PyCon2014: http://myconference.co/pyconar2014
 
-:doc:`Aquí se puede leer un artículo
-<python-conference-argentina-2014>` sobre el resultado de esta
-etapa.
 
 ¿Cómo colaborar?
 ----------------
@@ -267,6 +267,20 @@ alojamiento. Eso es un punto extra.
 Mucha gente me ayudó a llegar hoy hasta acá: gracias a ellos. Creo
 haberles hecho saber a cada uno de ellos lo agradecido que estoy por
 haberme ayudado y sino, espero que se estén enterando ahora :)
+
+Prensa
+------
+
+* `Nota en el blog de Huayra sobre la visita a El Quicho
+  <http://huayra.conectarigualdad.gob.ar/noticias/2014/05/27/el-viento-de-huayragnulinux-pas%C3%B3-una-vez-m%C3%A1s-por-el-noroeste-cordob%C3%A9s>`_
+
+* :doc:`Entrevista radial en FM del Sol, Capilla del Monte <argentina-en-python-en-la-radio>`
+
+* `Nota sobre PyCon Argentina 2014 en el blog de La Nación
+  <http://blogs.lanacion.com.ar/data/argentina/sexto-encuentro-nacional-de-python-argentina/>`_
+
+* `Noticia sobre el curso "Malabares en la Programación" en Conectar Igualdad
+  <http://www.conectarigualdad.gob.ar/noticia/curso-de-python-en-parana-1925>`_
 
 Post sobre "Argentina en Python"
 --------------------------------
