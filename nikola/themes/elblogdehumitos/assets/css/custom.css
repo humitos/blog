@@ -92,3 +92,9 @@ iframe {
     margin-top: 5px;
     margin-bottom: 15px;
 }
+
+cite {
+    background-color: #ecf0f3;
+    font-family: monospace,sans-serif;
+    font-size: 96.5%;
+}
