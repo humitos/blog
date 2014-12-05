@@ -1,10 +1,11 @@
 body {
-    background-color: #FFFFFF;
+    background-color: #eee;
     color: #333333;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 15.5px;
     line-height: 20px;
     margin: 0;
+    padding-top: 55px !important;
 }
 
 
@@ -97,4 +98,19 @@ cite {
     background-color: #ecf0f3;
     font-family: monospace,sans-serif;
     font-size: 96.5%;
+}
+
+div#content.container-fluid {
+    background-color: #eee;
+}
+
+body div.span8 {
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.15);
+    padding: 20px;
+}
+
+.row {
+    margin-left: 10px !important;
 }
