@@ -116,3 +116,4 @@ Charlas
 #. `La paradoja de elegir, Barry Schwatz <https://www.youtube.com/watch?v=XXRm7qbbYSk>`_
 #. `Utilizando el poder de millones de mentes humanas, Luis von Ahn <https://www.youtube.com/watch?v=x1ShVyBm8GU>`_
 #. `Entrevista a Chango Spasiuk en "Dos Acordes" <https://www.youtube.com/watch?v=L8f10dKoybM>`_
+#. `Con permiso para hackear, Juanjo Ciarlante <https://www.youtube.com/watch?v=RoXoerNW3zY>`_

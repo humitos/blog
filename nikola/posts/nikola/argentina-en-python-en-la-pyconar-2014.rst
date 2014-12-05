@@ -10,7 +10,7 @@ Hoy subieron el video de mi charla en la "Conferencia Argentina de
 Python 2014" que tuvo lugar en Rafaela, Santa Fe los días Jueves 13,
 Viernes 14 y Sábado 15 de Noviembre.
 
-.. media:: https://www.youtube.com/watch?v=eNQ9O_3ySs8&index=1&list=UUa8tmvBoe5L6BGmRcQHF8qw
+.. media:: https://www.youtube.com/watch?v=eNQ9O_3ySs8
 
 Espero que la disfruten.
 
