@@ -37,6 +37,7 @@ La confusión de la tortuga
 
 :Version: 1.0
 :OnLine: http://turtle-confusion-spanish-version.readthedocs.org/en/latest/
+:PDF: https://github.com/downloads/humitos/turtle-confusion-es/la-confusion-de-la-tortuga.pdf
 :Repositorio: https://github.com/humitos/turtle-confusion-es
 :Fecha: 2012
 :Traductor: Melina Lucía Coronel
