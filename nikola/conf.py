@@ -694,9 +694,6 @@ BODY_END = """
 <noscript><p><img src="//elblogdehumitos.com.ar/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
 
-<a title="Real Time Web Analytics" href="http://clicky.com/100758465">
-  <img alt="Real Time Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0" />
-</a>
 <script src="//static.getclicky.com/js" type="text/javascript"></script>
 <script type="text/javascript">try{ clicky.init(100758465); }catch(e){}</script>
 <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100758465ns.gif" /></p></noscript>
