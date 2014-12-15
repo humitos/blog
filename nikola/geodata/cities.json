@@ -1,49 +1,6 @@
 {
     "next": [
         {
-            "address": "Salto, 50000, Uruguay", 
-            "city": "Salto", 
-            "country": "UY", 
-            "lat": -31.38889, 
-            "lng": -57.9608876, 
-            "location": "salto, salto, uruguay", 
-            "osm_id": "3414038", 
-            "osm_type": "relation", 
-            "postal": "50000", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Salto", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Mercedes, Municipio de Mercedes, Departamento Mercedes, Corrientes, Argentina", 
-            "city": "Mercedes", 
-            "country": "AR", 
-            "lat": -29.1835645, 
-            "lng": -58.0799951, 
-            "location": "mercedes, corrientes, argentina", 
-            "osm_id": "198403599", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "Corrientes", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Corrientes, Municipio de Corrientes, Departamento Capital, Corrientes, Argentina", 
-            "city": "Corrientes", 
-            "country": "AR", 
-            "lat": -27.4720342, 
-            "lng": -58.8328658, 
-            "location": "corrientes, corrientes, argentina", 
-            "osm_id": "198446469", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Corrientes", 
-            "status": "OK"
-        }, 
-        {
             "address": "Resistencia, Departamento San Fernando, Chaco, Argentina", 
             "city": "Resistencia", 
             "country": "AR", 
@@ -84,7 +41,7 @@
             "quality": "administrative", 
             "state": "Misiones", 
             "status": "OK"
-        },
+        }, 
         {
             "address": "Puerto Iguaz\u00fa, Municipio de Puerto Iguaz\u00fa, Departamento Iguaz\u00fa, Misiones, Argentina", 
             "city": "Puerto Iguaz\u00fa", 
@@ -125,6 +82,19 @@
             "provider": "osm", 
             "quality": "city", 
             "state": "PR", 
+            "status": "OK"
+        }, 
+        {
+            "address": "Las Bre\u00f1as, Departamento Nueve de Julio, Chaco, Argentina", 
+            "country": "AR", 
+            "lat": -27.0863246, 
+            "lng": -61.0859456, 
+            "location": "Las Bre\u00f1as, Departamento Nueve de Julio, Chaco, Argentina", 
+            "osm_id": "1665510", 
+            "osm_type": "relation", 
+            "provider": "osm", 
+            "quality": "administrative", 
+            "state": "Chaco", 
             "status": "OK"
         }
     ], 
@@ -649,7 +619,7 @@
             "quality": "city", 
             "state": "V Regi\u00f3n de Valpara\u00edso", 
             "status": "OK"
-        },
+        }, 
         {
             "address": "Concordia, Municipio de Concordia, Distrito Suburbios, Departamento Concordia, Entre R\u00edos, Argentina", 
             "city": "Concordia", 
@@ -662,6 +632,75 @@
             "provider": "osm", 
             "quality": "city", 
             "state": "Entre R\u00edos", 
+            "status": "OK"
+        }, 
+        {
+            "address": "Salto, 50000, Uruguay", 
+            "city": "Salto", 
+            "country": "UY", 
+            "lat": -31.38889, 
+            "lng": -57.9608876, 
+            "location": "salto, salto, uruguay", 
+            "osm_id": "3414038", 
+            "osm_type": "relation", 
+            "postal": "50000", 
+            "provider": "osm", 
+            "quality": "city", 
+            "state": "Salto", 
+            "status": "OK"
+        }, 
+        {
+            "address": "Mercedes, Municipio de Mercedes, Departamento Mercedes, Corrientes, Argentina", 
+            "city": "Mercedes", 
+            "country": "AR", 
+            "lat": -29.1835645, 
+            "lng": -58.0799951, 
+            "location": "mercedes, corrientes, argentina", 
+            "osm_id": "198403599", 
+            "osm_type": "node", 
+            "provider": "osm", 
+            "quality": "town", 
+            "state": "Corrientes", 
+            "status": "OK"
+        }, 
+        {
+            "address": "Bella Vista, Municipio de Bella Vista, Departamento Bella Vista, Corrientes, Argentina", 
+            "country": "AR", 
+            "lat": -28.5073653, 
+            "lng": -59.0452284, 
+            "location": "bella vista, corrientes, argentina", 
+            "osm_id": "198440694", 
+            "osm_type": "node", 
+            "provider": "osm", 
+            "quality": "town", 
+            "state": "Corrientes", 
+            "status": "OK"
+        }, 
+        {
+            "address": "Chajar\u00ed, Municipio de Chajar\u00ed, Distrito Mandisov\u00ed, Departamento Federaci\u00f3n, Entre R\u00edos, Argentina", 
+            "country": "AR", 
+            "lat": -30.7565741, 
+            "lng": -57.9848989, 
+            "location": "chajar\u00ed, entre r\u00edos, argentina", 
+            "osm_id": "198443272", 
+            "osm_type": "node", 
+            "provider": "osm", 
+            "quality": "town", 
+            "state": "Entre R\u00edos", 
+            "status": "OK"
+        },
+        {
+            "address": "Corrientes, Municipio de Corrientes, Departamento Capital, Corrientes, Argentina", 
+            "city": "Corrientes", 
+            "country": "AR", 
+            "lat": -27.4720342, 
+            "lng": -58.8328658, 
+            "location": "corrientes, corrientes, argentina", 
+            "osm_id": "198446469", 
+            "osm_type": "node", 
+            "provider": "osm", 
+            "quality": "city", 
+            "state": "Corrientes", 
             "status": "OK"
         }
     ]
