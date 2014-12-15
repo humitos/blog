@@ -94,18 +94,23 @@ Hubo una re-estructuración en la forma de viajar, compartí la
 cotideaneidad con gente que me *asocié* durante el viaje y compartí
 con ellos diferentes formas de viajar. Ahora, para la tercera etapa se
 sumó Johanna para acompañarme a recorrer la parte Noreste de nuestro
-país (Corrientes, Misiones, etc) y proyectar la posibilidad de visitar
-otros países, como Paraguay y Bolivia, por ejemplo.
-
-La fecha tentativa de salida es el Viernes 5 de Diciembre hacia
-Concordia como primer destino para luego ir bordeando la costa este de
-Entre Ríos hasta Puerto Iguazú, pasando por Corrientes y Posadas.
+país (Corrientes, Chaco, Misiones, etc) y proyectar la posibilidad de
+visitar otros países, como Paraguay y Bolivia, por ejemplo.
 
 :doc:`En el mapa <donde-esta-humitos>` se puede consultar cuáles son
 los próximos destinos aproximados y empezar a organizar encuentros,
 charlas y cursos con antelación.
 
-¡Próximamente más novedades!
+La fecha de salida fue el Lunes 8 de Diciembre y hasta el momento
+hemos visitado estos lugares:
+
+* Concordia, Entre Ríos, Argentina
+* Salto, Salto, Uruguay
+* Chajarí, Entre Ríos, Argentina
+* Mercedes, Corrientes, Argentina
+* Bella Vista, Corrientes, Argentina
+* Corrientes, Corrientes, Argentina
+
 
 Segunda Etapa
 *************
@@ -113,7 +118,7 @@ Segunda Etapa
 La idea de la segunda etapa se concretó el Viernes 5 de Septiembre,
 saliendo desde Paraná hacia Rafaela como primer destino.
 
-Los lugares por los que he estado hasta el momento:
+Los lugares por los que estuve en esta etapa:
 
 * Rafaela, Santa Fe, Argentina
 * Ceres, Santa Fe, Argentina
@@ -242,7 +247,7 @@ Fotos
 
 Por el momento, no tenemos una fecha de cierra de esta tercera
 etapa. Suponemos que, en lo posible, nos vamos a poner en contacto con
-la gente que conocimos en la PyCon2014_ de Chile y Brazil cuando
+la gente que conocimos en la PyCon2014_ de Paraguay y Brazil cuando
 estemos por Misiones, para así compartir Python y el Sofware Libre en
 otros países también.
 
