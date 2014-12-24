@@ -9,6 +9,12 @@
 
 .. epigraph::
 
+   Los colombianos son súper democráticos, quieren *botar* todo
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
    Fanáticos del *football* y repugnantes de halloween
 
    -- Marcos

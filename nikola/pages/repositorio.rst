@@ -117,3 +117,4 @@ Charlas
 #. `Utilizando el poder de millones de mentes humanas, Luis von Ahn <https://www.youtube.com/watch?v=x1ShVyBm8GU>`_
 #. `Entrevista a Chango Spasiuk en "Dos Acordes" <https://www.youtube.com/watch?v=L8f10dKoybM>`_
 #. `Con permiso para hackear, Juanjo Ciarlante <https://www.youtube.com/watch?v=RoXoerNW3zY>`_
+#. `Beware online "filter bubbles", Eli Pariser <http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles>`_
