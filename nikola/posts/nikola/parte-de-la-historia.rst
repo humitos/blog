@@ -23,6 +23,8 @@ En 2012, gracias a *manuq* :doc:`empecé a trabajar formalmente en OLPC
 <mi-primer-commit-en-olpc>`. Sí, como si fuese *un trabajo normal*
 pero no parecía un trabajo. Era demasiado bueno para llamarlo así.
 
+.. TEASER_END
+
 En 2014, caminando por Salto, Uruguay con Johanna visitamos el *Museo
 del hombre y la tecnología* y nos encontramos con una máquina de
 escribir al lado de una OLPC en la sección *Educación*. ¡Terrible

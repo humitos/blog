@@ -10,9 +10,10 @@ Hoy me dijeron: "Sacá fotos". Después de estar tirado un rato panza
 arriba en el sol escuchando música y jugar un poco con el trompo,
 volví con esto (click para ver más grande):
 
-.. image:: plaza-de-la-intendencia-02.thumbnail.jpg
+.. figure:: plaza-de-la-intendencia-02.thumbnail.jpg
    :target: plaza-de-la-intendencia-02.jpg
-   :alt: Plaza de la Intendencia (Córdoba, Argentina)
+   
+   Plaza de la Intendencia (Córdoba, Argentina)
 
 ... `y de yapa`_
 

@@ -23,6 +23,36 @@ tedioso revisar todos estos comentarios.
 
 Es por esto que utilizan algún sistema de registración para que los
 humanos dejen comentarios, pero nunca había visto uno como este: tenía
-tan pocos pasos que ni siquiera te dejaba registrarte:
+tan pocos pasos que ni siquiera te dejaba registrarte::
 
-``me:  po! hay que estar registrado para dejar un comentario en tu  blog  que aburridp  César:  jajajaja  habia  spammers  pero la registracion es  indolora  openid y esas cosas  manejas en wordpress  me gustaria  usarlo para eviatar que si tenes registrado tu uenta, ya lo uses  me:  ni siquiera hay un link para registrarse :D  César:  naaaa  me:  por eso no  tenés comentarios en el blog!!! jajajajajajaja  César:  mira vos!  me:  tengo que  decirlo, perdón  César:  recien me  doy cuenta  me:  sos un  HDP!!!!!  César:  jajajaja  me:  jajajaja  César:  yo le puse  el plugin antispam  me:  jajajajajaja  no puedo parar de reírme  César:  no sabia que sacaba el link de registrarse!!!!  es plug on  me:  es un  plug-suck``
+  me: po! hay que estar registrado para dejar un comentario en tu  blog  que aburridp
+
+  César: jajajaja habia spammers pero la registracion es indolora
+  openid y esas cosas manejas en wordpress me gustaria usarlo para
+  eviatar que si tenes registrado tu uenta, ya lo uses
+  
+  me: ni siquiera hay un link para registrarse :D
+
+  César: naaaa
+
+  me: por eso no  tenés comentarios en el blog!!! jajajajajajaja
+
+  César: mira vos!
+
+  me: tengo que  decirlo, perdón
+
+  César: recien me  doy cuenta
+
+  me: sos un  HDP!!!!!
+
+  César: jajajaja
+
+  me: jajajaja
+
+  César: yo le puse  el plugin antispam
+
+  me: jajajajajaja  no puedo parar de reírme
+
+  César: no sabia que sacaba el link de registrarse!!!!  es plug on
+
+  me: es un  plug-suck

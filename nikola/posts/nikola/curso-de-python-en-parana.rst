@@ -1,7 +1,7 @@
 .. title: Curso de Python en Paraná
 .. slug: curso-de-python-en-parana
 .. date: 2014-11-25 13:48:55 UTC-03:00
-.. tags: argentina en python, curso, entre rios, python, software libre
+.. tags: argentina en python, curso, python, software libre, entre ríos
 .. link: 
 .. description: 
 .. type: text

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: paraná, entre rios
+.. tags: paraná, entre ríos
 .. date: 2012/11/22 18:04:49
 .. title: ¡Me cago en el cepo y en la concha de tu hermana!
 .. slug: me-cago-en-el-cepo-y-en-la-concha-de-tu-hermana

@@ -1,7 +1,7 @@
 .. title: Sobre Vuelan Sombras
 .. slug: sobre-vuelan-sombras
 .. date: 2014-11-24 03:37:21 UTC-03:00
-.. tags: argentina, circo, entre rios, foto
+.. tags: argentina, circo, foto, entre ríos
 .. link: 
 .. description: 
 .. type: text

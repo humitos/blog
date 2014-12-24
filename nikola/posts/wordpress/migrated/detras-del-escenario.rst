@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: circo
+.. tags: circo, paraná, entre ríos, cultura, arte
 .. date: 2010/10/27 11:42:11
 .. title: Detrás del escenario...
 .. slug: detras-del-escenario

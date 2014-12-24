@@ -21,23 +21,22 @@ tedioso de conectarse al servidor "para probar algo" o "ver qué tiene la
 db" o etc.
 
 La cosa es así, ¿cuántas veces nos logueamos por ssh al servidor para
-luego hacer Ctrl + R, empezar a tipear **shell_plus** y darle Enter (si
+luego hacer Ctrl + R, empezar a tipear `shell_plus` y darle Enter (si
 es que todavía quedó en el history y lo tipeamos con el path absoluto)
-sino hacer \ *cd* hasta la carpeta dónde tenemos el proyecto de Django y
-finalmente ejecutar *./manage.py shell_plus* con una previa activación
+sino hacer `cd` hasta la carpeta dónde tenemos el proyecto de Django y
+finalmente ejecutar `./manage.py shell_plus` con una previa activación
 del virtualenv.
 
-Wow! Suena tedioso hasta tener que explicarlo. Hoy traigo **la
-solución**. "Waaaa, tengo miedo nene"
+Wow! Suena tedioso hasta tener que explicarlo. Hoy traigo *la
+solución*. "Waaaa, tengo miedo nene"
 
 Es simple, seguimos utilizando SSH pero evitamos todos los pasos antes
-dichos con sólo un comando:
+dichos con sólo un comando::
 
-    ssh user@remote-host.com -t -C "source
-    ~/path/to/virtualenv/bin/activate && python
-    ~/path/to/django/project/manage.py shell_plus"
+    ssh user@remote-host.com -t -C "source ~/path/to/virtualenv/bin/activate && \
+      python ~/path/to/django/project/manage.py shell_plus"
 
-La opción **-C** es para que comprima la entrada y la salida y la **-t**
+La opción `-C` es para que comprima la entrada y la salida y la `-t`
 es para que se vean bien los colores de la salida de *ipython* en mi
 caso (ya que lo tengo instalado).
 
