@@ -7,6 +7,8 @@
 .. type: text
 
 
+**Also available in:** :doc:`English <argentina-en-python-en>`
+
 .. raw:: html
    :file: files/pages/argentina-en-python/news-note.html
 
@@ -82,68 +84,35 @@ charlas y experiencias. ¡Esta es la parte que más me gusta!
 ¿En qué estado está actualmente?
 --------------------------------
 
-Tercera Etapa
-*************
+Etapa 0
+*******
 
-La etapa anterior fue muy intensa, y el cierre en la
-:doc:`python-conference-argentina-2014` también. Durante estos casi
-tres meses de viaje pasaron muchas cosas, cambiaron otras y se crearon
-varios proyectos.
+Como buen programador, el viaje tiene que empezar con una etapa 0
+(cero). Comenzando el 21 de Febrero con destino principal Ciudad
+Autónoma de Buenos Aires para que comience la organización de
+*semejante (desconocido) proyecto*. Esta etapa se extendió durante
+todo el mes de Marzo.
 
-Hubo una re-estructuración en la forma de viajar, compartí la
-cotideaneidad con gente que me *asocié* durante el viaje y compartí
-con ellos diferentes formas de viajar. Ahora, para la tercera etapa se
-sumó Johanna para acompañarme a recorrer la parte Noreste de nuestro
-país (Corrientes, Chaco, Misiones, etc) y proyectar la posibilidad de
-visitar otros países, como Paraguay y Bolivia, por ejemplo.
+Esta etapa fue una experimentación personal, una prueba piloto, una
+búsqueda de una organización funcional que mezcle el trabajo cotidiano
+con el viaje constante...
 
-:doc:`En el mapa <donde-esta-humitos>` se puede consultar cuáles son
-los próximos destinos aproximados y empezar a organizar encuentros,
-charlas y cursos con antelación.
+Recorrido:
 
-La fecha de salida fue el Lunes 8 de Diciembre y hasta el momento
-hemos visitado estos lugares:
-
-* Concordia, Entre Ríos, Argentina
-* Salto, Salto, Uruguay
-* Chajarí, Entre Ríos, Argentina
-* Mercedes, Corrientes, Argentina
-* Bella Vista, Corrientes, Argentina
-* Corrientes, Corrientes, Argentina
-
-
-Segunda Etapa
-*************
-
-La idea de la segunda etapa se concretó el Viernes 5 de Septiembre,
-saliendo desde Paraná hacia Rafaela como primer destino.
-
-Los lugares por los que estuve en esta etapa:
-
-* Rafaela, Santa Fe, Argentina
-* Ceres, Santa Fe, Argentina
-* Santiago del Estero, Santiago del Estero, Argentina
-* San Miguel de Tucumán, Tucumán, Argentina
-* Tafí del Valle, Tucumán, Argentina
-* Ampimpa, Tucumán, Argentina
-* Amaicha del Valle, Tucumán, Argentina
-* Cafayate, Salta, Argentina
-* San Lorenzo, Salta, Argentina
-* Salta, Salta, Argentina
-* Purmamarca, Jujuy, Argentina
-* Tilcara, Jujuy, Argentina
-* Santiago del Estero, Santiago del Estero, Argentina
-* San Fernando del Valle de Catamarca, Catamarca, Argentina
-* Villa Tulumba, Córdoba, Argentina
-* Capilla del Monte, Córdoba, Argentina
-* Capital, Córdoba, Argentina
-* Rafaela, Santa Fe, Argentina
-
-Este es el mapa del recorrido realizado.
+* Ciudad Autónoma de Buenos Aires, Buenos Aires, Argentina
+* Martínez, Buenos Aires, Argentina
+* San Clemente del Tuyú, Buenos Aires, Argentina
+* Ciudad Autónoma de Buenos Aires, Buenos Aires, Argentina
+* Quilmes, Buenos Aires, Argentina
+* Tigre, Buenos Aires, Argentina
+* Olivos, Buenos Aires, Argentina
+* González Catán, Buenos Aires, Argentina
+* Martínez, Buenos Aires, Argentina
+* Paraná, Entre Ríos, Argentina
 
 .. raw:: html
 
-   <div id="map-second"></div>
+   <div id="map-zero"></div>
 
 
 Primera Etapa
@@ -198,34 +167,71 @@ Este es el mapa del recorrido realizado.
    <div id="map-first"></div>
 
 
-Etapa 0
-*******
+Segunda Etapa
+*************
 
-Como buen programador, el viaje tiene que empezar con una etapa 0
-(cero). Comenzando el 21 de Febrero con destino principal Ciudad
-Autónoma de Buenos Aires para que comience la organización de
-*semejante (desconocido) proyecto*. Esta etapa se extendió durante
-todo el mes de Marzo.
+La idea de la segunda etapa se concretó el Viernes 5 de Septiembre,
+saliendo desde Paraná hacia Rafaela como primer destino.
 
-Esta etapa fue una experimentación personal, una prueba piloto, una
-búsqueda de una organización funcional que mezcle el trabajo cotidiano
-con el viaje constante...
+Los lugares por los que estuve en esta etapa:
 
-Recorrido:
+* Rafaela, Santa Fe, Argentina
+* Ceres, Santa Fe, Argentina
+* Santiago del Estero, Santiago del Estero, Argentina
+* San Miguel de Tucumán, Tucumán, Argentina
+* Tafí del Valle, Tucumán, Argentina
+* Ampimpa, Tucumán, Argentina
+* Amaicha del Valle, Tucumán, Argentina
+* Cafayate, Salta, Argentina
+* San Lorenzo, Salta, Argentina
+* Salta, Salta, Argentina
+* Purmamarca, Jujuy, Argentina
+* Tilcara, Jujuy, Argentina
+* Santiago del Estero, Santiago del Estero, Argentina
+* San Fernando del Valle de Catamarca, Catamarca, Argentina
+* Villa Tulumba, Córdoba, Argentina
+* Capilla del Monte, Córdoba, Argentina
+* Capital, Córdoba, Argentina
+* Rafaela, Santa Fe, Argentina
+* Paraná, Entre Ríos, Argentina
 
-* Ciudad Autónoma de Buenos Aires, Buenos Aires, Argentina
-* Martínez, Buenos Aires, Argentina
-* San Clemente del Tuyú, Buenos Aires, Argentina
-* Ciudad Autónoma de Buenos Aires, Buenos Aires, Argentina
-* Quilmes, Buenos Aires, Argentina
-* Tigre, Buenos Aires, Argentina
-* Olivos, Buenos Aires, Argentina
-* González Catán, Buenos Aires, Argentina
-* Martínez, Buenos Aires, Argentina
+Este es el mapa del recorrido realizado.
 
 .. raw:: html
 
-   <div id="map-zero"></div>
+   <div id="map-second"></div>
+
+
+Tercera Etapa
+*************
+
+La etapa anterior fue muy intensa, y el cierre en la
+:doc:`python-conference-argentina-2014` también. Durante estos casi
+tres meses de viaje pasaron muchas cosas, cambiaron otras y se crearon
+varios proyectos.
+
+Hubo una re-estructuración en la forma de viajar, compartí la
+cotideaneidad con gente que me *asocié* durante el viaje y compartí
+con ellos diferentes formas de viajar. Ahora, para la tercera etapa se
+sumó Johanna para acompañarme a recorrer la parte Noreste de nuestro
+país (Corrientes, Chaco, Misiones, etc) y proyectar la posibilidad de
+visitar otros países, como Paraguay y Bolivia, por ejemplo.
+
+:doc:`En el mapa <donde-esta-humitos>` se puede consultar cuáles son
+los próximos destinos aproximados y empezar a organizar encuentros,
+charlas y cursos con antelación.
+
+La fecha de salida fue el Lunes 8 de Diciembre y hasta el momento
+hemos visitado estos lugares:
+
+* Concordia, Entre Ríos, Argentina
+* Salto, Salto, Uruguay
+* Chajarí, Entre Ríos, Argentina
+* Mercedes, Corrientes, Argentina
+* Bella Vista, Corrientes, Argentina
+* Corrientes, Corrientes, Argentina
+* Las Breñas, Chaco, Argentina
+
 
 Fotos
 -----
@@ -269,9 +275,14 @@ seguro y entusiasmante ir a un lugar si hay un contacto con quien
 compartir momentos al llegar aunque no necesariamente ofrezca
 alojamiento. Eso es un punto extra.
 
+También, si te interesa apoyar el proyecto económicamente, podés
+visitar la :doc:`página de donaciones <donaciones>` para enterarte
+cómo hacerlo y así ayudar a que la rueda siga girando.
+
 Mucha gente me ayudó a llegar hoy hasta acá: gracias a ellos. Creo
 haberles hecho saber a cada uno de ellos lo agradecido que estoy por
 haberme ayudado y sino, espero que se estén enterando ahora :)
+
 
 Prensa
 ------
@@ -286,6 +297,19 @@ Prensa
 
 * `Noticia sobre el curso "Malabares en la Programación" en Conectar Igualdad
   <http://www.conectarigualdad.gob.ar/noticia/curso-de-python-en-parana-1925>`_
+
+* `Charla sobre "OpenStreetMap" y su utilidad
+  <http://www.lasbrenasdigital.com.ar/2014/sociales/9020-charla-sobre-open-street-map-y-su-utilidad.html>`_
+
+
+Charla en PyCon Argentina
+-------------------------
+
+Presentación del proyecto en la "Conferencia Argentina de
+programadores Python" en Rafaela, Santa Fe.
+
+.. media:: https://www.youtube.com/watch?v=eNQ9O_3ySs8
+
 
 Post sobre "Argentina en Python"
 --------------------------------

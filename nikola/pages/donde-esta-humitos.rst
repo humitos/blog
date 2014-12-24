@@ -33,6 +33,11 @@ que cambio de posición.
 ¿Cómo funciona *exactamente*... ?
 ---------------------------------
 
+.. admonition:: Nota
+
+   Esta sección no está completamente actualizada ya que los scripts
+   fueron creciendo y la documentación quedó obsoleta.
+
 En profundidad, lo que hago es, mediante javascript, descargo el
 archivo *my-position.json* que es dónde están las coordenadas de mi
 posición actual y lo muestro en el mapa:

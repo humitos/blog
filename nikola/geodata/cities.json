@@ -83,20 +83,7 @@
             "quality": "city", 
             "state": "PR", 
             "status": "OK"
-        }, 
-        {
-            "address": "Las Bre\u00f1as, Departamento Nueve de Julio, Chaco, Argentina", 
-            "country": "AR", 
-            "lat": -27.0863246, 
-            "lng": -61.0859456, 
-            "location": "Las Bre\u00f1as, Departamento Nueve de Julio, Chaco, Argentina", 
-            "osm_id": "1665510", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "Chaco", 
-            "status": "OK"
-        }
+        } 
     ], 
     "previous": [
         {
@@ -701,6 +688,19 @@
             "provider": "osm", 
             "quality": "city", 
             "state": "Corrientes", 
+            "status": "OK"
+        }, 
+        {
+            "address": "Las Bre\u00f1as, Departamento Nueve de Julio, Chaco, Argentina", 
+            "country": "AR", 
+            "lat": -27.0863246, 
+            "lng": -61.0859456, 
+            "location": "Las Bre\u00f1as, Departamento Nueve de Julio, Chaco, Argentina", 
+            "osm_id": "1665510", 
+            "osm_type": "relation", 
+            "provider": "osm", 
+            "quality": "administrative", 
+            "state": "Chaco", 
             "status": "OK"
         }
     ]
