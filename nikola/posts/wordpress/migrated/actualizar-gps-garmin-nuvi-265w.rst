@@ -24,6 +24,15 @@ que en vez de tirarlo o donarlo tratan de sacarle unos mangos antes. Hay
 cosas muy pero muy baratas. Yo al GPS lo pagué 45 dólares y una amiga
 mia se compró un freezer por 60. ¡Cosa de locos!
 
+.. sidebar:: Actualización 2 de Enero de 2015
+
+   Ya no estoy utilizando más esta forma de actualizar el GPS Garmin,
+   sino que migré a OpenStreetMap_ y lo recomiendo ampliamente. Podés
+   encontrar información sobre la actualización del GPS aquí:
+   :doc:`mapas-para-todos`
+
+.. _OpenStreetMap: http://osm.org
+
 Cuestión es que tiene los mapas de USA y alrededores, que mientras estoy
 viajando, me vienen bien. Pero, ¿qué onda cuando llegue a Argentina?
 ¿tendrá los mapas de allá también? Lo que hice para ver eso fue ponerle
