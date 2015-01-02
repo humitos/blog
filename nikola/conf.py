@@ -50,7 +50,10 @@ TRANSLATIONS = {
     DEFAULT_LANG: "",
     # Example for another language:
     # "es": "./es",
+    # 'en': './en',
 }
+
+TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 # Links for the sidebar / navigation bar.
 # You should provide a key-value pair for each used language.
@@ -75,11 +78,11 @@ NAVIGATION_LINKS = {
                 ('/categories/index.html', 'Etiquetas'),
                 ('/archive.html', 'Archivo Anual'),
                 ('http://humitos.wordpress.com', 'Viejo Blog en Wordpress'),
+                ('http://feeds.feedburner.com/humitos', 'RSS'),
             ),
             'Historial',
         ),
         # ('/rss.xml', 'RSS'),
-        ('http://feeds.feedburner.com/humitos', 'RSS'),
     ),
 }
 
@@ -153,7 +156,7 @@ COMPILERS = {
 # LANG will not be visible at all in the pages in that language.
 # If set to False, the DEFAULT_LANG version will be displayed for
 # untranslated posts.
-# SHOW_UNTRANSLATED_POSTS = False
+SHOW_UNTRANSLATED_POSTS = False
 
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
