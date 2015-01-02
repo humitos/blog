@@ -3,8 +3,9 @@
 .. date: 2014-06-13 21:45:13 UTC-03:00
 .. tags: argentina en python, viajes, software libre
 .. link: 
-.. description: 
+.. description: Argentina en Python es un proyecto personal y comunitario que promueve el uso del lenguaje de programación Python para resolver problemas cotidianos en usuarios comunes, como así también desarrollar programas poderosos y complejos de una forma sencilla, estimulando el aprendizaje colaborativo y la filosofía del Software Libre.
 .. type: text
+.. previewimage: pages/argentina-en-python/logo.png
 
 
 **Also available in:** :doc:`English <argentina-en-python-en>`

@@ -3,8 +3,9 @@
 .. date: 2014-06-13 21:45:13 UTC-03:00
 .. tags: argentina en python, viajes, software libre
 .. link: 
-.. description: 
+.. description: Argentina en Python is a personal and communitary project that promotes the usage of Python as a programming language to solve daily issues for common users and also to develop powerful and complex softwares in an easy way, encouraging the collaborative learning and the Software Libre philosophy.
 .. type: text
+.. previewimage: pages/argentina-en-python/logo.png
 
 
 **También disponible en:** :doc:`Español <argentina-en-python>`
@@ -300,6 +301,7 @@ Presentation of the project at "Python Conference Argentina 2014" in
 Rafaela, Santa Fe.
 
 .. media:: https://www.youtube.com/watch?v=eNQ9O_3ySs8
+
 
 
 Posts about "Argentina en Python"
