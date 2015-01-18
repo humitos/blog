@@ -6,6 +6,15 @@
 .. description: 
 .. type: text
 
+
+.. warning::
+
+   Debido a que Café Martínez me informó que no tiene funcionando
+   internet, nos vemos obligados a cambiar de lugar. Por eso, el
+   Sprint se muda al bar **Sr. Juez**, ubicado en Güemes y Laprida,
+   Resistencia Chaco.
+
+
 Estamos organizando un Sprint de Python en Resistencia, Chaco.
 
 ¿Qué es un Sprint?
@@ -23,8 +32,7 @@ ayudarnos entre todos y programar juntos.
 ----------------
 
 :Fecha: Sábado 17 de Enero de 2015
-:Lugar: `Café Martínez. Güemes 425, Resistencia, Chaco
-        <http://osm.org/go/M2hVvJLRE?node=3279585593>`_
+:Lugar: `Bar Sr. Juez, Güemes y Laprida, Resistencia, Chaco <http://osm.org/go/M2hVvxtD8?node=1605949136>`_
 :Horario: 10 AM ~ 18 PM
 
 ¿Cómo es la organización?
@@ -51,12 +59,6 @@ http://goo.gl/forms/I3IwyqFVhK
 
    Si podés y tenés, llevate una zapatilla porque seguro que la
    cantidad de enchufes es limitada en el lugar.
-
-.. admonition:: Sugerencia
-
-   Como el aire acondicionado es muy fuerte, aunque parezca un
-   disparate, yo les recomendaría llevarse un "abriguito" y si piensan
-   ir de ojotas, unas medias :D
 
 Se agradece difusión.
 
