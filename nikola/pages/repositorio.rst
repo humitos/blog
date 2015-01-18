@@ -49,7 +49,7 @@ Videos
 #. `Idiots, Big Lazy Robot VFX <http://vimeo.com/79695097>`_
 #. `Argentina para armar: Secretos para viajar toda la vida <http://tn.com.ar/programas/argentina-para-armar/argentina-para-armar-27072014-secretos-para-viajar-toda-la-vida_520067>`_
 #. `Todo es un remix, Kirby Ferguson <https://www.youtube.com/watch?v=O7-DlOaCsjU>`_
-
+#. `Man, Steve Cutts <https://www.youtube.com/watch?v=WfGMYdalClU>`_
 
 Películas
 ---------
@@ -58,6 +58,7 @@ Películas
 #. `Zeitgeist, Peter Joseph <http://www.zeitgeistmovie.com/>`_
 #. `Trom <http://tromsite.com/>`_
 #. `The Real Me <http://therealme.serenablues.com/es/>`_
+#. `El hijo de Internet: La historia de Aaron Swart:  <https://www.youtube.com/watch?v=vXr-2hwTk58>`_
 
 Artículos
 ---------
@@ -81,6 +82,7 @@ Artículos
 #. `¿Qué me ha enseñado el nomadismo? <http://unviajedemilesdekmempiezaconunpequenopaso.wordpress.com/2014/04/27/que-me-ha-ensenado-el-nomadismo/>`_
 #. `Guía de viajes para humanos <http://viajandoporahi.com/guia-de-viajes-para-humanos>`_
 #. `Lo que te sobra, no es tuyo <https://viajerosvoluntarios.wordpress.com/2014/10/31/lo-que-te-sobra-no-es-tuyo/>`_
+#. `Google Map Maker vs. OpenStreetMap: Which mapping service rules them all? <http://www.digitaltrends.com/computing/google-map-maker-vs-openstreetmap-id-editor/>`_
 
 
 Charlas

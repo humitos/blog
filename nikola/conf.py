@@ -62,14 +62,22 @@ NAVIGATION_LINKS = {
         ('/pages/argentina-en-python/', 'Argentina en Python'),
         ('/pages/quien-escribe/', '¿Quién escribe?'),
         # ('/pages/modulos-python/', 'Módulos Python'),
-        ('http://tutorial.python.org.ar/', 'El Tutorial de Python'),
         ('/random/', 'Random'),
         (
             (
+                ('http://pois.elblogdehumitos.com.ar/', 'Puntos de Interés'),
+                ('http://elblogdehumitos.com.ar/osm/', 'Tu negocio en OSM'),
+            ),
+            'OpenStreetMap',
+        ),
+        (
+            (
+                ('http://tutorial.python.org.ar/', 'El Tutorial de Python'),
                 ('/pages/traducciones/', 'Traducciones'),
                 ('/pages/apoyo/', 'Apoyo'),
                 ('/pages/repositorio/', 'Repositorio'),
                 ('/pages/frases/', 'Frases'),
+                ('/pages/expresiones-regionales/', 'Expresiones Regionales'),
             ),
             'Extras',
         ),
@@ -380,7 +388,7 @@ JS_DATE_FORMAT = DATE_FORMAT
 # Your theme must support it, bootstrap and bootstrap3 already do.
 DATE_FANCINESS = 2
 
-# One or more folders containing listings to be processed and stored into 
+# One or more folders containing listings to be processed and stored into
 # the output. The format is a dictionary of {source: relative destination}.
 # Default is:
 # LISTINGS_FOLDERS = {'listings': 'listings'}

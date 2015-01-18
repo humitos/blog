@@ -9,6 +9,18 @@
 
 .. epigraph::
 
+   En Chaco tenemos 2 estaciones. Las de trenes y el verano.
+
+   -- Sebastián J. Seba
+
+.. epigraph::
+
+   Lo único que te pertenece es «tu tiempo», el resto es de todos.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
    Los colombianos son súper democráticos, quieren *botar* todo
 
    -- Manuel Kaufmann
