@@ -1,19 +1,19 @@
 {
     "next": [
         {
-            "address": "Resistencia, Departamento San Fernando, Chaco, Argentina", 
-            "city": "Resistencia", 
+            "address": "Formosa, Departamento Formosa, Formosa, Argentina", 
+            "city": "Formosa", 
             "country": "AR", 
-            "lat": -27.4511043, 
-            "lng": -58.9865646, 
-            "location": "resistencia, chaco, argentina", 
-            "osm_id": "1572779", 
+            "lat": -26.1852983, 
+            "lng": -58.1744976, 
+            "location": "formosa, formosa, argentina", 
+            "osm_id": "2294368", 
             "osm_type": "relation", 
             "provider": "osm", 
             "quality": "city", 
-            "state": "Chaco", 
+            "state": "Formosa", 
             "status": "OK"
-        }, 
+        },
         {
             "address": "Posadas, Municipio de Posadas, Departamento Capital, Misiones, Argentina", 
             "city": "Posadas", 
@@ -675,7 +675,7 @@
             "quality": "town", 
             "state": "Entre R\u00edos", 
             "status": "OK"
-        },
+        }, 
         {
             "address": "Corrientes, Municipio de Corrientes, Departamento Capital, Corrientes, Argentina", 
             "city": "Corrientes", 
@@ -700,6 +700,20 @@
             "osm_type": "relation", 
             "provider": "osm", 
             "quality": "administrative", 
+            "state": "Chaco", 
+            "status": "OK"
+        }, 
+        {
+            "address": "Resistencia, Departamento San Fernando, Chaco, Argentina", 
+            "city": "Resistencia", 
+            "country": "AR", 
+            "lat": -27.4511043, 
+            "lng": -58.9865646, 
+            "location": "resistencia, chaco, argentina", 
+            "osm_id": "1572779", 
+            "osm_type": "relation", 
+            "provider": "osm", 
+            "quality": "city", 
             "state": "Chaco", 
             "status": "OK"
         }
