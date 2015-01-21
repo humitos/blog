@@ -120,3 +120,5 @@ Charlas
 #. `Entrevista a Chango Spasiuk en "Dos Acordes" <https://www.youtube.com/watch?v=L8f10dKoybM>`_
 #. `Con permiso para hackear, Juanjo Ciarlante <https://www.youtube.com/watch?v=RoXoerNW3zY>`_
 #. `Beware online "filter bubbles", Eli Pariser <http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles>`_
+#. `Aprendizaje invisible: ¿Cómo aprender a pesar de la escuela?, Cristobal Cobo <https://www.youtube.com/watch?v=9E_BH00dkJk>`_
+#. `Economía de los ansiosos, Martin Lousteau <https://www.youtube.com/watch?v=lFbdPRAliig>`_
