@@ -107,11 +107,11 @@ Comentarios
   conexión a internet. Y, en lo posible, correctamente configurados
   para luego no perder tiempo haciendo esto.
 
-* Si hay posibilidad, se puede crear un mirror_ de pip_ y servirlo en
-  la red interna.
+* Para no saturar internet, se puede crear un :doc:`caché <pip-cache>`
+  de pip_ y servirlo en la red interna. Se hace en menos de 10
+  minutos.
 
 .. _pip: https://pip.pypa.io/en/latest/
-.. _mirror: https://pypi.python.org/pypi/bandersnatch
 
 
 ----
@@ -123,7 +123,7 @@ PyDay
 ¿Qué es un PyDay?
 -----------------
 
-Un PyDay es una evento un *poco más formal* que los anteriormente
+Un PyDay es un evento un *poco más formal* que los anteriormente
 mencionados y consiste en *un día entero de Python* en el que se
 realizan charlas de diferentes temas relacionados con Python durante
 todo el día. Estas charlas están pactadas con una duración de 45
@@ -140,6 +140,10 @@ Requisitos
 * Un auditorio / aula / teatro / etc con la capacidad de 100 personas
   sentadas aproximadamente.
 
+* Aire acondicionado.
+
+* Buena conectividad a internet, WiFi.
+
 * Proyector para mostrar las presentaciones de los disertantes.
 
 * Sistema de sonido.
@@ -152,7 +156,12 @@ Requisitos
      conocer la organización de esta reunión y así sumar a más
      interesados.
 
-   * actualizar la página de noticias_ de Python Argentina.
+   * actualizar la página de noticias_ de Python Argentina mencionando
+     que se va a realizar este evento.
+
+¡Sumate a esta iniciativa! No es complicado organizar ninguno de estos
+eventos y podés ser uno de los pioneros en tu ciudad ayudando a la
+difusión de Python :)
 
 
 .. _la lista: http://python.org.ar/ListaDeCorreo
