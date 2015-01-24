@@ -17,17 +17,26 @@ de la versión final de las traducciones.
 Tutorial Python
 ---------------
 
-:Version: 3.4.2rc1
+:Version: 3.4.2
 :OnLine: http://tutorial.python.org.ar/
 :Repositorio: https://github.com/PyAr/tutorial
-:Fecha: 2013-2014
+:Fecha: 2013-2015
 :Traductor: Python Argentina
+
+LearnOSM
+--------
+
+:Version: `b726250ca9dad6cf5e0cf83084f64f766118af37 <https://github.com/hotosm/learnosm/pull/297>`_
+:OnLine: http://learnosm.org/es/beginner/field-papers/
+:Repositorio: https://github.com/hotosm/learnosm
+:Fecha: 2015
+:Traductor: Manuel Kaufmann
 
 Subtítulos cortos David O'Reilly
 --------------------------------
 
 :Version: 1.0
-:OnLine: http://blog.mkaufmann.com.ar/posts/subtitulos-de-cortos-de-david-oreilly/
+:OnLine: http://elblogdehumitos.com.ar/posts/subtitulos-de-cortos-de-david-oreilly/
 :Fecha: 2014
 :Traductor: Manuel Kaufmann
 :Revisor: Melina Lucía Coronel

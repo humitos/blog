@@ -134,6 +134,19 @@ almuerzo (que puede estar a cargo o no de la organización) y por la
 tarde se sigue con 4 charlas más. También puede haber un espacio para
 realizar un Sprint por la tarde.
 
+Hacia el final de jornada, se pueden organizar `Lightning Talks
+<https://en.wikipedia.org/wiki/Lightning_talk>`_ (Charlas relámpago)
+que consisten en charlas de 5 minutos (fijos) que pueden abarcar
+cualquier tópico. No necesariamente relacionado con Python, el
+Software Libre o la programación.
+
+Para el cierre, por lo general se hace un sorteo con algunos premios
+donados por los Sponsors (remeras, libros, merchandising del evento,
+etc).
+
+`Guía para organizar un PyDay de la wiki de Python Argentina
+<http://python.org.ar/PyDay>`_
+
 Requisitos
 ----------
 
