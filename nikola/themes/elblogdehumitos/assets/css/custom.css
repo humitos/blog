@@ -1,9 +1,10 @@
 body {
     background-color: #eee;
     color: #333333;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    /* font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; */
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
     font-size: 15.5px;
-    line-height: 20px;
+    line-height: 1.5em;
     margin: 0;
     padding-top: 55px !important;
 }
@@ -113,4 +114,13 @@ body div.span8 {
 
 .row {
     margin-left: 10px !important;
+}
+
+h1, h2, h3 {
+    line-height: 40px;
+    font-family: "Bitter",sans-serif;
+}
+
+li {
+    line-height: 1.5em !important;
 }
