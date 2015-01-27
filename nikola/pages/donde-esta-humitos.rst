@@ -33,37 +33,39 @@ que cambio de posición.
 ¿Cómo funciona *exactamente*... ?
 ---------------------------------
 
-.. admonition:: Nota
-
-   Esta sección no está completamente actualizada ya que los scripts
-   fueron creciendo y la documentación quedó obsoleta.
-
 En profundidad, lo que hago es, mediante javascript, descargo el
 archivo *my-position.json* que es dónde están las coordenadas de mi
 posición actual y lo muestro en el mapa:
 
 .. listing:: donde-esta-humitos/geolocation.js javascript
+   :start-line: 144
+   :end-line: 162
 
-#. Descarga el archivo *my-location.json*
-#. Crea el mapa utilizando `leaflet.js <http://leafletjs.com/>`_
-#. Agrega el punto que está en *my-location.json* al mapa
+#. Descarga el archivo `my-location.json`
+#. Crea el ícono del autito
+#. Agrega el punto que está en `my-location.json` al mapa
 #. Centra el mapa en esa posición
 
 
-Ese *my-location.json* lo genero con un script Python.
+Ese `my-location.json` lo genero con un script Python.
 
 .. listing:: donde-esta-humitos/geolocation.py python
+   :start-line: 163
+   :end-line: 196
+
 
 #. Utiliza la librería *geocoder* para obtener las coordenadas de mi
    dirección de IP
 #. Loguea todo el proceso para, en caso de haber un error, saber qué
    ocurrió
-#. Guarda en el archivo *my-location.json* la longitud y latitud
+#. Guarda en el archivo `my-location.json` la longitud y latitud
+#. Sube el nuevo `my-location.json` (con las nuevas coordenadas) al
+   servidor utilizando `scp`
 
 .. note::
 
-   Utilizo un *time.sleep(5)* así le doy un tiempo a NM para tener
-   acceso a internet.
+   Utilizo un `time.sleep(WAIT_BEFORE_QUERY)` así le doy un tiempo a
+   NM para tener acceso a internet.
 
 
 Ese script Python lo ejecuto con NetworkManager cuando este se conecta
@@ -77,11 +79,8 @@ a una red.
    `/etc/NetworkManager/dispatch.d/geoblog` y *root* tiene que ser el
    owner del archivo para que NM lo ejecute correctamente.
 
-Básicamente lo que hace es:
-
-#. Si la interfaz es levantada (*up*), ejecuta un script Python
-#. Loguea todo el proceso para futuro análisis
-#. Copia al servidor el archivo *my-location.json*
+Básicamente lo que hace es ejecutar el script Python `geolocation.py`
+si la interfaz es levantada (*up*).
 
 .. note::
 
