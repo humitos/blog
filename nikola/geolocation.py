@@ -6,6 +6,8 @@ Usage:
   geolocation.py [(-v | --verbose)] [--no-wait] (-m | --me)
   geolocation.py [(-v | --verbose)] (-a | --address) [(-r | --remove)] [(-p | --previous-city)] <address>
   geolocation.py [(-v | --verbose)] (-s | --symlinks)
+  geolocation.py [(-v | --verbose)] --activate
+  geolocation.py [(-v | --verbose)] --deactivate
   geolocation.py (-h | --help)
   geolocation.py --version
 
@@ -22,8 +24,10 @@ Options:
 import os
 import json
 import time
+import user
 import geocoder
 import logging
+import configobj
 import collections
 
 from docopt import docopt
@@ -47,6 +51,13 @@ SYMLINK_FILES = [
 ] + GPX_FILES
 WAIT_BEFORE_QUERY = 5
 MAP_ZOOM = 14
+CONF_FILE = os.path.join(user.home, '.geolocation.ini')
+
+config = configobj.ConfigObj(
+    infile=CONF_FILE,
+    encoding='utf-8',
+    create_empty=True
+)
 
 
 def setup_logging(verbose):
@@ -153,6 +164,10 @@ def create_symlinks(dirname=SYMLINKS_DIR):
 def calc_my_position(output=MY_POSITION_FILENAME):
     setup_output(output)
 
+    if not config.get('activated', False):
+        logger.info('Exiting: not activated')
+        return
+
     logger.info('Waiting %s seconds...', WAIT_BEFORE_QUERY)
     time.sleep(WAIT_BEFORE_QUERY)
     logger.info('Querying the server about my ip...')
@@ -164,10 +179,6 @@ def calc_my_position(output=MY_POSITION_FILENAME):
     response = geocoder.osm(response.address)
     logger.info('LatLng: %s', response.latlng)
     logger.info('Place: %s', response.address)
-
-    # if not is_osmurl_valid(response):
-    #     osmurl_invalid()
-    #     return
 
     save_json(response.latlng, output)
 
@@ -240,12 +251,26 @@ def remove_address(address, output=CITIES_FILENAME):
     return response
 
 
+def activate(activate=True):
+    config['activated'] = activate
+    config.write()
+
+
+def deactivate():
+    activate(False)
+
+
 if __name__ == '__main__':
     arguments = docopt(__doc__, version='Geolocation 0.1')
 
     setup_logging(arguments['--verbose'])
     if arguments['--no-wait']:
         WAIT_BEFORE_QUERY = 0
+
+    if arguments['--activate']:
+        activate()
+    elif arguments['--deactivate']:
+        deactivate()
 
     if arguments['-a'] or arguments['--address']:
         q = arguments['<address>'].decode('utf8')
