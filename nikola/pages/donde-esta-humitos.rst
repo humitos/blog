@@ -34,20 +34,20 @@ que cambio de posición.
 ---------------------------------
 
 En profundidad, lo que hago es, mediante javascript, descargo el
-archivo *my-position.json* que es dónde están las coordenadas de mi
+archivo `my-position.json` que es dónde están las coordenadas de mi
 posición actual y lo muestro en el mapa:
 
 .. listing:: donde-esta-humitos/geolocation.js javascript
    :start-line: 144
    :end-line: 162
 
-#. Descarga el archivo `my-location.json`
+#. Descarga el archivo `my-position.json`
 #. Crea el ícono del autito
-#. Agrega el punto que está en `my-location.json` al mapa
+#. Agrega el punto que está en `my-position.json` al mapa
 #. Centra el mapa en esa posición
 
 
-Ese `my-location.json` lo genero con un script Python.
+Ese `my-position.json` lo genero con un script Python.
 
 .. listing:: donde-esta-humitos/geolocation.py python
    :start-line: 163
@@ -58,8 +58,8 @@ Ese `my-location.json` lo genero con un script Python.
    dirección de IP
 #. Loguea todo el proceso para, en caso de haber un error, saber qué
    ocurrió
-#. Guarda en el archivo `my-location.json` la longitud y latitud
-#. Sube el nuevo `my-location.json` (con las nuevas coordenadas) al
+#. Guarda en el archivo `my-position.json` la longitud y latitud
+#. Sube el nuevo `my-position.json` (con las nuevas coordenadas) al
    servidor utilizando `scp`
 
 .. note::
