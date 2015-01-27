@@ -7,10 +7,11 @@
 .. type: text
 
 Esta página muestra cuales son las necesidades para organizar
-diferentes tipos de eventos relacionados con Python y describe
-brevemente cada uno de ellos. Es solo una ayuda para los organizadores
-de estos eventos y, de ninguna manera, determina cómo debe ser la
-realización de ellos, sino que es más bien una guía.
+diferentes tipos de eventos relacionados con Python (impulsados por el
+proyecto :doc:`argentina-en-python`) y describe brevemente cada uno de
+ellos. Es solo una ayuda para los organizadores de estos eventos y, de
+ninguna manera, determina cómo debe ser la realización de ellos, sino
+que es más bien una guía.
 
 Meetup
 ======
