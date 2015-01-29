@@ -207,8 +207,14 @@ LOGO_URL = '/logo.png'
 # output / TRANSLATION[lang] / ARCHIVE_PATH / ARCHIVE_FILENAME
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / index.html
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / index.html
+# output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / DAY / index.html
 # ARCHIVE_PATH = ""
 # ARCHIVE_FILENAME = "archive.html"
+
+# If ARCHIVES_ARE_INDEXES is set to True, each archive page which contains a list
+# of posts will contain the posts themselves. If set to False, it will be just a
+# list of links.
+# ARCHIVES_ARE_INDEXES = False
 
 # URLs to other posts/pages can take 3 forms:
 # rel_path: a relative URL to the current page/post (default)
@@ -303,10 +309,19 @@ FILTERS = {
     ".png": [convert_images],
 }
 
-# Create a gzipped copy of each generated file. Cheap server-side optimization.
+
+# Expert setting! Create a gzipped copy of each generated file. Cheap server-
+# side optimization for very high traffic sites or low memory servers.
 # GZIP_FILES = False
 # File extensions that will be compressed
-# GZIP_EXTENSIONS = ('.txt', '.htm', '.html', '.css', '.js', '.json')
+# GZIP_EXTENSIONS = ('.txt', '.htm', '.html', '.css', '.js', '.json', '.xml')
+# Use an external gzip command? None means no.
+# Example: GZIP_COMMAND = "pigz -k {filename}"
+# GZIP_COMMAND = None
+# Make sure the server does not return a "Accept-Ranges: bytes" header for
+# files compressed by this option! OR make sure that a ranged request does not
+# return partial content of another representation for these resources. Do not
+# use this feature if you do not understand what this means.
 
 # Compiler to process LESS files.
 # LESS_COMPILER = 'lessc'
@@ -328,12 +343,23 @@ FILTERS = {
 
 # Galleries are folders in galleries/
 # Final location of galleries will be output / GALLERY_PATH / gallery_name
-GALLERY_PATH = "galleries"
+GALLERY_FOLDERS = {u'galleries': u'galleries'}
 THUMBNAIL_SIZE = 180
 MAX_IMAGE_SIZE = 1280
 USE_FILENAME_AS_TITLE = False
 GALLERY_SORT_BY_DATE = True
 EXTRA_IMAGE_EXTENSIONS = []
+
+# If set to False, it will sort by filename instead. Defaults to True
+# GALLERY_SORT_BY_DATE = True
+#
+# Folders containing images to be used in normal posts or
+# pages. Images will be scaled down according to THUMBNAIL_SIZE and
+# MAX_IMAGE_SIZE options, but will have to be referenced manually to
+# be visible on the site. The format is a dictionary of {source:
+# relative destination}.
+#
+# IMAGE_FOLDERS = {'images': ''}
 
 # #############################################################################
 # HTML fragments and diverse things that are used by the templates
@@ -363,12 +389,12 @@ THEME = 'elblogdehumitos'
 # CODE_COLOR_SCHEME = default
 
 # If you use 'site-reveal' theme you can select several subthemes
-# THEME_REVEAL_CONGIF_SUBTHEME = 'sky'
+# THEME_REVEAL_CONFIG_SUBTHEME = 'sky'
 # You can also use: beige/serif/simple/night/default
 
 # Again, if you use 'site-reveal' theme you can select several transitions
 # between the slides
-# THEME_REVEAL_CONGIF_TRANSITION = 'cube'
+# THEME_REVEAL_CONFIG_TRANSITION = 'cube'
 # You can also use: page/concave/linear/none/default
 
 # date format used to display post dates.
@@ -397,6 +423,10 @@ DATE_FANCINESS = 2
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
 SHOW_BLOG_TITLE = True
+
+# Writes tag cloud data in form of tag_cloud_data.json.
+# Warning: this option will change its default value to False in v8!
+WRITE_TAG_CLOUD = True
 
 # FAVICONS contains (name, file, size) tuples.
 # Used for create favicon link like this:
@@ -503,6 +533,16 @@ COMMENTS_IN_STORIES = True
 # the "noannotations" metadata.
 # ANNOTATIONS = False
 
+# Create index.html for page (story) folders?
+# WARNING: if a page would conflict with the index file (usually
+#          caused by setting slug to `index`), the STORY_INDEX
+#          will not be generated for that directory.
+# STORY_INDEX = False
+# Enable comments on story pages?
+# COMMENTS_IN_STORIES = False
+# Enable comments on picture gallery pages?
+# COMMENTS_IN_GALLERIES = False
+
 # What file should be used for directory indexes?
 # Defaults to index.html
 # Common other alternatives: default.html for IIS, index.php
@@ -580,10 +620,17 @@ DEPLOY_DRAFTS = False
 # called `toggle.tpl` which has to be located in your site/blog main folder:
 # IPYNB_CONFIG = {'Exporter':{'template_file': 'toggle'}}
 
-# What MarkDown extensions to enable?
+# What Markdown extensions to enable?
 # You will also get gist, nikola and podcast because those are
 # done in the code, hope you don't mind ;-)
+# Note: most Nikola-specific extensions are done via the Nikola plugin system,
+#       with the MarkdownExtension class and should not be added here.
 # MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite']
+
+# Extra options to pass to the pandoc comand.
+# by default, it's empty, is a list of strings, for example
+# ['-F', 'pandoc-citeproc', '--bibliography=/Users/foo/references.bib']
+# PANDOC_OPTIONS = []
 
 # Social buttons. This is sample code for AddThis (which was the default for a
 # long time). Insert anything you want here, or even make it empty.
@@ -602,7 +649,7 @@ GENERATE_RSS = True
 
 # RSS_LINK is a HTML fragment to link the RSS or Atom feeds. If set to None,
 # the base.tmpl will use the feed Nikola generates. However, you may want to
-# change it for a feedburner feed or something else.
+# change it for a FeedBurner feed or something else.
 # RSS_LINK = None
 
 # Show only teasers in the RSS feed? Default to True
@@ -611,38 +658,39 @@ GENERATE_RSS = True
 # Strip HTML in the RSS feed? Default to False
 # RSS_PLAIN = False
 
-# A search form to search this site, for the sidebar. You can use a google
+# A search form to search this site, for the sidebar. You can use a Google
 # custom search (http://www.google.com/cse/)
-# Or a duckduckgo search: https://duckduckgo.com/search_box.html
+# Or a DuckDuckGo search: https://duckduckgo.com/search_box.html
 # Default is no search form.
+# (translatable)
 # SEARCH_FORM = ""
 #
 # This search form works for any site and looks good in the "site" theme where
 # it appears on the navigation bar:
 #
-#SEARCH_FORM = """
-#<!-- Custom search -->
-#<form method="get" id="search" action="http://duckduckgo.com/"
-# class="navbar-form pull-left">
-#<input type="hidden" name="sites" value="%s"/>
-#<input type="hidden" name="k8" value="#444444"/>
-#<input type="hidden" name="k9" value="#D51920"/>
-#<input type="hidden" name="kt" value="h"/>
-#<input type="text" name="q" maxlength="255"
-# placeholder="Search&hellip;" class="span2" style="margin-top: 4px;"/>
-#<input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
-#</form>
-#<!-- End of custom search -->
-#""" % SITE_URL
+# SEARCH_FORM = """
+# <!-- Custom search -->
+# <form method="get" id="search" action="//duckduckgo.com/"
+#  class="navbar-form pull-left">
+# <input type="hidden" name="sites" value="%s"/>
+# <input type="hidden" name="k8" value="#444444"/>
+# <input type="hidden" name="k9" value="#D51920"/>
+# <input type="hidden" name="kt" value="h"/>
+# <input type="text" name="q" maxlength="255"
+#  placeholder="Search&hellip;" class="span2" style="margin-top: 4px;"/>
+# <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
+# </form>
+# <!-- End of custom search -->
+# """ % SITE_URL
 #
-# If you prefer a google search form, here's an example that should just work:
-#SEARCH_FORM = """
-#<!-- Custom search with google-->
-#<form id="search" action="http://google.com/search" method="get" class="navbar-form pull-left">
-#<input type="hidden" name="q" value="site:%s" />
-#<input type="text" name="q" maxlength="255" results="0" placeholder="Search"/>
-#</form>
-#<!-- End of custom search -->
+# If you prefer a Google search form, here's an example that should just work:
+# SEARCH_FORM = """
+# <!-- Custom search with Google-->
+# <form id="search" action="//www.google.com/search" method="get" class="navbar-form pull-left">
+# <input type="hidden" name="q" value="site:%s" />
+# <input type="text" name="q" maxlength="255" results="0" placeholder="Search"/>
+# </form>
+# <!-- End of custom search -->
 #""" % SITE_URL
 
 # Also, there is a local search plugin you can use, based on Tipue, but it requires setting several
@@ -675,9 +723,10 @@ GENERATE_RSS = True
 # USE_CDN = False
 
 # Extra things you want in the pages HEAD tag. This will be added right
-# before </HEAD>
+# before </head>
+# (translatable)
 # EXTRA_HEAD_DATA = ""
-# Google analytics or whatever else you use. Added to the bottom of <body>
+# Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 BODY_END = """
 <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
@@ -739,26 +788,23 @@ UNSLUGIFY_TITLES = True
 # Open Graph is enabled by default.
 # USE_OPEN_GRAPH = True
 
-# Nikola supports Twitter Card summaries / Open Graph.
-# Twitter cards make it possible for you to attach media to Tweets
-# that link to your content.
-
+# Nikola supports Twitter Card summaries, but they are disabled by default.
+# They make it possible for you to attach media to Tweets that link
+# to your content.
+#
 # IMPORTANT:
 # Please note, that you need to opt-in for using Twitter Cards!
-# To do this please visit
-# https://dev.twitter.com/form/participate-twitter-cards
+# To do this please visit https://cards-dev.twitter.com/validator
 #
 # Uncomment and modify to following lines to match your accounts.
-# Specifying the id for either 'site' or 'creator' will be preferred
-# over the cleartext username. Specifying an ID is not necessary.
-# Displaying images is currently not supported.
+# Images displayed come from the `previewimage` meta tag.
+# You can specify the card type by using the `card` parameter in TWITTER_CARD.
 # TWITTER_CARD = {
-#     # 'use_twitter_cards': True,  # enable Twitter Cards / Open Graph
-#     # 'site': '@website',  # twitter nick for the website
-#     # 'site:id': 123456,  # Same as site, but the website's Twitter user ID
-#                           # instead.
-#     # 'creator': '@username',  # Username for the content creator / author.
-#     # 'creator:id': 654321,  # Same as creator, but the Twitter user's ID.
+#     # 'use_twitter_cards': True,  # enable Twitter Cards
+#     # 'card': 'summary',          # Card type, you can also use 'summary_large_image',
+#                                   # see https://dev.twitter.com/cards/types
+#     # 'site': '@website',         # twitter nick for the website
+#     # 'creator': '@username',     # Username for the content creator / author.
 # }
 
 
