@@ -5,6 +5,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. previewimage: preview.jpg
 
 Este mapa es útil para saber en qué lugar estoy *aproximadamente* en
 este momento, con el fin de :doc:`contactar con gente de la zona

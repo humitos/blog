@@ -125,7 +125,7 @@ PyDay
 -----------------
 
 Un PyDay es un evento un *poco más formal* que los anteriormente
-mencionados y consiste en *un día entero de Python* en el que se
+mencionados y consiste en *un día entero de Python*. Ese día se
 realizan charlas de diferentes temas relacionados con Python durante
 todo el día. Estas charlas están pactadas con una duración de 45
 minutos dando un espacio al final de 15 minutos para preguntas.
@@ -145,8 +145,8 @@ Para el cierre, por lo general se hace un sorteo con algunos premios
 donados por los Sponsors (remeras, libros, merchandising del evento,
 etc).
 
-`Guía para organizar un PyDay de la wiki de Python Argentina
-<http://python.org.ar/PyDay>`_
+También podés consultar esta `guía para organizar un PyDay
+<http://python.org.ar/PyDay>`_ de la wiki de Python Argentina.
 
 Requisitos
 ----------
@@ -173,6 +173,8 @@ Requisitos
    * actualizar la página de noticias_ de Python Argentina mencionando
      que se va a realizar este evento.
 
+   * agregar el evento al `calendario oficial`_ de Python internacional
+
 ¡Sumate a esta iniciativa! No es complicado organizar ninguno de estos
 eventos y podés ser uno de los pioneros en tu ciudad ayudando a la
 difusión de Python :)
@@ -180,3 +182,4 @@ difusión de Python :)
 
 .. _la lista: http://python.org.ar/ListaDeCorreo
 .. _noticias: http://python.org.ar/Noticias
+.. _calendario oficial: https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event

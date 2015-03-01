@@ -5,7 +5,7 @@
 .. link: 
 .. description: Argentina en Python is a personal and communitary project that promotes the usage of Python as a programming language to solve daily issues for common users and also to develop powerful and complex softwares in an easy way, encouraging the collaborative learning and the Software Libre philosophy.
 .. type: text
-.. previewimage: pages/argentina-en-python/logo.png
+.. previewimage: logo.png
 
 
 **También disponible en:** :doc:`Español <argentina-en-python>`
@@ -227,6 +227,12 @@ the places we have visited:
 * Bella Vista, Corrientes, Argentina
 * Corrientes, Corrientes, Argentina
 * Las Breñas, Chaco, Argentina
+* Mburucuyá, Corrientes, Argentina
+* San Miguel, Corrientes, Argentina
+* Nuestra Señora de Caá Catí, Corrientes, Argentina
+* Formosa, Formosa, Argentina
+* Laguna Naineck, Formosa, Argentina
+* Asunción, Paraguay
 
 Pictures
 --------

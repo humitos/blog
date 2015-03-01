@@ -48,8 +48,6 @@ proyecto personal y comunitario llamado :doc:`argentina-en-python`.
 
 :Github: http://github.com/humitos
 
-:Linkedin: http://www.linkedin.com/in/manuelkaufmann
-
 :Facebook: https://www.facebook.com/kaufmann.manuel
 
 :Twitter: https://twitter.com/reydelhumo
@@ -59,6 +57,10 @@ proyecto personal y comunitario llamado :doc:`argentina-en-python`.
 :IRC: humitos
 
 :Teléfono: +54 9 343 4053434
+
+:WhatsApp: +595 9 82877917
+
+:Skype: manuel.kaufmann.humitos
 
 :Fotos:
 

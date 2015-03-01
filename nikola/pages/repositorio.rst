@@ -12,7 +12,7 @@ que acabo de ver y/o leer. Reflexionar, digamos. Incluso, también
 pueden aparecer cosas que todavía no he visto, pero que sí están
 pendientes de mi opinión.
 
-Por ésto, considero que, en la medida que sea posible, hay que pegarle
+Por eso considero que, en la medida que sea posible, hay que pegarle
 una revisada a esta sección cada tanto e ir leyendo, mirando,
 investigando sobre lo que tenemos a nuestro alrededor.
 
