@@ -90,3 +90,6 @@ proyecto personal y comunitario llamado :doc:`argentina-en-python`.
 
    Prefiero *email* como medio de contacto por sobre los demas ya que
    es lo que reviso con más frecuencia.
+
+   Si me agregás a alguna red social, enviame un breve mensaje de
+   presentación así sé quién sos, dónde nos conocimos o similar.

@@ -7,8 +7,21 @@
 .. description:
 .. type: text
 
+.. raw:: html
+
+  <div class="alert alert-success">
+
+Desde el proyecto :doc:`argentina-en-python` y, junto a `@EllaQuimica
+<https://twitter.com/EllaQuimica>`_, ¡vamos a participar de la `SciPy
+LA 2015 <http://scipyla.org/conf/2015/>`_!
+
+.. raw:: html
+
+  </div>
+
 .. image:: scipy-logo.png
    :align: right
+   :target: http://scipyla.org/conf/2015/
 
 Es una Jornada que se realiza con el propósito de introducir a un
 público de gran potencial creativo (como chicos y adolescentes) al
@@ -29,22 +42,20 @@ Con la finalidad de una fusión entre la ciencia y la programación
 proponemos una dinámica con los siguientes objetivos para el
 desarrollo de la charla / taller:
 
-:Realizar una parte práctica o experimental dentro de la  charla: 
-
-   Los experimentos deben ser representativos del tema a
-   explicar u objetivo de la charla, además de involucrar en la
-   participación y desarrollo a los chicos.  El desarrollo del
-   experimento puede ser llevado a cabo por los chicos en el momento a
-   medida que el disertante los guía en la etapa del proceso, planteado
-   preguntas que lleve a los chicos a compartir su interpretación de lo
-   que sucede durante cada etapa del experimento. Otra opción, es que
-   el disertante realice un experimento a modo de ejemplo y que los
+* **Realizar una parte práctica o experimental dentro de la charla**:
+   Los experimentos deben ser representativos del tema a explicar u
+   objetivo de la charla, además de involucrar en la participación y
+   desarrollo a los chicos.  El desarrollo del experimento puede ser
+   llevado a cabo por los chicos en el momento a medida que el
+   disertante los guía en la etapa del proceso, planteado preguntas
+   que lleve a los chicos a compartir su interpretación de lo que
+   sucede durante cada etapa del experimento. Otra opción, es que el
+   disertante realice un experimento a modo de ejemplo y que los
    chicos lo repitan al final. Teniendo en cuenta esta propuesta de
    dinámica, debemos asegurarnos que los experimentos sean sencillos y
    seguros tanto para los espectadores e instalaciones.
 
-:Emplear la programación desde un lenguaje específico:
-
+* **Emplear la programación desde un lenguaje específico**:
    Involucrar la programación (Python, C++, entre otros) o alguna
    herramienta computacional donde el espectador o asistente de la
    charla pueda ver la vinculación entre un concepto u objetivo
@@ -55,6 +66,17 @@ Teniendo estos dos objetivos claros para la charla en el "Track Teen",
 dejamos en plena libertad el cómo se quiera desarrollar cada charla
 por el disertante. Además de extender la invitación a nuevas ideas
 para que esta jornada sea innovadora y vinculante para los chicos.
+
+Si estás interesado en participar como disertante de una charla /
+taller, por favor envía tu propuesta completando este formulario:
+
+.. raw:: html
+
+   <div style="text-align: center">
+     <a class="btn btn-large btn-primary" href="https://docs.google.com/forms/d/1ft81SFmuj_PYlYSBWTLe3-jrdkGI8w1lw6x-L5iBbEI/viewform">
+       Completar formulario
+     </a>
+   </div>
 
 ¿Quienes pueden postularse?
 ---------------------------
@@ -86,7 +108,7 @@ En la Provincia de Corrientes y Formosa, realizamos dos Jornadas de
 *"Jugando al Científico loco"* (`ver fotos
 <https://www.facebook.com/media/set/?set=a.1534188323537367.1073741833.1525227431100123&type=3>`_)
 con chicos de 4 a 12 años. Lograr su atención durante la jornada fue
-el mayor reto pero lo logramos de muy buena manera haciéndolo
+el mayor reto pero lo conseguimos de muy buena manera haciéndolo
 interactivo y que ellos mismos sean quienes nos enseñen a nosotros.
 
 Contactos
@@ -104,3 +126,5 @@ Contactos
   - Web: https://www.facebook.com/EllaQuimica
   - Email: ellaquimica@gmail.com
   - Twitter: `@EllaQuimica <https://twitter.com/EllaQuimica>`_
+
+¡Ayudanos con la difusión!
