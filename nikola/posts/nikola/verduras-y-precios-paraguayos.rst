@@ -13,13 +13,13 @@ el tema de *los precios* y *su moneda*.
 
 .. sidebar:: Cambios
 
-   $ (arg) 1 = 500 gs
+   $ (arg) 1 = 300 gs
 
    USD 1 = 4700 gs
 
 Es un poco complicado al principio acostumbrarse a una moneda en donde
 *todo se maneja en miles* y por otro lado *todo el mundo es
-millonario* (el salario mínimo es de 1.300.000 gs) ;)
+millonario* (el salario mínimo es de 1.800.000 gs) ;)
 
 Además, para nosotros, que llevamos moneda Argentina *todo* nos sale
 mucho más caro. Así que, hacer esa conversión de Guaraníes, Dólares y
@@ -46,6 +46,9 @@ frutas y las verduras en el Supermecado Stock de Paraguay:
 
    Puerro, achicoria, apio, espinaca, remedio, cebollita de hoja,
    lechuga, etc
+
+.. TEASER_END
+
 
 .. figure:: IMG_20150304_194124.thumbnail.jpg
    :target: IMG_20150304_194124.jpg
