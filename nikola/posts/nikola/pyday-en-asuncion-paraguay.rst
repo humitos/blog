@@ -45,5 +45,5 @@ Santos, ubicado en Gral. Santos 1170
 Difusión del evento y de la comunidad "Python Paraguay":
 
 * Web: http://pyday.pythonpy.org
-* Twitter: `@PythonParaguay <http://twitter.com/PythonParaguay>`_
+* Twitter: `@PythonParaguay <http://twitter.com/PythonParaguay>`_ / Hashtag: `#PyDayAsuncion <https://twitter.com/hashtag/pydayasuncion?src=hash>`_
 * Facebook: `Python Paraguay <http://facebook.com/PythonParaguay>`_
