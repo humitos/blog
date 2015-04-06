@@ -51,6 +51,7 @@ Videos
 #. `Todo es un remix, Kirby Ferguson <https://www.youtube.com/watch?v=O7-DlOaCsjU>`_
 #. `Man, Steve Cutts <https://www.youtube.com/watch?v=WfGMYdalClU>`_
 #. `We love surveillance <https://www.youtube.com/watch?v=dlmYHbg5i_w>`_
+#. `Orquesta de Instrumentos Reciclados de Cateura, Paraguay <http://www.youtube.com/watch?v=7AOnZb7ZlJI>`_
 
 Películas
 ---------

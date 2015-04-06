@@ -17,8 +17,8 @@ enseñar, transmitir y motivar a otros a perseguir sus sueños como
 tantos otros me han ayudado a mi.
 
 Desde Octubre de 2013 he estado viajando por diferentes lugares de
-Argentina (:doc:`ver mapa <donde-esta-humitos>`) llevando adelante un
-proyecto personal y comunitario llamado :doc:`argentina-en-python`.
+latinoamérica (:doc:`ver mapa <donde-esta-humitos>`) llevando adelante
+un proyecto personal y comunitario llamado :doc:`argentina-en-python`.
 
 ----
 
@@ -56,9 +56,13 @@ proyecto personal y comunitario llamado :doc:`argentina-en-python`.
 
 :IRC: humitos
 
-:Teléfono: +54 9 343 4053434
+:WhatsApp: +54 9 343 4053434
 
-:WhatsApp: +595 9 82877917
+:Telegram: @humitos / +54 9 343 4053434
+
+:Móv. Argentina: +54 9 343 4053434
+
+:Móv. Paraguay: +595 9 82877917
 
 :Skype: manuel.kaufmann.humitos
 
@@ -93,3 +97,6 @@ proyecto personal y comunitario llamado :doc:`argentina-en-python`.
 
    Si me agregás a alguna red social, enviame un breve mensaje de
    presentación así sé quién sos, dónde nos conocimos o similar.
+
+   Entre WhatsApp y Telegram, prefiero Telegram. También acepto otras
+   sugerencias.

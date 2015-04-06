@@ -1,6 +1,45 @@
 {
     "next": [
         {
+            "address": "San Bernardino, Cordillera, Regi\u00f3n Oriental, Paraguay", 
+            "country": "PY", 
+            "lat": -25.3087796, 
+            "lng": -57.2958319, 
+            "location": "san bernardino, paraguay", 
+            "osm_id": "1317869054", 
+            "osm_type": "node", 
+            "provider": "osm", 
+            "quality": "town", 
+            "state": "Cordillera", 
+            "status": "OK"
+        }, 
+        {
+            "address": "Altos, Cordillera, Regi\u00f3n Oriental, Paraguay", 
+            "country": "PY", 
+            "lat": -25.2617324, 
+            "lng": -57.2492898, 
+            "location": "altos, paraguay", 
+            "osm_id": "133256442", 
+            "osm_type": "way", 
+            "provider": "osm", 
+            "quality": "town", 
+            "state": "Cordillera", 
+            "status": "OK"
+        }, 
+        {
+            "address": "Paraguar\u00ed, Regi\u00f3n Oriental, Paraguay", 
+            "country": "PY", 
+            "lat": -25.6207309, 
+            "lng": -57.1475978, 
+            "location": "paraguar\u00ed, cordillera, paraguay", 
+            "osm_id": "313921866", 
+            "osm_type": "node", 
+            "provider": "osm", 
+            "quality": "town", 
+            "state": "Paraguar\u00ed", 
+            "status": "OK"
+        }, 
+        {
             "address": "Ciudad del Este, Alto Paran\u00e1, Regi\u00f3n Oriental, Paraguay", 
             "city": "Ciudad del Este", 
             "country": "PY", 
@@ -109,31 +148,6 @@
             "provider": "osm", 
             "quality": "town", 
             "state": "Paraguar\u00ed", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Embajada de la Rep\u00fablica Argentina en Paraguay", 
-            "lat": -25.285373, 
-            "lng": -57.6170182040506, 
-            "location": "asunci\u00f3n, paraguay", 
-            "osm_id": "276953318", 
-            "osm_type": "way", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Formosa, Departamento Formosa, Formosa, Argentina", 
-            "city": "Formosa", 
-            "country": "AR", 
-            "lat": -26.1852983, 
-            "lng": -58.1744976, 
-            "location": "formosa, formosa, argentina", 
-            "osm_id": "2294368", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Formosa", 
             "status": "OK"
         }, 
         {
@@ -905,17 +919,6 @@
             "status": "OK"
         }, 
         {
-            "address": "Embajada de la Rep\u00fablica Argentina en Paraguay", 
-            "lat": -25.285373, 
-            "lng": -57.6170182040506, 
-            "location": "asunci\u00f3n, paraguay", 
-            "osm_id": "276953318", 
-            "osm_type": "way", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "status": "OK"
-        }, 
-        {
             "address": "Laguna Naineck, Departamento Pilcomayo, Formosa, Argentina", 
             "country": "AR", 
             "lat": -25.2189965, 
@@ -939,6 +942,20 @@
             "provider": "osm", 
             "quality": "village", 
             "state": "Formosa", 
+            "status": "OK"
+        }, 
+        {
+            "address": "Asunci\u00f3n, Distrito Capital de Paraguay, Regi\u00f3n Oriental, Paraguay", 
+            "city": "Asunci\u00f3n", 
+            "country": "PY", 
+            "lat": -25.2960638, 
+            "lng": -57.6311446, 
+            "location": "asunci\u00f3n, distrito capital de paraguay, paraguay", 
+            "osm_id": "249854726", 
+            "osm_type": "node", 
+            "provider": "osm", 
+            "quality": "city", 
+            "state": "Distrito Capital de Paraguay", 
             "status": "OK"
         }
     ]

@@ -19,6 +19,13 @@ LA 2015 <http://scipyla.org/conf/2015/>`_!
 
   </div>
 
+.. raw:: html
+
+  <div class="alert alert-info" style="text-align: center; font-size: 20px; font-weight: bold; width: 50%; margin-left: auto; margin-right: auto;">
+   <p>Jueves 21 de Mayo de 2015</p>
+   <p>Posadas, Misiones, Argentina</p>
+  </div>
+
 .. image:: scipy-logo.png
    :align: right
    :target: http://scipyla.org/conf/2015/
@@ -95,8 +102,8 @@ fusión entre la parte práctica, científica y la
 programación. Comunicate con nosotros y te brindaremos la ayuda que
 necesites.
 
-Compartimos experiencias previas a esta Jornada
------------------------------------------------
+Experiencias previas
+--------------------
 
 .. figure:: jugando-al-cientifico-loco.thumbnail.jpg
    :target: jugando-al-cientifico-loco.jpg

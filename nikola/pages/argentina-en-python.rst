@@ -307,6 +307,18 @@ Prensa
 * `Charla sobre "OpenStreetMap" y su utilidad
   <http://www.lasbrenasdigital.com.ar/2014/sociales/9020-charla-sobre-open-street-map-y-su-utilidad.html>`_
 
+* `Post en el blog oficial de la Python Software Foundation
+  <http://pyfound.blogspot.com.ar/2015/03/manuel-kaufmann-and-python-in-argentina.html>`_
+
+* `Post en Proyectos Beta
+  <http://proyectosbeta.net/2015/03/se-viene-el-pyday-asuncion-2015/>`_
+
+* `Noticia en Proyectos Beta sobre el PyDay Asunción
+  <http://proyectosbeta.net/2015/03/la-mentalidad-del-informatico-paraguayo-esta-cambiando/>`_
+
+* `Noticia en Proyectos Beta sobre el PyDay Asunción II
+  <http://proyectosbeta.net/2015/04/gran-evento-pydayasuncion-2015/>`_
+
 
 Charla en PyCon Argentina
 -------------------------

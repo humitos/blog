@@ -59,7 +59,15 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/pages/argentina-en-python/', 'Argentina en Python'),
+        (
+            (
+                ('/pages/argentina-en-python/', 'Acerca del proyecto'),
+                ('/pages/argentina-en-python/track-teen-scipy-la-2015/', 'Track Teen SciPy LA 2015'),
+                ('/pages/argentina-en-python/eventos/', 'Eventos'),
+                ('/pages/argentina-en-python/donaciones/', 'Donaciones'),
+            ),
+            'Argentina en Python',
+        ),
         ('/pages/quien-escribe/', '¿Quién escribe?'),
         # ('/pages/modulos-python/', 'Módulos Python'),
         ('/random/', 'Random'),
@@ -77,7 +85,7 @@ NAVIGATION_LINKS = {
                 ('/pages/apoyo/', 'Apoyo'),
                 ('/pages/repositorio/', 'Repositorio'),
                 ('/pages/frases/', 'Frases'),
-                ('/pages/expresiones-regionales/', 'Expresiones Regionales'),
+                # ('/pages/expresiones-regionales/', 'Expresiones Regionales'),
             ),
             'Extras',
         ),
@@ -240,7 +248,9 @@ SLUG_TAG_PATH = True
 # relative URL.
 #
 # If you don't need any of these, just set to []
-# REDIRECTIONS = []
+REDIRECTIONS = [
+    ('pages/donaciones/index.html', '/pages/argentina-en-python/donaciones/'),
+]
 
 # Commands to execute to deploy. Can be anything, for example,
 # you may use rsync:
