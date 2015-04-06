@@ -1,5 +1,5 @@
 .. title: Donaciones
-.. slug: donaciones
+.. slug: argentina-en-python/donaciones
 .. date: 2014-11-25 21:32:58 UTC-03:00
 .. tags: donaciones, argentina en python
 .. link: 
@@ -10,16 +10,23 @@
 .. raw:: html
 
    <style type="text/css">
-     table.docutils.field-list {
-       margin-left: auto;
-       margin-right: auto;
-     }
-
      div > img.align-right {
        padding-top: 70px;
        padding-bottom: 70px;
      }
    </style>
+
+.. raw:: html
+
+   <div class="alert alert-success">
+
+Estamos recibiendo donaciones para poder arreglar el auto y así seguir
+adelante. :doc:`¡Entérate aquí!
+<argentina-en-python/donaciones/misiones>`
+
+.. raw:: html
+
+   </div>
 
 .. image:: tarjeta-personal.png
    :align: right
@@ -56,33 +63,15 @@ El dinero será destinado a, por ejemplo:
   * Ploteo
   * Combustible
 
-Si querés apoyar el proyecto de forma ecónomica, lo podés hacer
-depositando en efectivo (el monto que puedas -*todo suma*) en la
-siguiente cuenta bancaria:
+Hacé click en el siguite botón para enterarte sobre cuáles son los
+medios disponibles a la fecha para realizar las donaciones:
 
-:Banco: Santander Río
+.. raw:: html
 
-:Titular: Manuel Kaufmann
+   <div style="text-align: center">
+     <a class="btn btn-large btn-primary" href="/pages/argentina-en-python/donaciones/medios/">
+       Realizar donación
+     </a>
+   </div>
 
-:Nro de cuenta: 396-351904/8
-
-:CBU: 0720396988000035190486
-
-:CUIT: 20-31995222-6
-
-Como último favor, te pido que me envíes un `email`_ adjuntando el
-comprobante de la transacción para así a futuro recibir comentarios
-sobre el destino de tu donación.
-
-¡Muchas gracias por tu colaboración y por ayudarme a empujar este
-proyecto!
-
-.. admonition:: Nota
-
-   Como esto es algo nuevo y me gustaría mejorarlo lo más que se
-   pueda, estoy abierto a nuevas ideas y formas de donaciones. Por
-   favor, enviame un `email`_ para compartir tus ideas y así hacer que tu
-   donación, y mi recepción de dinero, sea algo grato para ambos.
-
-
-.. _email: mailto:humitos@gmail.com
+¡Muchas gracias!
