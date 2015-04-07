@@ -18,8 +18,13 @@
    </style>
 
 Si querés apoyar el proyecto :doc:`argentina-en-python` de forma
-ecónomica, lo podés hacer mediante un depósito o transferencia
-bancaria (el monto que puedas -*todo suma*) en la siguiente cuenta:
+ecónomica, lo podés hacer mediante un depósito, transferencia
+bancaria o utilizado PayPal_ (el monto que puedas -*todo suma*).
+
+.. _PayPal: https://www.paypal.com/
+
+Transferencia desde Argentina
+-----------------------------
 
 :Banco: Santander Río
 
@@ -30,6 +35,40 @@ bancaria (el monto que puedas -*todo suma*) en la siguiente cuenta:
 :CBU: 0720396988000035190486
 
 :CUIT: 20-31995222-6
+
+
+Transferencia desde otros países
+--------------------------------
+
+:Bank: Banco República Oriental 
+       del Uruguay
+
+:Account Name: Manuel Kaufmann
+
+:Account Number: 036-0523426
+
+:Alias: 020360523426
+
+:Swift Code: BROU.UY MM
+
+:CUIT: 20-31995222-6
+
+
+PayPal
+------
+
+.. raw:: html
+
+   <div style="margin-left: auto; margin-right: auto;">
+   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+   <input type="hidden" name="cmd" value="_s-xclick">
+   <input type="hidden" name="hosted_button_id" value="4L5LEXJ3XNLS6">
+   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+   <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+   </form>
+   </div>
+
+----
 
 Como último favor, te pido que me envíes un `email`_ adjuntando el
 comprobante de la transacción para así a futuro recibir comentarios

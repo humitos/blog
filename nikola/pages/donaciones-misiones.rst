@@ -107,6 +107,8 @@ medios disponibles a la fecha para realizar las donaciones:
      </a>
    </div>
 
+¡Muchas gracias por colaborar!
+
 .. [#] :doc:`pydayasuncion-un-exito-arrollador`
 .. [#] :doc:`pyday-formosa`
 .. [#] :doc:`primer-sprint-de-python-en-resistencia-chaco`
