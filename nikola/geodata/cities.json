@@ -1,19 +1,6 @@
 {
     "next": [
         {
-            "address": "San Bernardino, Cordillera, Regi\u00f3n Oriental, Paraguay", 
-            "country": "PY", 
-            "lat": -25.3087796, 
-            "lng": -57.2958319, 
-            "location": "san bernardino, paraguay", 
-            "osm_id": "1317869054", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "Cordillera", 
-            "status": "OK"
-        }, 
-        {
             "address": "Altos, Cordillera, Regi\u00f3n Oriental, Paraguay", 
             "country": "PY", 
             "lat": -25.2617324, 
@@ -26,6 +13,34 @@
             "state": "Cordillera", 
             "status": "OK"
         }, 
+        {
+            "address": "Caacup\u00e9, Cordillera, Regi\u00f3n Oriental, Paraguay", 
+            "country": "PY", 
+            "lat": -25.3855654, 
+            "lng": -57.1401431, 
+            "location": "caacupe, paraguay", 
+            "osm_id": "313910428", 
+            "osm_type": "node", 
+            "provider": "osm", 
+            "quality": "town", 
+            "state": "Cordillera", 
+            "status": "OK"
+        }, 
+        {
+            "address": "Villarrica, Guair\u00e1, Regi\u00f3n Oriental, 5000, Paraguay", 
+            "city": "Villarrica", 
+            "country": "PY", 
+            "lat": -25.7809839, 
+            "lng": -56.4478765, 
+            "location": "villarrica, guair\u00e1, paraguay", 
+            "osm_id": "313912581", 
+            "osm_type": "node", 
+            "postal": "5000", 
+            "provider": "osm", 
+            "quality": "city", 
+            "state": "Guair\u00e1", 
+            "status": "OK"
+        },
         {
             "address": "Paraguar\u00ed, Regi\u00f3n Oriental, Paraguay", 
             "country": "PY", 
@@ -956,6 +971,19 @@
             "provider": "osm", 
             "quality": "city", 
             "state": "Distrito Capital de Paraguay", 
+            "status": "OK"
+        },
+        {
+            "address": "San Bernardino, Cordillera, Regi\u00f3n Oriental, Paraguay", 
+            "country": "PY", 
+            "lat": -25.3087796, 
+            "lng": -57.2958319, 
+            "location": "san bernardino, paraguay", 
+            "osm_id": "1317869054", 
+            "osm_type": "node", 
+            "provider": "osm", 
+            "quality": "town", 
+            "state": "Cordillera", 
             "status": "OK"
         }
     ]
