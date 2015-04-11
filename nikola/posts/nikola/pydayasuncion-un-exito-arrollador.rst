@@ -15,6 +15,14 @@
    Foto de *casi* todos los asistentes del #PyDayAsuncion (Asunción,
    Paraguay) - 28 de Marzo de 2015
 
+.. sidebar:: Repercusión
+
+ - `La mentalidad del informático paraguayo está cambiando
+   <http://proyectosbeta.net/2015/03/la-mentalidad-del-informatico-paraguayo-esta-cambiando/>`_
+
+ - `Gran evento PyDay Asunción
+   <http://proyectosbeta.net/2015/04/gran-evento-pydayasuncion-2015/>`_
+
 Siendo un día de lluvia, tuvimos una asistencia de más de 80 personas
 y estábamos muy contentos por eso. De hecho, el primer asistente llegó
 a las 8:30hs (una hora antes) y por eso se ganó una remera ;)
