@@ -82,19 +82,14 @@ donado. Además de un Tweet en la cuenta de `@argenpython
 agradecimientos en un post que se escribirá luego de concluídos los
 arreglos.
 
-Al día de la fecha hemos recibido un total de *$ 0* en esta etapa de
-donaciones.
+Al día de la fecha hemos recibido un total de *$ 1464,15* en esta
+etapa de donaciones.
 
 .. raw:: html
 
-  <div class="progress" style="height: 50px; width: 70%; margin-left: auto; margin-right: auto;">
-    <div class="progress-bar progress-bar-success progress-bar-striped active" style="width: 20%">
-      <span class="sr-only">0% Recibido</span>
-    </div>
-    <div class="progress-bar progress-bar-danger progress-bar-striped active" style="width: 10%">
-      <span class="sr-only">100% Restante</span>
-    </div>
-  </div>
+   <div class="progress progress-striped" style="height: 40px; width: 70%; margin-left: auto; margin-right: auto;">
+     <div class="bar bar-success" style="width: 24.4%;"></div>
+   </div>
 
 Hacé click en el siguite botón para enterarte sobre cuáles son los
 medios disponibles a la fecha para realizar las donaciones:
@@ -108,6 +103,8 @@ medios disponibles a la fecha para realizar las donaciones:
    </div>
 
 ¡Muchas gracias por colaborar!
+
+----
 
 .. [#] :doc:`pydayasuncion-un-exito-arrollador`
 .. [#] :doc:`pyday-formosa`
