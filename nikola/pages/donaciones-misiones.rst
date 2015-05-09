@@ -7,6 +7,18 @@
 .. type: text
 .. nocomments: True
 
+.. class:: alert alert-success
+
+   ¡Batiendo records! Llegamos a recaudar el dinero necesario en menor
+   tiempo de lo esperado, y además, sobrepasamos el monto
+   total. ¡Muchas gracias por el apoyo!
+
+.. class:: alert alert-info
+
+   De cualquier modo, si querés apoyar económicamente al proyecto para
+   futuros eventos, podés hacerlo :doc:`visitando este link
+   <argentina-en-python/donaciones>` para enterarte cómo colaborar.
+
 Luego de mucho esfuerzo, hemos llegado a una etapa del viaje donde se
 empiezan a notar los hitos alcanzados [#]_ [#]_ [#]_ [#]_ [#]_ como
 así también las complicaciones económicas para seguir adelante. Y
@@ -82,13 +94,14 @@ donado. Además de un Tweet en la cuenta de `@argenpython
 agradecimientos en un post que se escribirá luego de concluídos los
 arreglos.
 
-Al día de la fecha hemos recibido un total de *$ 1464,15* en esta
-etapa de donaciones.
+Al día de la fecha hemos recibido un total de *$ 7420.15 (123.67%)* en
+esta etapa de donaciones.
 
 .. raw:: html
 
-   <div class="progress progress-striped" style="height: 40px; width: 70%; margin-left: auto; margin-right: auto;">
-     <div class="bar bar-success" style="width: 24.4%;"></div>
+   <div class="progress progress-striped active" style="height: 40px; width: 70%; margin-left: auto; margin-right: auto;">
+     <div class="bar bar-success" style="width: 73%;"></div>
+     <div class="bar bar-warning" style="width: 27%;"></div>
    </div>
 
 Hacé click en el siguite botón para enterarte sobre cuáles son los

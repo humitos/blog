@@ -7,23 +7,26 @@
 .. description:
 .. type: text
 
-.. raw:: html
+.. class:: alert alert-success
 
-  <div class="alert alert-success">
-
-Desde el proyecto :doc:`argentina-en-python` y, junto a `@EllaQuimica
-<https://twitter.com/EllaQuimica>`_, ¡vamos a participar de la `SciPy
-LA 2015 <http://scipyla.org/conf/2015/>`_!
+   Desde el proyecto :doc:`argentina-en-python` y, junto a
+   `@EllaQuimica <https://twitter.com/EllaQuimica>`_, ¡vamos a
+   participar de la `SciPy LA 2015 <http://scipyla.org/conf/2015/>`_!
 
 .. raw:: html
 
-  </div>
+  <div class="alert alert-info" style="text-align: center; font-size: 20px; width: 50%; margin-left: auto; margin-right: auto;">
+   <p style="font-weight: bold;">Jueves 21 de Mayo de 2015</p>
+   <p style="font-weight: bold;">Posadas, Misiones, Argentina</p>
 
-.. raw:: html
+    <br/>
 
-  <div class="alert alert-info" style="text-align: center; font-size: 20px; font-weight: bold; width: 50%; margin-left: auto; margin-right: auto;">
-   <p>Jueves 21 de Mayo de 2015</p>
-   <p>Posadas, Misiones, Argentina</p>
+    <div style="text-align: center">
+      <a class="btn btn-large btn-primary" href="https://docs.google.com/forms/d/12HPNG8UGsJ5ihCyGBkbZgwltNjrkAKUpALy_88HnI1E/viewform">
+         ¡Inscribirme como asistente!
+      </a>
+    </div>
+
   </div>
 
 .. image:: scipy-logo.png
@@ -81,7 +84,7 @@ taller, por favor envía tu propuesta completando este formulario:
 
    <div style="text-align: center">
      <a class="btn btn-large btn-primary" href="https://docs.google.com/forms/d/1ft81SFmuj_PYlYSBWTLe3-jrdkGI8w1lw6x-L5iBbEI/viewform">
-       Completar formulario
+       ¡Proponer actividad!
      </a>
    </div>
 

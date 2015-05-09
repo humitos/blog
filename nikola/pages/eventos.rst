@@ -13,6 +13,15 @@ ellos. Es solo una ayuda para los organizadores de estos eventos y, de
 ninguna manera, determina cómo debe ser la realización de ellos, sino
 que es más bien una guía.
 
+
+.. sidebar:: Próximos eventos
+
+   .. raw:: html
+
+      <iframe src="https://www.google.com/calendar/embed?title=Eventos%20%22Argentina%20en%20Python%22&amp;showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=mmlchg21bi66r9neapehr7qq6s%40group.calendar.google.com&amp;color=%23B1440E&amp;ctz=America%2FAsuncion" style=" border-width:0 " width="auto" height="300" frameborder="0" scrolling="no"></iframe>
+
+-----
+
 Meetup
 ======
 
@@ -38,6 +47,13 @@ mensualmente. Este evento es muy informal y lo que promueve es
 mantener a la comunidad activa y conectada. En muchos casos sirve como
 propulsor de otros eventos.
 
+Fotos
+-----
+
+.. slides::
+
+   foto1_wm.jpg
+   foto3_wm_wm.jpg
 
 Requisitos
 ----------
@@ -74,6 +90,22 @@ los asistentes y luego, los proyectos que están propuestos con una
 breve introducción a cada uno de ellos: de qué se trata, qué
 tecnología usa, etc. Así, cada uno de los asistentes se *anota* para
 trabajar en ellos y se arman los grupos de trabajo.
+
+
+Fotos
+-----
+
+.. slides::
+
+   DSCF2682_wm.JPG
+   DSCF2683_wm.JPG
+   DSCF2686_wm.JPG
+   DSCF2691_wm.JPG
+   DSCF2692_wm.JPG
+   DSCF2696_wm.JPG
+   DSCF2710_wm.JPG
+   DSCF2716_wm.JPG
+
 
 Requisitos
 ----------

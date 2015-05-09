@@ -218,9 +218,9 @@ sumó Johanna para acompañarme a recorrer la parte Noreste de nuestro
 país (Corrientes, Chaco, Misiones, etc) y proyectar la posibilidad de
 visitar otros países, como Paraguay y Bolivia, por ejemplo.
 
-:doc:`En el mapa <donde-esta-humitos>` se puede consultar cuáles son
-los próximos destinos aproximados y empezar a organizar encuentros,
-charlas y cursos con antelación.
+:doc:`En el mapa <argentina-en-python/donde-esta-humitos>` se puede
+consultar cuáles son los próximos destinos aproximados y empezar a
+organizar encuentros, charlas y cursos con antelación.
 
 La fecha de salida fue el Lunes 8 de Diciembre y hasta el momento
 hemos visitado estos lugares:
@@ -282,8 +282,9 @@ compartir momentos al llegar aunque no necesariamente ofrezca
 alojamiento. Eso es un punto extra.
 
 También, si te interesa apoyar el proyecto económicamente, podés
-visitar la :doc:`página de donaciones <donaciones>` para enterarte
-cómo hacerlo y así ayudar a que la rueda siga girando.
+visitar la :doc:`página de donaciones
+<argentina-en-python/donaciones>` para enterarte cómo hacerlo y así
+ayudar a que la rueda siga girando.
 
 Mucha gente me ayudó a llegar hoy hasta acá: gracias a ellos. Creo
 haberles hecho saber a cada uno de ellos lo agradecido que estoy por
@@ -319,6 +320,11 @@ Prensa
 * `Noticia en Proyectos Beta sobre el PyDay Asunción II
   <http://proyectosbeta.net/2015/04/gran-evento-pydayasuncion-2015/>`_
 
+* `Post en el blog de Agustín Casiva
+  <http://casivaagustin.com.ar/index.php/ayudalo-a-humitos-a-seguir-humeando/>`_
+
+* `Post en el blog oficial de la Python Sofware Foundation
+  <http://pyfound.blogspot.com.ar/2015/04/highly-contagious-python-spreads.html>`_
 
 Charla en PyCon Argentina
 -------------------------

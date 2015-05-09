@@ -56,11 +56,11 @@ El dinero será destinado a, por ejemplo:
   * Micro Tutoriales
   * Tarjetas
   * Banners
+  * Remeras
 
 * Movilidad
 
   * Reparaciones al auto
-  * Ploteo
   * Combustible
 
 Hacé click en el siguite botón para enterarte sobre cuáles son los
@@ -68,10 +68,11 @@ medios disponibles a la fecha para realizar las donaciones:
 
 .. raw:: html
 
-   <div style="text-align: center">
+   <div style="text-align: center; margin-top: 25px; margin-bottom: 25px;">
      <a class="btn btn-large btn-primary" href="/pages/argentina-en-python/donaciones/medios/">
        Realizar donación
      </a>
    </div>
 
-¡Muchas gracias!
+¡Muchas gracias a todos los :doc:`colaboradores del proyecto
+<argentina-en-python/donaciones/colaboradores>`!
