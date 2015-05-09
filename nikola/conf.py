@@ -59,18 +59,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        (
-            (
-                ('/pages/argentina-en-python/', 'Acerca del proyecto'),
-                ('/pages/argentina-en-python/donde-esta-humitos/', '¿Dónde está humitos?'),
-                ('/pages/argentina-en-python/track-teen-scipy-la-2015/', 'Track Teen SciPy LA 2015'),
-                ('/pages/argentina-en-python/python-for-ladies/', 'Python For Ladies'),
-                ('/pages/argentina-en-python/eventos/', 'Eventos'),
-                ('/pages/argentina-en-python/remeras/', 'Remeras'),
-                ('/pages/argentina-en-python/donaciones/', 'Donaciones'),
-            ),
-            'Argentina en Python',
-        ),
+        ('http://argentinaenpython.com.ar/', 'Argentina en Python'),
         ('/pages/quien-escribe/', '¿Quién escribe?'),
         # ('/pages/modulos-python/', 'Módulos Python'),
         ('/random/', 'Random'),
@@ -254,6 +243,17 @@ SLUG_TAG_PATH = True
 REDIRECTIONS = [
     ('pages/donaciones/index.html', '/pages/argentina-en-python/donaciones/'),
     ('pages/donde-esta-humitos/index.html', '/pages/argentina-en-python/donde-esta-humitos/'),
+    ('pages/argentina-en-python/index.html', 'http://argentinaenpython.com.ar/'),
+    ('pages/argentina-en-python/donde-esta-humitos/index.html', 'http://argentinaenpython.com.ar/donde-esta-humitos/'),
+    ('pages/argentina-en-python/track-teen-scipy-la-2015/index.html', 'http://argentinaenpython.com.ar/track-teen-scipy-la-2015/'),
+    ('pages/argentina-en-python/python-for-ladies/index.html', 'http://argentinaenpython.com.ar/python-for-ladies/'),
+    ('pages/argentina-en-python/eventos/index.html', 'http://argentinaenpython.com.ar/eventos/'),
+    ('pages/argentina-en-python/remeras/index.html', 'http://argentinaenpython.com.ar/remeras/'),
+    ('pages/argentina-en-python/donaciones/index.html', 'http://argentinaenpython.com.ar/donaciones/'),
+    ('pages/argentina-en-python/donaciones/medios/index.html', 'http://argentinaenpython.com.ar/donaciones/medios/'),
+    ('pages/argentina-en-python/donaciones/misiones/index.html', 'http://argentinaenpython.com.ar/donaciones/misiones/'),
+    ('pages/argentina-en-python/donaciones/colaboradores/index.html', 'http://argentinaenpython.com.ar/donaciones/colaboradores/'),
+    ('pages/argentina-en-python/donaciones/gracias/index.html', 'http://argentinaenpython.com.ar/donaciones/gracias/'),
 ]
 
 # Commands to execute to deploy. Can be anything, for example,
@@ -743,15 +743,6 @@ GENERATE_RSS = True
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 BODY_END = """
-<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
-<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
-<link href='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v0.0.2/leaflet.fullscreen.css' rel='stylesheet' />
-<link rel="stylesheet" href="/assets/css/leaflet-routing-machine.css" />
-<script src="/assets/js/leaflet-routing-machine.js"></script>
-<script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v0.0.2/Leaflet.fullscreen.min.js'></script>
-<script src="/assets/js/gpx.js"></script>
-<script src="/assets/js/geolocation.js"></script>
-
 <!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
@@ -767,12 +758,6 @@ BODY_END = """
 </script>
 <noscript><p><img src="//elblogdehumitos.com.ar/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
-
-<script src="//static.getclicky.com/js" type="text/javascript"></script>
-<script type="text/javascript">try{ clicky.init(100758465); }catch(e){}</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100758465ns.gif" /></p></noscript>
-
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 """
 
 # The possibility to extract metadata from the filename by using a
