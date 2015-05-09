@@ -62,8 +62,11 @@ NAVIGATION_LINKS = {
         (
             (
                 ('/pages/argentina-en-python/', 'Acerca del proyecto'),
+                ('/pages/argentina-en-python/donde-esta-humitos/', '¿Dónde está humitos?'),
                 ('/pages/argentina-en-python/track-teen-scipy-la-2015/', 'Track Teen SciPy LA 2015'),
+                ('/pages/argentina-en-python/python-for-ladies/', 'Python For Ladies'),
                 ('/pages/argentina-en-python/eventos/', 'Eventos'),
+                ('/pages/argentina-en-python/remeras/', 'Remeras'),
                 ('/pages/argentina-en-python/donaciones/', 'Donaciones'),
             ),
             'Argentina en Python',
@@ -250,6 +253,7 @@ SLUG_TAG_PATH = True
 # If you don't need any of these, just set to []
 REDIRECTIONS = [
     ('pages/donaciones/index.html', '/pages/argentina-en-python/donaciones/'),
+    ('pages/donde-esta-humitos/index.html', '/pages/argentina-en-python/donde-esta-humitos/'),
 ]
 
 # Commands to execute to deploy. Can be anything, for example,

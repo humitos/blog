@@ -213,9 +213,9 @@ who is helping me with the organization of many things. Our idea is to
 go North-East (Corrientes, Chaco, Misiones, etc) and visit other
 countries like Paraguay and Bolivia, for example.
 
-You can check :doc:`the map <donde-esta-humitos>` to see which are the
-next cities we are going to visit so we can start organizing talks and
-course with more time.
+You can check :doc:`the map <argentina-en-python/donde-esta-humitos>`
+to see which are the next cities we are going to visit so we can start
+organizing talks and course with more time.
 
 For this stage, we hit the road on Monday 8th, December and these are
 the places we have visited:
@@ -275,8 +275,8 @@ contact to someone to share my staying in that place without the
 needing of hosting me. That's an extra point.
 
 Also, if you want to support the project in an economic way, you can
-visit the :doc:`donation page <donaciones>` to see how to do it and
-help me to keep moving the wheel.
+visit the :doc:`donation page <argentina-en-python/donaciones>` to
+see how to do it and help me to keep moving the wheel.
 
 A lot of people helped me to be here right now: thanks to them. I
 think I already told them about this but if not, I hope they are
@@ -310,6 +310,12 @@ Press
 
 * `Noticia en Proyectos Beta sobre el PyDay Asunción II
   <http://proyectosbeta.net/2015/04/gran-evento-pydayasuncion-2015/>`_
+
+* `Post en el blog de Agustín Casiva
+  <http://casivaagustin.com.ar/index.php/ayudalo-a-humitos-a-seguir-humeando/>`_
+
+* `Post en el blog oficial de la Python Sofware Foundation
+  <http://pyfound.blogspot.com.ar/2015/04/highly-contagious-python-spreads.html>`_
 
 Talk at PyCon Argentina
 -----------------------

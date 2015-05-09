@@ -1,5 +1,5 @@
 .. title: ¿Donde está humitos?
-.. slug: donde-esta-humitos
+.. slug: argentina-en-python/donde-esta-humitos
 .. date: 2014-11-24 13:50:09 UTC-03:00
 .. tags: argentina en python, mapas, blog, python
 .. link: 
@@ -8,10 +8,11 @@
 .. previewimage: preview.jpg
 
 Este mapa es útil para saber en qué lugar estoy *aproximadamente* en
-este momento, con el fin de :doc:`contactar con gente de la zona
-<quien-escribe>` para así poder coordinar algo relacionado a
-:doc:`argentina-en-python` (u otra cosa de interés mutuo) y organizar
-para encontrarnos en las cercanías.
+este momento y cual es la ruta aproximada *planificada* a futuro, con
+el fin de :doc:`contactar con gente de la zona <quien-escribe>` para
+así poder coordinar algo relacionado a :doc:`argentina-en-python` (u
+otra cosa de interés mutuo) y organizar para encontrarnos en las
+cercanías.
 
 .. raw:: html
 
@@ -38,7 +39,7 @@ En profundidad, lo que hago es, mediante javascript, descargo el
 archivo `my-position.json` que es dónde están las coordenadas de mi
 posición actual y lo muestro en el mapa:
 
-.. listing:: donde-esta-humitos/geolocation.js javascript
+.. listing:: argentina-en-python/donde-esta-humitos/geolocation.js javascript
    :start-line: 144
    :end-line: 162
 
@@ -50,7 +51,7 @@ posición actual y lo muestro en el mapa:
 
 Ese `my-position.json` lo genero con un script Python.
 
-.. listing:: donde-esta-humitos/geolocation.py python
+.. listing:: argentina-en-python/donde-esta-humitos/geolocation.py python
    :start-line: 163
    :end-line: 196
 
@@ -72,7 +73,7 @@ Ese `my-position.json` lo genero con un script Python.
 Ese script Python lo ejecuto con NetworkManager cuando este se conecta
 a una red.
 
-.. listing:: donde-esta-humitos/geoblog bash
+.. listing:: argentina-en-python/donde-esta-humitos/geoblog bash
 
 .. note::
 
