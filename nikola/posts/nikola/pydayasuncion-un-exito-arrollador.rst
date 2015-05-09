@@ -43,6 +43,14 @@ ganas de hacer algún :doc:`evento <argentina-en-python/eventos>` en
 esos lugares. ¡Ya estamos planeando un Sprint para dentro de un par de
 semanas!
 
+
+.. admonition:: Declarado de interés tecnológico
+
+   El PyDay Asunción `fue declarado de interés tecnológico por
+   SENATICs <resolución-n50.15.pdf>`_ (Secretaría Nacional de
+   Tecnologías de la Información y Comunicación)
+
+
 Si bien todas las charlas fueron interesantes, quisiera resaltar la
 charla de Richar Núñez, un jóven de 17 años que se animó a dar la
 "Introducción a Python" y nos dejó a todos con la boca abierta.
@@ -98,6 +106,9 @@ tiene fin".
    Algunas de las fotos del evento (las que saqué con mi celular),
    `las podés ver acá
    <https://www.flickr.com/photos/20667659@N03/sets/72157651232452458/>`_
+
+   `Fotos tomadas por Alfredo Merino
+   <https://www.flickr.com/photos/124133727@N02/sets/72157651640667572/>`_
 
    Si subiste fotos del evento, dejá el link en la sección de
    comentarios :)
