@@ -95,6 +95,11 @@ charla en público: ¡ídola!
 
    Nuestra disertante estrella
 
+También invitamos a Catherin a participar del `Curso de Python para
+mujeres <http://argentinaenpython.com.ar/python-for-ladies/>`_ para
+alentar a otras mujeres a que sean unas estrellas como ella y nos
+ayude a nosotros en la convocatoria y el dictado del curos.
+
 La charla de "Python y Azure" no me gustó. Me pareció una venta de un
 producto de Microsoft que poco tenía que ver con Python, el PyDay, la
 filosofía del Software Libre ni nada. No me gustó. Es una opinión
