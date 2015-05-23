@@ -244,6 +244,7 @@ REDIRECTIONS = [
     ('pages/donaciones/index.html', '/pages/argentina-en-python/donaciones/'),
     ('pages/donde-esta-humitos/index.html', '/pages/argentina-en-python/donde-esta-humitos/'),
     ('pages/argentina-en-python/index.html', 'http://argentinaenpython.com.ar/'),
+    ('pages/argentina-en-python-en/index.html', 'http://argentinaenpython.com.ar/en/'),
     ('pages/argentina-en-python/donde-esta-humitos/index.html', 'http://argentinaenpython.com.ar/donde-esta-humitos/'),
     ('pages/argentina-en-python/track-teen-scipy-la-2015/index.html', 'http://argentinaenpython.com.ar/track-teen-scipy-la-2015/'),
     ('pages/argentina-en-python/python-for-ladies/index.html', 'http://argentinaenpython.com.ar/python-for-ladies/'),
