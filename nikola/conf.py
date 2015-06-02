@@ -374,7 +374,7 @@ EXTRA_IMAGE_EXTENSIONS = []
 # be visible on the site. The format is a dictionary of {source:
 # relative destination}.
 #
-# IMAGE_FOLDERS = {'images': ''}
+IMAGE_FOLDERS = {'images': ''}
 
 # #############################################################################
 # HTML fragments and diverse things that are used by the templates
