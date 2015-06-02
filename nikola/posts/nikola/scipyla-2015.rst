@@ -174,8 +174,8 @@ entre ellos era complicado decirles que dejen de probar y atiendan a
 sus compañeros (punto nuestro para mejorar aquí). De cualquier manera,
 lo hablamos, lo repetimos y lo llevamos a cabo. Los chicos hicieron
 cosas que nosotros ni pensábamos y nos dejaron con la boca
-abierta. Uno nos explicó de *pe a pa* cómo son los `líquidos
-Newtonianos <https://es.wikipedia.org/wiki/Fluido_newtoniano>`_ y le
+abierta. Uno nos explicó de *pe a pa* cómo son los `líquidos no
+Newtonianos <https://es.wikipedia.org/wiki/Fluido_no_newtoniano>`_ y le
 dije: "Pará loco, hace 5 meses que viajo con ella y yo todavía no lo
 entiendo. ¿Dónde aprendiste eso vos?", a lo que contestó:
 "YouTube". ¡Capo!
@@ -247,6 +247,12 @@ anterior. Esta charla me encantó como salió. La di en 1.7x y pude
 decir un montón de cosas, hacer reir a la audiencia y encima mostrar
 los problemas de Google Maps y las virtudes de OSM. Además, varios me
 dijeron que se instalaron las apps de Android luego de mi charla ;)
+
+.. figure:: DSC_7661.thumbnail.jpg
+   :target: DSC_7661.jpg
+
+   En la Lightning Talk de OpenStreetMap
+
 
 Viernes
 -------
