@@ -116,7 +116,7 @@ después nos juntamos con Luis de Casa 13 y Valentín para charlar un
 poco sobre la movida de Cultura Libre, radios independientes,
 tecnología para hacer radios y demás. Quedamos en poner a prueba un
 servidor mio para ver cómo se comporta utilizando `icecast
-<http://www.icecast.org/>`. Si bien todavía no lo tengo configurado,
+<http://www.icecast.org/>`_. Si bien todavía no lo tengo configurado,
 ya lo estuve pispeando un poco.
 
 De ahí, me vine para donde estoy ahora. En la casa del

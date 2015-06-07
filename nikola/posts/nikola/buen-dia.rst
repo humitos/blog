@@ -13,7 +13,7 @@ nuevas.
 
 Como el paisaje que se veía desde la cama era hermoso, me quedé
 "reposando" un poco más ahí. Mirando los pájaros y viendo como la
-sobra de algunas estufas tiro balanceado se mostraban en unos
+sombra de algunas estufas tiro balanceado se mostraban en unos
 departamentitos a lo lejos... Me preguntaba si teniendo una foto con
 una buena perspectiva se podría llegar a calcular fácilmente la hora
 del día...

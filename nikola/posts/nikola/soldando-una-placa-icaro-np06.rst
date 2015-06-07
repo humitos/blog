@@ -14,15 +14,15 @@
 
 
 Ayer de mañana nos fuimos con el Guille a comprar todos los
-`componentes necesarios <roboticaro.org/componentes/>`_ para armar la
-placa ICARO np06 (la última del proyecto a la fecha) que me había
-regalado Valentín durante mi estadía en su casa. Si bien yo tengo la
-np05 que me la regaló Valentín en la PyCon 2013 de Rosario, esta placa
-ya me vino lista para usar, no es que la armé y soldé los componentes
-yo. Esta placa me sirvió para aprender todo lo que sé de electrónica
-al día de la fecha, quitarme el miedo a romper las cosas (creo que
-quemé 3 LEDs únicamente al día de hoy) y darme muchas ganas de seguir
-leyendo tutoriales y videos en YouTube.
+`componentes necesarios <http://roboticaro.org/componentes/>`_ para
+armar la placa ICARO np06 (la última del proyecto a la fecha) que me
+había regalado Valentín durante mi estadía en su casa. Si bien yo
+tengo la np05 que me la regaló Valentín en la PyCon 2013 de Rosario,
+esta placa ya me vino lista para usar, no es que la armé y soldé los
+componentes yo. Esta placa me sirvió para aprender todo lo que sé de
+electrónica al día de la fecha, quitarme el miedo a romper las cosas
+(creo que quemé 3 LEDs únicamente al día de hoy) y darme muchas ganas
+de seguir leyendo tutoriales y videos en YouTube.
 
 Como ayer durante la mañana nos colgamos hablando al pedo durante el
 desayuno, se nos hizo tarde y no llegamos a todos los lugares que
