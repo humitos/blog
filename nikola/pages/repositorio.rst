@@ -52,6 +52,8 @@ Videos
 #. `Man, Steve Cutts <https://www.youtube.com/watch?v=WfGMYdalClU>`_
 #. `We love surveillance <https://www.youtube.com/watch?v=dlmYHbg5i_w>`_
 #. `Orquesta de Instrumentos Reciclados de Cateura, Paraguay <http://www.youtube.com/watch?v=7AOnZb7ZlJI>`_
+#. `Comunicar la Ciencia Hoy / Diego Golombek <https://www.youtube.com/watch?v=x_3riDnMV7I>`_
+
 
 Películas
 ---------
@@ -86,6 +88,7 @@ Artículos
 #. `Guía de viajes para humanos <http://viajandoporahi.com/guia-de-viajes-para-humanos>`_
 #. `Lo que te sobra, no es tuyo <https://viajerosvoluntarios.wordpress.com/2014/10/31/lo-que-te-sobra-no-es-tuyo/>`_
 #. `Google Map Maker vs. OpenStreetMap: Which mapping service rules them all? <http://www.digitaltrends.com/computing/google-map-maker-vs-openstreetmap-id-editor/>`_
+#. `Filotopía <http://fraternidadbabel.blogspot.com.ar/2011/06/filotopia.html>`_
 
 
 Charlas
