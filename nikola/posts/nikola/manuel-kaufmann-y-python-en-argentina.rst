@@ -41,7 +41,7 @@ su propio dinero y brindando su propio tiempo, viajando a diferentes
 ciudades de América del Sur en su auto (de nuevo, su propio auto), la
 organización de meet-ups, tutoriales, sprints, y otros eventos para
 difundir la palabra sobre Python y su potencial para resolver
-problemas cotidianos (ver :doc:`argentina-en-python`).
+problemas cotidianos (ver `Argentina en Python <http://argentinaenpython.com.ar/>`_).
 
 Esto sin duda llamó la atención de la PSF, por lo que en enero de
 2015, el PSF le otorgó un subsidio de USD 3.000. Con este premio,

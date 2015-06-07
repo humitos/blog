@@ -51,7 +51,7 @@ aseguro que valió la pena. Más allá de las satisfacciones personales,
 también *cuadré* (diría mi amiga colombiana, `@EllaQuimica`_) varias
 cosas con Héctor Sánchez para la SciPyLA_ de Posadas, Misiones y
 conseguí un montón de contactos de Bolivia y Perú para el proyecto
-:doc:`argentina-en-python` gracias a Lipe. Así que fue doblemente un
+`Argentina en Python <http://argentinaenpython.com.ar/>`_ gracias a Lipe. Así que fue doblemente un
 éxito en todos los sentidos.
 
 Para aprovechar *la volada*, coordiné con Facundo para poder llegar

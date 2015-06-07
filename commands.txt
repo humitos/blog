@@ -1,0 +1,14 @@
+# Reemplazar un :doc: que no existe más con su link correspondiente
+
+rpl --prompt ":doc:\`argentina-en-python\`" "\`Argentina en Python <http://argentinaenpython.com.ar/>\`_" adios-afraidorg-bienvenido-cloudflarecom.rst
+
+
+# Eliminar archivos temporales de Emacs
+
+find ./ -name "*~" | xargs rm
+
+
+
+# Eliminar archivos temporales de Python
+
+find ./ -name "*.pyc" | xargs rm

@@ -33,7 +33,7 @@ internacional que promueve el uso de Python, en pocas palabras.
 .. TEASER_END
 
 Teniendo en cuenta su misión y superponiéndola con lo que he venido
-haciendo en mi proyecto :doc:`argentina-en-python`, se me ocurrió que
+haciendo en mi proyecto `Argentina en Python <http://argentinaenpython.com.ar/>`_, se me ocurrió que
 les podía interesar y que de alguna manera les podía pedir una mano,
 sabiendo que apoyan distintos tipos de eventos como PyCon, PyDay,
 Sprints y demás.

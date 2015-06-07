@@ -6,7 +6,7 @@
 .. description: 
 .. type: text
 
-En algún momento de mi viaje [#]_ con :doc:`argentina-en-python` me crucé con este cuadro de Sigmund Freud y me llamó la atención, así que lo anoté en la libretita para un "posterior algo" y acá salió.
+En algún momento de mi viaje [#]_ con `Argentina en Python <http://argentinaenpython.com.ar/>`_ me crucé con este cuadro de Sigmund Freud y me llamó la atención, así que lo anoté en la libretita para un "posterior algo" y acá salió.
 
 .. figure:: what_s_on_man_s_mind_sigmund_freud.jpg
 
