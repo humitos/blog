@@ -29,9 +29,10 @@ Así nomás, el anuncio de las fechas de la conferencia conllevaba
 muchísimas expectativas, como todos los años. Sin embargo,
 personalmente estaba bastante nervioso porque era la primera
 presentación en público (una comunidad a la que quiero y respeto
-mucho) sobre el :doc:`proyecto que vengo empujando y llevando adelante
-<argentina-en-python>` desde el año pasado, luego de haber dicho que
-*"lo iba a hacer"* en una `lightning talk`_ en Rosario, Santa Fe.
+mucho) sobre el `proyecto que vengo empujando y llevando adelante
+<http://argentinaenpython.com.ar/>`_ desde el año pasado, luego de
+haber dicho que *"lo iba a hacer"* en una `lightning talk`_ en
+Rosario, Santa Fe.
 
 .. _lightning talk: https://www.youtube.com/watch?v=U34rV6dRXU8&t=986
 

@@ -104,7 +104,7 @@ más eventos programados :
 * 20 a 22 Mayo - Track educativo para estudiantes secundarios en SciPy
   LA 2015, Posadas, Misiones, Argentina (`SciPy LA
   <http://scipyla.org/conf/2015/>`_ y
-  :doc:`argentina-en-python/track-teen-scipy-la-2015`)
+  `Track Teen SciPyLA 2015 <http://argentinaenpython.com.ar/track-teen-scipy-la-2015/>`_)
 
 * 30 de Mayo - PyDay en Encarnación, Itapúa, Paraguay
 

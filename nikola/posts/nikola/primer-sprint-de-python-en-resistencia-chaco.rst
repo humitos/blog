@@ -1,7 +1,7 @@
 .. title: Primer Sprint de Python en Resistencia, Chaco
 .. slug: primer-sprint-de-python-en-resistencia-chaco
 .. date: 2015-01-17 21:31:55 UTC-03:00
-.. tags: argentina en python, sprint, python, programacion, software libre, chaco, corrientes, argentina
+.. tags: argentina en python, sprint, python, programación, software libre, chaco, corrientes, argentina
 .. link: 
 .. description: 
 .. type: text

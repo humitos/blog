@@ -1,7 +1,7 @@
 .. title: pip cache
 .. slug: pip-cache
 .. date: 2015-01-19 18:21:58 UTC-03:00
-.. tags: pip, python, cache, software libre, programacion, argentina en python
+.. tags: pip, python, cache, software libre, programación, argentina en python
 .. link: 
 .. description: 
 .. type: text
