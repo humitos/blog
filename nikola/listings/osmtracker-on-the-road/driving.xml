@@ -1,0 +1,9 @@
+<layouts>
+
+  <layout name="root">
+    <row>
+      <button type="voicerec" label="Grabar audio" icon="mic.png" iconpos="bottom" />
+    </row>
+  </layout>
+
+</layouts>
