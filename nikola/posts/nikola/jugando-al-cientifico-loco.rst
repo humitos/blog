@@ -1,7 +1,7 @@
 .. title: Jugando al Científico loco
 .. slug: jugando-al-cientifico-loco
 .. date: 2015-01-22 21:21:31 UTC-03:00
-.. tags: corrientes, argentina, química, educación, ciencia
+.. tags: argentina, ciencia, corrientes, educación, química & nómada
 .. link: 
 .. description: 
 .. type: text
