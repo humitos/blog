@@ -9,6 +9,32 @@
 
 .. epigraph::
 
+   Con el proyecto "Argentina en Python" encontré la forma de hablar
+   de #Python y programación en cualquier mesa, todos los días, y a
+   cualquier hora :)
+
+   -- Manuel Kaufmann
+
+
+.. epigraph::
+
+   Una de las mejores cosas que hice en mi vida fue aprender a
+   programar.
+
+   -- Manuel Kaufmann
+
+
+.. epigraph::
+
+   Cuando en la casa de un paraguayo no hay mandioca, ahí se puede
+   decir que esa familia es pobre.
+
+   -- Un paraguayo cualquiera
+
+
+
+.. epigraph::
+
    Antes tenía un pedacito de cielo ahí.
 
    -- Nicolás Demarchi

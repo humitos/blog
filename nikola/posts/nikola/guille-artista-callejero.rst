@@ -1,7 +1,7 @@
 .. title: Guille: artista callejero
 .. slug: guille-artista-callejero
 .. date: 2015-07-01 09:40:19 UTC-03:00
-.. tags: viaje, circo, artista callejero, música, ciudad, jujuy, san salvador de jujuy, argentina
+.. tags: viaje, circo, artista callejero, música, ciudad, jujuy, san salvador de jujuy, argentina, arte
 .. category: 
 .. link: 
 .. description: 

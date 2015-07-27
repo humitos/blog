@@ -41,7 +41,7 @@ muchas veces no tengo internet (ya que suelo estar en lugares donde no
 es tan accesible) y, cuando tengo internet, necesito hacer otras cosas.
 
 Entonces, la mayoría de las veces que tengo tiempo disponible para
-colaborar con OpenStreetMap es *cuando **no** tengo internet*.
+colaborar con OpenStreetMap es *cuando no tengo internet*.
 
 Hoy, en la `Python Paraguay #1 Meetup
 <http://www.meetup.com/Python-Paraguay/events/223289056/>`_ aprendí a

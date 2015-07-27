@@ -1,7 +1,7 @@
 .. title: djangomas
 .. slug: djangomas
 .. date: 2015-06-07 22:12:43 UTC-03:00
-.. tags: django, imagenes, programación, chistes, frases
+.. tags: django, imagenes, programación, chistes, frases, python, arte
 .. category: 
 .. link: 
 .. description: 

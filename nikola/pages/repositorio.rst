@@ -89,7 +89,8 @@ Artículos
 #. `Lo que te sobra, no es tuyo <https://viajerosvoluntarios.wordpress.com/2014/10/31/lo-que-te-sobra-no-es-tuyo/>`_
 #. `Google Map Maker vs. OpenStreetMap: Which mapping service rules them all? <http://www.digitaltrends.com/computing/google-map-maker-vs-openstreetmap-id-editor/>`_
 #. `Filotopía <http://fraternidadbabel.blogspot.com.ar/2011/06/filotopia.html>`_
-
+#. `El miedo a viajar y a seguir tus sueños: como evitarlo
+   <http://www.fueradelapecera.com/el-miedo-a-viajar-y-a-seguir-tus-suenos-como-evitarlo/>`_
 
 Charlas
 -------
@@ -128,3 +129,4 @@ Charlas
 #. `Beware online "filter bubbles", Eli Pariser <http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles>`_
 #. `Aprendizaje invisible: ¿Cómo aprender a pesar de la escuela?, Cristobal Cobo <https://www.youtube.com/watch?v=9E_BH00dkJk>`_
 #. `Economía de los ansiosos, Martin Lousteau <https://www.youtube.com/watch?v=lFbdPRAliig>`_
+#. `Actualicemos el concepto de educación y reiniciemos la escuela <https://www.youtube.com/watch?v=Iv3HaTkzAmk>`_;

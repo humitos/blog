@@ -489,7 +489,7 @@ RSS_LINKS_APPEND_QUERY = False
 # http://creativecommons.org/choose/
 LICENSE = """
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
-  <img alt="Licencia Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+  <img alt="Licencia Creative Commons" style="border-width:0" src="/cc_by-sa_88x31.png" />
 </a>"""
 
 

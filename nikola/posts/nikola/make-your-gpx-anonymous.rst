@@ -28,7 +28,7 @@ Once you have it installed, you can excecute:
 
 And what will put `1970-01-01T00:00:00Z` on all the `<time>` tags.
 
-That's all! Now, they ready to be uploaded to the OSM community and
-nobody will know where you was there :)
+That's all! Now, they are ready to be uploaded to the OSM community
+and nobody will know where you was there :)
 
 .. [#] https://help.openstreetmap.org/questions/2130/gpx-file-no-time-tag
