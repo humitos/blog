@@ -26,20 +26,26 @@ Python <http://argentinaenpython.com.ar/>`_.
 
 .. raw:: html
 
+   <style>
+     div.row > div.col-md-4 > img {
+       max-width: 100% !important;
+       margin-top: 25px;
+     }
+   </style>
+
    <div class="row">
-     <div class="col-md-6">
+     <div class="col-md-4">
 
 .. image:: me_unicycle.jpg
-   :align: left
 
 .. raw:: html
 
      </div>
-     <div class="col-md-6">
+     <div class="col-md-8">
 
 .. raw:: html
 
-   <span style="font-size: 31.5px; font-weight: bold; margin-bottom: 20px">Contacto</span>
+   <h2>Contacto</h2>
    <style>
      table {margin-top: 2em !important};
    </style>
@@ -56,7 +62,7 @@ Python <http://argentinaenpython.com.ar/>`_.
 
 :Couchsurfing: https://www.couchsurfing.com/users/4700587/profile
 
-:IRC: humitos
+:IRC: humitos @ freenode.net
 
 :WhatsApp: +54 9 343 4053434
 
@@ -70,25 +76,8 @@ Python <http://argentinaenpython.com.ar/>`_.
 
 :Skype: manuel.kaufmann.humitos
 
-:Fotos:
-
 .. raw:: html
 
-     <div style="margin-top: 5px; max-width: 500px">
-
-
-.. slides::
-
-   me-el-quicho.thumbnail.jpg
-   with-an-xo.thumbnail.jpeg
-   pycamp-veronica.thumbnail.jpg
-   edujam-uruguay-2012.thumbnail.jpg
-   DSC_7076_01.thumbnail.jpg
-
-
-.. raw:: html
-
-       </div>
      </div>
    </div>
 

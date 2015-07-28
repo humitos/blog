@@ -1,3 +1,12 @@
+a {
+    text-decoration: none !important;
+}
+
+#logo {
+    margin-right: 10px;
+    margin-left: 25px;
+}
+
 body {
     background-color: #eee;
     color: #333333;
@@ -15,17 +24,29 @@ body {
     padding: 20px;
 }
 
-.tags > li {
-    color: #FFFFFF;
-    font-size: 15px;
-    font-weight: normal;
-    padding: 10px;
-    text-align: center;
-    white-space: nowrap;
+ul.tags, span.tags {
+    display: inline-block;
 }
 
-.tags > li a:hover {
-    text-decoration: none;
+span.tags {
+    margin-right: 5px;
+}
+
+.tags {
+    padding-left: 0px !important;
+}
+
+.tags > li {
+    font-size: unset;
+    font-weight: normal;
+    padding: 0 !important;
+    background-color: white !important;
+    color: #333333 !important;
+    text-align: left;
+}
+
+.tags > li a {
+    color: #337AB7 !important;
 }
 
 header {
@@ -122,6 +143,7 @@ body div.span8 {
 
 h1, h2, h3 {
     line-height: 55px;
+    letter-spacing: -2px;
     font-size: 45px !important;
     font-family: "Bitter";
     font-weight: bold;
@@ -161,4 +183,16 @@ footer {
 
 .listdate::after {
     content: " — ";
+}
+
+p.more {
+    display: inline-block;
+    padding: 5px 14px;
+    background-color: #FFF;
+    border: 1px solid #DDD;
+    border-radius: 15px;
+}
+
+p.more:hover {
+    background-color: #eee;
 }
