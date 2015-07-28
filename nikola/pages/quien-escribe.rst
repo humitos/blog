@@ -27,7 +27,7 @@ Python <http://argentinaenpython.com.ar/>`_.
 .. raw:: html
 
    <div class="row">
-     <div class="span6">
+     <div class="col-md-6">
 
 .. image:: me_unicycle.jpg
    :align: left
@@ -35,7 +35,7 @@ Python <http://argentinaenpython.com.ar/>`_.
 .. raw:: html
 
      </div>
-     <div class="span6">
+     <div class="col-md-6">
 
 .. raw:: html
 

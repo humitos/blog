@@ -37,16 +37,15 @@ Hosting.
 Entonces, la idea de esto es, levantar un servidor VNC y ejecutar
 programas dentro de éste (sin que alteren el escritorio actual) y luego
 poder comandar estos programas que lanzamos en el VNC desde cualquier
-otro equipo. Mi idea fue así:
+otro equipo. Mi idea fue así::
 
-    vncserver :4 export DISPLAY=michifus:4 java -Xmx512m -jar
-    ~/.jd/JDownloader/JDownloader.jar &
+    vncserver :4 export DISPLAY=michifus:4 java -Xmx512m -jar ~/.jd/JDownloader/JDownloader.jar &
 
 Con esto estoy levantando un servidor en el display 4 de **localhost**
 (que se llama **michifus** en la red). Entonces, después exporto ese
 display para ser usado por los programas y ejecuto el JDownloader.
 
-Luego, desde otra PC me conecto usando el **xtightvncviewer:**
+Luego, desde otra PC me conecto usando el **xtightvncviewer**::
 
     xtightvncviewer michifus:4
 
@@ -54,7 +53,7 @@ Y ahora puedo administrar el JDownloader mediante VNC como si estuviera
 sentado en la PC que lo está ejecutando realmente. Esto es normalmente
 lo que tengo ejecutando en el VNC siempre. Además, cuando bajo algo como
 antes comentaba, quiero levantar otro programa; para eso me conecto por
-**ssh**\ al servidor y hago:
+**ssh**\ al servidor y hago::
 
     export DISPLAY=michifus:4 k9copy &
 

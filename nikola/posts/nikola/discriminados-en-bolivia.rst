@@ -83,10 +83,12 @@ en el diario y nos dice: "El anuncio no va a volver a aparecer"
 
 .. raw:: html
 
-   <audio controls>
-     <source src="cuidadores-de-casa.mp3" type="audio/mpeg">
-     Your browser does not support the audio tag.
-   </audio>
+   <div class="audio">
+     <audio controls>
+       <source src="cuidadores-de-casa.mp3" type="audio/mpeg">
+       Your browser does not support the audio tag.
+     </audio>
+   </div>
 
 Una semana más tarde, charán: el anuncio renovado :)
 
