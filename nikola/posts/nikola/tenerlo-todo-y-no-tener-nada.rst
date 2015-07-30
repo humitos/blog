@@ -1,7 +1,7 @@
 .. title: Tenerlo todo y no tener nada
 .. slug: tenerlo-todo-y-no-tener-nada
 .. date: 2015-07-27 11:55:28 UTC-03:00
-.. tags: argentina en python, viaje, bolivia, sucre, chiquisaca, filosofía
+.. tags: argentina en python, viaje, bolivia, sucre, chuquisaca, filosofía
 .. category: 
 .. link: 
 .. description: 

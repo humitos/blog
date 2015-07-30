@@ -31,7 +31,7 @@
     <header>
         ${html_title()}
         <div class="metadata">
-            <p class="dateline">Publicado: <time class="published dt-published" datetime="${post.date.isoformat()}" itemprop="datePublished" title="${post.formatted_date(date_format)}">${post.formatted_date(date_format)}</time></p>
+            <p class="dateline"><span class="fa fa-calendar"></span> Publicado: <time class="published dt-published" datetime="${post.date.isoformat()}" itemprop="datePublished" title="${post.formatted_date(date_format)}">${post.formatted_date(date_format)}</time></p>
             % if post.meta('link'):
                     <p class="linkline"><a href='${post.meta('link')}'>${messages("Original site")}</a></p>
             % endif

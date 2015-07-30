@@ -34,3 +34,9 @@
   font-weight: 400;
   src: local('Open Sans Italic'), local('OpenSans-Italic'), url(/assets/fonts/OpenSans-Italic.ttf) format('truetype');
 }
+@font-face {
+  font-family: 'Awesome';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Awesome'), url(/assets/fonts/fontawesome-webfont.ttf) format('truetype');
+}

@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. tags: viaje
+.. tags: viaje, portland, estados unidos, oregon
 .. date: 2013/06/16 20:30:42
 .. title: Solo
 .. slug: solo

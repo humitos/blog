@@ -83,6 +83,18 @@ Python <http://argentinaenpython.com.ar/>`_.
 
 ----
 
+.. fotorama::
+   :loop:
+   :autoplay: 5000
+
+   DSC_7076_01.jpg
+   edujam-uruguay-2012.jpg
+   me-el-quicho.jpg
+   pycamp-veronica.jpg
+   with-an-xo.jpeg
+
+----
+
 .. tip::
 
    Prefiero *email* como medio de contacto por sobre los demas ya que

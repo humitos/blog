@@ -1,7 +1,7 @@
 .. title: Discriminados en Bolivia
 .. slug: discriminados-en-bolivia
 .. date: 2015-07-26 15:59:40 UTC-03:00
-.. tags: bolivia, sucre, viaje, sociedad, trabajo
+.. tags: bolivia, sucre, viaje, sociedad, trabajo, audio
 .. category: 
 .. link: 
 .. description: 

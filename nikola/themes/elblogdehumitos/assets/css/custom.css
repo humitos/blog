@@ -196,3 +196,11 @@ p.more {
 p.more:hover {
     background-color: #eee;
 }
+
+ul.tags {
+    margin-bottom: 0 !important;
+}
+
+.fotorama__wrap {
+    margin: 0 auto;
+}

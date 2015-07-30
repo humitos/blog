@@ -69,7 +69,7 @@ ni Google Earth te da tantos datos. Aunque simplemente había que hacer
 una "L" y estába en la casa, pero quería asegurarse de no tener que
 salir a buscarme por toda la ciudad a ver por dónde andaba.
 
-Cuando llego al departamente, creo que me asusté un poco, está todo
+Cuando llego al departamento, creo que me asusté un poco, está todo
 milimétricamente ubicado y en el lugar que corresponde (no así mi casa
 --mi chiquero). Asique no quería tocar nada, y trataba de no estornudar
 por miedo a volar algo. Dejé todo mi equipaje y me fui a caminar.
@@ -77,7 +77,7 @@ por miedo a volar algo. Dejé todo mi equipaje y me fui a caminar.
 **La caminata**
 
 Salí desde lo de pablo y me fui por 9 de Julio hasta Corrientes, y desde
-ahí hasta El Abasto. Ya vení de caminar desde la oficina hasta la casa
+ahí hasta El Abasto. Ya venía de caminar desde la oficina hasta la casa
 de Pablo, asique ya estaba un poco cansado. Asique entré en un cyber
 para matar dos pájaros de un tiro: descanzar un rato y revisar mi
 correo.

@@ -149,7 +149,7 @@ NAVIGATION_LINKS = {
         (
             (
                 ('/etiquetas/', 'Etiquetas'),
-                ('/archive.html', 'Archivo Anual'),
+                ('/archivo/', 'Archivo Anual'),
                 ('http://humitos.wordpress.com', 'Viejo Blog en Wordpress'),
                 ('http://feeds.feedburner.com/humitos', 'RSS'),
             ),
@@ -317,12 +317,11 @@ TAG_PATH = "etiquetas"
 # Set descriptions for tag pages to make them more interesting. The
 # default is no description. The value is used in the meta description
 # and displayed underneath the tag list or index page’s title.
-# TAG_PAGES_DESCRIPTIONS = {
-#    DEFAULT_LANG: {
-#        "blogging": "Meta-blog posts about blogging about blogging.",
-#        "open source": "My contributions to my many, varied, ever-changing, and eternal libre software projects."
-#    },
-# }
+TAG_PAGES_DESCRIPTIONS = {
+   DEFAULT_LANG: {
+       "argentina en python": "Argentina en Python es un proyecto personal y comunitario que promueve el uso del lenguaje de programación Python para resolver problemas cotidianos en usuarios comunes, como así también desarrollar programas poderosos y complejos de una forma sencilla, estimulando el aprendizaje colaborativo y la filosofía del Software Libre - Web: <a href='http://argentinaenpython.com.ar/'>http://argentinaenpython.com.ar/</a>",
+   },
+}
 
 
 # If you do not want to display a tag publicly, you can mark it as hidden.
@@ -781,7 +780,7 @@ STRIP_INDEXES = True
 # from indexing and other robotic spidering. * is supported. Will only be effective
 # if SITE_URL points to server root. The list is used to exclude resources from
 # /robots.txt and /sitemap.xml, and to inform search engines about /sitemapindex.xml.
-ROBOTS_EXCLUSIONS = ["/archive.html", "/category/*.html"]
+ROBOTS_EXCLUSIONS = ["/archive.html", "/category/*.html", "/etiquetas/", "/archivo/"]
 
 # Instead of putting files in <slug>.html, put them in <slug>/index.html.
 # No web server configuration is required. Also enables STRIP_INDEXES.
@@ -1073,3 +1072,14 @@ GLOBAL_CONTEXT = {
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+# Default options for fotorama_directive plugin
+# To see all the options go to: http://fotorama.io
+FOTORAMA_OPTIONS = {
+    'nav': 'thumbs',
+    'ratio': '16/9',
+    'keyboard': 'true',
+    'thumbwidth': 150,
+    'thumbheight': 150,
+    'allowfullscreen': 'native',
+}
