@@ -9,6 +9,19 @@
 
 .. epigraph::
 
+   ¿Cuándo va a ser el día que votemos por Facebook, o Twitter?
+
+   -- Manuel Kaufmann
+
+
+.. epigraph::
+
+   Para imaginar hay que haber vivido.
+
+   -- Manuel Kaufmann
+
+.. epigraph::
+
    Con el proyecto "Argentina en Python" encontré la forma de hablar
    de #Python y programación en cualquier mesa, todos los días, y a
    cualquier hora :)
