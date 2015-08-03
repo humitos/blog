@@ -1,3 +1,4 @@
+nikola/.cache
 nikola/cache
 nikola/output
 *.pyc
@@ -11,3 +12,5 @@ geolocation.log
 my-position.json
 plugins
 nikola/utils/photos
+.#*
+\#*#
