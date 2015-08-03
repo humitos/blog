@@ -36,7 +36,7 @@ Subtítulos cortos David O'Reilly
 --------------------------------
 
 :Version: 1.0
-:OnLine: http://elblogdehumitos.com.ar/posts/subtitulos-de-cortos-de-david-oreilly/
+:OnLine: :doc:`http://elblogdehumitos.com.ar/posts/subtitulos-de-cortos-de-david-oreilly/ <subtitulos-de-cortos-de-david-oreilly>`
 :Fecha: 2014
 :Traductor: Manuel Kaufmann
 :Revisor: Melina Lucía Coronel
