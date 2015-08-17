@@ -78,7 +78,7 @@ header .metadata {
 }
 
 .figure img {
-    border-radius: 10px;
+    border-radius: 30px;
     border: 2px solid #DDDDDD;
     padding: 4px;
     -moz-border-radius: 30px;
