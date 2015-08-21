@@ -101,9 +101,9 @@ iframe {
     border-radius: 10px;
     border: 2px solid #DDDDDD;
     padding: 4px;
-    -moz-border-radius: 30px;
-    -khtml-border-radius: 30px;
-    -webkit-border-radius: 30px;
+    -moz-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    -webkit-border-radius: 10px;
 }
 
 #map-container small {
