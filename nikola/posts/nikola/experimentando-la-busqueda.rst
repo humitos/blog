@@ -1,7 +1,7 @@
 .. title: Experimentando la búsqueda
 .. slug: experimentando-la-busqueda
 .. date: 2014/02/27 12:59:35
-.. tags: argentina en python, auto, buenos aires, circo, python, san clemente, viaje
+.. tags: argentina en python, auto, buenos aires, circo, python, viaje, san clemente del tuyú
 .. link: 
 .. description: 
 .. type: text

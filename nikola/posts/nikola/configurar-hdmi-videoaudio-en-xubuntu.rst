@@ -23,7 +23,8 @@ y mover la pantalla HDMI a la posición que quería que esté con
 respecto de la pantalla de mi notebook. ¡Muy fácil: solo arrastrar y
 soltar!
 
-.. image:: arandr.png
+.. figure:: arandr.thumbnail.png
+   :target: arandr.png
 
 Ahora me quedaron dos pantallas independientes, en dónde puedo poner
 un video en una y escribir un post en la otra. También las puedo
@@ -35,11 +36,13 @@ Para el sonido, lo único que hice fue hacer click izquierdo en el
 ícono del parlante en la barra de tareas y luego seleccionar
 *Configuración* y en Perfil, poner "Digital Stereo (HDMI) Salida".
 
-.. image:: hdmi-sound-conf.png
+.. figure:: hdmi-sound-conf.thumbnail.png
+   :target: hdmi-sound-conf.png
 
 *Seleccionar que queremos usar la salida HDMI*
 
-.. image:: hdmi-sound-output.png
+.. figure:: hdmi-sound-output.thumbnail.png
+   :target: hdmi-sound-output.png
 
 *Comprobar que efectivamente está saliendo lo que queremos que salga por HDMI*
 

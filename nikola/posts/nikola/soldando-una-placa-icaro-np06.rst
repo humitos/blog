@@ -32,7 +32,11 @@ Electrocomponentes S.A., no tenían todos los componentes necesarios,
 pero igualmente compramos todo lo que tenían como para empezar a armar
 la placa:
 
-.. image:: placa-icaro-np06.jpg
+.. figure:: placa-icaro-np06.thumbnail.jpg
+   :target: placa-icaro-np06.jpg
+
+   A mitad de camino
+
 
 Tuve algunos problemas con algunos componentes y otras cositas que me
 fui dando cuenta sobre la marcha, que detallo a continuación:
