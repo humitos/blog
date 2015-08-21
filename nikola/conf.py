@@ -148,6 +148,7 @@ NAVIGATION_LINKS = {
         ),
         (
             (
+                # ('/search.html', 'Buscar'),
                 ('/etiquetas/', 'Etiquetas'),
                 ('/archivo/', 'Archivo Anual'),
                 ('http://humitos.wordpress.com', 'Viejo Blog en Wordpress'),
@@ -437,6 +438,7 @@ REDIRECTIONS = [
     ('pages/argentina-en-python/donaciones/colaboradores/index.html', 'http://argentinaenpython.com.ar/donaciones/colaboradores/'),
     ('pages/argentina-en-python/donaciones/gracias/index.html', 'http://argentinaenpython.com.ar/donaciones/gracias/'),
     ('categories/index.html', '/etiquetas/'),
+    ('categories/argentina-en-python/index.html', '/etiquetas/argentina-en-python/'),
     ('archive.html', '/archivo/'),
 ]
 
@@ -472,7 +474,7 @@ from local_conf import DEPLOY_COMMANDS
 
 # where the "cache" of partial generated content should be located
 # default: 'cache'
-# CACHE_FOLDER = 'cache'
+CACHE_FOLDER = '.cache'
 
 # Filters to apply to the output.
 # A directory where the keys are either: a file extensions, or
