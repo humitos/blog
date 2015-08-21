@@ -26,17 +26,20 @@ dir="rtl" \
 lang="${lang}">
     <head>
     <meta charset="utf-8">
+    <base href="${abs_link(permalink)}">
     %if description:
     <meta name="description" content="${description}">
     %endif
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>${title|striphtml} | ${blog_title|striphtml}</title>
+    %if title == blog_title:
+        <title>${blog_title|h}</title>
+    %else:
+        <title>${title|h} | ${blog_title|h}</title>
+    %endif
 
     ${html_stylesheets()}
     ${html_feedlinks()}
-    %if permalink:
-      <link rel="canonical" href="${abs_link(permalink)}">
-    %endif
+    <link rel="canonical" href="${abs_link(permalink)}">
 
     %if favicons:
         %for name, file, size in favicons:
