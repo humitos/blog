@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# This script to is add a note on all the Wordpress post, so the user
-# can see it in the original version if there is an issue with the
-# visualization of it
+# This script adds a note to every WordPress post, so the user
+# can see it in the original version if there is an issue with its
+# visualization.
 
 import glob
 
