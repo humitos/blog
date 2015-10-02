@@ -142,11 +142,25 @@ body div.span8 {
 }
 
 h1, h2, h3 {
-    line-height: 55px;
     letter-spacing: -2px;
     font-size: 45px !important;
     font-family: "Bitter";
     font-weight: bold;
+}
+
+h1 {
+    line-height: 55px;
+    font-size: 45px !important;
+}
+
+h2 {
+    line-height: 45px;
+    font-size: 35px !important;
+}
+
+h3 {
+    line-height: 35px;
+    font-size: 25px !important;
 }
 
 li {
