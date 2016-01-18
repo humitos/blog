@@ -19,7 +19,7 @@
     <header>
         <h1 class="p-name entry-title"><a href="${post.permalink()}" class="u-url">${post.title()|h}</a></h1>
         <div class="metadata">
-            <p class="dateline"><span class="fa fa-calendar"></span> Publicado: <time class="published dt-published" datetime="${post.date.isoformat()}" title="${post.formatted_date(date_format)}">${post.formatted_date(date_format)}</time></p>
+            <p class="dateline"><span class="fa fa-calendar"></span> Publicado: <time class="published dt-published" datetime="${post.formatted_date('webiso')}" title="${post.formatted_date(date_format)}">${post.formatted_date(date_format)}</time></p>
         </div>
     </header>
     %if index_teasers:

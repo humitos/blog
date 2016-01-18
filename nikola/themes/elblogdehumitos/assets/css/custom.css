@@ -115,6 +115,7 @@ iframe {
 }
 
 #map, #map-zero, #map-first, #map-second, #map-third {
+    width: 90%;
     height: 350px;
     margin-top: 5px;
     margin-bottom: 15px;
@@ -203,4 +204,14 @@ ul.tags {
 
 .fotorama__wrap {
     margin: 0 auto;
+}
+
+
+.tipue_search_content_title a {
+    line-height: 55px;
+    letter-spacing: -2px;
+    font-size: 45px !important;
+    font-family: "Bitter";
+    font-weight: bold;
+    color: black !important;    
 }
