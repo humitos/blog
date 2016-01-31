@@ -30,7 +30,7 @@ multijugador) al mismo juego que escribimos entre todos.
 Como todo, esa es la idea inicial, luego habrá que ir puliéndola para
 que quede algo realmente *hacible*.
 
-Entonces, lo primero que me puse a investar era qué juego podíamos
+Entonces, lo primero que me puse a investigar era qué juego podíamos
 implementar entre todos. De nuevo, teniendo en mente que debemos
 programarlo en un sólo día. Ahí encontré `Circle Game
 <http://sysach.com/circle-game/>`_, que cumple con casi todas mis
