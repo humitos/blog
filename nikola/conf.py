@@ -33,41 +33,45 @@ BLOG_DESCRIPTION = "el blog de Manuel Kaufmann -- " \
 #
 # Currently supported languages are:
 #
-# en     English
-# ar     Arabic
-# az     Azerbaijani
-# bg     Bulgarian
-# ca     Catalan
-# cs     Czech [ALTERNATIVELY cz]
-# da     Danish
-# de     German
-# el     Greek [NOT gr]
-# eo     Esperanto
-# es     Spanish
-# et     Estonian
-# eu     Basque
-# fa     Persian
-# fi     Finnish
-# fr     French
-# hi     Hindi
-# hr     Croatian
-# id     Indonesian
-# it     Italian
-# ja     Japanese [NOT jp]
-# ko     Korean
-# nb     Norwegian Bokmål
-# nl     Dutch
-# pl     Polish
-# pt_br  Portuguese (Brasil)
-# ru     Russian
-# sk     Slovak
-# sl     Slovene
-# sr     Serbian (Cyrillic)
-# sv     Swedish
-# tr     Turkish [NOT tr_TR]
-# uk     Ukrainian
-# ur     Urdu
-# zh_cn  Chinese (Simplified)
+# en        English
+# ar        Arabic
+# az        Azerbaijani
+# bg        Bulgarian
+# bs        Bosnian
+# ca        Catalan
+# cs        Czech [ALTERNATIVELY cz]
+# da        Danish
+# de        German
+# el        Greek [NOT gr]
+# eo        Esperanto
+# es        Spanish
+# et        Estonian
+# eu        Basque
+# fa        Persian
+# fi        Finnish
+# fr        French
+# hi        Hindi
+# hr        Croatian
+# id        Indonesian
+# it        Italian
+# ja        Japanese [NOT jp]
+# ko        Korean
+# nb        Norwegian Bokmål
+# nl        Dutch
+# pa        Punjabi
+# pl        Polish
+# pt        Portuguese
+# pt_br     Portuguese (Brasil)
+# ru        Russian
+# sk        Slovak
+# sl        Slovene
+# sr        Serbian (Cyrillic)
+# sr_latin  Serbian (Latin)
+# sv        Swedish
+# tr        Turkish [NOT tr_TR]
+# uk        Ukrainian
+# ur        Urdu
+# zh_cn     Chinese (Simplified)
 #
 # If you want to use Nikola with a non-supported language you have to provide
 # a module containing the necessary translations
@@ -106,8 +110,8 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 # For submenus:
 #     (
 #         (
-#             ('http://apple.com/', 'Apple'),
-#             ('http://orange.com/', 'Orange'),
+#             ('https://apple.com/', 'Apple'),
+#             ('https://orange.com/', 'Orange'),
 #         ),
 #         'Fruits'
 #     )
@@ -130,7 +134,7 @@ NAVIGATION_LINKS = {
         ('/random/', 'Random'),
         (
             (
-                ('http://pois.elblogdehumitos.com.ar/', 'Puntos de Interés'),
+                ('http://upoi.org/', 'Puntos de Interés'),
                 ('http://elblogdehumitos.com.ar/osm/', 'Tu negocio en OSM'),
             ),
             'OpenStreetMap',
@@ -163,49 +167,9 @@ NAVIGATION_LINKS = {
 # Name of the theme to use.
 THEME = "elblogdehumitos"
 
-# Below this point, everything is optional
-
-# Post's dates are considered in UTC by default, if you want to use
-# another time zone, please set TIMEZONE to match. Check the available
-# list from Wikipedia:
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-# (e.g. 'Europe/Zurich')
-# Also, if you want to use a different time zone in some of your posts,
-# you can use the ISO 8601/RFC 3339 format (ex. 2012-03-30T23:00:00+02:00)
-TIMEZONE = "America/Argentina/Buenos_Aires"
-
-# If you want to use ISO 8601 (also valid RFC 3339) throughout Nikola
-# (especially in new_post), set this to True.
-# Note that this does not affect DATE_FORMAT.
-# FORCE_ISO8601 = False
-
-# Date format used to display post dates.
-# (str used by datetime.datetime.strftime)
-# DATE_FORMAT = '%Y-%m-%d %H:%M'
-
-# Date format used to display post dates, if local dates are used.
-# (str used by moment.js)
-# JS_DATE_FORMAT = 'YYYY-MM-DD HH:mm'
-
-# Date fanciness.
-#
-# 0 = using DATE_FORMAT and TIMEZONE
-# 1 = using JS_DATE_FORMAT and local user time (via moment.js)
-# 2 = using a string like “2 days ago”
-#
-# Your theme must support it, bootstrap and bootstrap3 already do.
-DATE_FANCINESS = 2
-
-# While Nikola can select a sensible locale for each language,
-# sometimes explicit control can come handy.
-# In this file we express locales in the string form that
-# python's locales will accept in your OS, by example
-# "en_US.utf8" in Unix-like OS, "English_United States" in Windows.
-# LOCALES = dict mapping language --> explicit locale for the languages
-# in TRANSLATIONS. You can omit one or more keys.
-# LOCALE_FALLBACK = locale to use when an explicit locale is unavailable
-# LOCALE_DEFAULT = locale to use for languages not mentioned in LOCALES; if
-# not set the default Nikola mapping is used.
+# Primary color of your theme. This will be used to customize your theme and
+# auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
+THEME_COLOR = '#5670d4'
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 #
@@ -239,6 +203,51 @@ POSTS = (
 PAGES = (
     ("pages/*.rst", "pages", "story.tmpl"),
 )
+
+
+# Below this point, everything is optional
+
+# Post's dates are considered in UTC by default, if you want to use
+# another time zone, please set TIMEZONE to match. Check the available
+# list from Wikipedia:
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# (e.g. 'Europe/Zurich')
+# Also, if you want to use a different time zone in some of your posts,
+# you can use the ISO 8601/RFC 3339 format (ex. 2012-03-30T23:00:00+02:00)
+TIMEZONE = "America/Argentina/Buenos_Aires"
+
+# If you want to use ISO 8601 (also valid RFC 3339) throughout Nikola
+# (especially in new_post), set this to True.
+# Note that this does not affect DATE_FORMAT.
+# FORCE_ISO8601 = False
+
+# Date format used to display post dates. (translatable)
+# (str used by datetime.datetime.strftime)
+# DATE_FORMAT = '%Y-%m-%d %H:%M'
+
+# Date format used to display post dates, if local dates are used. (translatable)
+# (str used by moment.js)
+# JS_DATE_FORMAT = 'YYYY-MM-DD HH:mm'
+
+# Date fanciness.
+#
+# 0 = using DATE_FORMAT and TIMEZONE
+# 1 = using JS_DATE_FORMAT and local user time (via moment.js)
+# 2 = using a string like “2 days ago”
+#
+# Your theme must support it, bootstrap and bootstrap3 already do.
+DATE_FANCINESS = 2
+
+# While Nikola can select a sensible locale for each language,
+# sometimes explicit control can come handy.
+# In this file we express locales in the string form that
+# python's locales will accept in your OS, by example
+# "en_US.utf8" in Unix-like OS, "English_United States" in Windows.
+# LOCALES = dict mapping language --> explicit locale for the languages
+# in TRANSLATIONS. You can omit one or more keys.
+# LOCALE_FALLBACK = locale to use when an explicit locale is unavailable
+# LOCALE_DEFAULT = locale to use for languages not mentioned in LOCALES; if
+# not set the default Nikola mapping is used.
 
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.
@@ -302,6 +311,57 @@ SHOW_BLOG_TITLE = True
 # Warning: this option will change its default value to False in v8!
 WRITE_TAG_CLOUD = True
 
+# Generate pages for each section. The site must have at least two sections
+# for this option to take effect. It wouldn't build for just one section.
+POSTS_SECTIONS = True
+
+# Setting this to False generates a list page instead of an index. Indexes
+# are the default and will apply GENERATE_ATOM if set.
+# POSTS_SECTIONS_ARE_INDEXES = True
+
+# Each post and section page will have an associated color that can be used
+# to style them with a recognizable color detail across your site. A color
+# is assigned to  each section based on shifting the hue of your THEME_COLOR
+# at least 7.5 % while leaving the lightness and saturation untouched in the
+# HUSL colorspace. You can overwrite colors by assigning them colors in HEX.
+# POSTS_SECTION_COLORS = {
+#     DEFAULT_LANG: {
+#         'posts':  '#49b11bf',
+#         'reviews':   '#ffe200',
+#     },
+# }
+
+# Associate a description with a section. For use in meta description on
+# section index pages or elsewhere in themes.
+# POSTS_SECTION_DESCRIPTIONS = {
+#     DEFAULT_LANG: {
+#         'how-to': 'Learn how-to things properly with these amazing tutorials.',
+#     },
+# }
+
+# Sections are determined by their output directory as set in POSTS by default,
+# but can alternatively be determined from file metadata instead.
+# POSTS_SECTION_FROM_META = False
+
+# Names are determined from the output directory name automatically or the
+# metadata label. Unless overwritten below, names will use title cased and
+# hyphens replaced by spaces.
+# POSTS_SECTION_NAME = {
+#    DEFAULT_LANG: {
+#        'posts': 'Blog Posts',
+#        'uncategorized': 'Odds and Ends',
+#    },
+# }
+
+# Titles for per-section index pages. Can be either one string where "{name}"
+# is substituted or the POSTS_SECTION_NAME, or a dict of sections. Note
+# that the INDEX_PAGES option is also applied to section page titles.
+# POSTS_SECTION_TITLE = {
+#     DEFAULT_LANG: {
+#         'how-to': 'How-to and Tutorials',
+#     },
+# }
+
 # Paths for different autogenerated bits. These are combined with the
 # translation paths.
 
@@ -309,6 +369,7 @@ WRITE_TAG_CLOUD = True
 # output / TRANSLATION[lang] / TAG_PATH / index.html (list of tags)
 # output / TRANSLATION[lang] / TAG_PATH / tag.html (list of posts for a tag)
 # output / TRANSLATION[lang] / TAG_PATH / tag.xml (RSS feed for a tag)
+# (translatable)
 TAG_PATH = "etiquetas"
 
 # If TAG_PAGES_ARE_INDEXES is set to True, each tag's page will contain
@@ -324,6 +385,13 @@ TAG_PAGES_DESCRIPTIONS = {
    },
 }
 
+# Set special titles for tag pages. The default is "Posts about TAG".
+# TAG_PAGES_TITLES = {
+#    DEFAULT_LANG: {
+#        "blogging": "Meta-posts about blogging",
+#        "open source": "Posts about open source software"
+#    },
+# }
 
 # If you do not want to display a tag publicly, you can mark it as hidden.
 # The tag will not be displayed on the tag list page, the tag cloud and posts.
@@ -340,6 +408,7 @@ TAGLIST_MINIMUM_POSTS = 3
 # output / TRANSLATION[lang] / CATEGORY_PATH / index.html (list of categories)
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.html (list of posts for a category)
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.xml (RSS feed for a category)
+# (translatable)
 # CATEGORY_PATH = "categories"
 # CATEGORY_PREFIX = "cat_"
 
@@ -367,10 +436,48 @@ CATEGORY_OUTPUT_FLAT_HIERARCHY = False
 #    },
 # }
 
+# Set special titles for category pages. The default is "Posts about CATEGORY".
+# CATEGORY_PAGES_TITLES = {
+#    DEFAULT_LANG: {
+#        "blogging": "Meta-posts about blogging",
+#        "open source": "Posts about open source software"
+#    },
+# }
+
 # If you do not want to display a category publicly, you can mark it as hidden.
 # The category will not be displayed on the category list page.
 # Category pages will still be generated.
 HIDDEN_CATEGORIES = []
+
+# If ENABLE_AUTHOR_PAGES is set to True and there is more than one
+# author, author pages are generated.
+# ENABLE_AUTHOR_PAGES = True
+
+# Final locations are:
+# output / TRANSLATION[lang] / AUTHOR_PATH / index.html (list of tags)
+# output / TRANSLATION[lang] / AUTHOR_PATH / author.html (list of posts for a tag)
+# output / TRANSLATION[lang] / AUTHOR_PATH / author.xml (RSS feed for a tag)
+# AUTHOR_PATH = "authors"
+
+# If AUTHOR_PAGES_ARE_INDEXES is set to True, each author's page will contain
+# the posts themselves. If set to False, it will be just a list of links.
+# AUTHOR_PAGES_ARE_INDEXES = False
+
+# Set descriptions for author pages to make them more interesting. The
+# default is no description. The value is used in the meta description
+# and displayed underneath the author list or index page’s title.
+# AUTHOR_PAGES_DESCRIPTIONS = {
+#    DEFAULT_LANG: {
+#        "Juanjo Conti": "Python coder and writer.",
+#        "Roberto Alsina": "Nikola father."
+#    },
+# }
+
+
+# If you do not want to display an author publicly, you can mark it as hidden.
+# The author will not be displayed on the author list page and posts.
+# Tag pages will still be generated.
+HIDDEN_AUTHORS = ['Guest']
 
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
@@ -404,6 +511,13 @@ ARCHIVE_FILENAME = "index.html"
 # absolute: a complete URL (that includes the SITE_URL)
 # URL_TYPE = 'rel_path'
 
+# If USE_BASE_TAG is True, then all HTML files will include
+# something like <base href=http://foo.var.com/baz/bat> to help
+# the browser resolve relative links.
+# In some rare cases, this will be a problem, and you can
+# disable it by setting USE_BASE_TAG to False.
+USE_BASE_TAG = True
+
 # Final location for the blog main RSS feed is:
 # output / TRANSLATION[lang] / RSS_PATH / rss.xml
 # RSS_PATH = ""
@@ -411,9 +525,13 @@ ARCHIVE_FILENAME = "index.html"
 # Number of posts in RSS feeds
 FEED_LENGTH = 15
 
-# Slug the Tag URL easier for users to type, special characters are
+# Slug the Tag URL. Easier for users to type, special characters are
 # often removed or replaced as well.
 SLUG_TAG_PATH = True
+
+# Slug the Author URL. Easier for users to type, special characters are
+# often removed or replaced as well.
+# SLUG_AUTHOR_PATH = True
 
 # A list of redirection tuples, [("foo/from.html", "/bar/to.html")].
 #
@@ -658,7 +776,7 @@ FAVICONS = (
     ("icon", "/icon_128x128.png", "128x128"),
 )
 
-# Show only teasers in the index pages? Defaults to False.
+# Show teasers (instead of full posts) in indexes? Defaults to False.
 INDEX_TEASERS = True
 
 # HTML fragments with the Read more... links.
@@ -676,7 +794,7 @@ INDEX_TEASERS = True
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
 INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}">{read_more}…</a></p>'
 # 'Read more...' for the RSS_FEED, if RSS_TEASERS is True (translatable)
-RSS_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
+FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
 
 # Append a URL query to the RSS_READ_MORE_LINK in Atom and RSS feeds. Advanced
 # option used for traffic source tracking.
@@ -686,7 +804,7 @@ RSS_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_rea
 # {feedFormat}                  The name of the syndication format.
 # Example using replacement for use with Google Analytics:
 # "utm_source={feedRelUri}&utm_medium=nikola_feed&utm_campaign={feedFormat}_feed"
-RSS_LINKS_APPEND_QUERY = False
+FEED_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
@@ -828,6 +946,13 @@ DEPLOY_DRAFTS = False
 # </script>
 # """
 
+# Want to use KaTeX instead of MathJax? While KaTeX is less featureful,
+# it's faster and the output looks better.
+# If you set USE_KATEX to True, you also need to add an extra CSS file
+# like this:
+# EXTRA_HEAD_DATA = """<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.css">"""
+# USE_KATEX = False
+
 # Do you want to customize the nbconversion of your IPython notebook?
 # IPYNB_CONFIG = {}
 # With the following example configuration you can use a custom jinja template
@@ -895,13 +1020,13 @@ GENERATE_RSS = True
 # RSS_LINK = None
 
 # Show only teasers in the RSS and Atom feeds? Default to True
-RSS_TEASERS = False
+FEED_TEASERS = False
 
 # Strip HTML in the RSS feed? Default to False
 # RSS_PLAIN = False
 
 # A search form to search this site, for the sidebar. You can use a Google
-# custom search (http://www.google.com/cse/)
+# custom search (https://www.google.com/cse/)
 # Or a DuckDuckGo search: https://duckduckgo.com/search_box.html
 # Default is no search form.
 # (translatable)
@@ -928,7 +1053,7 @@ RSS_TEASERS = False
 # If you prefer a Google search form, here's an example that should just work:
 # SEARCH_FORM = """
 # <!-- Google custom search -->
-# <form method="get" action="http://www.google.com/search" class="navbar-form navbar-right" role="search">
+# <form method="get" action="https://www.google.com/search" class="navbar-form navbar-right" role="search">
 # <div class="form-group">
 # <input type="text" name="q" class="form-control" placeholder="Search">
 # </div>
@@ -1043,6 +1168,8 @@ UNSLUGIFY_TITLES = True
 # LINK_CHECK_WHITELIST = []
 
 # If set to True, enable optional hyphenation in your posts (requires pyphen)
+# Enabling hyphenation has been shown to break math support in some cases,
+# use with caution.
 # HYPHENATE = False
 
 # The <hN> tags in HTML generated by certain compilers (reST/Markdown)
