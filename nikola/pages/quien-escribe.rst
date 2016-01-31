@@ -68,6 +68,8 @@ Python <http://argentinaenpython.com.ar/>`_.
 
 :Telegram: @humitos / +54 9 343 4053434
 
+:Móv. Ecuador: +593 0990632940
+
 :Móv. Bolivia: +591 68381678
 
 :Móv. Argentina: +54 9 343 4053434

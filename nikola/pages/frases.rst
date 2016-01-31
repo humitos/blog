@@ -9,6 +9,14 @@
 
 .. epigraph::
 
+   Hay que laburar mucho más que en cualquier otro lado; es más fácil
+   ganarse un sueldo que una donación.
+
+   -- Manuel Kaufmann
+
+
+.. epigraph::
+
    ¿Cuándo va a ser el día que votemos por Facebook, o Twitter?
 
    -- Manuel Kaufmann
