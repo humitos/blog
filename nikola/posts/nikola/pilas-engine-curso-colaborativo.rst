@@ -67,11 +67,11 @@ para conectar esos eventos con algún servidor pequeño en `Flask
 `jquery-websockets
 <https://code.google.com/archive/p/jquery-websocket/>`_.
 
-Lo único que me faltaba era comunicar nuestro servidor de Flask que
+Lo único que me faltaba era comunicar nuestro servidor Flask que
 estaba recibiendo toda la información de la posición del jugador con
 el jugador en sí que iba a estar siendo renderizado por
 pilas-engine. Y aquí es donde más problemas tuve y creo que la
-solución que encontré no es del todo buena -*aunque funciona*: `Redis
+solución que encontré no es del todo buena -*aunque funciona*-: `Redis
 <redis.io/>`_. Básicamente tengo una cola donde el server Flask carga
 los datos de las posiciones y el método `actualizar(self)`, del actor
 que quiero mover desde pilas-engine, va tomando los valores en orden
