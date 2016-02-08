@@ -15,6 +15,12 @@ y así y todo que no sirva todo lo que quiero? Para eso está
 pyfispot_. Y, finalmente, ¿para qué voy a tener la pc prendida solo
 para escuchar música? Para eso está `mplayer` y mps-youtube_.
 
+.. figure:: IMG_20160208_144255.thumbnail.jpg
+   :target: IMG_20160208_144255.jpg
+
+   La RaspberryPi colgada, como siempre...
+
+
 Cuando utilizo kodi_ siempre lo hago conectado a un TV con entrada de
 HDMI, así el video y el audio se configuran solo sin ningún
 problema. Luego manejo todo desde el celular con yatse_. Sin embargo,
