@@ -1,0 +1,49 @@
+#!/usr/bin/env python
+
+import os
+import sys
+import commands
+
+LIST_WINDOWS = 'wmctrl -l -x | grep -i {} | grep -v grep | tail -n {}'
+CHANGE_WINDOW = 'wmctrl -i -a {}'
+COMMANDS_TO_WMCMD = {
+    'pidgin': 'Pidgin.Pidgin',
+    'emacs': 'emacs.Emacs',
+    'thunar': 'Thunar.Thunar',
+    'firefox': 'Navigator.Firefox',
+    'terminator': 'terminator.Terminator',
+}
+
+
+def get_window_id(command):
+    # This function is horrible but it's late at night and I just want
+    # this shit working :)
+    if command == 'pidgin':
+        n = 2
+    else:
+        n = 1
+    output = commands.getoutput(
+        LIST_WINDOWS.format(COMMANDS_TO_WMCMD[command], n))
+    if n > 1:
+        if command == 'pidgin':
+            lines = output.splitlines()
+            for l in lines:
+                if 'Lista de amigos' not in l:
+                    output = l
+                    break
+    print(output)
+    win_id = output.split(' ')[0]
+    return win_id
+
+
+def main():
+    program = sys.argv[1]
+    win_id = get_window_id(program)
+    if win_id != '':
+        os.system(CHANGE_WINDOW.format(win_id))
+    else:
+        os.system(program)
+
+
+if __name__ == '__main__':
+    main()
