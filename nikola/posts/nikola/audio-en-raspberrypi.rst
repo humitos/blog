@@ -21,6 +21,7 @@ para escuchar música? Para eso está `mplayer` y mps-youtube_.
    La RaspberryPi colgada, como siempre...
 
 
+
 Cuando utilizo kodi_ siempre lo hago conectado a un TV con entrada de
 HDMI, así el video y el audio se configuran solo sin ningún
 problema. Luego manejo todo desde el celular con yatse_. Sin embargo,
@@ -53,7 +54,18 @@ estoy usando:
 No hace falta que diga nada más. Es muy fácil de usar y tiene una
 ayuda integrada.
 
+.. admonition:: Versión obsoleta en Ubuntu 14.04
+	     
+      Si estás utilizando la versión LTS de Ubuntu, es probable que
+      tengas una version obsoleta de mplayer, por lo que debes
+      actualizarla. Sin embargo, en mi máquina no actualiza a una
+      versión capaz de funciona correctamente con `mpsyt` por lo tanto
+      instalé `mpv` y lo configué en `mpsyt` con este comando:
 
+      .. code::
+
+	 set player mpv
+      
 .. _kodi: http://kodi.tv/
 .. _mps-youtube: https://pypi.python.org/pypi/mps-youtube
 .. _pyfispot: https://github.com/humitos/pyfispot
