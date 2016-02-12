@@ -3,28 +3,24 @@
 <%namespace name="notes" file="annotation_helper.tmpl" import="*" />
 <%def name="html_headstart()">
 <!DOCTYPE html>
-<html
-\
-% if use_open_graph or (twitter_card and twitter_card['use_twitter_cards']) or (comment_system == 'facebook'):
+<html \
 prefix='\
 %if use_open_graph or (twitter_card and twitter_card['use_twitter_cards']):
-og: http://ogp.me/ns# \
-%endif
-%if use_open_graph:
-article: http://ogp.me/ns/article# \
+og: http://ogp.me/ns# article: http://ogp.me/ns/article# \
 %endif
 %if comment_system == 'facebook':
-fb: http://ogp.me/ns/fb# \
+fb: http://ogp.me/ns/fb#
 %endif
-'\
+' \
+%if use_open_graph or (twitter_card and twitter_card['use_twitter_cards']):
+vocab="http://ogp.me/ns" \
 %endif
-\
 % if is_rtl:
 dir="rtl" \
 % endif
 \
 lang="${lang}">
-    <head>
+<head>
     <meta charset="utf-8">
     % if use_base_tag:
     <base href="${abs_link(permalink)}">
@@ -32,7 +28,7 @@ lang="${lang}">
     %if description:
     <meta name="description" content="${description|h}">
     %endif
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width">
     %if title == blog_title:
         <title>${blog_title|h}</title>
     %else:
@@ -184,9 +180,11 @@ lang="${lang}">
 </%def>
 
 <%def name="html_translations()">
+    <ul class="translations">
     %for langname in sorted(translations):
         %if langname != lang:
             <li><a href="${abs_link(_link("root", None, langname))}" rel="alternate" hreflang="${langname}">${messages("LANGUAGE", langname)}</a></li>
         %endif
     %endfor
+    </ul>
 </%def>

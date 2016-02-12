@@ -23,7 +23,7 @@ mako==1.0.3               # via nikola
 MarkupSafe==0.23          # via mako
 micawber==0.3.3
 natsort==4.0.4            # via nikola
-Nikola==7.7.4
+Nikola==7.7.5
 path.py==8.1.2            # via pickleshare
 pathtools==0.1.2          # via watchdog
 pexpect==4.0.1            # via ipython

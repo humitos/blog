@@ -50,7 +50,7 @@
 
 <%def name="open_graph_metadata(post)">
 %if use_open_graph:
-    <meta property="og:site_name" content="${blog_title|striphtml}">
+    <meta property="og:site_name" content="${blog_title|h}">
     <meta property="og:title" content="${post.title()[:70]|h}">
     <meta property="og:url" content="${abs_link(permalink)}">
     %if post.description():
@@ -64,14 +64,14 @@
     <meta property="og:type" content="article">
 ### Will only work with Pintrest and breaks everywhere else who expect a [Facebook] URI.
 ###    %if post.author():
-###    <meta property="article:author" content="${post.author()}">
+###    <meta property="article:author" content="${post.author()|h}">
 ###    %endif
     %if post.date.isoformat():
     <meta property="article:published_time" content="${post.formatted_date('webiso')}">
     %endif
     %if post.tags:
         %for tag in post.tags:
-           <meta property="article:tag" content="${tag}">
+           <meta property="article:tag" content="${tag|h}">
         %endfor
     %endif
 %endif
@@ -95,8 +95,17 @@
 
 <%def name="mathjax_script(post)">
     %if post.is_mathjax:
-        <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({tex2jax: {inlineMath: [['$latex ','$'], ['\\(','\\)']]}});</script>
-        <script src="/assets/js/mathjax.js"></script>
+        %if use_katex:
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/contrib/auto-render.min.js"></script>
+            <script>
+                renderMathInElement(document.body);
+            </script>
+        %else:
+            <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>
+            <script type="text/x-mathjax-config">
+            MathJax.Hub.Config({tex2jax: {inlineMath: [['$latex ','$'], ['\\(','\\)']]}});
+            </script>
+        %endif
     %endif
 </%def>

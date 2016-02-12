@@ -50,8 +50,10 @@ BLOG_DESCRIPTION = "el blog de Manuel Kaufmann -- " \
 # fa        Persian
 # fi        Finnish
 # fr        French
+# gl        Galician
 # hi        Hindi
 # hr        Croatian
+# hu        Hungarian
 # id        Indonesian
 # it        Italian
 # ja        Japanese [NOT jp]
@@ -61,7 +63,7 @@ BLOG_DESCRIPTION = "el blog de Manuel Kaufmann -- " \
 # pa        Punjabi
 # pl        Polish
 # pt        Portuguese
-# pt_br     Portuguese (Brasil)
+# pt_br     Portuguese (Brazil)
 # ru        Russian
 # sk        Slovak
 # sl        Slovene
@@ -255,8 +257,8 @@ DATE_FANCINESS = 2
 # FILES_FOLDERS = {'files': ''}
 # Which means copy 'files' into 'output'
 
-# One or more folders containing listings to be processed and stored into
-# the output. The format is a dictionary of {source: relative destination}.
+# One or more folders containing code listings to be processed and published on
+# the site. The format is a dictionary of {source: relative destination}.
 # Default is:
 # LISTINGS_FOLDERS = {'listings': 'listings'}
 # Which means process listings from 'listings' into 'output/listings'
@@ -372,6 +374,11 @@ POSTS_SECTIONS = True
 # (translatable)
 TAG_PATH = "etiquetas"
 
+# See TAG_PATH's "list of tags" for the default setting value. Can be overwritten
+# here any path relative to the output directory.
+# (translatable)
+# TAGS_INDEX_PATH = "tags.html"
+
 # If TAG_PAGES_ARE_INDEXES is set to True, each tag's page will contain
 # the posts themselves. If set to False, it will be just a list of links.
 # TAG_PAGES_ARE_INDEXES = False
@@ -380,9 +387,9 @@ TAG_PATH = "etiquetas"
 # default is no description. The value is used in the meta description
 # and displayed underneath the tag list or index page’s title.
 TAG_PAGES_DESCRIPTIONS = {
-   DEFAULT_LANG: {
-       "argentina en python": "Argentina en Python es un proyecto personal y comunitario que promueve el uso del lenguaje de programación Python para resolver problemas cotidianos en usuarios comunes, como así también desarrollar programas poderosos y complejos de una forma sencilla, estimulando el aprendizaje colaborativo y la filosofía del Software Libre - Web: <a href='http://argentinaenpython.com.ar/'>http://argentinaenpython.com.ar/</a>",
-   },
+    DEFAULT_LANG: {
+        "argentina en python": "Argentina en Python es un proyecto personal y comunitario que promueve el uso del lenguaje de programación Python para resolver problemas cotidianos en usuarios comunes, como así también desarrollar programas poderosos y complejos de una forma sencilla, estimulando el aprendizaje colaborativo y la filosofía del Software Libre - Web: <a href='http://argentinaenpython.com.ar/'>http://argentinaenpython.com.ar/</a>",
+    },
 }
 
 # Set special titles for tag pages. The default is "Posts about TAG".
@@ -489,8 +496,9 @@ HIDDEN_AUTHORS = ['Guest']
 # CREATE_SINGLE_ARCHIVE = False
 # Create year, month, and day archives each with a (long) list of posts
 # (overrides both CREATE_MONTHLY_ARCHIVE and CREATE_SINGLE_ARCHIVE)
-# CREATE_FULL_ARCHIVES = True
-# If monthly archives or full archives are created, adds also one archive per day
+# CREATE_FULL_ARCHIVES = False
+# If monthly archives or full archives are created, adds also one archive
+# per day
 CREATE_DAILY_ARCHIVE = False
 # Final locations for the archives are:
 # output / TRANSLATION[lang] / ARCHIVE_PATH / ARCHIVE_FILENAME
@@ -577,6 +585,9 @@ REDIRECTIONS = [
 # }
 from local_conf import DEPLOY_COMMANDS
 
+# github_deploy configuration
+# For more details, read the manual:
+# https://getnikola.com/handbook.html#deploying-to-github
 # For user.github.io OR organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
 # GITHUB_SOURCE_BRANCH = 'master'
@@ -584,6 +595,10 @@ from local_conf import DEPLOY_COMMANDS
 
 # The name of the remote where you wish to push to, using github_deploy.
 # GITHUB_REMOTE_NAME = 'origin'
+
+# Whether or not github_deploy should commit to the source branch automatically
+# before deploying.
+GITHUB_COMMIT_SOURCE = True
 
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
@@ -793,10 +808,10 @@ INDEX_TEASERS = True
 
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
 INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}">{read_more}…</a></p>'
-# 'Read more...' for the RSS_FEED, if RSS_TEASERS is True (translatable)
+# 'Read more...' for the feeds, if FEED_TEASERS is True (translatable)
 FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
 
-# Append a URL query to the RSS_READ_MORE_LINK in Atom and RSS feeds. Advanced
+# Append a URL query to the FEED_READ_MORE_LINK in Atom and RSS feeds. Advanced
 # option used for traffic source tracking.
 # Minimum example for use with Piwik: "pk_campaign=feed"
 # The following tags exist and are replaced for you:
@@ -815,7 +830,6 @@ LICENSE = """
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
   <img alt="Licencia Creative Commons" style="border-width:0" src="/cc_by-sa_88x31.png" />
 </a>"""
-
 
 
 # A small copyright notice for the page footer (in HTML).
@@ -900,7 +914,8 @@ STRIP_INDEXES = True
 # from indexing and other robotic spidering. * is supported. Will only be effective
 # if SITE_URL points to server root. The list is used to exclude resources from
 # /robots.txt and /sitemap.xml, and to inform search engines about /sitemapindex.xml.
-ROBOTS_EXCLUSIONS = ["/archive.html", "/category/*.html", "/etiquetas/", "/archivo/"]
+ROBOTS_EXCLUSIONS = ["/archive.html",
+                     "/category/*.html", "/etiquetas/", "/archivo/"]
 
 # Instead of putting files in <slug>.html, put them in <slug>/index.html.
 # No web server configuration is required. Also enables STRIP_INDEXES.
@@ -950,7 +965,7 @@ DEPLOY_DRAFTS = False
 # it's faster and the output looks better.
 # If you set USE_KATEX to True, you also need to add an extra CSS file
 # like this:
-# EXTRA_HEAD_DATA = """<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.css">"""
+# EXTRA_HEAD_DATA = """<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css">"""
 # USE_KATEX = False
 
 # Do you want to customize the nbconversion of your IPython notebook?
@@ -986,7 +1001,7 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 # <li><a class="addthis_button_twitter"></a>
 # </ul>
 # </div>
-# <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
+# <script src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
 # <!-- End of social buttons -->
 # """
 
@@ -1009,21 +1024,32 @@ GENERATE_RSS = True
 # them. Generate Atom for tags by setting TAG_PAGES_ARE_INDEXES to True.
 # Atom feeds are built based on INDEX_DISPLAY_POST_COUNT and not FEED_LENGTH
 # Switch between plain-text summaries and full HTML content using the
-# RSS_TEASER option. RSS_LINKS_APPEND_QUERY is also respected. Atom feeds
+# FEED_TEASER option. FEED_LINKS_APPEND_QUERY is also respected. Atom feeds
 # are generated even for old indexes and have pagination link relations
 # between each other. Old Atom feeds with no changes are marked as archived.
 # GENERATE_ATOM = False
+
+# Only inlclude teasers in Atom and RSS feeds. Disabling include the full
+# content. Defaults to True.
+FEED_TEASERS = False
+
+# Strip HTML from Atom annd RSS feed summaries and content. Defaults to False.
+# FEED_PLAIN = False
+
+# Number of posts in Atom and RSS feeds.
+# FEED_LENGTH = 10
+
+# Include preview image as a <figure><img></figure> at the top of the entry.
+# Requires FEED_PLAIN = False. If the preview image is found in the content,
+# it will not be included again. Image will be included as-is, aim to optmize
+# the image source for Feedly, Apple News, Flipboard, and other popular
+# clients.
+FEED_PREVIEWIMAGE = True
 
 # RSS_LINK is a HTML fragment to link the RSS or Atom feeds. If set to None,
 # the base.tmpl will use the feed Nikola generates. However, you may want to
 # change it for a FeedBurner feed or something else.
 # RSS_LINK = None
-
-# Show only teasers in the RSS and Atom feeds? Default to True
-FEED_TEASERS = False
-
-# Strip HTML in the RSS feed? Default to False
-# RSS_PLAIN = False
 
 # A search form to search this site, for the sidebar. You can use a Google
 # custom search (https://www.google.com/cse/)
@@ -1037,7 +1063,7 @@ FEED_TEASERS = False
 #
 # SEARCH_FORM = """
 # <!-- DuckDuckGo custom search -->
-# <form method="get" id="search" action="//duckduckgo.com/"
+# <form method="get" id="search" action="https://duckduckgo.com/"
 #  class="navbar-form pull-left">
 # <input type="hidden" name="sites" value="%s">
 # <input type="hidden" name="k8" value="#444444">
@@ -1071,7 +1097,7 @@ FEED_TEASERS = False
 # Bootstrap is served from BootstrapCDN (provided by MaxCDN)
 # Set this to False if you want to host your site without requiring access to
 # external resources.
-# USE_CDN = False
+USE_CDN = False
 
 # Check for USE_CDN compatibility.
 # If you are using custom themes, have configured the CSS properly and are
