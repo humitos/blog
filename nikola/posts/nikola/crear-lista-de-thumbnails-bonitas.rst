@@ -73,7 +73,7 @@ Y luego, dentro de mi archivo `.rst` de la página de Nikola:
       :href: http://blogs.lanacion.com.ar/data/argentina/sexto-encuentro-nacional-de-python-argentina/
 
 
-El resultado en vivo: http://argentinaenpython.com.ar/historia/prensa/
+El resultado en vivo: https://argentinaenpython.com/historia/prensa/
 
 .. figure:: prensa-section.thumbnail.png
    :target: prensa-section.png

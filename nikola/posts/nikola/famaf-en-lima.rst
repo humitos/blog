@@ -8,7 +8,7 @@
 .. type: text
 
 Unos días antes del evento de `Django Girls Lima
-<http://argentinaenpython.com.ar/galeria/django-girls-lima/>`_
+<https://argentinaenpython.com/galeria/django-girls-lima/>`_
 llegamos a la ciudad y nos hospedamos en el hostel más barato que
 encontramos cerca del lugar del evento (Oficinas de Laboratoria LA) y,
 casualmente, quedaba en el corazón de Miraflores -un lugar muy caté.

@@ -7,7 +7,7 @@
 .. type: text
 
 Las pocas semanas que estuve en Paraná, luego de volver de la Segunda
-Etapa del proyecto `Argentina en Python <http://argentinaenpython.com.ar/>`_, fueron muy intensas. La
+Etapa del proyecto `Argentina en Python <https://argentinaenpython.com/>`_, fueron muy intensas. La
 verdad que no me esperaba nada de *todo* lo que pasó.
 
 *Todo* lo que pasó, en partes, se generó a raíz del
@@ -30,7 +30,7 @@ sus laburos [#]_ [#]_ y me encantan.
 Inmediatamente pasamos a otro plano y nos pusimos a hablar del curso,
 de qué días podíamos cubrir, del precio e inebitablemente caímos en la
 parte filosófica del Software Libre, el proyecto
-`Argentina en Python <http://argentinaenpython.com.ar/>`_ y un poco de mi historia. Charlamos
+`Argentina en Python <https://argentinaenpython.com/>`_ y un poco de mi historia. Charlamos
 muchísimo, de muchísimos temas. Todos temas que no me esperaba y que
 me dejaron helado. Después de un par de horas, que creo ninguno de los
 dos tenía pronosticado emplear en esa juntada, me di cuenta que es un

@@ -15,7 +15,7 @@ para que no lo vuelva a cometer :D
 
 La cuestión es que sacamos fotos con varias cámaras de fotos en el
 taller de `Django Girls Mendoza
-<http://argentinaenpython.com.ar/galeria/django-girls-mendoza/>`_ y
+<https://argentinaenpython.com/galeria/django-girls-mendoza/>`_ y
 luego, a la hora de mostrarlas, está bueno que estén ordenadas de
 forma ascendente de la primera que se tomó hasta la última
 intercalando las diferentes cámaras. Esto te permite ver cómo fue

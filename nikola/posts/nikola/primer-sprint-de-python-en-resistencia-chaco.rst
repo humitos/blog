@@ -19,7 +19,7 @@ tenían ganas de aprender y dar sus primeros pasos con él. ¡Sí, 11!
 era su primera vez en un evento de este estilo. Así que para comenzar
 la mañana, hice una pequeña introducción explicando de qué se trata un
 Sprint, comenté algunas cosas sobre la comunidad de PyAr_ y el
-proyecto «`Argentina en Python <http://argentinaenpython.com.ar/>`_»
+proyecto «`Argentina en Python <https://argentinaenpython.com/>`_»
 para que luego pasemos a una introducción personal.
 
 .. figure:: DSCF2709.thumbnail.jpg

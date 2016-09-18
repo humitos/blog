@@ -12,7 +12,7 @@ conferencia de Python en el Caribe: la `PyCaribbean
 <http://pycaribbean.com/>`_, ¡y yo voy a estar ahí! No sólo que voy a
 estar ahí, sino que voy a estar hablándole a un montón de gente sobre
 el trabajo que hemos venido realizando durante estos años con
-`Argentina en Python <http://argentinaenpython.com.ar/>`_.
+`Argentina en Python <https://argentinaenpython.com/>`_.
 
 No lo puedo creer por varias razones. Para empezar, nunca dí una
 charla de Python en una conferencia fuera de Argentina. Además, la
@@ -37,7 +37,7 @@ de todo el material que tenemos (fotos, videos, historias,
 experiencia) y las sugerencias de `@EllaQuimica
 <https://twitter.com/ellaquimica>`_. Además de varios comentarios que
 he recibido a través de `nuestra encuesta
-<http://argentinaenpython.com.ar/encuesta/>`_. De a ratos creo que
+<https://argentinaenpython.com/encuesta/>`_. De a ratos creo que
 está muy buena y por momentos que es una basura. Es así, los nervios y
 la ansiedad no me dejan pensar claramente. De todas formas, no quiero
 adelantarles nada para no quemar las espectativas y luego, si graban

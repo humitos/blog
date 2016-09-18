@@ -30,7 +30,7 @@ muchísimas expectativas, como todos los años. Sin embargo,
 personalmente estaba bastante nervioso porque era la primera
 presentación en público (una comunidad a la que quiero y respeto
 mucho) sobre el `proyecto que vengo empujando y llevando adelante
-<http://argentinaenpython.com.ar/>`_ desde el año pasado, luego de
+<https://argentinaenpython.com/>`_ desde el año pasado, luego de
 haber dicho que *"lo iba a hacer"* en una `lightning talk`_ en
 Rosario, Santa Fe.
 

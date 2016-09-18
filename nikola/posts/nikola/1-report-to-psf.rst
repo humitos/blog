@@ -8,7 +8,7 @@
 .. type: text
 
 Para darle un poco más de transparencia al proyecto `Argentina en
-Python <http://argentinaenpython.com.ar>`_ y también para dar a
+Python <https://argentinaenpython.com>`_ y también para dar a
 conocer cuáles fueron los eventos que hemos ido organizando a lo largo
 de que empezó la financiación por parte de la Python Software
 Foundation, vamos a ir dando a conocer los reportes que hemos ido
@@ -28,7 +28,7 @@ Hoy publicamos el #1 reporte enviando: Tue, 10 Feb 2015 22:30:51 -0300
    == Past Events ==
 
    - 17 Jan - Sprint at Resistencia, Chaco, Argentina
-     (http://elblogdehumitos.com.ar/posts/primer-sprint-de-python-en-resistencia-chaco/)
+     (https://elblogdehumitos.com/posts/primer-sprint-de-python-en-resistencia-chaco/)
 
    - ~20 attendees (4 girls). Most of them without knowledge of
      Python, so we worked in different groups. The idea of a possible

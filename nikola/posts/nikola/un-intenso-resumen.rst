@@ -8,7 +8,7 @@
 
 
 El 8 de Diciembre de 2014 inicié la "Tercera Etapa" del proyecto
-`Argentina en Python <http://argentinaenpython.com.ar>`_. Esta vez,
+`Argentina en Python <https://argentinaenpython.com>`_. Esta vez,
 acompañado por Johanna, a `quién conocí en Santiago del Estero
 <rafaela-santiago-del-estero>`_ allá por Septiembre (si bien no hace
 tanto en cuanto a tiempo, han pasado tantas cosas que para mí fue hace

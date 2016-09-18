@@ -11,7 +11,7 @@
 
 
 
-.. _Argentina en Python: http://argentinaenpython.com.ar/
+.. _Argentina en Python: https://argentinaenpython.com/
 .. _Python Argentina: http://python.org.ar/
 .. _reStructuredText: http://docutils.sourceforge.net/rst.html
 .. _Mozio: https://www.mozio.com/

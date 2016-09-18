@@ -9,7 +9,7 @@
 
 El mes pasado, durante los días 5 y 6 llevamos adelante un curso
 llamado `Python For Ladies
-<http://argentinaenpython.com.ar/python-for-ladies/>`_ en Posadas,
+<https://argentinaenpython.com/python-for-ladies/>`_ en Posadas,
 Misiones, Argentina. Este curso salió de "una charla casual" con
 `@EllaQuimica <https://twitter.com/EllaQuimica>`_ y `@cynpy
 <https://twitter.com/cynpy>`_ cuando estábamos en Villarica, Paraguay.
@@ -98,7 +98,7 @@ que necesitabamos. Sí, nos mimaron.
 disfrutado tanto como nosotros! También, gracias a Catherin, nuestra
 disertante estrella, y a Johanna, mi co-equiper infaltable en este
 alocado proyecto que hemos denominado `Argentina en Python
-<http://argentinaenpython.com.ar/>`_.
+<https://argentinaenpython.com/>`_.
 
 .. class:: lead align-center
 

@@ -8,7 +8,7 @@
 .. type: text
 
 Hace casi 2 años que estoy viajando con el proyecto `Argentina en
-Python <http://argentinaenpython.com.ar>`_ por diferentes países de
+Python <https://argentinaenpython.com>`_ por diferentes países de
 Latinoamérica. Ya hemos estado en Argentina, Uruguay, Chile, Paraguay,
 Bolivia y estamos recién llegaditos a Perú.
 
@@ -26,7 +26,7 @@ mediante `OSMTracker for Android
 <https://play.google.com/store/apps/details?id=me.guillaumin.android.osmtracker>`_
 con la que no damos a basto para cargar a la inmensa base de datos de
 OSM, lamentablemente. Para eso, hemos creado un sitio web
-(http://argentinaenpython.com.ar/mapear-con-osmtracker/) que nuclee
+(https://argentinaenpython.com/mapear-con-osmtracker/) que nuclee
 todos estos datos para que diferentes usuarios de OSM puedan trabajar
 con datos reales (cerca de 1Gb), recolectados con un SmartPhone Nexus
 5 y OSMTracker for Android con una precisión de +-3m en casi todos los

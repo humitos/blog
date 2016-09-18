@@ -26,7 +26,7 @@ durante los meses de Agosto y Septiembre.
 Invitamos a todas las comunidades regionales, así como también a
 particulares que estén interesados en colaborar en la organización de
 cualquiera de `los eventos que hemos organizado
-<http://argentinaenpython.com.ar/eventos/>`_ y también a todo quien
+<https://argentinaenpython.com/eventos/>`_ y también a todo quien
 tenga ganas de aportar ideas nuevas.
 
 La idea es juntarnos el **Sábado 8 de Agosto** en el café del
@@ -34,7 +34,7 @@ La idea es juntarnos el **Sábado 8 de Agosto** en el café del
 <http://www.openstreetmap.org/node/2433414013>`_ a las 18hs para
 conocernos principalmente -ya que por suerte me ha contactado
 muchísima gente- hacer una pequeña presentación del proyecto
-`Argentina en Python <http://argentinaenpython.com.ar/>`_ y comenzar
+`Argentina en Python <https://argentinaenpython.com/>`_ y comenzar
 con la propuesta de organización de diferentes eventos hacia las
 próximas semanas.
 

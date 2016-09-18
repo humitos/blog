@@ -39,7 +39,7 @@ cosas nuevas y participar de próximos eventos.
 
 
 También recibí mucho apoyo de personas del interior de Paraguay con
-ganas de hacer algún `Eventos (Argentina en Python) <http://argentinaenpython.com.ar/eventos/>`_ en
+ganas de hacer algún `Eventos (Argentina en Python) <https://argentinaenpython.com/eventos/>`_ en
 esos lugares. ¡Ya estamos planeando un Sprint para dentro de un par de
 semanas!
 

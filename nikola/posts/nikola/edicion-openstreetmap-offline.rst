@@ -9,7 +9,7 @@
 
 
 Durante mis viajes con `Argentina en Python
-<http://argentinaenpython.com.ar>`_ una de las cosas que me gusta
+<https://argentinaenpython.com>`_ una de las cosas que me gusta
 hacer es colaborar con la comunidad de OpenStreetMap_. Siento que esto
 es bastante útil ya que estoy todos los días en movimiento y visitando
 lugares que, en su mayoría, no está correctamente mapeados o falta

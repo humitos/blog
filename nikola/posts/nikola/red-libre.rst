@@ -60,7 +60,7 @@ La idea
 -------
 
 Consiste en armar una red WiFi en las ciudades que visitemos con
-`Argentina en Python <http://argentinaenpython.com.ar/>`_ y ofrecer
+`Argentina en Python <https://argentinaenpython.com/>`_ y ofrecer
 diferentes servicios además de dar a conocer el proyecto. Notamos que
 la mayoría de los turistas que recorren la ciudad, en algún momento,
 están en busca de WiFi para conectarse con sus amigos, buscar lugares
@@ -116,7 +116,7 @@ hace que sea totalmente transportable y que podamos alcanzar cualquier
 lugar de la ciudad [#]_.
 
 En el lugar que estacionemos el auto, podríamos poner la bandera de
-`Argentina en Python <http://argentinaenpython.com.ar/>`_, una mesa,
+`Argentina en Python <https://argentinaenpython.com/>`_, una mesa,
 sombrilla y sillas para dar a conocer lo que hacemos, entregar
 micro-tutoriales, difundir estas herramientas y ayudar a la gente a
 configurar/instalar las apps en sus celulares. También, si tenemos un
@@ -140,7 +140,7 @@ Al día de la fecha no tenemos el router WiFi Ubiquiti ni la
 RaspberryPi que necesitamos. Podés ayudarnos a tomar una decisión
 sobre qué modelo nos conviene comprar para obtener un mejor servicio,
 como así también `económicamente para comprar estos dispositivos
-<http://argentinaenpython.com.ar/donaciones/>`_.
+<https://argentinaenpython.com/donaciones/>`_.
 
 Nos encantaría leer/escuchar comentarios y sugerencias sobre qué otros
 servicios podríamos brindar en esta Red Libre y así acercar más

@@ -9,14 +9,14 @@
 
 
 Durante el evento `Taller de programación para chicas/mujeres
-<http://argentinaenpython.com.ar/django-girls-cochabamba/>`_ que se
+<https://argentinaenpython.com/django-girls-cochabamba/>`_ que se
 realizó en Cochabamba, Bolivia se notó un hermoso trabajo en equipo
 por parte de diferentes comunidades y grupos amigos de la zona (`ver
 fotos
-<http://argentinaenpython.com.ar/galeria/django-girls-cochabamba/>`_).
+<https://argentinaenpython.com/galeria/django-girls-cochabamba/>`_).
 
 Fue la primera vez que organizamos este tipo de evento desde el
-proyecto `Argentina en Python <http://argentinaenpython.com.ar/>`_ y
+proyecto `Argentina en Python <https://argentinaenpython.com/>`_ y
 yo, personalmente, estaba muy nervioso. Había estudiado y leído mucho
 sobre cómo hacer este evento. Por parte de `Django Girls
 <http://djangogirls.org/>`_ puedo decir que tienen un `montón de

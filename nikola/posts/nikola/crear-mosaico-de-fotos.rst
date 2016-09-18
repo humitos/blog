@@ -8,7 +8,7 @@
 .. type: text
 
 En estos días he estado preparando la charla de `Argentina en Python
-<http://argentinaenpython.com.ar/>`_ que voy a dar en `@PyCaribbean
+<https://argentinaenpython.com/>`_ que voy a dar en `@PyCaribbean
 <http://pycaribbean.com/>`_ en Febrero de 2016. En uno de los slides
 quería agredecer el apoyo que hemos recibido de toda la comunidad y
 para eso se me ocurrió poner una foto de un mosaico de todas las

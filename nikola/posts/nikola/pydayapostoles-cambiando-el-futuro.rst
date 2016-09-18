@@ -96,7 +96,7 @@ charla en público: ¡ídola!
    Nuestra disertante estrella
 
 También invitamos a Catherin a participar del `Curso de Python para
-mujeres <http://argentinaenpython.com.ar/python-for-ladies/>`_ para
+mujeres <https://argentinaenpython.com/python-for-ladies/>`_ para
 alentar a otras mujeres a que sean unas estrellas como ella y nos
 ayude a nosotros en la convocatoria y el dictado del curos.
 

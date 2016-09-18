@@ -9,7 +9,7 @@
 
 Esta es una mini-entrevista que me hizo Daniel Cotillas Ruiz en
 Cochabamba, Bolivia el día del `evento de Django Girls
-<http://elblogdehumitos.com.ar/posts/django-girls-tecnologia-python-mujeres/>`_
+<https://elblogdehumitos.com/posts/django-girls-tecnologia-python-mujeres/>`_
 que se realizó en el `Proyecto mARTadero <http://martadero.org>`_.
 
 

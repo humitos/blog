@@ -8,7 +8,7 @@
 
 El próximo *Miércoles 19 de Agosto* estaremos dando una charla
 "Introducción a Python" en Cochabamba, Bolivia con el proyecto
-`Argentina en Python <http://argentinaenpython.com.ar/>`_.
+`Argentina en Python <https://argentinaenpython.com/>`_.
 
 La idea principal de esta charla es crear una comunidad local de
 programadores o entusiastas de Python. Para eso, se mostrará uno de
@@ -37,7 +37,7 @@ Tené en cuenta que...
   formulario para poder participar.
 
 * ... la charla es de entrada libre y gratuita, aunque también se
-  `reciben donaciones <http://argentinaenpython.com.ar/donaciones/>`_
+  `reciben donaciones <https://argentinaenpython.com/donaciones/>`_
   para el proyecto.
 
 
@@ -77,7 +77,7 @@ Programa de la charla
 
 Si tenés ganas de empezar a aprender Python, podés ingresar a: `Quiero
 aprender Python
-<http://argentinaenpython.com.ar/quiero-aprender-python>`_, donde vas
+<https://argentinaenpython.com/quiero-aprender-python>`_, donde vas
 a encontrar un montón de tutoriales, guías para principiantes y hasta
 libros más avanzados :)
 

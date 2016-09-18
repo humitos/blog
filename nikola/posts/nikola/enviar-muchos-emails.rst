@@ -55,7 +55,7 @@ Para generar ese `.csv` utilizo el script de esta forma:
      -o /tmp/mailmerge-confirmados.csv \
      --title --strip \
      --email 3 --first-name 1 --last-name 2 \
-     --url "http://argentinaenpython.com.ar/django-girls-piura/" \
+     --url "https://argentinaenpython.com/django-girls-piura/" \
      --date "Sábado 23 de Enero de 2016" --city Piura \
      --place "UDEP - Universidad de Piura, Av. Ramón Mugica 131, Piura, Piura, Perú" \
      --hour "8:30 (puntual) a 18:30 hs." --days 5 \

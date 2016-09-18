@@ -18,9 +18,9 @@ tantos otros me han ayudado a mi.
 
 Desde Octubre de 2013 he estado viajando por diferentes lugares de
 latinoamérica (`ver mapa
-<http://argentinaenpython.com.ar/donde-esta-humitos/>`_) llevando
+<https://argentinaenpython.com/donde-esta-humitos/>`_) llevando
 adelante un proyecto personal y comunitario llamado `Argentina en
-Python <http://argentinaenpython.com.ar/>`_.
+Python <https://argentinaenpython.com/>`_.
 
 ----
 
@@ -50,7 +50,7 @@ Python <http://argentinaenpython.com.ar/>`_.
      table {margin-top: 2em !important};
    </style>
 
-:Blog: http://elblogdehumitos.com.ar
+:Blog: https://elblogdehumitos.com
 
 :Email: humitos@gmail.com
 

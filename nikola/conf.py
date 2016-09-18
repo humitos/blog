@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Manuel Kaufmann"
 BLOG_TITLE = "Humitos"
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://elblogdehumitos.com.ar/"
+SITE_URL = "https://elblogdehumitos.com/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://nikola.ralsina.com.ar"
@@ -130,14 +130,14 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('http://argentinaenpython.com.ar/', 'Argentina en Python'),
+        ('https://argentinaenpython.com/', 'Argentina en Python'),
         ('/pages/quien-escribe/', '¿Quién escribe?'),
         # ('/pages/modulos-python/', 'Módulos Python'),
         ('/random/', 'Random'),
         (
             (
                 ('http://upoi.org/', 'Puntos de Interés'),
-                ('http://elblogdehumitos.com.ar/osm/', 'Tu negocio en OSM'),
+                ('https://elblogdehumitos.com/osm/', 'Tu negocio en OSM'),
             ),
             'OpenStreetMap',
         ),
@@ -388,7 +388,7 @@ TAG_PATH = "etiquetas"
 # and displayed underneath the tag list or index page’s title.
 TAG_PAGES_DESCRIPTIONS = {
     DEFAULT_LANG: {
-        "argentina en python": "Argentina en Python es un proyecto personal y comunitario que promueve el uso del lenguaje de programación Python para resolver problemas cotidianos en usuarios comunes, como así también desarrollar programas poderosos y complejos de una forma sencilla, estimulando el aprendizaje colaborativo y la filosofía del Software Libre - Web: <a href='http://argentinaenpython.com.ar/'>http://argentinaenpython.com.ar/</a>",
+        "argentina en python": "Argentina en Python es un proyecto personal y comunitario que promueve el uso del lenguaje de programación Python para resolver problemas cotidianos en usuarios comunes, como así también desarrollar programas poderosos y complejos de una forma sencilla, estimulando el aprendizaje colaborativo y la filosofía del Software Libre - Web: <a href='https://argentinaenpython.com/'>https://argentinaenpython.com/</a>",
     },
 }
 
@@ -551,18 +551,18 @@ SLUG_TAG_PATH = True
 REDIRECTIONS = [
     ('pages/donaciones/index.html', '/pages/argentina-en-python/donaciones/'),
     ('pages/donde-esta-humitos/index.html', '/pages/argentina-en-python/donde-esta-humitos/'),
-    ('pages/argentina-en-python/index.html', 'http://argentinaenpython.com.ar/'),
-    ('pages/argentina-en-python-en/index.html', 'http://argentinaenpython.com.ar/en/'),
-    ('pages/argentina-en-python/donde-esta-humitos/index.html', 'http://argentinaenpython.com.ar/donde-esta-humitos/'),
-    ('pages/argentina-en-python/track-teen-scipy-la-2015/index.html', 'http://argentinaenpython.com.ar/track-teen-scipy-la-2015/'),
-    ('pages/argentina-en-python/python-for-ladies/index.html', 'http://argentinaenpython.com.ar/python-for-ladies/'),
-    ('pages/argentina-en-python/eventos/index.html', 'http://argentinaenpython.com.ar/eventos/'),
-    ('pages/argentina-en-python/remeras/index.html', 'http://argentinaenpython.com.ar/remeras/'),
-    ('pages/argentina-en-python/donaciones/index.html', 'http://argentinaenpython.com.ar/donaciones/'),
-    ('pages/argentina-en-python/donaciones/medios/index.html', 'http://argentinaenpython.com.ar/donaciones/medios/'),
-    ('pages/argentina-en-python/donaciones/misiones/index.html', 'http://argentinaenpython.com.ar/donaciones/misiones/'),
-    ('pages/argentina-en-python/donaciones/colaboradores/index.html', 'http://argentinaenpython.com.ar/donaciones/colaboradores/'),
-    ('pages/argentina-en-python/donaciones/gracias/index.html', 'http://argentinaenpython.com.ar/donaciones/gracias/'),
+    ('pages/argentina-en-python/index.html', 'https://argentinaenpython.com/'),
+    ('pages/argentina-en-python-en/index.html', 'https://argentinaenpython.com/en/'),
+    ('pages/argentina-en-python/donde-esta-humitos/index.html', 'https://argentinaenpython.com/donde-esta-humitos/'),
+    ('pages/argentina-en-python/track-teen-scipy-la-2015/index.html', 'https://argentinaenpython.com/track-teen-scipy-la-2015/'),
+    ('pages/argentina-en-python/python-for-ladies/index.html', 'https://argentinaenpython.com/python-for-ladies/'),
+    ('pages/argentina-en-python/eventos/index.html', 'https://argentinaenpython.com/eventos/'),
+    ('pages/argentina-en-python/remeras/index.html', 'https://argentinaenpython.com/remeras/'),
+    ('pages/argentina-en-python/donaciones/index.html', 'https://argentinaenpython.com/donaciones/'),
+    ('pages/argentina-en-python/donaciones/medios/index.html', 'https://argentinaenpython.com/donaciones/medios/'),
+    ('pages/argentina-en-python/donaciones/misiones/index.html', 'https://argentinaenpython.com/donaciones/misiones/'),
+    ('pages/argentina-en-python/donaciones/colaboradores/index.html', 'https://argentinaenpython.com/donaciones/colaboradores/'),
+    ('pages/argentina-en-python/donaciones/gracias/index.html', 'https://argentinaenpython.com/donaciones/gracias/'),
     ('categories/index.html', '/etiquetas/'),
     ('categories/argentina-en-python/index.html', '/etiquetas/argentina-en-python/'),
     ('archive.html', '/archivo/'),

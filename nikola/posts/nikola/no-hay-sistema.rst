@@ -18,7 +18,7 @@ frontera. Viajamos de noche porque no tenemos aire acondicionado (bah,
 sí tenemos pero :doc:`se rompió el módulo del ventilador
 <hablemos-de-errante>`) y está haciendo temperaturas de 40° durante la
 mañana. Sí, ya sé, rompimos el `Zen
-<http://argentinaenpython.com.ar/nuestro-zen/>`_, pero creíamos que
+<https://argentinaenpython.com/nuestro-zen/>`_, pero creíamos que
 sería "más seguro" de alguna manera.
 
 .. figure:: IMG_20160127_070337.thumbnail.jpg

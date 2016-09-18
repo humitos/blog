@@ -13,7 +13,7 @@ con la papa uno puede encender un LED de un par de Volts.
 
 Así mismo te podés estar preguntando vos: *¿Python y el Machupicchu?
 ¿Qué carajo tiene que ver?*. Si estás siguiendo nuestro viaje con
-`Argentina en Python <http://argentinaenpython.com.ar/>`_ sabrás que
+`Argentina en Python <https://argentinaenpython.com/>`_ sabrás que
 hace unos meses estuvimos en la *cresta* del Machupicchu y el
 Huaynapicchu, y, si has subido hasta allá, sabrás que no es una tarea
 fácil para hacer si lo hacés de la forma económica.

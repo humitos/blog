@@ -41,7 +41,7 @@ su propio dinero y brindando su propio tiempo, viajando a diferentes
 ciudades de América del Sur en su auto (de nuevo, su propio auto), la
 organización de meet-ups, tutoriales, sprints, y otros eventos para
 difundir la palabra sobre Python y su potencial para resolver
-problemas cotidianos (ver `Argentina en Python <http://argentinaenpython.com.ar/>`_).
+problemas cotidianos (ver `Argentina en Python <https://argentinaenpython.com/>`_).
 
 Esto sin duda llamó la atención de la PSF, por lo que en enero de
 2015, el PSF le otorgó un subsidio de USD 3.000. Con este premio,
@@ -104,7 +104,7 @@ más eventos programados :
 * 20 a 22 Mayo - Track educativo para estudiantes secundarios en SciPy
   LA 2015, Posadas, Misiones, Argentina (`SciPy LA
   <http://scipyla.org/conf/2015/>`_ y
-  `Track Teen SciPyLA 2015 <http://argentinaenpython.com.ar/track-teen-scipy-la-2015/>`_)
+  `Track Teen SciPyLA 2015 <https://argentinaenpython.com/track-teen-scipy-la-2015/>`_)
 
 * 30 de Mayo - PyDay en Encarnación, Itapúa, Paraguay
 

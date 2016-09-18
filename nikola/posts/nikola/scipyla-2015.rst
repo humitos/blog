@@ -48,7 +48,7 @@ para cuando las necesites saber dónde buscar y a quién recurrir.
 Durante la tarde tuve que salir a llevar el auto al mecánico ya que
 estamos en plena campaña de arreglarlo luego de haber tenido una
 `exitosa campaña de donaciones
-<http://argentinaenpython.com.ar/donaciones/arreglo-de-vehiculo/>`_. Así
+<https://argentinaenpython.com/donaciones/arreglo-de-vehiculo/>`_. Así
 que, algunas charlas me las perdí.
 
 Al finalizar el día estuvieron la Lightning Talks guiadas por
@@ -197,7 +197,7 @@ montón de cosas para experimentar y aprender por ahí.
 
 .. media:: https://www.youtube.com/watch?v=CJ_1MYUpii0
 
-.. _Track Teen: http://argentinaenpython.com.ar/track-teen-scipy-la-2015/
+.. _Track Teen: https://argentinaenpython.com/track-teen-scipy-la-2015/
 .. _@EllaQuimica: https://twitter.com/EllaQuimica/
 .. _@Pybonacci: https://twitter.com/Pybonacci/
 
@@ -219,7 +219,7 @@ También les hablamos sobre el proyecto "`Argentina en Python`_" y les
 dijimos que queríamos verlos a ellos aquí arriba compartiendo con sus
 compañeros y dando charlas en los próximos meses :)
 
-.. _Argentina en Python: http://argentinaenpython.com.ar/
+.. _Argentina en Python: https://argentinaenpython.com/
 
 Fuimos agradeciendo a todos los chicos, a todos los docentes que los
 acompañaron y también a los disertantes para ir cerrando el día. Todos
@@ -316,4 +316,4 @@ otra cosa nada que ver con la SciPyLA y dijeron que "Sí". ¡Gracias!
 
 .. admonition:: Nota
 
-   * `Fotos del Track Teen <http://argentinaenpython.com.ar/galeria/track-teen/>`_
+   * `Fotos del Track Teen <https://argentinaenpython.com/galeria/track-teen/>`_

@@ -9,7 +9,7 @@
 
 Como todos saben, Errante es nuestro auto estrella. Sin él, las cosas
 serían muy diferente y el proyecto `Argentina en Python
-<http://argentinaenpython.com.ar>`_ probablemente no existiría. Nos ha
+<https://argentinaenpython.com>`_ probablemente no existiría. Nos ha
 acompañado durante más de dos años y con muy pocas intervenciones de
 mecánicos desconocidos en su cuerpo. Lo habitual, tareas de
 mantenimiento nada más y alguna que otra cosa que se ha cambiado por
@@ -117,6 +117,6 @@ a haber muchos más talleres de Django Girls, Python y muchas cosas
 más!
 
 .. template:: bootstrap3/button
-   :href: http://argentinaenpython.com.ar/donaciones/
+   :href: https://argentinaenpython.com/donaciones/
 
    ¡Quiero más Python en Latinoamérica!

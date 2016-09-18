@@ -19,7 +19,7 @@ Un tiempo después, hice varios reclamos por email a Avast!
 comentándoles qué estaba pasando y no recibí ninguna respuesta, así
 que mi investigación terminó ahí ya que no supe qué hacer.
 
-Cuando empecé a viajar con `Argentina en Python <http://argentinaenpython.com.ar/>`_ y pasaba la
+Cuando empecé a viajar con `Argentina en Python <https://argentinaenpython.com/>`_ y pasaba la
 dirección de mi blog, la mayoría de la gente que intentaba entrar
 desde los hostels desconfiaba de lo que yo le decía y le creía más a
 su antivirus. Por eso, decidía no entrar al sitio.

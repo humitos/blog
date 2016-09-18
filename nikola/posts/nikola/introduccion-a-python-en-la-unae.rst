@@ -10,7 +10,7 @@
 
 El viernes 29 de Mayo estuve participando como disertante de la charla
 "`Introducción a Python
-<http://argentinaenpython.com.ar/eventos/charlas/#introduccion-a-python>`_"
+<https://argentinaenpython.com/eventos/charlas/#introduccion-a-python>`_"
 en la Universidad Autónoma de Encarnación. Fui invitado por Karina
 Maidana hace unos meses atrás (cuando estábamos organizando el PyDay
 en Asunción) y desde ese entonces hemos estado intercambiando emails.
@@ -79,7 +79,7 @@ desearme éxitos en nuestro viaje: "¡Gracias!"
 
 La Universidad me entregó un diploma a modo de agradecimiento y
 también hizo una `colaboración económica
-<http://argentinaenpython.com.ar/donaciones/colaboradores/>`_ de ARS
+<https://argentinaenpython.com/donaciones/colaboradores/>`_ de ARS
 500 para que el proyecto pueda continuar adelante :)
 
 .. figure:: IMG_20150604_205840.thumbnail.jpg

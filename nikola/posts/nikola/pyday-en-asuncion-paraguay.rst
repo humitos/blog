@@ -28,7 +28,7 @@ Paraguay".
    Parte del comitée de organizadores
 
 Como primer evento de esta comunidad emergente, estamos organizando,
-junto a SENATICs_, un `PyDay (Argentina en Python) <http://argentinaenpython.com.ar/eventos/>`_ en
+junto a SENATICs_, un `PyDay (Argentina en Python) <https://argentinaenpython.com/eventos/>`_ en
 Asunción, Paraguay el Sábado 28 de Marzo desde las 9:30hs en `L'Office
 Santos, ubicado en Gral. Santos 1170
 <http://osm.org/go/M3oA0ImDl-?m=>`_.

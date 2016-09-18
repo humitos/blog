@@ -14,7 +14,7 @@ que encontramos luego de pasar Lima camino hacia el norte -nuestro
 norte: Ecuador. Decidimos quedarnos aquí una noche para ver si al día
 siguiente encontrábamos algo mejor o bien la posibilidad de `trabajar
 un poco
-<http://elblogdehumitos.com.ar/posts/openstreetmap-paga-nuestro-alojamiento/>`_.
+<https://elblogdehumitos.com/posts/openstreetmap-paga-nuestro-alojamiento/>`_.
 
 Por esas cosas de la vida, al día siguiente cuando nos estábamos
 yendo, se nos acerca un señor y nos ofrece una tarjeta de `su

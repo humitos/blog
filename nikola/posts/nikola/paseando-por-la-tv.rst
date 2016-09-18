@@ -21,7 +21,7 @@ semana.
 * `Café científico
   <https://quimicanomada.wordpress.com/cafe-cientifico/>`_
 * `Taller Django Girls para mujeres
-  <http://argentinaenpython.com.ar/django-girls-cochabamba/>`_
+  <https://argentinaenpython.com/django-girls-cochabamba/>`_
 
 Aquí pueden ver los videos que subimos a YouTube como para que quede
 algún registro:

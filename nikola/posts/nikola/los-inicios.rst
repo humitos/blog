@@ -7,7 +7,7 @@
 .. type: text
 
 En Septiembre de 2013 (wow! ya pasó más de 1 año) filmaba un video de
-presentación del proyecto `Argentina en Python <http://argentinaenpython.com.ar/>`_ que nunca salió a
+presentación del proyecto `Argentina en Python <https://argentinaenpython.com/>`_ que nunca salió a
 la luz por falta de presupuesto. Gracias a Diego Mernes por el aguante
 para filmarlo y su posterior edición. Aquí unas imagenes de ese
 momento:

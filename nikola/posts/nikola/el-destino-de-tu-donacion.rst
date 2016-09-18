@@ -10,7 +10,7 @@
 ¡Gracias! Y perdón por la demora en escribir este post. Llegó el día
 en el que explicaré cómo utilicé el `dinero recaudado para arreglar a
 Errante
-<http://argentinaenpython.com.ar/donaciones/arreglo-de-vehiculo/>`_ y
+<https://argentinaenpython.com/donaciones/arreglo-de-vehiculo/>`_ y
 poder seguir llevando Python y Software Libre a diferentes países de
 Latinoamérica.
 
@@ -36,14 +36,14 @@ cualquiera". Es por ese desgaste principalmente que inicié una campaña
 de donaciones. Esto iba a ser un capítulo nuevo dentro del proyecto,
 ya que como siempre digo: `"Recibir plata a cambio de algo es
 complicado para mí"
-<http://argentinaenpython.com.ar/donaciones/>`_. Esto traería una
+<https://argentinaenpython.com/donaciones/>`_. Esto traería una
 nueva responsabilidad ante todos los seguidores del proyecto y también
 conmigo mismo. ¡Un nuevo desafío había comenzado!.
 
 .. TEASER_END
 
 Para mi sorpresa, apenas unos días después de haber publicado en el
-`sitio web del proyecto <http://argentinaenpython.com.ar/>`_ que se
+`sitio web del proyecto <https://argentinaenpython.com/>`_ que se
 iniciaba esta campaña y darle un poco de difusión por Twitter, ya
 tenía el primer colaborador: `Lucio Torre
 <https://twitter.com/luciotorre>`_. Inevitablemente, eso me hizo
@@ -245,7 +245,7 @@ cubiertas. El resto, *todavía* no tiene destino.
 
 Una vez dada toda la explicación de "¿Cómo utilicé el dinero?" me voy
 a sumergir en un aspecto un poco más social: "¿Porqué la gente pone
-plata en `Argentina en Python <http://argentinaenpython.com.ar/>`_?"
+plata en `Argentina en Python <https://argentinaenpython.com/>`_?"
 
 Han pasado más de dos meses desde que terminó la campaña y todavía no
 encuentro muchas explicaciones a la cantidad de apoyo económico que he
@@ -296,7 +296,7 @@ Podés dejar tu feedback en los comentarios o por email, como gustes.
 ¡Muchas gracias a todos por participar y ser parte de esta locura
 itinerante que hemos llamado "Argentina en Python", que nace y se
 mantiene gracias a ustedes: los lectores, `los colaboradores
-<http://argentinaenpython.com.ar/donaciones/colaboradores/>`_, los
+<https://argentinaenpython.com/donaciones/colaboradores/>`_, los
 asistentes, los auspiciantes, los amigos y la familia!
 
 Los quiero.
