@@ -1,7 +1,25 @@
 # -*- coding: utf-8 -*-
 
-from __future__ import unicode_literals
+from __future__ import division, print_function, unicode_literals
+
 import time
+
+# Presets of commands to execute to deploy. Can be anything, for
+# example, you may use rsync:
+# "rsync -rav --delete output/ joe@my.site:/srv/www/site"
+# And then do a backup, or run `nikola ping` from the `ping`
+# plugin (`nikola plugin -i ping`).  Or run `nikola check -l`.
+# You may also want to use github_deploy (see below).
+# You can define multiple presets and specify them as arguments
+# to `nikola deploy`.  If no arguments are specified, a preset
+# named `default` will be executed.  You can use as many presets
+# in a `nikola deploy` command as you like.
+# DEPLOY_COMMANDS = {
+#     'default': [
+#         "rsync -rav --delete output/ joe@my.site:/srv/www/site",
+#     ]
+# }
+from local_conf import DEPLOY_COMMANDS
 
 # !! This is the configuration of Nikola. !! #
 # !!  You should edit it to your liking.  !! #
@@ -568,22 +586,6 @@ REDIRECTIONS = [
     ('archive.html', '/archivo/'),
 ]
 
-# Presets of commands to execute to deploy. Can be anything, for
-# example, you may use rsync:
-# "rsync -rav --delete output/ joe@my.site:/srv/www/site"
-# And then do a backup, or run `nikola ping` from the `ping`
-# plugin (`nikola plugin -i ping`).  Or run `nikola check -l`.
-# You may also want to use github_deploy (see below).
-# You can define multiple presets and specify them as arguments
-# to `nikola deploy`.  If no arguments are specified, a preset
-# named `default` will be executed.  You can use as many presets
-# in a `nikola deploy` command as you like.
-# DEPLOY_COMMANDS = {
-#     'default': [
-#         "rsync -rav --delete output/ joe@my.site:/srv/www/site",
-#     ]
-# }
-from local_conf import DEPLOY_COMMANDS
 
 # github_deploy configuration
 # For more details, read the manual:
@@ -1119,14 +1121,14 @@ BODY_END = """
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
-    var u="//elblogdehumitos.com.ar/piwik/";
+    var u="//elblogdehumitos.com/piwik/";
     _paq.push(['setTrackerUrl', u+'piwik.php']);
     _paq.push(['setSiteId', 1]);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
     g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>
-<noscript><p><img src="//elblogdehumitos.com.ar/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<noscript><p><img src="//elblogdehumitos.com/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
 """
 
