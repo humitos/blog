@@ -85,5 +85,11 @@ conferencias), editás el archivo `$HOME/.pip/pip.conf`:
 hacer cosas más avanzadas que también te recomiendo mirar. Por
 ejemplo, tener una interfaz web.
 
+.. admonition:: Nota
+
+   Aunque no lo he probado, vale la pena tenerlo en cuenta,
+   devpi-builder: https://pypi.python.org/pypi/devpi-builder/2.2.0
+
+
 .. _devpi: http://doc.devpi.net/latest/index.html
 .. _@gilgamezh: https://twitter.com/gilgamezh
