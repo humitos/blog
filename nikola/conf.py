@@ -660,6 +660,22 @@ REDIRECTIONS = [
     ('archive.html', '/archivo/'),
 ]
 
+# Presets of commands to execute to deploy. Can be anything, for
+# example, you may use rsync:
+# "rsync -rav --delete output/ joe@my.site:/srv/www/site"
+# And then do a backup, or run `nikola ping` from the `ping`
+# plugin (`nikola plugin -i ping`).  Or run `nikola check -l`.
+# You may also want to use github_deploy (see below).
+# You can define multiple presets and specify them as arguments
+# to `nikola deploy`.  If no arguments are specified, a preset
+# named `default` will be executed.  You can use as many presets
+# in a `nikola deploy` command as you like.
+# DEPLOY_COMMANDS = {
+#     'default': [
+#         "rsync -rav --delete output/ joe@my.site:/srv/www/site",
+#     ]
+# }
+from local_conf import DEPLOY_COMMANDS
 
 # github_deploy configuration
 # For more details, read the manual:
