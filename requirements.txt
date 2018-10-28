@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements.in
 #
---index-url http://devpi.redlibre/root/pypi/+simple/
+# --index-url http://devpi.redlibre/root/pypi/+simple/
 
 argh==0.26.1              # via watchdog
 blinker==1.4              # via nikola
