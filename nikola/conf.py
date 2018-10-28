@@ -139,7 +139,7 @@ NAVIGATION_LINKS = {
         ('https://argentinaenpython.com/', 'Argentina en Python'),
         ('/pages/quien-escribe/', '¿Quién escribe?'),
         # ('/pages/modulos-python/', 'Módulos Python'),
-        ('/random/', 'Random'),
+        # ('/random/', 'Random'),
         (
             (
                 ('http://upoi.org/', 'Puntos de Interés'),
