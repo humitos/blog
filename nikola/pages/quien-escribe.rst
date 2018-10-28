@@ -64,17 +64,11 @@ Python <https://argentinaenpython.com/>`_.
 
 :IRC: humitos @ freenode.net
 
-:WhatsApp: +54 9 343 4053434
+:WhatsApp: +34 645093915
 
-:Telegram: @humitos / +54 9 343 4053434
+:Telegram: @humitos / +34 645093915
 
-:Móv. Ecuador: +593 0990632940
-
-:Móv. Bolivia: +591 68381678
-
-:Móv. Argentina: +54 9 343 4053434
-
-:Móv. Paraguay: +595 9 82877917
+:Móvil: +34 645093915
 
 :Skype: manuel.kaufmann.humitos
 
