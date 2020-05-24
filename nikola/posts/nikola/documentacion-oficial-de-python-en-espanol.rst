@@ -39,7 +39,8 @@ a llevar Python a muchísimas más personas del mundo hispano que no dominan en 
 Si sos de las personas que prefieren ver videos, te recomiendo este streaming que hice hace una semana explicando todo
 el proceso que necesitas saber para sumarse al proyecto:
 
-.. media:: https://youtu.be/ePsZ_Bdjdw
+
+.. media:: https://youtu.be/HcGZvHNZoWk
 
 
 .. _lineamientos que se requieren: https://www.python.org/dev/peps/pep-0545/
